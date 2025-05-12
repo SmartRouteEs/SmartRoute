@@ -1,1 +1,9 @@
 .DS_Store
+data/processed/*.parquet
+data/processed/*.csv
+data/processed/*.json
+data/processed/*.txt
+data/processed/*.tsv
+data/processed/*.xlsx
+data/processed/*.xls            
+.venv/
