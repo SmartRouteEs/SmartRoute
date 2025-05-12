@@ -46,6 +46,6 @@ print(f"Nombre total de points après nettoyage : {len(df_traces)}")
 # --- Sauvegarde du résultat ---
 output_path = "data/processed/clean_traces.csv"
 os.makedirs(os.path.dirname(output_path), exist_ok=True)
-df_traces.to_csv(output_path, index=False)
+df_traces.to_csv("data/processed/clean_traces.csv.gz", compression='gzip', index=False)
 
 print(f"Données sauvegardées dans : {output_path}")
