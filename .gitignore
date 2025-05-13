@@ -1,4 +1,4 @@
 .DS_Store
 data/processed/*.csv
-data/processed/*.parquet        
+data/processed/*.parquet
 .venv/
