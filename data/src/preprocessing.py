@@ -58,4 +58,5 @@ os.makedirs(os.path.dirname(output_path), exist_ok=True)
 
 df_traces.to_parquet(output_path, compression='snappy', index=False)
 
+print(df_traces.head())  # Affiche les premières lignes du DataFrame pour vérification
 print(f"Données sauvegardées dans : {output_path}")
