@@ -2,6 +2,8 @@
 
 Pour télécharger le fichier de données, cliquez sur ce [lien Google Drive](https://drive.google.com/file/d/1v51VpohH0CcB3JW6D-BUc-1OgKdv1Jsh/view?usp=drive_link).
 
+lien vers les données brute: [text](https://drive.google.com/drive/folders/1WLQ-JQar1_SteDY4zP2u6rzaIbq7v2l8)
+
 
 ![alt text](image.png)
 
