@@ -70,9 +70,9 @@ def download_heatmap_area(lat, lon, area_km=10, max_tiles=100, activity="run", o
 
 if __name__ == "__main__":
     download_heatmap_area(
-        lat=43.48333,
-        lon=3.66667,
-        area_km=50,
-        max_tiles=100,
-        activity="run"
+        lat=48.55,           # Centre estimé de votre grande zone (Melun / Est Île-de-France)
+        lon=2.8,
+        area_km=90,          # Surface couverte ~90km x 90km
+        max_tiles=100,       # Limite pour rester raisonnable à zoom 13
+        activity="ride"      # Ou "run" pour la course à pied
     )
