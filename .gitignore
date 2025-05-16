@@ -1,6 +1,27 @@
 .DS_Store
-data/processed/*.csv
-data/processed/*.parquet
 .venv/
-data/raw/*.parquet
 *.dylib
+echo '__pycache__/
+*.py[cod]
+*.egg-info/
+*.pkl
+*.sqlite3
+.ipynb_checkpoints/
+venv/
+.env/
+*.log
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+data/cache/
+data/strava_tiles/' > .gitignore
+
+echo '* text=auto eol=lf
+*.py text
+*.ipynb text
+*.md text
+*.txt text
+*.png binary
+*.jpg binary
+*.jpeg binary' > .gitattributes
