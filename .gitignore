@@ -1,27 +1,25 @@
+# Fichiers système
 .DS_Store
+Thumbs.db
+
+# Environnement Python
 .venv/
-*.dylib
-echo '__pycache__/
+venv/
+.env/
+__pycache__/
 *.py[cod]
 *.egg-info/
 *.pkl
 *.sqlite3
-.ipynb_checkpoints/
-venv/
-.env/
 *.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
 .vscode/
 *.code-workspace
-.DS_Store
-Thumbs.db
-data/cache/
-data/strava_tiles/' > .gitignore
 
-echo '* text=auto eol=lf
-*.py text
-*.ipynb text
-*.md text
-*.txt text
-*.png binary
-*.jpg binary
-*.jpeg binary' > .gitattributes
+# Données internes
+data/cache/
+data/strava_tiles/
