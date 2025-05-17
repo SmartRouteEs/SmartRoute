@@ -15,7 +15,7 @@ Projet de fin d’année E3 – ESIEE Paris (2024–2025)
 Créer un générateur d’itinéraires intelligent capable de proposer des parcours adaptés à l’utilisateur, en se basant sur :
 - les **données cartographiques d’OpenStreetMap**,
 - la **popularité issue de la heatmap Strava**,
-- et potentiellement une couche **IA pour apprendre les préférences utilisateurs**.
+- et une couche **IA pour apprendre les préférences utilisateurs**.
 
 
 # 📁 Architecture du projet SmartRoute
