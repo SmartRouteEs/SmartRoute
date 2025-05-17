@@ -17,7 +17,6 @@ Créer un générateur d’itinéraires intelligent capable de proposer des parc
 - la **popularité issue de la heatmap Strava**,
 - et une couche **IA pour apprendre les préférences utilisateurs**.
 
-
 # 📁 Architecture du projet SmartRoute
 
 Ce document décrit le rôle de chaque dossier et fichier dans l’environnement de développement du projet **SmartRoute**.
