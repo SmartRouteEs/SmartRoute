@@ -26,3 +26,5 @@ data/strava_tiles/
 note.md
 cache/
 data/raw_osm/
+data/processed/osm_graph_filtered.graphml
+
