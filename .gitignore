@@ -27,4 +27,6 @@ note.md
 cache/
 data/raw_osm/
 data/processed/osm_graph_filtered.graphml
-
+data/processed/osm_graph_filtered.gpickle
+data/processed/postal_population.csv
+data/raw
