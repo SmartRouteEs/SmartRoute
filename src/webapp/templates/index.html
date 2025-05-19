@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>SmartRoute - Carte + GPX</title>
+
+    <!-- Leaflet CSS -->
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    />
+
+    <style>
+        #map {
+            height: 600px;
+            width: 100%;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>🧠 SmartRoute – Génération d’itinéraire</h1>
+
+    <!-- Formulaire pour entrer un prompt -->
+    <form id="promptForm">
+        <label for="userPrompt">Quel type de parcours veux-tu ?</label><br>
+        <input type="text" id="userPrompt" placeholder="Ex : boucle 10km sans dénivelé en forêt" style="width: 60%;" />
+        <button type="submit">Générer</button>
+    </form>
+
+    <p id="status"></p>
+
+    <hr>
+
+    <!-- Chargement manuel d’un fichier GPX -->
+    <input type="file" id="gpxFile" accept=".gpx" />
+
+    <!-- Carte -->
+    <div id="map"></div>
+
+    <!-- Leaflet JS + GPX plugin -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-gpx/1.7.0/gpx.min.js"></script>
+
+    <script>
+        // Initialisation de la carte
+        const map = L.map('map').setView([48.8566, 2.3522], 13);
+
+        // Tuiles OSM
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Chargement GPX manuel
+        document.getElementById('gpxFile').addEventListener('change', function(event) {
+            const file = event.target.files[0];
+            if (file && file.name.endsWith('.gpx')) {
+                const reader = new FileReader();
+                reader.onload = function(e) {
+                    const gpxData = e.target.result;
+                    const gpxLayer = new L.GPX(gpxData, {
+                        async: true,
+                        marker_options: {
+                            startIconUrl: null,
+                            endIconUrl: null,
+                            shadowUrl: null
+                        }
+                    }).on('loaded', function(e) {
+                        map.fitBounds(e.target.getBounds());
+                    }).addTo(map);
+                };
+                reader.readAsText(file);
+            }
+        });
+
+        // Soumission du prompt → envoie au backend
+        document.getElementById('promptForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+
+            const prompt = document.getElementById('userPrompt').value;
+            const status = document.getElementById('status');
+            status.textContent = "🕐 Génération en cours...";
+
+            fetch('/generate-route', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ prompt: prompt })
+            })
+            .then(response => response.text())
+            .then(gpxData => {
+                new L.GPX(gpxData, {
+                    async: true,
+                    marker_options: {
+                        startIconUrl: null,
+                        endIconUrl: null,
+                        shadowUrl: null
+                    }
+                }).on('loaded', function(e) {
+                    map.fitBounds(e.target.getBounds());
+                }).addTo(map);
+                status.textContent = "✅ Itinéraire affiché sur la carte !";
+            })
+            .catch(error => {
+                status.textContent = "❌ Une erreur est survenue.";
+                console.error(error);
+            });
+        });
+    </script>
+</body>
+</html>
