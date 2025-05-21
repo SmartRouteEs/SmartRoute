@@ -1,8 +1,11 @@
 import os
+import sys
 import requests
 from PIL import Image
 import io
 import math
+
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "..")))
 
 from src.data_collection.tile_utils import deg2num, get_zoom_for_area
 
@@ -70,9 +73,9 @@ def download_heatmap_area(lat, lon, area_km=10, max_tiles=100, activity="run", o
 
 if __name__ == "__main__":
     download_heatmap_area(
-        lat=48.55,           # Centre estimé de votre grande zone (Melun / Est Île-de-France)
-        lon=2.8,
-        area_km=90,          # Surface couverte ~90km x 90km
-        max_tiles=100,       # Limite pour rester raisonnable à zoom 13
-        activity="ride"      # Ou "run" pour la course à pied
-    )
+    lat=48.4,       # centre un peu plus bas
+    lon=2.4,        # au milieu de l'Essonne → Marne
+    area_km=130,    # couvre ~130km x 130km
+    max_tiles=150,  # augmente la tolérance
+    activity="ride"
+)

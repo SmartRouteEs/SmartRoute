@@ -1,59 +1,40 @@
-appnope==0.1.4
-astroid==3.2.4
-asttokens==3.0.0
-autograd==1.7.0
-comm==0.2.2
-contourpy==1.3.1
-cycler==0.12.1
-debugpy==1.8.13
-decorator==5.2.1
-dill==0.3.8
-executing==2.2.0
-fonttools==4.56.0
-iniconfig==2.0.0
-ipykernel==6.29.5
-ipython==9.0.1
-ipython_pygments_lexers==1.1.1
-ipywidgets==8.1.5
-isort==5.13.2
-jedi==0.19.2
+# ⚙️ Noyau de calcul
+numpy==2.2.3
+pandas==2.2.3
+scipy==1.15.2
+
+# 📊 Visualisation
+matplotlib==3.10.1
+seaborn==0.13.2
+
+# 🌍 SIG et traitement spatial
+osmnx==1.9.1
+networkx==3.3
+shapely==2.0.3
+rasterio==1.3.9
+pyproj==3.6.1
+geopandas==0.14.4
+
+# 🧠 Machine learning (optionnel)
+scikit-learn==1.6.1
 joblib==1.4.2
+threadpoolctl==3.6.0
+
+# 📦 Image / raster
+pillow==11.1.0
+
+# 📈 Interactif / widgets (Jupyter)
+ipywidgets==8.1.5
+widgetsnbextension==4.0.13
+
+# 🔧 Dev / IPython
+ipython==9.0.1
+ipykernel==6.29.5
 jupyter_client==8.6.3
 jupyter_core==5.7.2
-jupyterlab_widgets==3.0.13
-kiwisolver==1.4.8
-matplotlib==3.10.1
 matplotlib-inline==0.1.7
-mccabe==0.7.0
-nest-asyncio==1.6.0
-numpy==2.2.3
-packaging==24.1
-pandas==2.2.3
-parso==0.8.4
-pexpect==4.9.0
-pillow==11.1.0
-platformdirs==4.3.2
-pluggy==1.5.0
-prompt_toolkit==3.0.50
-psutil==7.0.0
-ptyprocess==0.7.0
-pure_eval==0.2.3
-Pygments==2.19.1
-pylint==3.2.7
-pyparsing==3.2.1
-pytest==8.3.3
-python-dateutil==2.9.0.post0
-pytz==2025.1
-pyzmq==26.2.1
-scikit-learn==1.6.1
-scipy==1.15.2
-seaborn==0.13.2
-six==1.17.0
-stack-data==0.6.3
-threadpoolctl==3.6.0
-tomlkit==0.13.2
-tornado==6.4.2
 traitlets==5.14.3
-tzdata==2025.1
-wcwidth==0.2.13
-widgetsnbextension==4.0.13
+
+# 🧪 Tests et linting
+pytest==8.3.3
+pylint==3.2.7
