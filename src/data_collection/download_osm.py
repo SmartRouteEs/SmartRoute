@@ -1,52 +1,90 @@
 import osmnx as ox
+import networkx as nx
+from pathlib import Path
 import os
+import pickle
 
-# Utiliser un serveur alternatif si le principal échoue
-ox.settings.overpass_endpoint = "https://overpass.kumi.systems/api/interpreter"
+def download_osm_graph(filepath: str, center: tuple, dist: int, network_type="bike"):
+    filepath = Path(filepath)
+    graphml_path = filepath.with_suffix(".graphml")
+    gpickle_path = filepath.with_suffix(".gpickle")
+    render_path = filepath.with_suffix(".png")
 
+    print("📡 Téléchargement du graphe brut depuis OSM...")
+    G = ox.graph.graph_from_point(
+        center_point=center,
+        dist=dist,
+        network_type=network_type,
+        simplify=True
+    )
 
-def download_osm_graph(lat, lon, dist_km=25, mode="bike"):
-    """
-    Télécharge (ou charge en cache) un graphe OSM centré sur (lat, lon)
-    avec un rayon dist_km (en kilomètres).
-    """
-    filename = f"osm_graph_{mode}_{dist_km}km_{round(lat, 3)}_{round(lon, 3)}.graphml"
-    filepath = os.path.join("data", "raw_osm", filename)
+    # 📷 Sauvegarde du rendu
+    ox.plot_graph(G, show=False, save=True, filepath=render_path, dpi=150)
+    print(f"🖼️ Graphe dessiné : {render_path}")
 
-    if os.path.exists(filepath):
-        print(f"✅ Chargement depuis le cache : {filepath}")
-        G = ox.load_graphml(filepath)
-    else:
-        print("📡 Téléchargement depuis OpenStreetMap...")
-        dist_m = dist_km * 1000
-        G = ox.graph_from_point((lat, lon), dist=dist_m, network_type=mode, simplify=True)
+    # 💾 Sauvegarde GraphML
+    ox.save_graphml(G, graphml_path)
+    print(f"💾 Graphe sauvegardé : {graphml_path}")
 
-        os.makedirs(os.path.dirname(filepath), exist_ok=True)
-        ox.save_graphml(G, filepath)
-        print(f"💾 Graphe OSM sauvegardé : {filepath}")
+    # 💾 Sauvegarde GPickle
+    with open(gpickle_path, "wb") as f:
+        pickle.dump(G, f)
+    print(f"✅ Graphe sauvegardé au format pickle : {gpickle_path}")
 
     return G
 
-
+# Exemple d’utilisation
 if __name__ == "__main__":
-    # Centre de la zone (même que Strava)
-    lat = 48.55
-    lon = 2.8
-    G = download_osm_graph(lat, lon, dist_km=45, mode="bike")
+    os.makedirs("data/raw_osm", exist_ok=True)
 
-    fig, ax = ox.plot_graph(
-    G,
-    bgcolor="white",
-    node_color="black",
-    edge_color="blue",
-    edge_linewidth=0.8,
-    show=False,
-    close=True
-)
+    G = download_osm_graph(
+        filepath="data/raw_osm/osm_graph_paris_bike_3km",
+        center=(48.85, 2.35),  # 📍 Paris centre
+        dist=3000,
+        network_type="bike"
+    )
+import osmnx as ox
+import networkx as nx
+from pathlib import Path
+import os
+import pickle
 
-fig.savefig("data/raw_osm/osm_graph_45km.png", dpi=300)
-print("🖼️ Image sauvegardée : data/raw_osm/osm_graph_45km.png")
+def download_osm_graph(filepath: str, center: tuple, dist: int, network_type="bike"):
+    filepath = Path(filepath)
+    graphml_path = filepath.with_suffix(".graphml")
+    gpickle_path = filepath.with_suffix(".gpickle")
+    render_path = filepath.with_suffix(".png")
 
+    print("📡 Téléchargement du graphe brut depuis OSM...")
+    G = ox.graph.graph_from_point(
+        center_point=center,
+        dist=dist,
+        network_type=network_type,
+        simplify=True
+    )
 
+    # 📷 Sauvegarde du rendu
+    ox.plot_graph(G, show=False, save=True, filepath=render_path, dpi=150)
+    print(f"🖼️ Graphe dessiné : {render_path}")
 
+    # 💾 Sauvegarde GraphML
+    ox.save_graphml(G, graphml_path)
+    print(f"💾 Graphe sauvegardé : {graphml_path}")
 
+    # 💾 Sauvegarde GPickle
+    with open(gpickle_path, "wb") as f:
+        pickle.dump(G, f)
+    print(f"✅ Graphe sauvegardé au format pickle : {gpickle_path}")
+
+    return G
+
+# Exemple d’utilisation
+if __name__ == "__main__":
+    os.makedirs("data/raw_osm", exist_ok=True)
+
+    G = download_osm_graph(
+        filepath="data/raw_osm/osm_graph_paris_bike_3km",
+        center=(48.85, 2.35),  # 📍 Paris centre
+        dist=3000,
+        network_type="bike"
+    )
