@@ -2,10 +2,8 @@ import requests
 import json
 import os
 import time
+import math
 from datetime import datetime
-
-# 🎯 SOLUTION : OPENSTREETMAP + OVERPASS API
-# ============================================================================
 
 def get_vtt_trails_from_osm(bbox, output_dir="data/gpx"):
     """
@@ -17,6 +15,17 @@ def get_vtt_trails_from_osm(bbox, output_dir="data/gpx"):
         dict avec les données récupérées
     """
     os.makedirs(output_dir, exist_ok=True)
+
+    # Calcul de surface précise en km²
+    lat_avg = (bbox[1] + bbox[3]) / 2
+    km_per_deg_lat = 111.32
+    km_per_deg_lon = 111.32 * math.cos(math.radians(lat_avg))
+    lat_km = (bbox[3] - bbox[1]) * km_per_deg_lat
+    lon_km = (bbox[2] - bbox[0]) * km_per_deg_lon
+    area_km2 = lat_km * lon_km
+
+    print("🔍 Récupération des sentiers VTT depuis OpenStreetMap...")
+    print(f"📍 Zone: {lat_km:.1f} km x {lon_km:.1f} km ≈ {area_km2:.0f} km²")
 
     overpass_query = f"""
     [out:json][timeout:120];
@@ -33,9 +42,6 @@ def get_vtt_trails_from_osm(bbox, output_dir="data/gpx"):
     );
     out geom;
     """
-
-    print("🔍 Récupération des sentiers VTT depuis OpenStreetMap...")
-    print(f"📍 Zone: {bbox[2]-bbox[0]:.3f}° x {bbox[3]-bbox[1]:.3f}° (~{((bbox[2]-bbox[0]) * (bbox[3]-bbox[1]) * 111 * 111):.0f} km²)")
 
     try:
         response = requests.post("https://overpass-api.de/api/interpreter", data=overpass_query, timeout=120)
@@ -115,10 +121,9 @@ def create_gpx_from_geometry(geometry, name, surface, difficulty, highway_type):
     return gpx_header + "\n" + track_points + "\n" + gpx_footer
 
 # ============================================================================
-
 if __name__ == "__main__":
-    print("🚴 EXTRACTEUR DE TRACES VTT - ZONE PERSONNALISÉE")
-    nouvelle_zone_bbox = [2.533333, 48.383333, 3.283333, 48.883333]
+    print("🚴 EXTRACTEUR DE TRACES VTT - ZONE CORRIGÉE")
+    nouvelle_zone_bbox = [2.188650, 48.145309, 3.411287, 48.954693]
 
     results = get_vtt_trails_from_osm(nouvelle_zone_bbox, output_dir="data/gpx")
 
