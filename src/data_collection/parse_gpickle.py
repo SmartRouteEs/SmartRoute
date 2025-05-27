@@ -2,7 +2,10 @@ import pickle
 import networkx as nx
 from pathlib import Path
 from tqdm import tqdm
+<<<<<<< HEAD
+=======
 from shapely.geometry import LineString
+>>>>>>> 184f05b8b297841aaca39277adafa68822ed946f
 
 # === Chemins ===
 GPICKLE_INPUT = Path("data/raw_osm/osm_graph_zone_interet.gpickle")
@@ -53,6 +56,10 @@ def filter_graph(G):
         total += 1
         if not is_valid_highway(d.get("highway")):
             continue
+<<<<<<< HEAD
+
+=======
+>>>>>>> 184f05b8b297841aaca39277adafa68822ed946f
         d["surface"] = get_surface(d)
         edges_valides.append((u, v, k))
 
@@ -62,6 +69,9 @@ def filter_graph(G):
         print("⚠️ Aucun segment n'a passé le filtre — on garde tout le graphe brut.")
         return G
     else:
+<<<<<<< HEAD
+        return G.edge_subgraph(edges_valides).copy()
+=======
         G_filtered = G.edge_subgraph(edges_valides).copy()
 
         # Ajout des géométries manquantes
@@ -77,6 +87,7 @@ def filter_graph(G):
                     continue
         print(f"✅ Géométries ajoutées à {added} arêtes")
         return G_filtered
+>>>>>>> 184f05b8b297841aaca39277adafa68822ed946f
 
 # === MAIN ===
 if __name__ == "__main__":
