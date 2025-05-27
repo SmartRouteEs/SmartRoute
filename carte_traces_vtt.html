@@ -1,0 +1,690 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_5714ee7991317960e91d535287fce0ad {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+    <div style="position: fixed; top: 10px; right: 10px; width: 200px; background-color: white;
+                border:2px solid grey; z-index:9999; font-size:14px; padding: 10px">
+    <h4>🚴 Traces VTT</h4>
+    <p>🟢 Début</p><p>🔴 Fin</p><p>📊 5 traces affichées</p>
+    </div>
+    
+            <div class="folium-map" id="map_5714ee7991317960e91d535287fce0ad" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_5714ee7991317960e91d535287fce0ad = L.map(
+                "map_5714ee7991317960e91d535287fce0ad",
+                {
+                    center: [48.4, 2.7],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 13,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_b8caf9fdfd6a1e806fb856bf40c79350 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_b8caf9fdfd6a1e806fb856bf40c79350.addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var tile_layer_d29b8d3e046ce52ff8e49e131460212e = L.tileLayer(
+                "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 18,
+  "maxNativeZoom": 18,
+  "noWrap": false,
+  "attribution": "Stamen Design | OpenStreetMap",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_d29b8d3e046ce52ff8e49e131460212e.addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var tile_layer_3b057a6085c99df15c8cc8532ceb01f8 = L.tileLayer(
+                "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 20,
+  "maxNativeZoom": 20,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors \u0026copy; \u003ca href=\"https://carto.com/attributions\"\u003eCARTO\u003c/a\u003e",
+  "subdomains": "abcd",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_3b057a6085c99df15c8cc8532ceb01f8.addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var tile_layer_a0eec5a1b10fcb978b96586a97f06ab3 = L.tileLayer(
+                "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}",
+                {
+  "minZoom": 0,
+  "maxZoom": 18,
+  "maxNativeZoom": 18,
+  "noWrap": false,
+  "attribution": "Esri | USGS | OpenStreetMap",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_a0eec5a1b10fcb978b96586a97f06ab3.addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var poly_line_5e51f31e898049bbe7185c744613220a = L.polyline(
+                [[48.4103672, 2.6815271], [48.4109108, 2.6799667], [48.4113652, 2.6785606]],
+                {"bubblingMouseEvents": true, "color": "red", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "red", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+        var popup_a707deacebd046710aee5fd9cbf477e1 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6918a34aef19c367a8471b205a029f48 = $(`<div id="html_6918a34aef19c367a8471b205a029f48" style="width: 100.0%; height: 100.0%;">Trace 1 osm_trail_48796956.gpx</div>`)[0];
+                popup_a707deacebd046710aee5fd9cbf477e1.setContent(html_6918a34aef19c367a8471b205a029f48);
+            
+        
+
+        poly_line_5e51f31e898049bbe7185c744613220a.bindPopup(popup_a707deacebd046710aee5fd9cbf477e1)
+        ;
+
+        
+    
+    
+            var marker_3a2b65b5f8565827cb699555cc3d6e96 = L.marker(
+                [48.4103672, 2.6815271],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_0124b6492b4a71236a465b36cd35c023 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d4a260e6419d9f6403d56b4f88be93f0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0fecd1c22762566eea537e1325dad24e = $(`<div id="html_0fecd1c22762566eea537e1325dad24e" style="width: 100.0%; height: 100.0%;">🟢 Début Trace 1</div>`)[0];
+                popup_d4a260e6419d9f6403d56b4f88be93f0.setContent(html_0fecd1c22762566eea537e1325dad24e);
+            
+        
+
+        marker_3a2b65b5f8565827cb699555cc3d6e96.bindPopup(popup_d4a260e6419d9f6403d56b4f88be93f0)
+        ;
+
+        
+    
+    
+                marker_3a2b65b5f8565827cb699555cc3d6e96.setIcon(icon_0124b6492b4a71236a465b36cd35c023);
+            
+    
+            var marker_25d00db277eb08e1a22b1dd6e3a0b7da = L.marker(
+                [48.4113652, 2.6785606],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_3d2c714e121b3d9d0a690d451736ccc3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_30dc721d45b02ec5a6039f43f0539165 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2bce0fcac4337dfc2668c2204878d101 = $(`<div id="html_2bce0fcac4337dfc2668c2204878d101" style="width: 100.0%; height: 100.0%;">🔴 Fin Trace 1</div>`)[0];
+                popup_30dc721d45b02ec5a6039f43f0539165.setContent(html_2bce0fcac4337dfc2668c2204878d101);
+            
+        
+
+        marker_25d00db277eb08e1a22b1dd6e3a0b7da.bindPopup(popup_30dc721d45b02ec5a6039f43f0539165)
+        ;
+
+        
+    
+    
+                marker_25d00db277eb08e1a22b1dd6e3a0b7da.setIcon(icon_3d2c714e121b3d9d0a690d451736ccc3);
+            
+    
+            var poly_line_1f3fb3e861537fc8e1e3a37acaf629c0 = L.polyline(
+                [[48.6626178, 2.9165858], [48.6627352, 2.9167112], [48.6633849, 2.9170498], [48.6641148, 2.9175192], [48.6642503, 2.9175393], [48.6647255, 2.9171142], [48.6656214, 2.916268], [48.6659359, 2.916276], [48.6660741, 2.9164731], [48.6663398, 2.9170874], [48.6664496, 2.9170512], [48.6666958, 2.9142657], [48.6667472, 2.9137279], [48.6668358, 2.9136153], [48.6669793, 2.9135562], [48.6690828, 2.9142697], [48.6691483, 2.9144038], [48.6691483, 2.9145969], [48.6688339, 2.9154217], [48.6685434, 2.9166073], [48.66826, 2.9178384]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+        var popup_0e8a13bbe5a2b2643915f51d1142a77b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_08d189b3d2c624745936e609f5739198 = $(`<div id="html_08d189b3d2c624745936e609f5739198" style="width: 100.0%; height: 100.0%;">Trace 2 osm_trail_1127997523.gpx</div>`)[0];
+                popup_0e8a13bbe5a2b2643915f51d1142a77b.setContent(html_08d189b3d2c624745936e609f5739198);
+            
+        
+
+        poly_line_1f3fb3e861537fc8e1e3a37acaf629c0.bindPopup(popup_0e8a13bbe5a2b2643915f51d1142a77b)
+        ;
+
+        
+    
+    
+            var marker_fd1fc5bd3bfe8aa06cb58fc8114c179a = L.marker(
+                [48.6626178, 2.9165858],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_b8a46f09d108b338ef8a76d87d1c3db5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d03957eb14d3fad82978ac6e9e0216d0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6d8de5a729a57d34f1b3db2d702d7c05 = $(`<div id="html_6d8de5a729a57d34f1b3db2d702d7c05" style="width: 100.0%; height: 100.0%;">🟢 Début Trace 2</div>`)[0];
+                popup_d03957eb14d3fad82978ac6e9e0216d0.setContent(html_6d8de5a729a57d34f1b3db2d702d7c05);
+            
+        
+
+        marker_fd1fc5bd3bfe8aa06cb58fc8114c179a.bindPopup(popup_d03957eb14d3fad82978ac6e9e0216d0)
+        ;
+
+        
+    
+    
+                marker_fd1fc5bd3bfe8aa06cb58fc8114c179a.setIcon(icon_b8a46f09d108b338ef8a76d87d1c3db5);
+            
+    
+            var marker_b8daa493bbbf49b55395072017f7d65f = L.marker(
+                [48.66826, 2.9178384],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_8f72d22adcc5b661cde9d5085079942e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_e292bcfa5986ef81d236f2d6702c4f58 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_48e99de123174cc5abd3b7807ca4732d = $(`<div id="html_48e99de123174cc5abd3b7807ca4732d" style="width: 100.0%; height: 100.0%;">🔴 Fin Trace 2</div>`)[0];
+                popup_e292bcfa5986ef81d236f2d6702c4f58.setContent(html_48e99de123174cc5abd3b7807ca4732d);
+            
+        
+
+        marker_b8daa493bbbf49b55395072017f7d65f.bindPopup(popup_e292bcfa5986ef81d236f2d6702c4f58)
+        ;
+
+        
+    
+    
+                marker_b8daa493bbbf49b55395072017f7d65f.setIcon(icon_8f72d22adcc5b661cde9d5085079942e);
+            
+    
+            var poly_line_b7e7a7ecaf89ae0fa2dc7b6fcffc7b03 = L.polyline(
+                [[48.4005112, 2.6796118], [48.3996636, 2.6799337], [48.3994604, 2.679997], [48.3988373, 2.6801912], [48.3986806, 2.6803253], [48.3986271, 2.6805291]],
+                {"bubblingMouseEvents": true, "color": "green", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "green", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+        var popup_df3c0bac8ffbe55986e743f2a7747215 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ab96ba748f524be6041089f9c30dccd1 = $(`<div id="html_ab96ba748f524be6041089f9c30dccd1" style="width: 100.0%; height: 100.0%;">Trace 3 osm_trail_173145797.gpx</div>`)[0];
+                popup_df3c0bac8ffbe55986e743f2a7747215.setContent(html_ab96ba748f524be6041089f9c30dccd1);
+            
+        
+
+        poly_line_b7e7a7ecaf89ae0fa2dc7b6fcffc7b03.bindPopup(popup_df3c0bac8ffbe55986e743f2a7747215)
+        ;
+
+        
+    
+    
+            var marker_ef078f90203eab763d7eb8be0200e062 = L.marker(
+                [48.4005112, 2.6796118],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_b6f2d137ffc6212d537f32c277534c1d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_20c7abe54d2da6f3aa0371ec9bb7bd07 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_512fd9b71c5ef79040c85019bbc98bfc = $(`<div id="html_512fd9b71c5ef79040c85019bbc98bfc" style="width: 100.0%; height: 100.0%;">🟢 Début Trace 3</div>`)[0];
+                popup_20c7abe54d2da6f3aa0371ec9bb7bd07.setContent(html_512fd9b71c5ef79040c85019bbc98bfc);
+            
+        
+
+        marker_ef078f90203eab763d7eb8be0200e062.bindPopup(popup_20c7abe54d2da6f3aa0371ec9bb7bd07)
+        ;
+
+        
+    
+    
+                marker_ef078f90203eab763d7eb8be0200e062.setIcon(icon_b6f2d137ffc6212d537f32c277534c1d);
+            
+    
+            var marker_8065db38733578bed6df5c76dea08ed0 = L.marker(
+                [48.3986271, 2.6805291],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_a6cc43abbd027f2140b60999e98ef64c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_10e68260ac606ca7ad813f75d7834dd4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a8a5f76520c92dbed827c81486cc24f3 = $(`<div id="html_a8a5f76520c92dbed827c81486cc24f3" style="width: 100.0%; height: 100.0%;">🔴 Fin Trace 3</div>`)[0];
+                popup_10e68260ac606ca7ad813f75d7834dd4.setContent(html_a8a5f76520c92dbed827c81486cc24f3);
+            
+        
+
+        marker_8065db38733578bed6df5c76dea08ed0.bindPopup(popup_10e68260ac606ca7ad813f75d7834dd4)
+        ;
+
+        
+    
+    
+                marker_8065db38733578bed6df5c76dea08ed0.setIcon(icon_a6cc43abbd027f2140b60999e98ef64c);
+            
+    
+            var poly_line_8524f08a03f38b64713b63ac5a1f02d2 = L.polyline(
+                [[48.4038188, 2.6554079], [48.401687, 2.6569218], [48.4012584, 2.6579316]],
+                {"bubblingMouseEvents": true, "color": "purple", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "purple", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+        var popup_1536ccab20dc30cdeb61c64c07906331 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e1f4c136b1f6da24b5b6c475130625a0 = $(`<div id="html_e1f4c136b1f6da24b5b6c475130625a0" style="width: 100.0%; height: 100.0%;">Trace 4 osm_trail_233763440.gpx</div>`)[0];
+                popup_1536ccab20dc30cdeb61c64c07906331.setContent(html_e1f4c136b1f6da24b5b6c475130625a0);
+            
+        
+
+        poly_line_8524f08a03f38b64713b63ac5a1f02d2.bindPopup(popup_1536ccab20dc30cdeb61c64c07906331)
+        ;
+
+        
+    
+    
+            var marker_9a0fd602798fed39c76fd38f7de4e9bf = L.marker(
+                [48.4038188, 2.6554079],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_9edaa3232f97a35627d8d2c132a809d6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f6d730127588368b817920847412ed9a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_18ebf79f5ea96f5ba116c033c921f448 = $(`<div id="html_18ebf79f5ea96f5ba116c033c921f448" style="width: 100.0%; height: 100.0%;">🟢 Début Trace 4</div>`)[0];
+                popup_f6d730127588368b817920847412ed9a.setContent(html_18ebf79f5ea96f5ba116c033c921f448);
+            
+        
+
+        marker_9a0fd602798fed39c76fd38f7de4e9bf.bindPopup(popup_f6d730127588368b817920847412ed9a)
+        ;
+
+        
+    
+    
+                marker_9a0fd602798fed39c76fd38f7de4e9bf.setIcon(icon_9edaa3232f97a35627d8d2c132a809d6);
+            
+    
+            var marker_8b2a278b8966de2946b4425c9e7e7523 = L.marker(
+                [48.4012584, 2.6579316],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_09614f47e42a0fb8a61eeb92007de23c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_1036fb08ebb42eb3b6ba9ed0c1c5ef54 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_fb67bde776554e99d1790db63b6e2117 = $(`<div id="html_fb67bde776554e99d1790db63b6e2117" style="width: 100.0%; height: 100.0%;">🔴 Fin Trace 4</div>`)[0];
+                popup_1036fb08ebb42eb3b6ba9ed0c1c5ef54.setContent(html_fb67bde776554e99d1790db63b6e2117);
+            
+        
+
+        marker_8b2a278b8966de2946b4425c9e7e7523.bindPopup(popup_1036fb08ebb42eb3b6ba9ed0c1c5ef54)
+        ;
+
+        
+    
+    
+                marker_8b2a278b8966de2946b4425c9e7e7523.setIcon(icon_09614f47e42a0fb8a61eeb92007de23c);
+            
+    
+            var poly_line_d73446c3b73c2cd41c8efe75e948c4e7 = L.polyline(
+                [[48.7568353, 2.8074601], [48.7568631, 2.8072879], [48.7566661, 2.8065604], [48.7566347, 2.806279], [48.7567061, 2.8060192], [48.7569658, 2.8059932], [48.7583789, 2.8061058], [48.7599109, 2.8061785], [48.7602287, 2.8061924], [48.761258, 2.806273], [48.7613444, 2.8062719], [48.7613992, 2.8062652], [48.7614483, 2.8062471], [48.7614989, 2.8062132], [48.7615247, 2.8061843]],
+                {"bubblingMouseEvents": true, "color": "orange", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "orange", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 0.8, "smoothFactor": 1.0, "stroke": true, "weight": 3}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+        var popup_4d7233c83f44ef4219d89b7883391f41 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3c79ad103c46c077a97ff12db4b72be1 = $(`<div id="html_3c79ad103c46c077a97ff12db4b72be1" style="width: 100.0%; height: 100.0%;">Trace 5 osm_trail_313085161.gpx</div>`)[0];
+                popup_4d7233c83f44ef4219d89b7883391f41.setContent(html_3c79ad103c46c077a97ff12db4b72be1);
+            
+        
+
+        poly_line_d73446c3b73c2cd41c8efe75e948c4e7.bindPopup(popup_4d7233c83f44ef4219d89b7883391f41)
+        ;
+
+        
+    
+    
+            var marker_c818f8a0d6e7b54b02efb787165f33fb = L.marker(
+                [48.7568353, 2.8074601],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_21c4f3dc71e8446a2101903e4b168309 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_da154dabfe9cd87e778b586e3cb7852c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4662412f02d7ddc2f8bab6d188512a22 = $(`<div id="html_4662412f02d7ddc2f8bab6d188512a22" style="width: 100.0%; height: 100.0%;">🟢 Début Trace 5</div>`)[0];
+                popup_da154dabfe9cd87e778b586e3cb7852c.setContent(html_4662412f02d7ddc2f8bab6d188512a22);
+            
+        
+
+        marker_c818f8a0d6e7b54b02efb787165f33fb.bindPopup(popup_da154dabfe9cd87e778b586e3cb7852c)
+        ;
+
+        
+    
+    
+                marker_c818f8a0d6e7b54b02efb787165f33fb.setIcon(icon_21c4f3dc71e8446a2101903e4b168309);
+            
+    
+            var marker_128d0cb64a172c82a3d18e7355788fda = L.marker(
+                [48.7615247, 2.8061843],
+                {
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+        
+    
+            var icon_75a4aba35c4e5068f20c251c0ec0466a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0c39712cadea3d27ae86be3df66f7967 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_8da7c92c6da21768b9a8efff812a0a31 = $(`<div id="html_8da7c92c6da21768b9a8efff812a0a31" style="width: 100.0%; height: 100.0%;">🔴 Fin Trace 5</div>`)[0];
+                popup_0c39712cadea3d27ae86be3df66f7967.setContent(html_8da7c92c6da21768b9a8efff812a0a31);
+            
+        
+
+        marker_128d0cb64a172c82a3d18e7355788fda.bindPopup(popup_0c39712cadea3d27ae86be3df66f7967)
+        ;
+
+        
+    
+    
+                marker_128d0cb64a172c82a3d18e7355788fda.setIcon(icon_75a4aba35c4e5068f20c251c0ec0466a);
+            
+    
+            map_5714ee7991317960e91d535287fce0ad.fitBounds(
+                [[48.3986271, 2.6554079], [48.7615247, 2.9178384]],
+                {}
+            );
+        
+    
+            var layer_control_385eb23b60e468fb2bf0f4ba88cac67b_layers = {
+                base_layers : {
+                    "openstreetmap" : tile_layer_b8caf9fdfd6a1e806fb856bf40c79350,
+                    "Terrain" : tile_layer_d29b8d3e046ce52ff8e49e131460212e,
+                    "CartoDB Light" : tile_layer_3b057a6085c99df15c8cc8532ceb01f8,
+                    "Satellite" : tile_layer_a0eec5a1b10fcb978b96586a97f06ab3,
+                },
+                overlays :  {
+                },
+            };
+            let layer_control_385eb23b60e468fb2bf0f4ba88cac67b = L.control.layers(
+                layer_control_385eb23b60e468fb2bf0f4ba88cac67b_layers.base_layers,
+                layer_control_385eb23b60e468fb2bf0f4ba88cac67b_layers.overlays,
+                {
+  "position": "topright",
+  "collapsed": true,
+  "autoZIndex": true,
+}
+            ).addTo(map_5714ee7991317960e91d535287fce0ad);
+
+        
+</script>
+</html>
