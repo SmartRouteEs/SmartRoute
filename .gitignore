@@ -33,5 +33,5 @@ data/raw
 data/processed/filtered_graph_with_strava.graphml
 data/processed
 src/data_collection/generate_postal_data.py
-data
+data/dem
 
