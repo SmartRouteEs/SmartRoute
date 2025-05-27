@@ -36,6 +36,6 @@ data/processed
 src/data_collection/generate_postal_data.py
 =======
 src/data_collection/generate_postal_data.py
-data
+data/dem
 
 >>>>>>> 184f05b8b297841aaca39277adafa68822ed946f
