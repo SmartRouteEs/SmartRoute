@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Potier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.824484</time>
+</metadata>
+<trk>
+    <name>Chemin Potier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5022193" lon="2.3449072"></trkpt>
+        <trkpt lat="48.5039142" lon="2.3432558"></trkpt>
+        <trkpt lat="48.5045616" lon="2.3425937"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

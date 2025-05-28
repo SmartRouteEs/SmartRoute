@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Verte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.766809</time>
+</metadata>
+<trk>
+    <name>Rue Verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8098429" lon="2.9549165"></trkpt>
+        <trkpt lat="48.8097546" lon="2.9549454"></trkpt>
+        <trkpt lat="48.8096787" lon="2.9549883"></trkpt>
+        <trkpt lat="48.8095627" lon="2.9551078"></trkpt>
+        <trkpt lat="48.809492" lon="2.9548181"></trkpt>
+        <trkpt lat="48.8094072" lon="2.9544694"></trkpt>
+        <trkpt lat="48.8092553" lon="2.9540027"></trkpt>
+        <trkpt lat="48.8091882" lon="2.9537238"></trkpt>
+        <trkpt lat="48.8091352" lon="2.9534126"></trkpt>
+        <trkpt lat="48.8091246" lon="2.9531605"></trkpt>
+        <trkpt lat="48.8091281" lon="2.9528601"></trkpt>
+        <trkpt lat="48.8091847" lon="2.9523183"></trkpt>
+        <trkpt lat="48.8092483" lon="2.9520823"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

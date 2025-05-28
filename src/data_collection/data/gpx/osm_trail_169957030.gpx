@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Canardière</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:47.936676</time>
+</metadata>
+<trk>
+    <name>Route de la Canardière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7591058" lon="2.722801"></trkpt>
+        <trkpt lat="48.7594777" lon="2.7205109"></trkpt>
+        <trkpt lat="48.75972" lon="2.7189891"></trkpt>
+        <trkpt lat="48.7598525" lon="2.718156"></trkpt>
+        <trkpt lat="48.7601322" lon="2.7162733"></trkpt>
+        <trkpt lat="48.7604085" lon="2.714341"></trkpt>
+        <trkpt lat="48.7608674" lon="2.7117618"></trkpt>
+        <trkpt lat="48.7611776" lon="2.7098639"></trkpt>
+        <trkpt lat="48.7613979" lon="2.7085164"></trkpt>
+        <trkpt lat="48.7617712" lon="2.7061016"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

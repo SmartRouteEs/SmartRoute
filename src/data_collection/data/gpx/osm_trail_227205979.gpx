@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Sygrie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.590938</time>
+</metadata>
+<trk>
+    <name>Route de la Sygrie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7666082" lon="2.242634"></trkpt>
+        <trkpt lat="48.7666587" lon="2.2440015"></trkpt>
+        <trkpt lat="48.7666572" lon="2.2440462"></trkpt>
+        <trkpt lat="48.7666727" lon="2.2441494"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

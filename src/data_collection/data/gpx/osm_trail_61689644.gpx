@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Mehdi Ben Barka</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.068956</time>
+</metadata>
+<trk>
+    <name>Allée Mehdi Ben Barka</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9260038" lon="2.3010201"></trkpt>
+        <trkpt lat="48.9263495" lon="2.3025544"></trkpt>
+        <trkpt lat="48.9263616" lon="2.3026042"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

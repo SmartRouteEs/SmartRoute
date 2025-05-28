@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Puthemuse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.733333</time>
+</metadata>
+<trk>
+    <name>Chemin de Puthemuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.508493" lon="2.9744105"></trkpt>
+        <trkpt lat="48.5080362" lon="2.9744342"></trkpt>
+        <trkpt lat="48.5077805" lon="2.9744875"></trkpt>
+        <trkpt lat="48.506381" lon="2.974729"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

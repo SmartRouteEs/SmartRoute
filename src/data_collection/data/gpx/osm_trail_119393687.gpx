@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Églantiers</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.851230</time>
+</metadata>
+<trk>
+    <name>Chemin des Églantiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6658536" lon="2.197062"></trkpt>
+        <trkpt lat="48.6660427" lon="2.1974185"></trkpt>
+        <trkpt lat="48.666146" lon="2.1974463"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Notre-Dame du Bon Secours</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.283582</time>
+</metadata>
+<trk>
+    <name>Route Notre-Dame du Bon Secours</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4194965" lon="2.6847703"></trkpt>
+        <trkpt lat="48.4190322" lon="2.6880037"></trkpt>
+        <trkpt lat="48.4188841" lon="2.6887505"></trkpt>
+        <trkpt lat="48.418802" lon="2.6892339"></trkpt>
+        <trkpt lat="48.4184602" lon="2.6912458"></trkpt>
+        <trkpt lat="48.4183999" lon="2.6916086"></trkpt>
+        <trkpt lat="48.4182079" lon="2.6931581"></trkpt>
+        <trkpt lat="48.4180407" lon="2.6942545"></trkpt>
+        <trkpt lat="48.4179735" lon="2.6947076"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

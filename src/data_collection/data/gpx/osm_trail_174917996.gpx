@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de César</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.075443</time>
+</metadata>
+<trk>
+    <name>Chemin de César</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1582958" lon="2.8871622"></trkpt>
+        <trkpt lat="48.1584891" lon="2.8889861"></trkpt>
+        <trkpt lat="48.1589082" lon="2.8929228"></trkpt>
+        <trkpt lat="48.1589636" lon="2.8934757"></trkpt>
+        <trkpt lat="48.1589702" lon="2.8935417"></trkpt>
+        <trkpt lat="48.1591833" lon="2.8956702"></trkpt>
+        <trkpt lat="48.1593457" lon="2.897117"></trkpt>
+        <trkpt lat="48.1593864" lon="2.8975046"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

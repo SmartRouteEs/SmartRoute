@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 1957</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: 2</desc>
+    <time>2025-05-28T01:15:45.120832</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 1957</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7582023" lon="2.2669775"></trkpt>
+        <trkpt lat="48.758153" lon="2.266716"></trkpt>
+        <trkpt lat="48.758148" lon="2.266338"></trkpt>
+        <trkpt lat="48.758187" lon="2.266139"></trkpt>
+        <trkpt lat="48.7583773" lon="2.2658301"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

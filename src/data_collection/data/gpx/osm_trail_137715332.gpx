@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Moulin de Maurevert</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.128263</time>
+</metadata>
+<trk>
+    <name>Moulin de Maurevert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.657071" lon="2.8171068"></trkpt>
+        <trkpt lat="48.657064" lon="2.8173325"></trkpt>
+        <trkpt lat="48.6571814" lon="2.8176418"></trkpt>
+        <trkpt lat="48.6572648" lon="2.8178853"></trkpt>
+        <trkpt lat="48.6574268" lon="2.8184523"></trkpt>
+        <trkpt lat="48.6578988" lon="2.8201035"></trkpt>
+        <trkpt lat="48.6580608" lon="2.8207078"></trkpt>
+        <trkpt lat="48.6581042" lon="2.8210295"></trkpt>
+        <trkpt lat="48.6580983" lon="2.8212908"></trkpt>
+        <trkpt lat="48.6580044" lon="2.8218435"></trkpt>
+        <trkpt lat="48.6579553" lon="2.8220064"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

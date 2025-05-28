@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 1173</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:44.761461</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 1173</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8817149" lon="2.5603969"></trkpt>
+        <trkpt lat="48.8817073" lon="2.5603579"></trkpt>
+        <trkpt lat="48.881714" lon="2.5603111"></trkpt>
+        <trkpt lat="48.8817548" lon="2.5601964"></trkpt>
+        <trkpt lat="48.8817657" lon="2.5601545"></trkpt>
+        <trkpt lat="48.8817661" lon="2.5601209"></trkpt>
+        <trkpt lat="48.8817626" lon="2.5600908"></trkpt>
+        <trkpt lat="48.8817523" lon="2.5600507"></trkpt>
+        <trkpt lat="48.8817373" lon="2.5600236"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

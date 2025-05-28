@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Moulin des Près</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.211227</time>
+</metadata>
+<trk>
+    <name>Rue du Moulin des Près</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8199184" lon="3.0781312"></trkpt>
+        <trkpt lat="48.8199409" lon="3.0782385"></trkpt>
+        <trkpt lat="48.8199833" lon="3.0783404"></trkpt>
+        <trkpt lat="48.8209547" lon="3.0800941"></trkpt>
+        <trkpt lat="48.8209838" lon="3.080165"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

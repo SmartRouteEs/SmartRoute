@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 5183</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.659118</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 5183</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3625655" lon="2.808791"></trkpt>
+        <trkpt lat="48.3632313" lon="2.8079924"></trkpt>
+        <trkpt lat="48.363252" lon="2.8079505"></trkpt>
+        <trkpt lat="48.363316" lon="2.8078214"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

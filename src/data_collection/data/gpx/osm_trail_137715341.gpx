@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Brejon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.128263</time>
+</metadata>
+<trk>
+    <name>Chemin de Brejon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6747159" lon="2.8292791"></trkpt>
+        <trkpt lat="48.6738589" lon="2.8308522"></trkpt>
+        <trkpt lat="48.6735092" lon="2.8314451"></trkpt>
+        <trkpt lat="48.6732576" lon="2.8318717"></trkpt>
+        <trkpt lat="48.6726963" lon="2.8329154"></trkpt>
+        <trkpt lat="48.6722678" lon="2.8336443"></trkpt>
+        <trkpt lat="48.6720423" lon="2.8339591"></trkpt>
+        <trkpt lat="48.6719218" lon="2.8340475"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

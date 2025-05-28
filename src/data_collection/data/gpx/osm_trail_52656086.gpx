@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3684</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.930116</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3684</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6874881" lon="2.3283937"></trkpt>
+        <trkpt lat="48.6875621" lon="2.3284162"></trkpt>
+        <trkpt lat="48.6881065" lon="2.3290889"></trkpt>
+        <trkpt lat="48.6886544" lon="2.3298222"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

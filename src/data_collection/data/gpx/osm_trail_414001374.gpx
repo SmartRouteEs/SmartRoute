@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Latéral du Canal de l'Ourcq</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.873489</time>
+</metadata>
+<trk>
+    <name>Chemin Latéral du Canal de l'Ourcq</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9333211" lon="2.8175144"></trkpt>
+        <trkpt lat="48.9324665" lon="2.817619"></trkpt>
+        <trkpt lat="48.9322357" lon="2.8176726"></trkpt>
+        <trkpt lat="48.9311503" lon="2.8182868"></trkpt>
+        <trkpt lat="48.929478" lon="2.8196306"></trkpt>
+        <trkpt lat="48.928292" lon="2.8208323"></trkpt>
+        <trkpt lat="48.9277457" lon="2.8215082"></trkpt>
+        <trkpt lat="48.9273827" lon="2.8220473"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

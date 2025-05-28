@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Dauphine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.335621</time>
+</metadata>
+<trk>
+    <name>Allée Dauphine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7730356" lon="2.5571887"></trkpt>
+        <trkpt lat="48.7726555" lon="2.5582864"></trkpt>
+        <trkpt lat="48.771543" lon="2.5603914"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

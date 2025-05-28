@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Poiriers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.920083</time>
+</metadata>
+<trk>
+    <name>Chemin des Poiriers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4906027" lon="2.7481581"></trkpt>
+        <trkpt lat="48.4909641" lon="2.7477914"></trkpt>
+        <trkpt lat="48.491348" lon="2.7477822"></trkpt>
+        <trkpt lat="48.4916951" lon="2.7478007"></trkpt>
+        <trkpt lat="48.4929938" lon="2.7481396"></trkpt>
+        <trkpt lat="48.4943822" lon="2.7485432"></trkpt>
+        <trkpt lat="48.4960258" lon="2.748993"></trkpt>
+        <trkpt lat="48.4961957" lon="2.7490445"></trkpt>
+        <trkpt lat="48.4964832" lon="2.7491317"></trkpt>
+        <trkpt lat="48.4967833" lon="2.7493258"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

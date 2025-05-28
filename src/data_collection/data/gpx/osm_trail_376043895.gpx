@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Caprara</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.124332</time>
+</metadata>
+<trk>
+    <name>Route Caprara</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4385999" lon="2.737275"></trkpt>
+        <trkpt lat="48.437185" lon="2.7358502"></trkpt>
+        <trkpt lat="48.4360965" lon="2.7348805"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

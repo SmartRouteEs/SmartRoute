@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix Sainte-Aile</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.681111</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix Sainte-Aile</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.892304" lon="3.1866287"></trkpt>
+        <trkpt lat="48.8920415" lon="3.1866475"></trkpt>
+        <trkpt lat="48.8918376" lon="3.1867026"></trkpt>
+        <trkpt lat="48.8916096" lon="3.1868175"></trkpt>
+        <trkpt lat="48.8913152" lon="3.1870907"></trkpt>
+        <trkpt lat="48.8911793" lon="3.1871596"></trkpt>
+        <trkpt lat="48.89087" lon="3.1872062"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

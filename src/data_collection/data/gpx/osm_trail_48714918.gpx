@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des P'Tits Montils</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.780831</time>
+</metadata>
+<trk>
+    <name>Chemin des P'Tits Montils</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5101688" lon="2.9467473"></trkpt>
+        <trkpt lat="48.508815" lon="2.951786"></trkpt>
+        <trkpt lat="48.508356" lon="2.953611"></trkpt>
+        <trkpt lat="48.508256" lon="2.953787"></trkpt>
+        <trkpt lat="48.5079938" lon="2.9537769"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

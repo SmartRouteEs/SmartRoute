@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Orangies</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.163674</time>
+</metadata>
+<trk>
+    <name>Chemin des Orangies</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4559657" lon="2.7979915"></trkpt>
+        <trkpt lat="48.4557661" lon="2.7982389"></trkpt>
+        <trkpt lat="48.4551595" lon="2.7990355"></trkpt>
+        <trkpt lat="48.4550119" lon="2.7992501"></trkpt>
+        <trkpt lat="48.4548767" lon="2.7994942"></trkpt>
+        <trkpt lat="48.4547593" lon="2.7997329"></trkpt>
+        <trkpt lat="48.4546348" lon="2.8000038"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

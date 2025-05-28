@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Corbeil</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.352355</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Corbeil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6841738" lon="2.4594225"></trkpt>
+        <trkpt lat="48.6848118" lon="2.4595581"></trkpt>
+        <trkpt lat="48.6856113" lon="2.4595805"></trkpt>
+        <trkpt lat="48.6859408" lon="2.4595627"></trkpt>
+        <trkpt lat="48.6862192" lon="2.4595476"></trkpt>
+        <trkpt lat="48.6867161" lon="2.4593575"></trkpt>
+        <trkpt lat="48.6873286" lon="2.4589526"></trkpt>
+        <trkpt lat="48.6882465" lon="2.4584369"></trkpt>
+        <trkpt lat="48.6889275" lon="2.4581902"></trkpt>
+        <trkpt lat="48.6894752" lon="2.4578538"></trkpt>
+        <trkpt lat="48.6897117" lon="2.4577832"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

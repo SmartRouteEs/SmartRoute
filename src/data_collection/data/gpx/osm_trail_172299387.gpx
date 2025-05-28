@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Senillières</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.969418</time>
+</metadata>
+<trk>
+    <name>Sentier des Senillières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6583202" lon="2.3076585"></trkpt>
+        <trkpt lat="48.6582595" lon="2.3075031"></trkpt>
+        <trkpt lat="48.658203" lon="2.3072567"></trkpt>
+        <trkpt lat="48.6582101" lon="2.3072299"></trkpt>
+        <trkpt lat="48.6581142" lon="2.3070216"></trkpt>
+        <trkpt lat="48.6579955" lon="2.3067507"></trkpt>
+        <trkpt lat="48.6582471" lon="2.3064932"></trkpt>
+        <trkpt lat="48.657784" lon="2.3053671"></trkpt>
+        <trkpt lat="48.6577439" lon="2.3053372"></trkpt>
+        <trkpt lat="48.6576624" lon="2.3052567"></trkpt>
+        <trkpt lat="48.6575873" lon="2.305093"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

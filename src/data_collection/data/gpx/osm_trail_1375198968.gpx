@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Blaireau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.971351</time>
+</metadata>
+<trk>
+    <name>Route du Blaireau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3904951" lon="2.6208937"></trkpt>
+        <trkpt lat="48.390612" lon="2.621505"></trkpt>
+        <trkpt lat="48.390923" lon="2.622399"></trkpt>
+        <trkpt lat="48.391411" lon="2.624211"></trkpt>
+        <trkpt lat="48.391498" lon="2.624576"></trkpt>
+        <trkpt lat="48.391556" lon="2.624908"></trkpt>
+        <trkpt lat="48.391628" lon="2.625179"></trkpt>
+        <trkpt lat="48.391792" lon="2.625556"></trkpt>
+        <trkpt lat="48.3918343" lon="2.6257278"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

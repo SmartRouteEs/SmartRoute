@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Clos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.454494</time>
+</metadata>
+<trk>
+    <name>Sentier des Clos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.694998" lon="3.3941035"></trkpt>
+        <trkpt lat="48.6947484" lon="3.3954942"></trkpt>
+        <trkpt lat="48.6946493" lon="3.3958697"></trkpt>
+        <trkpt lat="48.6945103" lon="3.3962133"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

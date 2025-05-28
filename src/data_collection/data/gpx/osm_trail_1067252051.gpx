@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière Verte d'Ablon</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.864875</time>
+</metadata>
+<trk>
+    <name>Route Forestière Verte d'Ablon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6939282" lon="2.4636265"></trkpt>
+        <trkpt lat="48.6938159" lon="2.4634808"></trkpt>
+        <trkpt lat="48.6935247" lon="2.4631029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grive</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.794900</time>
+</metadata>
+<trk>
+    <name>Route de la Grive</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3597637" lon="2.6587897"></trkpt>
+        <trkpt lat="48.3586927" lon="2.6584732"></trkpt>
+        <trkpt lat="48.3576169" lon="2.6580923"></trkpt>
+        <trkpt lat="48.3564969" lon="2.6573832"></trkpt>
+        <trkpt lat="48.3556528" lon="2.6564391"></trkpt>
+        <trkpt lat="48.3551965" lon="2.6559498"></trkpt>
+        <trkpt lat="48.3544551" lon="2.6552117"></trkpt>
+        <trkpt lat="48.3538277" lon="2.654834"></trkpt>
+        <trkpt lat="48.3525957" lon="2.6545937"></trkpt>
+        <trkpt lat="48.3516769" lon="2.6542542"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

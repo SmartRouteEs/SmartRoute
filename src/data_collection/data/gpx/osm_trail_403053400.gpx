@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de l'Épine Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.760024</time>
+</metadata>
+<trk>
+    <name>Allée de l'Épine Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7126397" lon="2.2719549"></trkpt>
+        <trkpt lat="48.7126985" lon="2.2718701"></trkpt>
+        <trkpt lat="48.7127176" lon="2.2718154"></trkpt>
+        <trkpt lat="48.712731" lon="2.2717522"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

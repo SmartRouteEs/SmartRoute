@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pont Lévis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.482901</time>
+</metadata>
+<trk>
+    <name>Chemin du Pont Lévis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.721483" lon="2.9869911"></trkpt>
+        <trkpt lat="48.7220209" lon="2.987616"></trkpt>
+        <trkpt lat="48.7221201" lon="2.9877484"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

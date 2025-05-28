@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Bois Brillant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.571736</time>
+</metadata>
+<trk>
+    <name>Rue du Bois Brillant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8322195" lon="2.9648628"></trkpt>
+        <trkpt lat="48.832147" lon="2.965735"></trkpt>
+        <trkpt lat="48.832095" lon="2.966912"></trkpt>
+        <trkpt lat="48.832066" lon="2.967262"></trkpt>
+        <trkpt lat="48.832062" lon="2.967533"></trkpt>
+        <trkpt lat="48.832108" lon="2.967973"></trkpt>
+        <trkpt lat="48.832109" lon="2.968106"></trkpt>
+        <trkpt lat="48.832086" lon="2.968334"></trkpt>
+        <trkpt lat="48.831944" lon="2.969259"></trkpt>
+        <trkpt lat="48.831921" lon="2.969356"></trkpt>
+        <trkpt lat="48.831877" lon="2.969455"></trkpt>
+        <trkpt lat="48.831824" lon="2.969523"></trkpt>
+        <trkpt lat="48.831185" lon="2.970036"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

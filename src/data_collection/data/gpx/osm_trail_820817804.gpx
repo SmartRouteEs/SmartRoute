@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Réservoir</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.345603</time>
+</metadata>
+<trk>
+    <name>Route du Réservoir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5029603" lon="2.6494501"></trkpt>
+        <trkpt lat="48.5034897" lon="2.6537661"></trkpt>
+        <trkpt lat="48.5035688" lon="2.6544111"></trkpt>
+        <trkpt lat="48.5039499" lon="2.6576555"></trkpt>
+        <trkpt lat="48.5041499" lon="2.6593804"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

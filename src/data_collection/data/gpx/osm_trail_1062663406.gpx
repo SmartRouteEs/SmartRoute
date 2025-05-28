@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Cévise</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.792261</time>
+</metadata>
+<trk>
+    <name>Route de Cévise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3979559" lon="2.6023084"></trkpt>
+        <trkpt lat="48.397988" lon="2.602432"></trkpt>
+        <trkpt lat="48.398276" lon="2.603064"></trkpt>
+        <trkpt lat="48.398572" lon="2.603822"></trkpt>
+        <trkpt lat="48.398645" lon="2.603971"></trkpt>
+        <trkpt lat="48.398699" lon="2.604035"></trkpt>
+        <trkpt lat="48.398801" lon="2.604074"></trkpt>
+        <trkpt lat="48.399007" lon="2.604089"></trkpt>
+        <trkpt lat="48.399167" lon="2.60416"></trkpt>
+        <trkpt lat="48.3997513" lon="2.6046016"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Vert de Massy</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.698317</time>
+</metadata>
+<trk>
+    <name>Sentier du Vert de Massy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7333116" lon="2.2611698"></trkpt>
+        <trkpt lat="48.733323" lon="2.2614745"></trkpt>
+        <trkpt lat="48.7333191" lon="2.2618582"></trkpt>
+        <trkpt lat="48.7333211" lon="2.261926"></trkpt>
+        <trkpt lat="48.7333073" lon="2.2624642"></trkpt>
+        <trkpt lat="48.733266" lon="2.2625228"></trkpt>
+        <trkpt lat="48.7332662" lon="2.2627795"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

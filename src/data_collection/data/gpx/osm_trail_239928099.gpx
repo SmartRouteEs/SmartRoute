@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Lavandières</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.338466</time>
+</metadata>
+<trk>
+    <name>Chemin des Lavandières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.461731" lon="2.4279061"></trkpt>
+        <trkpt lat="48.4616077" lon="2.4278851"></trkpt>
+        <trkpt lat="48.4614939" lon="2.4278774"></trkpt>
+        <trkpt lat="48.4613722" lon="2.4278877"></trkpt>
+        <trkpt lat="48.4612815" lon="2.4279158"></trkpt>
+        <trkpt lat="48.4612159" lon="2.4279705"></trkpt>
+        <trkpt lat="48.4611495" lon="2.4280553"></trkpt>
+        <trkpt lat="48.4610595" lon="2.4282124"></trkpt>
+        <trkpt lat="48.4609732" lon="2.4283229"></trkpt>
+        <trkpt lat="48.4608707" lon="2.4283916"></trkpt>
+        <trkpt lat="48.4607153" lon="2.4284384"></trkpt>
+        <trkpt lat="48.4599837" lon="2.4286192"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

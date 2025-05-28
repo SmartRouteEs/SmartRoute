@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Fontaine de Fer</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.191385</time>
+</metadata>
+<trk>
+    <name>Chemin de la Fontaine de Fer</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6919779" lon="2.2545829"></trkpt>
+        <trkpt lat="48.6919973" lon="2.2545405"></trkpt>
+        <trkpt lat="48.6924575" lon="2.2535356"></trkpt>
+        <trkpt lat="48.6924761" lon="2.253495"></trkpt>
+        <trkpt lat="48.6925338" lon="2.253369"></trkpt>
+        <trkpt lat="48.6925545" lon="2.2533238"></trkpt>
+        <trkpt lat="48.6935023" lon="2.2513708"></trkpt>
+        <trkpt lat="48.6935295" lon="2.2512975"></trkpt>
+        <trkpt lat="48.6937272" lon="2.2507656"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

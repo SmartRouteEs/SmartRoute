@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Plessis-Pâté à Liers</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.862514</time>
+</metadata>
+<trk>
+    <name>Chemin du Plessis-Pâté à Liers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6276179" lon="2.3432615"></trkpt>
+        <trkpt lat="48.6275224" lon="2.3431908"></trkpt>
+        <trkpt lat="48.6274406" lon="2.3431074"></trkpt>
+        <trkpt lat="48.6272572" lon="2.3428606"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

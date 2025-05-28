@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Petit Mont Rouget</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.166945</time>
+</metadata>
+<trk>
+    <name>Chemin du Petit Mont Rouget</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4199359" lon="2.5324385"></trkpt>
+        <trkpt lat="48.4194653" lon="2.5323523"></trkpt>
+        <trkpt lat="48.4188495" lon="2.5321155"></trkpt>
+        <trkpt lat="48.418052" lon="2.5317673"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

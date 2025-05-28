@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Suresnes</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.912289</time>
+</metadata>
+<trk>
+    <name>Route de Suresnes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8637036" lon="2.243035"></trkpt>
+        <trkpt lat="48.8637709" lon="2.243139"></trkpt>
+        <trkpt lat="48.8638215" lon="2.2432293"></trkpt>
+        <trkpt lat="48.8640886" lon="2.2439835"></trkpt>
+        <trkpt lat="48.8644411" lon="2.244813"></trkpt>
+        <trkpt lat="48.8645885" lon="2.2451921"></trkpt>
+        <trkpt lat="48.8646369" lon="2.2455687"></trkpt>
+        <trkpt lat="48.8646804" lon="2.2460556"></trkpt>
+        <trkpt lat="48.8646972" lon="2.2466596"></trkpt>
+        <trkpt lat="48.8646215" lon="2.2477533"></trkpt>
+        <trkpt lat="48.8646391" lon="2.2480929"></trkpt>
+        <trkpt lat="48.8646436" lon="2.2481797"></trkpt>
+        <trkpt lat="48.864816" lon="2.2488505"></trkpt>
+        <trkpt lat="48.8648806" lon="2.2490547"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

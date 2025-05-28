@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Favreuse à Igny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.783079</time>
+</metadata>
+<trk>
+    <name>Chemin de Favreuse à Igny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7407546" lon="2.2101849"></trkpt>
+        <trkpt lat="48.7407548" lon="2.2101514"></trkpt>
+        <trkpt lat="48.7407575" lon="2.2100302"></trkpt>
+        <trkpt lat="48.740762" lon="2.2098052"></trkpt>
+        <trkpt lat="48.7407716" lon="2.2094356"></trkpt>
+        <trkpt lat="48.7410237" lon="2.2066411"></trkpt>
+        <trkpt lat="48.7411984" lon="2.2047822"></trkpt>
+        <trkpt lat="48.7413809" lon="2.2029067"></trkpt>
+        <trkpt lat="48.7414834" lon="2.2019403"></trkpt>
+        <trkpt lat="48.7415414" lon="2.2013997"></trkpt>
+        <trkpt lat="48.7415495" lon="2.2013241"></trkpt>
+        <trkpt lat="48.7415047" lon="2.2008218"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

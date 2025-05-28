@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Privé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.742151</time>
+</metadata>
+<trk>
+    <name>Chemin Privé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8011677" lon="2.9737752"></trkpt>
+        <trkpt lat="48.80091" lon="2.9737546"></trkpt>
+        <trkpt lat="48.8006106" lon="2.973835"></trkpt>
+        <trkpt lat="48.8004109" lon="2.9738283"></trkpt>
+        <trkpt lat="48.8002811" lon="2.9738297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

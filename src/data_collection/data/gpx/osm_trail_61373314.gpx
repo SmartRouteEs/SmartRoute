@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Grand Ha-Ha</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.060836</time>
+</metadata>
+<trk>
+    <name>Allée du Grand Ha-Ha</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7250324" lon="2.4763963"></trkpt>
+        <trkpt lat="48.7250274" lon="2.4760254"></trkpt>
+        <trkpt lat="48.7250115" lon="2.4759155"></trkpt>
+        <trkpt lat="48.7249407" lon="2.4757009"></trkpt>
+        <trkpt lat="48.7248549" lon="2.4752824"></trkpt>
+        <trkpt lat="48.7246856" lon="2.4740728"></trkpt>
+        <trkpt lat="48.7245772" lon="2.4733544"></trkpt>
+        <trkpt lat="48.7245303" lon="2.473008"></trkpt>
+        <trkpt lat="48.7244095" lon="2.4721432"></trkpt>
+        <trkpt lat="48.7243232" lon="2.471514"></trkpt>
+        <trkpt lat="48.7243193" lon="2.4714084"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

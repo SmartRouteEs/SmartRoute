@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 1262</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.794900</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 1262</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3428526" lon="2.6295826"></trkpt>
+        <trkpt lat="48.3427385" lon="2.6253941"></trkpt>
+        <trkpt lat="48.3426529" lon="2.6218407"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

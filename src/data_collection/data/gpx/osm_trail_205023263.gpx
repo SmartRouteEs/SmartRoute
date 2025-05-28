@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bel-Ébat</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route du Bel-Ébat</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4190544" lon="2.7448572"></trkpt>
+        <trkpt lat="48.4184269" lon="2.7436845"></trkpt>
+        <trkpt lat="48.4176756" lon="2.7422554"></trkpt>
+        <trkpt lat="48.4170621" lon="2.7411712"></trkpt>
+        <trkpt lat="48.4163876" lon="2.739979"></trkpt>
+        <trkpt lat="48.4162736" lon="2.7397776"></trkpt>
+        <trkpt lat="48.4162154" lon="2.7396731"></trkpt>
+        <trkpt lat="48.4162003" lon="2.739648"></trkpt>
+        <trkpt lat="48.4161556" lon="2.7394358"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

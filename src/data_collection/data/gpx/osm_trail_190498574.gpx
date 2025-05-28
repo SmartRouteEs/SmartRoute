@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Orée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.630234</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Orée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4465919" lon="2.7458644"></trkpt>
+        <trkpt lat="48.4469489" lon="2.7443115"></trkpt>
+        <trkpt lat="48.4467746" lon="2.7438113"></trkpt>
+        <trkpt lat="48.4474932" lon="2.7438707"></trkpt>
+        <trkpt lat="48.4476396" lon="2.7439708"></trkpt>
+        <trkpt lat="48.4478172" lon="2.743884"></trkpt>
+        <trkpt lat="48.4480176" lon="2.7439619"></trkpt>
+        <trkpt lat="48.4482392" lon="2.7441356"></trkpt>
+        <trkpt lat="48.4483099" lon="2.7443204"></trkpt>
+        <trkpt lat="48.4483255" lon="2.7444811"></trkpt>
+        <trkpt lat="48.4486652" lon="2.744672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

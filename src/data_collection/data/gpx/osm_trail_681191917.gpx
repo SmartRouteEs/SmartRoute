@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin andré courrèges</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.086558</time>
+</metadata>
+<trk>
+    <name>chemin andré courrèges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.226121" lon="3.2123864"></trkpt>
+        <trkpt lat="48.2272541" lon="3.2127892"></trkpt>
+        <trkpt lat="48.2271063" lon="3.2138438"></trkpt>
+        <trkpt lat="48.2268168" lon="3.2155397"></trkpt>
+        <trkpt lat="48.226576" lon="3.217122"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

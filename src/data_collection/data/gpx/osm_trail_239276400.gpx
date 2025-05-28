@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Larchant à Grez</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.240224</time>
+</metadata>
+<trk>
+    <name>Chemin de Larchant à Grez</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3029491" lon="2.6637516"></trkpt>
+        <trkpt lat="48.3028827" lon="2.6636189"></trkpt>
+        <trkpt lat="48.301445" lon="2.6607475"></trkpt>
+        <trkpt lat="48.3006706" lon="2.659189"></trkpt>
+        <trkpt lat="48.3001247" lon="2.6579338"></trkpt>
+        <trkpt lat="48.2995085" lon="2.6566438"></trkpt>
+        <trkpt lat="48.2993923" lon="2.65634"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

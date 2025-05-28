@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Sampité</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.275567</time>
+</metadata>
+<trk>
+    <name>Route Sampité</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4544836" lon="2.6503265"></trkpt>
+        <trkpt lat="48.455051" lon="2.6541922"></trkpt>
+        <trkpt lat="48.4553872" lon="2.6553443"></trkpt>
+        <trkpt lat="48.4575185" lon="2.6575671"></trkpt>
+        <trkpt lat="48.4575454" lon="2.6578951"></trkpt>
+        <trkpt lat="48.4576628" lon="2.6580998"></trkpt>
+        <trkpt lat="48.4578934" lon="2.6581577"></trkpt>
+        <trkpt lat="48.4582121" lon="2.6587407"></trkpt>
+        <trkpt lat="48.458526" lon="2.6593697"></trkpt>
+        <trkpt lat="48.458526" lon="2.6598608"></trkpt>
+        <trkpt lat="48.4585885" lon="2.6606718"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

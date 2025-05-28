@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Fourneau David</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route du Fourneau David</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4224119" lon="2.6306579"></trkpt>
+        <trkpt lat="48.4221452" lon="2.6306689"></trkpt>
+        <trkpt lat="48.4213477" lon="2.6308921"></trkpt>
+        <trkpt lat="48.4203924" lon="2.6310284"></trkpt>
+        <trkpt lat="48.4192002" lon="2.6312182"></trkpt>
+        <trkpt lat="48.417334" lon="2.6315847"></trkpt>
+        <trkpt lat="48.4161772" lon="2.6317996"></trkpt>
+        <trkpt lat="48.4152267" lon="2.6319532"></trkpt>
+        <trkpt lat="48.4150371" lon="2.6319838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

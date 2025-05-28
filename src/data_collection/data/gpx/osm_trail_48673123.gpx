@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pavillon Chinois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.756377</time>
+</metadata>
+<trk>
+    <name>Route du Pavillon Chinois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4481373" lon="2.720468"></trkpt>
+        <trkpt lat="48.4481098" lon="2.7201921"></trkpt>
+        <trkpt lat="48.4480623" lon="2.7197165"></trkpt>
+        <trkpt lat="48.4483521" lon="2.7170137"></trkpt>
+        <trkpt lat="48.4488295" lon="2.71278"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

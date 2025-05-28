@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Haie Basse</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.094112</time>
+</metadata>
+<trk>
+    <name>Chemin de la Haie Basse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4721335" lon="3.2486527"></trkpt>
+        <trkpt lat="48.4715894" lon="3.2487103"></trkpt>
+        <trkpt lat="48.4706642" lon="3.2488143"></trkpt>
+        <trkpt lat="48.4704939" lon="3.2488579"></trkpt>
+        <trkpt lat="48.4703205" lon="3.2489169"></trkpt>
+        <trkpt lat="48.4698057" lon="3.2491153"></trkpt>
+        <trkpt lat="48.4685621" lon="3.2496117"></trkpt>
+        <trkpt lat="48.4684475" lon="3.2496615"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural des Contr' Ouches</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.753835</time>
+</metadata>
+<trk>
+    <name>Chemin rural des Contr' Ouches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3143822" lon="2.5699785"></trkpt>
+        <trkpt lat="48.3142032" lon="2.5697691"></trkpt>
+        <trkpt lat="48.3133612" lon="2.5686963"></trkpt>
+        <trkpt lat="48.3123708" lon="2.5672602"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

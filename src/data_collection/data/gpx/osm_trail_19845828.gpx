@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont Saint-Germain</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route du Mont Saint-Germain</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4428478" lon="2.6799216"></trkpt>
+        <trkpt lat="48.4429417" lon="2.6796444"></trkpt>
+        <trkpt lat="48.4431818" lon="2.6792054"></trkpt>
+        <trkpt lat="48.4432133" lon="2.6791054"></trkpt>
+        <trkpt lat="48.4432278" lon="2.6790046"></trkpt>
+        <trkpt lat="48.4432251" lon="2.6789021"></trkpt>
+        <trkpt lat="48.443216" lon="2.6788005"></trkpt>
+        <trkpt lat="48.4431932" lon="2.6783562"></trkpt>
+        <trkpt lat="48.4431555" lon="2.678177"></trkpt>
+        <trkpt lat="48.4433985" lon="2.6767285"></trkpt>
+        <trkpt lat="48.4435124" lon="2.6764107"></trkpt>
+        <trkpt lat="48.4439393" lon="2.6731246"></trkpt>
+        <trkpt lat="48.4438868" lon="2.6724182"></trkpt>
+        <trkpt lat="48.4438564" lon="2.6718288"></trkpt>
+        <trkpt lat="48.4438033" lon="2.6706089"></trkpt>
+        <trkpt lat="48.4437903" lon="2.6701826"></trkpt>
+        <trkpt lat="48.44376" lon="2.6698786"></trkpt>
+        <trkpt lat="48.4437483" lon="2.6697301"></trkpt>
+        <trkpt lat="48.4437438" lon="2.6695698"></trkpt>
+        <trkpt lat="48.4437456" lon="2.6694191"></trkpt>
+        <trkpt lat="48.4437845" lon="2.6693196"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

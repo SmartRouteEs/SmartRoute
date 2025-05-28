@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Futaie</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.935941</time>
+</metadata>
+<trk>
+    <name>Allée de la Futaie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5502751" lon="2.6124733"></trkpt>
+        <trkpt lat="48.5504895" lon="2.6125202"></trkpt>
+        <trkpt lat="48.5508162" lon="2.6125457"></trkpt>
+        <trkpt lat="48.5529933" lon="2.6125427"></trkpt>
+        <trkpt lat="48.5543023" lon="2.6126342"></trkpt>
+        <trkpt lat="48.555736" lon="2.6127344"></trkpt>
+        <trkpt lat="48.5558317" lon="2.6128064"></trkpt>
+        <trkpt lat="48.5567362" lon="2.6129964"></trkpt>
+        <trkpt lat="48.5575201" lon="2.6130669"></trkpt>
+        <trkpt lat="48.5580385" lon="2.6131135"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

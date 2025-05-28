@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente du Lavoir Saint Amélie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.700591</time>
+</metadata>
+<trk>
+    <name>Sente du Lavoir Saint Amélie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6914816" lon="2.2594578"></trkpt>
+        <trkpt lat="48.6913056" lon="2.2593397"></trkpt>
+        <trkpt lat="48.6911193" lon="2.2592379"></trkpt>
+        <trkpt lat="48.6910057" lon="2.2592101"></trkpt>
+        <trkpt lat="48.6909015" lon="2.2591612"></trkpt>
+        <trkpt lat="48.6906975" lon="2.2590302"></trkpt>
+        <trkpt lat="48.6906154" lon="2.2589701"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

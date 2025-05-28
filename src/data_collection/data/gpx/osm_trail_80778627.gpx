@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Platanes</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.409581</time>
+</metadata>
+<trk>
+    <name>Allée des Platanes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5627231" lon="2.419053"></trkpt>
+        <trkpt lat="48.561352" lon="2.4208966"></trkpt>
+        <trkpt lat="48.5606247" lon="2.4218545"></trkpt>
+        <trkpt lat="48.5592786" lon="2.4236279"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Arpajon à Lardy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.345603</time>
+</metadata>
+<trk>
+    <name>Chemin d'Arpajon à Lardy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5592165" lon="2.2615715"></trkpt>
+        <trkpt lat="48.5591613" lon="2.2615646"></trkpt>
+        <trkpt lat="48.5590257" lon="2.2614587"></trkpt>
+        <trkpt lat="48.5587344" lon="2.2612196"></trkpt>
+        <trkpt lat="48.5585116" lon="2.2610683"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

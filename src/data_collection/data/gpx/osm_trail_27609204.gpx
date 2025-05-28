@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 835</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.621261</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 835</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8202871" lon="2.7088326"></trkpt>
+        <trkpt lat="48.8201458" lon="2.7085416"></trkpt>
+        <trkpt lat="48.8200107" lon="2.7083284"></trkpt>
+        <trkpt lat="48.8198527" lon="2.7081633"></trkpt>
+        <trkpt lat="48.8197434" lon="2.7081105"></trkpt>
+        <trkpt lat="48.8196612" lon="2.7080829"></trkpt>
+        <trkpt lat="48.8195538" lon="2.7080743"></trkpt>
+        <trkpt lat="48.8192906" lon="2.7080637"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

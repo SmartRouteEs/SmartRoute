@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Moulière du Bois de Percy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.840878</time>
+</metadata>
+<trk>
+    <name>Chemin de la Moulière du Bois de Percy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2976529" lon="3.131476"></trkpt>
+        <trkpt lat="48.2971326" lon="3.1313731"></trkpt>
+        <trkpt lat="48.2968039" lon="3.1312393"></trkpt>
+        <trkpt lat="48.2965437" lon="3.1313422"></trkpt>
+        <trkpt lat="48.2962973" lon="3.1315378"></trkpt>
+        <trkpt lat="48.2959001" lon="3.1315069"></trkpt>
+        <trkpt lat="48.295325" lon="3.1313525"></trkpt>
+        <trkpt lat="48.2945855" lon="3.1305806"></trkpt>
+        <trkpt lat="48.2941964" lon="3.1303376"></trkpt>
+        <trkpt lat="48.2923122" lon="3.1291604"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix Boissée</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.101661</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix Boissée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4014331" lon="2.2643083"></trkpt>
+        <trkpt lat="48.4014798" lon="2.2641059"></trkpt>
+        <trkpt lat="48.4015179" lon="2.2639076"></trkpt>
+        <trkpt lat="48.4015404" lon="2.2634892"></trkpt>
+        <trkpt lat="48.4015717" lon="2.2625949"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Roche-qui-Tourne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.804867</time>
+</metadata>
+<trk>
+    <name>Chemin de la Roche-qui-Tourne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4182053" lon="2.530613"></trkpt>
+        <trkpt lat="48.4181498" lon="2.5311935"></trkpt>
+        <trkpt lat="48.418052" lon="2.5317673"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

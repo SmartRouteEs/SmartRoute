@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Jean</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.690188</time>
+</metadata>
+<trk>
+    <name>Route Jean</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4071806" lon="2.6481033"></trkpt>
+        <trkpt lat="48.4067454" lon="2.648142"></trkpt>
+        <trkpt lat="48.4066004" lon="2.6481176"></trkpt>
+        <trkpt lat="48.4065038" lon="2.6481497"></trkpt>
+        <trkpt lat="48.4064514" lon="2.6481904"></trkpt>
+        <trkpt lat="48.4064013" lon="2.6481902"></trkpt>
+        <trkpt lat="48.4063279" lon="2.6480967"></trkpt>
+        <trkpt lat="48.4062512" lon="2.6480601"></trkpt>
+        <trkpt lat="48.4061847" lon="2.6480405"></trkpt>
+        <trkpt lat="48.4057719" lon="2.6479075"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

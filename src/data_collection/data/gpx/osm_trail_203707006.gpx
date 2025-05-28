@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Petits Clos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.058175</time>
+</metadata>
+<trk>
+    <name>Sentier des Petits Clos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8827682" lon="2.5319948"></trkpt>
+        <trkpt lat="48.882716" lon="2.5321679"></trkpt>
+        <trkpt lat="48.8825952" lon="2.5325659"></trkpt>
+        <trkpt lat="48.8824896" lon="2.5329138"></trkpt>
+        <trkpt lat="48.8824844" lon="2.5329273"></trkpt>
+        <trkpt lat="48.8824785" lon="2.5329345"></trkpt>
+        <trkpt lat="48.8824697" lon="2.5329319"></trkpt>
+        <trkpt lat="48.8822543" lon="2.5327726"></trkpt>
+        <trkpt lat="48.882038" lon="2.5326092"></trkpt>
+        <trkpt lat="48.8820084" lon="2.5325849"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

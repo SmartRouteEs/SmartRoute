@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Renauderie</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.809681</time>
+</metadata>
+<trk>
+    <name>Chemin de la Renauderie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2088658" lon="3.0726792"></trkpt>
+        <trkpt lat="48.2081535" lon="3.0718552"></trkpt>
+        <trkpt lat="48.2076186" lon="3.0711413"></trkpt>
+        <trkpt lat="48.2072614" lon="3.0707653"></trkpt>
+        <trkpt lat="48.2068196" lon="3.0703515"></trkpt>
+        <trkpt lat="48.20677" lon="3.0702197"></trkpt>
+        <trkpt lat="48.2068154" lon="3.0701395"></trkpt>
+        <trkpt lat="48.20687" lon="3.0700779"></trkpt>
+        <trkpt lat="48.2083269" lon="3.0689367"></trkpt>
+        <trkpt lat="48.2087443" lon="3.0687083"></trkpt>
+        <trkpt lat="48.2088907" lon="3.0686805"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

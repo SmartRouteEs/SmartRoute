@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie des Prés</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.546552</time>
+</metadata>
+<trk>
+    <name>Voie des Prés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6888116" lon="2.3072328"></trkpt>
+        <trkpt lat="48.6888427" lon="2.3073367"></trkpt>
+        <trkpt lat="48.6888887" lon="2.3074951"></trkpt>
+        <trkpt lat="48.6889153" lon="2.3076545"></trkpt>
+        <trkpt lat="48.688933" lon="2.3077565"></trkpt>
+        <trkpt lat="48.6889259" lon="2.307943"></trkpt>
+        <trkpt lat="48.6888923" lon="2.3082205"></trkpt>
+        <trkpt lat="48.6888454" lon="2.3084177"></trkpt>
+        <trkpt lat="48.6888126" lon="2.3086416"></trkpt>
+        <trkpt lat="48.6887984" lon="2.3088428"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Lance</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.792225</time>
+</metadata>
+<trk>
+    <name>Route du Lance</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4038188" lon="2.6554079"></trkpt>
+        <trkpt lat="48.4038566" lon="2.6558299"></trkpt>
+        <trkpt lat="48.4040434" lon="2.6564437"></trkpt>
+        <trkpt lat="48.4046773" lon="2.6574302"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

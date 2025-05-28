@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lagny</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.721672</time>
+</metadata>
+<trk>
+    <name>Chemin de Lagny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6810456" lon="2.562824"></trkpt>
+        <trkpt lat="48.6810966" lon="2.5627629"></trkpt>
+        <trkpt lat="48.6811874" lon="2.5626653"></trkpt>
+        <trkpt lat="48.6812668" lon="2.562631"></trkpt>
+        <trkpt lat="48.6815161" lon="2.5625623"></trkpt>
+        <trkpt lat="48.6816295" lon="2.5625451"></trkpt>
+        <trkpt lat="48.6816648" lon="2.5625424"></trkpt>
+        <trkpt lat="48.6818854" lon="2.5625253"></trkpt>
+        <trkpt lat="48.6820084" lon="2.5625473"></trkpt>
+        <trkpt lat="48.6821965" lon="2.5625922"></trkpt>
+        <trkpt lat="48.6822294" lon="2.562607"></trkpt>
+        <trkpt lat="48.6823221" lon="2.5626548"></trkpt>
+        <trkpt lat="48.6824543" lon="2.5627797"></trkpt>
+        <trkpt lat="48.6826522" lon="2.5629838"></trkpt>
+        <trkpt lat="48.6828222" lon="2.5631084"></trkpt>
+        <trkpt lat="48.6828822" lon="2.5631459"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

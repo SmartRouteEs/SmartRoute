@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Embrassade</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.204634</time>
+</metadata>
+<trk>
+    <name>Route de l'Embrassade</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3781945" lon="2.6754504"></trkpt>
+        <trkpt lat="48.3781985" lon="2.6751142"></trkpt>
+        <trkpt lat="48.3782912" lon="2.6748953"></trkpt>
+        <trkpt lat="48.3783171" lon="2.6745708"></trkpt>
+        <trkpt lat="48.3783362" lon="2.6742244"></trkpt>
+        <trkpt lat="48.3779701" lon="2.6724868"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

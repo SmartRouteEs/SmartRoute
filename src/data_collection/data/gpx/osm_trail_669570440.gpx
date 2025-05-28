@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Meute</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.936905</time>
+</metadata>
+<trk>
+    <name>Route de la Meute</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4427893" lon="2.700762"></trkpt>
+        <trkpt lat="48.4435269" lon="2.6996184"></trkpt>
+        <trkpt lat="48.4446422" lon="2.6978909"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

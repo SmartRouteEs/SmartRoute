@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Bertou</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.710135</time>
+</metadata>
+<trk>
+    <name>Sentier du Bertou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7637442" lon="2.5245327"></trkpt>
+        <trkpt lat="48.7634305" lon="2.5247925"></trkpt>
+        <trkpt lat="48.7632696" lon="2.5249196"></trkpt>
+        <trkpt lat="48.7632433" lon="2.5249202"></trkpt>
+        <trkpt lat="48.7632236" lon="2.5248951"></trkpt>
+        <trkpt lat="48.763121" lon="2.5245676"></trkpt>
+        <trkpt lat="48.7620988" lon="2.5250282"></trkpt>
+        <trkpt lat="48.7614056" lon="2.5253763"></trkpt>
+        <trkpt lat="48.761318" lon="2.5253641"></trkpt>
+        <trkpt lat="48.7611645" lon="2.525323"></trkpt>
+        <trkpt lat="48.7604607" lon="2.5254555"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

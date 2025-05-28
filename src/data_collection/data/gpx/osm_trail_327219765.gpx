@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Trappe-Charette</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.596227</time>
+</metadata>
+<trk>
+    <name>Chemin de Trappe-Charette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3973415" lon="2.5434476"></trkpt>
+        <trkpt lat="48.3972827" lon="2.5437383"></trkpt>
+        <trkpt lat="48.3970796" lon="2.5452555"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

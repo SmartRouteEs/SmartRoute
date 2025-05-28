@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Pâturotte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Rue de la Pâturotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4254033" lon="3.0976041"></trkpt>
+        <trkpt lat="48.4250714" lon="3.0976556"></trkpt>
+        <trkpt lat="48.4247215" lon="3.097698"></trkpt>
+        <trkpt lat="48.424458" lon="3.0976495"></trkpt>
+        <trkpt lat="48.4234885" lon="3.0971009"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

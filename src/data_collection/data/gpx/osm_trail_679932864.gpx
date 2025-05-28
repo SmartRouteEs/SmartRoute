@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural Numéro 33 de la Plesse aux Gelles</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.069082</time>
+</metadata>
+<trk>
+    <name>Chemin Rural Numéro 33 de la Plesse aux Gelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6930682" lon="2.2251506"></trkpt>
+        <trkpt lat="48.6930408" lon="2.2251633"></trkpt>
+        <trkpt lat="48.6928513" lon="2.2251391"></trkpt>
+        <trkpt lat="48.6926707" lon="2.2250855"></trkpt>
+        <trkpt lat="48.6923202" lon="2.225107"></trkpt>
+        <trkpt lat="48.6921573" lon="2.2251405"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

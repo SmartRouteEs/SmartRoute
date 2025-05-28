@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Reine</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.792809</time>
+</metadata>
+<trk>
+    <name>Route de la Reine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4261337" lon="2.6768074"></trkpt>
+        <trkpt lat="48.4261095" lon="2.6765081"></trkpt>
+        <trkpt lat="48.4261477" lon="2.6761403"></trkpt>
+        <trkpt lat="48.4261446" lon="2.6758792"></trkpt>
+        <trkpt lat="48.4261728" lon="2.6756322"></trkpt>
+        <trkpt lat="48.4262764" lon="2.6751239"></trkpt>
+        <trkpt lat="48.4264202" lon="2.6746545"></trkpt>
+        <trkpt lat="48.4265295" lon="2.6742914"></trkpt>
+        <trkpt lat="48.4265813" lon="2.6740161"></trkpt>
+        <trkpt lat="48.4266326" lon="2.6738526"></trkpt>
+        <trkpt lat="48.4266675" lon="2.6736769"></trkpt>
+        <trkpt lat="48.4266898" lon="2.673102"></trkpt>
+        <trkpt lat="48.4267421" lon="2.6725723"></trkpt>
+        <trkpt lat="48.4272381" lon="2.6700686"></trkpt>
+        <trkpt lat="48.4276033" lon="2.6683136"></trkpt>
+        <trkpt lat="48.4279528" lon="2.6669679"></trkpt>
+        <trkpt lat="48.4280874" lon="2.6665251"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

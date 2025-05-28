@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 438</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.490296</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 438</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8383521" lon="2.2161898"></trkpt>
+        <trkpt lat="48.8383983" lon="2.2161906"></trkpt>
+        <trkpt lat="48.8387553" lon="2.2161961"></trkpt>
+        <trkpt lat="48.8395895" lon="2.2162084"></trkpt>
+        <trkpt lat="48.8397876" lon="2.216212"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

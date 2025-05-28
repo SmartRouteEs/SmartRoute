@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Comté</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.036338</time>
+</metadata>
+<trk>
+    <name>Chemin de la Comté</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5085484" lon="2.2274149"></trkpt>
+        <trkpt lat="48.5082529" lon="2.2281806"></trkpt>
+        <trkpt lat="48.5079467" lon="2.2292366"></trkpt>
+        <trkpt lat="48.5074851" lon="2.2307512"></trkpt>
+        <trkpt lat="48.5073914" lon="2.231024"></trkpt>
+        <trkpt lat="48.5069057" lon="2.2321572"></trkpt>
+        <trkpt lat="48.5066758" lon="2.2325065"></trkpt>
+        <trkpt lat="48.5059788" lon="2.2334145"></trkpt>
+        <trkpt lat="48.5053982" lon="2.2341833"></trkpt>
+        <trkpt lat="48.505031" lon="2.2346663"></trkpt>
+        <trkpt lat="48.5045963" lon="2.2351405"></trkpt>
+        <trkpt lat="48.5040198" lon="2.2357002"></trkpt>
+        <trkpt lat="48.5037133" lon="2.2361564"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 9271</name>
+    <desc>Sentier VTT - Type: track - Surface: grass_paver - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.581919</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 9271</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8150412" lon="3.0371413"></trkpt>
+        <trkpt lat="48.8149705" lon="3.0372271"></trkpt>
+        <trkpt lat="48.8136928" lon="3.037542"></trkpt>
+        <trkpt lat="48.8128765" lon="3.0378918"></trkpt>
+        <trkpt lat="48.8123678" lon="3.0381512"></trkpt>
+        <trkpt lat="48.8118529" lon="3.0382319"></trkpt>
+        <trkpt lat="48.8116639" lon="3.0382064"></trkpt>
+        <trkpt lat="48.8108137" lon="3.0380961"></trkpt>
+        <trkpt lat="48.8107022" lon="3.0381345"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

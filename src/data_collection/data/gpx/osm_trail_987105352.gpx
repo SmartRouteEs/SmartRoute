@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente des Gresles</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.028972</time>
+</metadata>
+<trk>
+    <name>Sente des Gresles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.682185" lon="2.5637914"></trkpt>
+        <trkpt lat="48.6821991" lon="2.5638318"></trkpt>
+        <trkpt lat="48.6821473" lon="2.564189"></trkpt>
+        <trkpt lat="48.682171" lon="2.5642979"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

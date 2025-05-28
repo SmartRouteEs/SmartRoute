@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Plaisirs du Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.746588</time>
+</metadata>
+<trk>
+    <name>Route des Plaisirs du Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.467797" lon="2.63276"></trkpt>
+        <trkpt lat="48.4674583" lon="2.6341173"></trkpt>
+        <trkpt lat="48.4674769" lon="2.6367095"></trkpt>
+        <trkpt lat="48.4672399" lon="2.6384353"></trkpt>
+        <trkpt lat="48.4670066" lon="2.640164"></trkpt>
+        <trkpt lat="48.4670008" lon="2.640406"></trkpt>
+        <trkpt lat="48.4669459" lon="2.6406039"></trkpt>
+        <trkpt lat="48.4668878" lon="2.6411708"></trkpt>
+        <trkpt lat="48.4668838" lon="2.6413214"></trkpt>
+        <trkpt lat="48.4667701" lon="2.6419461"></trkpt>
+        <trkpt lat="48.4667649" lon="2.6420973"></trkpt>
+        <trkpt lat="48.466623" lon="2.6425958"></trkpt>
+        <trkpt lat="48.4665879" lon="2.6428264"></trkpt>
+        <trkpt lat="48.4665843" lon="2.6429667"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

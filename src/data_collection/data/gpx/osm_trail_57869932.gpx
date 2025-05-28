@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Fond Ramont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.994788</time>
+</metadata>
+<trk>
+    <name>Allée de Fond Ramont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5409579" lon="2.2712668"></trkpt>
+        <trkpt lat="48.5408519" lon="2.2709407"></trkpt>
+        <trkpt lat="48.5407425" lon="2.2707107"></trkpt>
+        <trkpt lat="48.5406692" lon="2.2705989"></trkpt>
+        <trkpt lat="48.540516" lon="2.2704816"></trkpt>
+        <trkpt lat="48.5400647" lon="2.2701834"></trkpt>
+        <trkpt lat="48.5395702" lon="2.2698567"></trkpt>
+        <trkpt lat="48.5391522" lon="2.2695494"></trkpt>
+        <trkpt lat="48.5374673" lon="2.2684814"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

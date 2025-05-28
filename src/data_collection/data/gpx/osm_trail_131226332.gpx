@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie Douce</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.030902</time>
+</metadata>
+<trk>
+    <name>Voie Douce</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.414036" lon="2.7330616"></trkpt>
+        <trkpt lat="48.4140496" lon="2.7331052"></trkpt>
+        <trkpt lat="48.4140627" lon="2.7331236"></trkpt>
+        <trkpt lat="48.4143172" lon="2.733856"></trkpt>
+        <trkpt lat="48.4143165" lon="2.7339909"></trkpt>
+        <trkpt lat="48.4146118" lon="2.7346921"></trkpt>
+        <trkpt lat="48.4154591" lon="2.735706"></trkpt>
+        <trkpt lat="48.4155426" lon="2.7357434"></trkpt>
+        <trkpt lat="48.4169011" lon="2.7363524"></trkpt>
+        <trkpt lat="48.417442" lon="2.7366014"></trkpt>
+        <trkpt lat="48.4176274" lon="2.7368025"></trkpt>
+        <trkpt lat="48.4177257" lon="2.7369718"></trkpt>
+        <trkpt lat="48.4179205" lon="2.7373046"></trkpt>
+        <trkpt lat="48.418055" lon="2.7375964"></trkpt>
+        <trkpt lat="48.418075" lon="2.7376366"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

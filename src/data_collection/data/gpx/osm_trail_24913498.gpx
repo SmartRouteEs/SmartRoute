@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Sylvie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.549379</time>
+</metadata>
+<trk>
+    <name>Route Sylvie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7411508" lon="2.5761312"></trkpt>
+        <trkpt lat="48.7401658" lon="2.5801073"></trkpt>
+        <trkpt lat="48.7397237" lon="2.5818917"></trkpt>
+        <trkpt lat="48.739207" lon="2.5839774"></trkpt>
+        <trkpt lat="48.7388499" lon="2.5854189"></trkpt>
+        <trkpt lat="48.7387417" lon="2.586017"></trkpt>
+        <trkpt lat="48.7384599" lon="2.5871816"></trkpt>
+        <trkpt lat="48.7374678" lon="2.591349"></trkpt>
+        <trkpt lat="48.736451" lon="2.5957518"></trkpt>
+        <trkpt lat="48.7363887" lon="2.5960216"></trkpt>
+        <trkpt lat="48.7361694" lon="2.5961289"></trkpt>
+        <trkpt lat="48.7361244" lon="2.5964792"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Poncets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.268620</time>
+</metadata>
+<trk>
+    <name>Chemin des Poncets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.908136" lon="3.2007915"></trkpt>
+        <trkpt lat="48.908104" lon="3.2008544"></trkpt>
+        <trkpt lat="48.908387" lon="3.2025754"></trkpt>
+        <trkpt lat="48.9086111" lon="3.2030956"></trkpt>
+        <trkpt lat="48.9086771" lon="3.2041655"></trkpt>
+        <trkpt lat="48.9088362" lon="3.204593"></trkpt>
+        <trkpt lat="48.9089846" lon="3.205094"></trkpt>
+        <trkpt lat="48.9091316" lon="3.2061008"></trkpt>
+        <trkpt lat="48.9092717" lon="3.2065015"></trkpt>
+        <trkpt lat="48.9093675" lon="3.2069395"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

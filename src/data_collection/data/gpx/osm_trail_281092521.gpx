@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Bourette</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.294603</time>
+</metadata>
+<trk>
+    <name>Allée Bourette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5902924" lon="2.5338887"></trkpt>
+        <trkpt lat="48.5903518" lon="2.5338418"></trkpt>
+        <trkpt lat="48.593669" lon="2.5309667"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

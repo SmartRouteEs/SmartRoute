@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Boissière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.737491</time>
+</metadata>
+<trk>
+    <name>Chemin de la Boissière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6203657" lon="2.2790086"></trkpt>
+        <trkpt lat="48.6193816" lon="2.2773829"></trkpt>
+        <trkpt lat="48.6192916" lon="2.2771885"></trkpt>
+        <trkpt lat="48.6192017" lon="2.276965"></trkpt>
+        <trkpt lat="48.6190575" lon="2.2765687"></trkpt>
+        <trkpt lat="48.618889" lon="2.2760687"></trkpt>
+        <trkpt lat="48.6187819" lon="2.2757663"></trkpt>
+        <trkpt lat="48.6186177" lon="2.2753052"></trkpt>
+        <trkpt lat="48.6186329" lon="2.2752642"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

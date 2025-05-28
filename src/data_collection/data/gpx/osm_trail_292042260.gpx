@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rocher Cailleau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.590937</time>
+</metadata>
+<trk>
+    <name>Chemin du Rocher Cailleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3618152" lon="2.526982"></trkpt>
+        <trkpt lat="48.3609916" lon="2.5286019"></trkpt>
+        <trkpt lat="48.3607163" lon="2.5290164"></trkpt>
+        <trkpt lat="48.3604513" lon="2.5295488"></trkpt>
+        <trkpt lat="48.3602414" lon="2.5301582"></trkpt>
+        <trkpt lat="48.3600691" lon="2.5307672"></trkpt>
+        <trkpt lat="48.3598715" lon="2.5313336"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

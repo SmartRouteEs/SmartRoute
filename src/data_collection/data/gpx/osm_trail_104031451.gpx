@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle Poltron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.659118</time>
+</metadata>
+<trk>
+    <name>Ruelle Poltron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9178957" lon="2.5983452"></trkpt>
+        <trkpt lat="48.9178967" lon="2.598843"></trkpt>
+        <trkpt lat="48.9179242" lon="2.5990461"></trkpt>
+        <trkpt lat="48.918031" lon="2.5995012"></trkpt>
+        <trkpt lat="48.9181724" lon="2.6001039"></trkpt>
+        <trkpt lat="48.9183675" lon="2.6008164"></trkpt>
+        <trkpt lat="48.9186825" lon="2.601685"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

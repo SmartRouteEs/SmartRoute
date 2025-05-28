@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Penchard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.521270</time>
+</metadata>
+<trk>
+    <name>Chemin Penchard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7705019" lon="3.0226363"></trkpt>
+        <trkpt lat="48.7704723" lon="3.0215111"></trkpt>
+        <trkpt lat="48.7704427" lon="3.021444"></trkpt>
+        <trkpt lat="48.7703366" lon="3.0213582"></trkpt>
+        <trkpt lat="48.7703154" lon="3.0213297"></trkpt>
+        <trkpt lat="48.7703024" lon="3.0212839"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

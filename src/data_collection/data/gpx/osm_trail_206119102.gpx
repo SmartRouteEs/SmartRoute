@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Gorge aux Poiriers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.685443</time>
+</metadata>
+<trk>
+    <name>Chemin de la Gorge aux Poiriers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4163398" lon="2.5348635"></trkpt>
+        <trkpt lat="48.4157675" lon="2.5346298"></trkpt>
+        <trkpt lat="48.4155107" lon="2.5342896"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

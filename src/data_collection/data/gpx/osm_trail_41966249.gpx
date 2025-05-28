@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière d'Ormoy</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.310673</time>
+</metadata>
+<trk>
+    <name>Route Forestière d'Ormoy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6576154" lon="2.5128162"></trkpt>
+        <trkpt lat="48.6576602" lon="2.5127264"></trkpt>
+        <trkpt lat="48.6576818" lon="2.5126832"></trkpt>
+        <trkpt lat="48.6577387" lon="2.5126042"></trkpt>
+        <trkpt lat="48.6577964" lon="2.5125182"></trkpt>
+        <trkpt lat="48.6580242" lon="2.5121179"></trkpt>
+        <trkpt lat="48.6580525" lon="2.5120492"></trkpt>
+        <trkpt lat="48.6580806" lon="2.5119186"></trkpt>
+        <trkpt lat="48.658111" lon="2.5118019"></trkpt>
+        <trkpt lat="48.6581753" lon="2.5117051"></trkpt>
+        <trkpt lat="48.658221" lon="2.5116469"></trkpt>
+        <trkpt lat="48.6582846" lon="2.5116402"></trkpt>
+        <trkpt lat="48.6583473" lon="2.5116372"></trkpt>
+        <trkpt lat="48.6584447" lon="2.5116364"></trkpt>
+        <trkpt lat="48.658593" lon="2.5115391"></trkpt>
+        <trkpt lat="48.6594327" lon="2.5105214"></trkpt>
+        <trkpt lat="48.6625583" lon="2.5067835"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

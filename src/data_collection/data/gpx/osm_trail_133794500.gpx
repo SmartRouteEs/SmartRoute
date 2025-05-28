@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Maison Blanche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.062175</time>
+</metadata>
+<trk>
+    <name>Chemin de Maison Blanche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7593319" lon="2.6147594"></trkpt>
+        <trkpt lat="48.7585879" lon="2.6135962"></trkpt>
+        <trkpt lat="48.7581439" lon="2.6129007"></trkpt>
+        <trkpt lat="48.7567444" lon="2.6107851"></trkpt>
+        <trkpt lat="48.7560483" lon="2.6097287"></trkpt>
+        <trkpt lat="48.7550361" lon="2.608198"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

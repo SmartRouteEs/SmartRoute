@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière d'Etiolles</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.579799</time>
+</metadata>
+<trk>
+    <name>Route Forestière d'Etiolles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.654497" lon="2.4932274"></trkpt>
+        <trkpt lat="48.6544865" lon="2.4931519"></trkpt>
+        <trkpt lat="48.654474" lon="2.4926419"></trkpt>
+        <trkpt lat="48.6544529" lon="2.4921039"></trkpt>
+        <trkpt lat="48.6544515" lon="2.4920672"></trkpt>
+        <trkpt lat="48.6544454" lon="2.4919132"></trkpt>
+        <trkpt lat="48.6544066" lon="2.4909259"></trkpt>
+        <trkpt lat="48.6543734" lon="2.4908256"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

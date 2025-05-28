@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Inspecteur Général</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.714053</time>
+</metadata>
+<trk>
+    <name>Route de l'Inspecteur Général</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3728845" lon="2.6949803"></trkpt>
+        <trkpt lat="48.3729758" lon="2.6958383"></trkpt>
+        <trkpt lat="48.3730494" lon="2.6982042"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

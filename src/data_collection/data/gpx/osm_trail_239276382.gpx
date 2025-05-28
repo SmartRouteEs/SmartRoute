@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Chapelle à Nemours</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.234732</time>
+</metadata>
+<trk>
+    <name>Chemin de la Chapelle à Nemours</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2919785" lon="2.6589864"></trkpt>
+        <trkpt lat="48.2930133" lon="2.6560285"></trkpt>
+        <trkpt lat="48.2940464" lon="2.6509508"></trkpt>
+        <trkpt lat="48.2943803" lon="2.6493819"></trkpt>
+        <trkpt lat="48.2947761" lon="2.6471891"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Corbeil à la Forêt d'Arqueil</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.286434</time>
+</metadata>
+<trk>
+    <name>Route de Corbeil à la Forêt d'Arqueil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5892453" lon="2.5401072"></trkpt>
+        <trkpt lat="48.5892538" lon="2.540519"></trkpt>
+        <trkpt lat="48.5893097" lon="2.5425046"></trkpt>
+        <trkpt lat="48.5893284" lon="2.5431658"></trkpt>
+        <trkpt lat="48.5893619" lon="2.5443559"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

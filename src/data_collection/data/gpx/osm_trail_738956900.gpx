@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Folie Bessin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.813738</time>
+</metadata>
+<trk>
+    <name>Route de la Folie Bessin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6716466" lon="2.1895282"></trkpt>
+        <trkpt lat="48.6715874" lon="2.1902463"></trkpt>
+        <trkpt lat="48.671548" lon="2.1909684"></trkpt>
+        <trkpt lat="48.6714563" lon="2.1915704"></trkpt>
+        <trkpt lat="48.6713752" lon="2.1927864"></trkpt>
+        <trkpt lat="48.6713335" lon="2.1934116"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

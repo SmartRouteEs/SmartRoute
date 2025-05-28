@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ermites</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.687427</time>
+</metadata>
+<trk>
+    <name>Route des Ermites</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4060812" lon="2.6360698"></trkpt>
+        <trkpt lat="48.4059152" lon="2.6360047"></trkpt>
+        <trkpt lat="48.4057203" lon="2.6358514"></trkpt>
+        <trkpt lat="48.4055062" lon="2.6355451"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

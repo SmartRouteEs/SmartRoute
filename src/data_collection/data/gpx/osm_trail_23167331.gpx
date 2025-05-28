@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Patis Godeau</name>
+    <desc>Sentier VTT - Type: path - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.518209</time>
+</metadata>
+<trk>
+    <name>Chemin des Patis Godeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.392118" lon="2.5083941"></trkpt>
+        <trkpt lat="48.39214" lon="2.508603"></trkpt>
+        <trkpt lat="48.39224" lon="2.508975"></trkpt>
+        <trkpt lat="48.392553" lon="2.509809"></trkpt>
+        <trkpt lat="48.3927297" lon="2.5105744"></trkpt>
+        <trkpt lat="48.3927674" lon="2.5106589"></trkpt>
+        <trkpt lat="48.392855" lon="2.5107846"></trkpt>
+        <trkpt lat="48.3931247" lon="2.5111246"></trkpt>
+        <trkpt lat="48.393158" lon="2.5111423"></trkpt>
+        <trkpt lat="48.3931868" lon="2.5112036"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Chemin Vert</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: 1</desc>
+    <time>2025-05-28T01:16:01.602140</time>
+</metadata>
+<trk>
+    <name>Rue du Chemin Vert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8816535" lon="2.5588754"></trkpt>
+        <trkpt lat="48.8816675" lon="2.5589539"></trkpt>
+        <trkpt lat="48.8816677" lon="2.5590237"></trkpt>
+        <trkpt lat="48.8816636" lon="2.559081"></trkpt>
+        <trkpt lat="48.8816437" lon="2.5591734"></trkpt>
+        <trkpt lat="48.8816054" lon="2.5592902"></trkpt>
+        <trkpt lat="48.8815777" lon="2.5593772"></trkpt>
+        <trkpt lat="48.8815472" lon="2.5594601"></trkpt>
+        <trkpt lat="48.8815194" lon="2.5595341"></trkpt>
+        <trkpt lat="48.8814867" lon="2.5596101"></trkpt>
+        <trkpt lat="48.8814668" lon="2.5596671"></trkpt>
+        <trkpt lat="48.8814569" lon="2.5597264"></trkpt>
+        <trkpt lat="48.8814553" lon="2.5597835"></trkpt>
+        <trkpt lat="48.8814648" lon="2.5598421"></trkpt>
+        <trkpt lat="48.8814812" lon="2.5598832"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

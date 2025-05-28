@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 15643</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.217950</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 15643</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4287723" lon="2.3795734"></trkpt>
+        <trkpt lat="48.4287711" lon="2.3795262"></trkpt>
+        <trkpt lat="48.4288155" lon="2.3787403"></trkpt>
+        <trkpt lat="48.4288013" lon="2.3786276"></trkpt>
+        <trkpt lat="48.4283591" lon="2.3773251"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Pigeonnière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.372143</time>
+</metadata>
+<trk>
+    <name>Sentier de la Pigeonnière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8588254" lon="2.9452963"></trkpt>
+        <trkpt lat="48.8583852" lon="2.944926"></trkpt>
+        <trkpt lat="48.8582688" lon="2.9448523"></trkpt>
+        <trkpt lat="48.8581885" lon="2.9448523"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

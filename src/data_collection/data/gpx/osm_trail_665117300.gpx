@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chollets à Sens</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.891515</time>
+</metadata>
+<trk>
+    <name>Chemin des Chollets à Sens</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.201187" lon="3.2192382"></trkpt>
+        <trkpt lat="48.2010542" lon="3.2196901"></trkpt>
+        <trkpt lat="48.2008866" lon="3.2202605"></trkpt>
+        <trkpt lat="48.2005277" lon="3.2218558"></trkpt>
+        <trkpt lat="48.2003166" lon="3.222613"></trkpt>
+        <trkpt lat="48.1998691" lon="3.2237475"></trkpt>
+        <trkpt lat="48.1996179" lon="3.2243217"></trkpt>
+        <trkpt lat="48.1989773" lon="3.2257856"></trkpt>
+        <trkpt lat="48.1988403" lon="3.2261168"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

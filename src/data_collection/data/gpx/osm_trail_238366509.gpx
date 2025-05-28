@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Forêt de Sainte-Croix à Étampes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.088509</time>
+</metadata>
+<trk>
+    <name>Forêt de Sainte-Croix à Étampes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3863322" lon="2.2218083"></trkpt>
+        <trkpt lat="48.3863298" lon="2.2219376"></trkpt>
+        <trkpt lat="48.3863272" lon="2.2221699"></trkpt>
+        <trkpt lat="48.3863203" lon="2.222639"></trkpt>
+        <trkpt lat="48.3862669" lon="2.2229302"></trkpt>
+        <trkpt lat="48.3861738" lon="2.2232845"></trkpt>
+        <trkpt lat="48.3859978" lon="2.2238304"></trkpt>
+        <trkpt lat="48.3857799" lon="2.2244233"></trkpt>
+        <trkpt lat="48.3856207" lon="2.2248188"></trkpt>
+        <trkpt lat="48.384439" lon="2.2268621"></trkpt>
+        <trkpt lat="48.3843653" lon="2.226912"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Gorge aux Loups</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.971724</time>
+</metadata>
+<trk>
+    <name>Route de la Gorge aux Loups</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3522155" lon="2.6984298"></trkpt>
+        <trkpt lat="48.3542406" lon="2.7003257"></trkpt>
+        <trkpt lat="48.3556135" lon="2.7017406"></trkpt>
+        <trkpt lat="48.3562326" lon="2.7022672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

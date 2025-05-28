@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Chasse</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.664651</time>
+</metadata>
+<trk>
+    <name>Route de Chasse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6689338" lon="2.2635019"></trkpt>
+        <trkpt lat="48.6688027" lon="2.2635475"></trkpt>
+        <trkpt lat="48.6687354" lon="2.2635167"></trkpt>
+        <trkpt lat="48.6684414" lon="2.2631412"></trkpt>
+        <trkpt lat="48.6676841" lon="2.2622011"></trkpt>
+        <trkpt lat="48.6670211" lon="2.2613633"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

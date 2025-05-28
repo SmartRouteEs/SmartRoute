@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Vallée Creuse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.037288</time>
+</metadata>
+<trk>
+    <name>Route de la Vallée Creuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4666746" lon="2.7782565"></trkpt>
+        <trkpt lat="48.4669567" lon="2.7779126"></trkpt>
+        <trkpt lat="48.4674993" lon="2.7772692"></trkpt>
+        <trkpt lat="48.4679571" lon="2.7767235"></trkpt>
+        <trkpt lat="48.4680104" lon="2.7766679"></trkpt>
+        <trkpt lat="48.4680598" lon="2.7766316"></trkpt>
+        <trkpt lat="48.4681359" lon="2.7766091"></trkpt>
+        <trkpt lat="48.4691839" lon="2.7763265"></trkpt>
+        <trkpt lat="48.4715793" lon="2.7757177"></trkpt>
+        <trkpt lat="48.4741835" lon="2.7750457"></trkpt>
+        <trkpt lat="48.4759525" lon="2.7745853"></trkpt>
+        <trkpt lat="48.4766358" lon="2.7743906"></trkpt>
+        <trkpt lat="48.4769409" lon="2.7743393"></trkpt>
+        <trkpt lat="48.4771779" lon="2.7742548"></trkpt>
+        <trkpt lat="48.4822939" lon="2.7682402"></trkpt>
+        <trkpt lat="48.4824489" lon="2.7681671"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Malay-le-Grand à Valpéronne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.366171</time>
+</metadata>
+<trk>
+    <name>Chemin de Malay-le-Grand à Valpéronne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1580585" lon="3.345508"></trkpt>
+        <trkpt lat="48.1564113" lon="3.3440073"></trkpt>
+        <trkpt lat="48.1550776" lon="3.342428"></trkpt>
+        <trkpt lat="48.1534697" lon="3.3414097"></trkpt>
+        <trkpt lat="48.1528682" lon="3.3411575"></trkpt>
+        <trkpt lat="48.15245" lon="3.3409822"></trkpt>
+        <trkpt lat="48.1521623" lon="3.3408399"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

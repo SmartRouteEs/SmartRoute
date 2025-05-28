@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Champ de Manœuvre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.642917</time>
+</metadata>
+<trk>
+    <name>Route du Champ de Manœuvre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3783591" lon="2.6663296"></trkpt>
+        <trkpt lat="48.3784947" lon="2.6664853"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Barrière Matéo</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.159567</time>
+</metadata>
+<trk>
+    <name>Chemin de la Barrière Matéo</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.411642" lon="2.5293755"></trkpt>
+        <trkpt lat="48.4116688" lon="2.5295125"></trkpt>
+        <trkpt lat="48.4117465" lon="2.5306374"></trkpt>
+        <trkpt lat="48.4115237" lon="2.5310886"></trkpt>
+        <trkpt lat="48.4114011" lon="2.5315247"></trkpt>
+        <trkpt lat="48.4112664" lon="2.5321574"></trkpt>
+        <trkpt lat="48.4111196" lon="2.5328123"></trkpt>
+        <trkpt lat="48.411039" lon="2.5333138"></trkpt>
+        <trkpt lat="48.4110394" lon="2.5339703"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

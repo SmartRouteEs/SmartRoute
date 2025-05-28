@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Procession</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.804867</time>
+</metadata>
+<trk>
+    <name>Chemin de la Procession</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4162571" lon="2.5563451"></trkpt>
+        <trkpt lat="48.4150168" lon="2.5577875"></trkpt>
+        <trkpt lat="48.4148072" lon="2.5590321"></trkpt>
+        <trkpt lat="48.4146167" lon="2.559648"></trkpt>
+        <trkpt lat="48.4144897" lon="2.5601814"></trkpt>
+        <trkpt lat="48.4143945" lon="2.5608544"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

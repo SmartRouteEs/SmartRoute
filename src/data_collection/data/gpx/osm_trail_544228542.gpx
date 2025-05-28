@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Ratillon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.979947</time>
+</metadata>
+<trk>
+    <name>Chemin du Ratillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2783358" lon="2.4266708"></trkpt>
+        <trkpt lat="48.2783329" lon="2.4267705"></trkpt>
+        <trkpt lat="48.278332" lon="2.42686"></trkpt>
+        <trkpt lat="48.2783176" lon="2.4269658"></trkpt>
+        <trkpt lat="48.2782914" lon="2.4270809"></trkpt>
+        <trkpt lat="48.2781859" lon="2.4274642"></trkpt>
+        <trkpt lat="48.2781662" lon="2.4275578"></trkpt>
+        <trkpt lat="48.2781571" lon="2.4276614"></trkpt>
+        <trkpt lat="48.278159" lon="2.4278323"></trkpt>
+        <trkpt lat="48.2781736" lon="2.4286438"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Traverse de Morville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.617215</time>
+</metadata>
+<trk>
+    <name>Traverse de Morville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1613546" lon="2.4177255"></trkpt>
+        <trkpt lat="48.161185" lon="2.4178252"></trkpt>
+        <trkpt lat="48.161028" lon="2.4178895"></trkpt>
+        <trkpt lat="48.1603831" lon="2.4179555"></trkpt>
+        <trkpt lat="48.1598182" lon="2.418033"></trkpt>
+        <trkpt lat="48.1597744" lon="2.4181271"></trkpt>
+        <trkpt lat="48.1595785" lon="2.419261"></trkpt>
+        <trkpt lat="48.159266" lon="2.4209851"></trkpt>
+        <trkpt lat="48.1612538" lon="2.4211882"></trkpt>
+        <trkpt lat="48.161197" lon="2.4216407"></trkpt>
+        <trkpt lat="48.1612655" lon="2.4216791"></trkpt>
+        <trkpt lat="48.1617837" lon="2.4215925"></trkpt>
+        <trkpt lat="48.1622568" lon="2.4214434"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

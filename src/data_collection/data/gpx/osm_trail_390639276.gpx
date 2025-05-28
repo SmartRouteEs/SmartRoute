@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Portugal</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.459091</time>
+</metadata>
+<trk>
+    <name>Allée du Portugal</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7274197" lon="2.2867123"></trkpt>
+        <trkpt lat="48.727349" lon="2.286746"></trkpt>
+        <trkpt lat="48.7273081" lon="2.2867505"></trkpt>
+        <trkpt lat="48.7272612" lon="2.2867305"></trkpt>
+        <trkpt lat="48.7271839" lon="2.2866222"></trkpt>
+        <trkpt lat="48.7270366" lon="2.2862794"></trkpt>
+        <trkpt lat="48.7269685" lon="2.2860173"></trkpt>
+        <trkpt lat="48.7269508" lon="2.2859262"></trkpt>
+        <trkpt lat="48.7268303" lon="2.2852548"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

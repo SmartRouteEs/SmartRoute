@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Sablée</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.978448</time>
+</metadata>
+<trk>
+    <name>Route Sablée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8020994" lon="2.2039784"></trkpt>
+        <trkpt lat="48.8020835" lon="2.2039531"></trkpt>
+        <trkpt lat="48.8020541" lon="2.2039061"></trkpt>
+        <trkpt lat="48.80171" lon="2.20337"></trkpt>
+        <trkpt lat="48.8016378" lon="2.2032404"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

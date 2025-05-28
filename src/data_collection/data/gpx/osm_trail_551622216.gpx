@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Coton</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.201033</time>
+</metadata>
+<trk>
+    <name>Rue de Coton</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8919774" lon="3.2553941"></trkpt>
+        <trkpt lat="48.8925493" lon="3.2557887"></trkpt>
+        <trkpt lat="48.892753" lon="3.2559469"></trkpt>
+        <trkpt lat="48.8933597" lon="3.2563452"></trkpt>
+        <trkpt lat="48.893839" lon="3.2566466"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

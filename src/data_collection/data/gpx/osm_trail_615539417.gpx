@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Quarente Arpents</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.682179</time>
+</metadata>
+<trk>
+    <name>Chemin des Quarente Arpents</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2519007" lon="2.6509775"></trkpt>
+        <trkpt lat="48.2525947" lon="2.6556389"></trkpt>
+        <trkpt lat="48.252663" lon="2.6563199"></trkpt>
+        <trkpt lat="48.252663" lon="2.6567599"></trkpt>
+        <trkpt lat="48.2525024" lon="2.6567599"></trkpt>
+        <trkpt lat="48.2524623" lon="2.6568141"></trkpt>
+        <trkpt lat="48.2524101" lon="2.6570733"></trkpt>
+        <trkpt lat="48.252374" lon="2.6575494"></trkpt>
+        <trkpt lat="48.2523536" lon="2.6579362"></trkpt>
+        <trkpt lat="48.2523188" lon="2.658193"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

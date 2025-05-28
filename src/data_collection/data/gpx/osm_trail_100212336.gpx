@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Bellevue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.595072</time>
+</metadata>
+<trk>
+    <name>Rue de Bellevue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7469934" lon="2.5019901"></trkpt>
+        <trkpt lat="48.7472265" lon="2.5018988"></trkpt>
+        <trkpt lat="48.7472894" lon="2.5018741"></trkpt>
+        <trkpt lat="48.7478457" lon="2.5016395"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

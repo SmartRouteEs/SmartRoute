@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sapins</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.066522</time>
+</metadata>
+<trk>
+    <name>Chemin des Sapins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3939667" lon="2.3077384"></trkpt>
+        <trkpt lat="48.3941986" lon="2.3082863"></trkpt>
+        <trkpt lat="48.3942882" lon="2.3086109"></trkpt>
+        <trkpt lat="48.3943033" lon="2.3086772"></trkpt>
+        <trkpt lat="48.3943018" lon="2.3091207"></trkpt>
+        <trkpt lat="48.3943291" lon="2.309859"></trkpt>
+        <trkpt lat="48.3943718" lon="2.3102987"></trkpt>
+        <trkpt lat="48.3944319" lon="2.310525"></trkpt>
+        <trkpt lat="48.3945285" lon="2.3109615"></trkpt>
+        <trkpt lat="48.3946015" lon="2.3111975"></trkpt>
+        <trkpt lat="48.3946206" lon="2.3112311"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

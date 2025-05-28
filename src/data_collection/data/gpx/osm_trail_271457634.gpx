@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Prairie de Villepatour</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.128400</time>
+</metadata>
+<trk>
+    <name>Chemin de la Prairie de Villepatour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6998824" lon="2.7554053"></trkpt>
+        <trkpt lat="48.6997254" lon="2.7556967"></trkpt>
+        <trkpt lat="48.6996209" lon="2.7559649"></trkpt>
+        <trkpt lat="48.6994837" lon="2.7564249"></trkpt>
+        <trkpt lat="48.699389" lon="2.756732"></trkpt>
+        <trkpt lat="48.6992713" lon="2.757066"></trkpt>
+        <trkpt lat="48.6991447" lon="2.757416"></trkpt>
+        <trkpt lat="48.6990837" lon="2.7575649"></trkpt>
+        <trkpt lat="48.6990318" lon="2.7576555"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

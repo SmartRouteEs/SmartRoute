@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Deuxième Tête</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.162422</time>
+</metadata>
+<trk>
+    <name>Route de la Deuxième Tête</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4409874" lon="2.6944862"></trkpt>
+        <trkpt lat="48.4410238" lon="2.6944742"></trkpt>
+        <trkpt lat="48.4422879" lon="2.6940579"></trkpt>
+        <trkpt lat="48.4423691" lon="2.6940312"></trkpt>
+        <trkpt lat="48.4434498" lon="2.6936917"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

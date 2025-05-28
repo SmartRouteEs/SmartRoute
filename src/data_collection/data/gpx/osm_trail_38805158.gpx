@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2002</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.169081</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2002</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3332915" lon="2.7894989"></trkpt>
+        <trkpt lat="48.333157" lon="2.7899425"></trkpt>
+        <trkpt lat="48.3330053" lon="2.7902013"></trkpt>
+        <trkpt lat="48.3329585" lon="2.7902537"></trkpt>
+        <trkpt lat="48.3325805" lon="2.7906418"></trkpt>
+        <trkpt lat="48.3321807" lon="2.791124"></trkpt>
+        <trkpt lat="48.3317899" lon="2.7914487"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

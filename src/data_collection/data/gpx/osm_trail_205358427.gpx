@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Castille</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.594887</time>
+</metadata>
+<trk>
+    <name>Route de Castille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5121716" lon="2.6448065"></trkpt>
+        <trkpt lat="48.5091761" lon="2.6432613"></trkpt>
+        <trkpt lat="48.505763" lon="2.6416647"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

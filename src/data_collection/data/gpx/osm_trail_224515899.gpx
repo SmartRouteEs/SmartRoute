@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Petit Coquibus</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.541949</time>
+</metadata>
+<trk>
+    <name>Chemin du Petit Coquibus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4151173" lon="2.4983583"></trkpt>
+        <trkpt lat="48.4151529" lon="2.4977638"></trkpt>
+        <trkpt lat="48.4152291" lon="2.4972322"></trkpt>
+        <trkpt lat="48.4155359" lon="2.4950788"></trkpt>
+        <trkpt lat="48.4159189" lon="2.4922304"></trkpt>
+        <trkpt lat="48.4161347" lon="2.4905751"></trkpt>
+        <trkpt lat="48.4163559" lon="2.4890071"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

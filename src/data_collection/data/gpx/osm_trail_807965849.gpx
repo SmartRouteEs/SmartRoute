@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cayennes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.237938</time>
+</metadata>
+<trk>
+    <name>Chemin des Cayennes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.381976" lon="2.7958287"></trkpt>
+        <trkpt lat="48.3822543" lon="2.796216"></trkpt>
+        <trkpt lat="48.3829321" lon="2.7971331"></trkpt>
+        <trkpt lat="48.3829575" lon="2.7971775"></trkpt>
+        <trkpt lat="48.3829882" lon="2.797216"></trkpt>
+        <trkpt lat="48.3831231" lon="2.7973956"></trkpt>
+        <trkpt lat="48.3832692" lon="2.797475"></trkpt>
+        <trkpt lat="48.3833824" lon="2.7976315"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

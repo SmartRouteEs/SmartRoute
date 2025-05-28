@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Lemonnier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.450229</time>
+</metadata>
+<trk>
+    <name>Route Lemonnier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3898579" lon="2.6898182"></trkpt>
+        <trkpt lat="48.3898595" lon="2.6898954"></trkpt>
+        <trkpt lat="48.3897817" lon="2.69347"></trkpt>
+        <trkpt lat="48.3896605" lon="2.6967672"></trkpt>
+        <trkpt lat="48.3895562" lon="2.6996965"></trkpt>
+        <trkpt lat="48.3895697" lon="2.7001387"></trkpt>
+        <trkpt lat="48.3895491" lon="2.7005219"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

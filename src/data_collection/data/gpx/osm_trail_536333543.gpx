@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Côte aux Brebis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.937951</time>
+</metadata>
+<trk>
+    <name>Rue de la Côte aux Brebis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2137114" lon="3.3453302"></trkpt>
+        <trkpt lat="48.2135961" lon="3.3463266"></trkpt>
+        <trkpt lat="48.2135711" lon="3.3467891"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

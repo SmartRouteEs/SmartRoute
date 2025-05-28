@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Coursier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.563855</time>
+</metadata>
+<trk>
+    <name>Route du Coursier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4038262" lon="2.6240989"></trkpt>
+        <trkpt lat="48.4044319" lon="2.6302831"></trkpt>
+        <trkpt lat="48.4046172" lon="2.6318154"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

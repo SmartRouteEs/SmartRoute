@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Prés</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.512114</time>
+</metadata>
+<trk>
+    <name>Chemin des Prés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6754716" lon="2.220764"></trkpt>
+        <trkpt lat="48.6759563" lon="2.220948"></trkpt>
+        <trkpt lat="48.6762866" lon="2.2210733"></trkpt>
+        <trkpt lat="48.6766469" lon="2.2212805"></trkpt>
+        <trkpt lat="48.6767357" lon="2.2213435"></trkpt>
+        <trkpt lat="48.6768161" lon="2.2214411"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

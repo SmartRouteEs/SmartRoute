@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière Labrune</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.371859</time>
+</metadata>
+<trk>
+    <name>Route Forestière Labrune</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6452829" lon="2.523913"></trkpt>
+        <trkpt lat="48.6452405" lon="2.5242734"></trkpt>
+        <trkpt lat="48.6453089" lon="2.5247175"></trkpt>
+        <trkpt lat="48.6456293" lon="2.525369"></trkpt>
+        <trkpt lat="48.6461736" lon="2.5262989"></trkpt>
+        <trkpt lat="48.6482477" lon="2.5319134"></trkpt>
+        <trkpt lat="48.6483435" lon="2.5321729"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

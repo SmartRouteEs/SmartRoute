@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Salamandre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.938126</time>
+</metadata>
+<trk>
+    <name>Route de la Salamandre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3915604" lon="2.6506414"></trkpt>
+        <trkpt lat="48.3904437" lon="2.6504408"></trkpt>
+        <trkpt lat="48.3901901" lon="2.6495185"></trkpt>
+        <trkpt lat="48.3894463" lon="2.6492022"></trkpt>
+        <trkpt lat="48.3891667" lon="2.6490833"></trkpt>
+        <trkpt lat="48.3890612" lon="2.6490766"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

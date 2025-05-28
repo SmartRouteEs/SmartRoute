@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin dit Mathieu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.399704</time>
+</metadata>
+<trk>
+    <name>Chemin dit Mathieu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2606569" lon="3.2257546"></trkpt>
+        <trkpt lat="48.259457" lon="3.2261578"></trkpt>
+        <trkpt lat="48.2587622" lon="3.2264668"></trkpt>
+        <trkpt lat="48.2567711" lon="3.2270906"></trkpt>
+        <trkpt lat="48.2562277" lon="3.2274695"></trkpt>
+        <trkpt lat="48.2559211" lon="3.2276444"></trkpt>
+        <trkpt lat="48.2555368" lon="3.2278543"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

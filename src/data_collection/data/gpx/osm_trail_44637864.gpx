@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Carré aux Pièges</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.367601</time>
+</metadata>
+<trk>
+    <name>Route du Carré aux Pièges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7962136" lon="2.2487148"></trkpt>
+        <trkpt lat="48.7962575" lon="2.2486367"></trkpt>
+        <trkpt lat="48.7963001" lon="2.2485329"></trkpt>
+        <trkpt lat="48.7964178" lon="2.2482648"></trkpt>
+        <trkpt lat="48.7965437" lon="2.2480276"></trkpt>
+        <trkpt lat="48.7969571" lon="2.2472024"></trkpt>
+        <trkpt lat="48.7970502" lon="2.2470581"></trkpt>
+        <trkpt lat="48.7974673" lon="2.246411"></trkpt>
+        <trkpt lat="48.7980485" lon="2.2456701"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

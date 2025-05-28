@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Gros Chêne</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0+</desc>
+    <time>2025-05-28T01:15:54.817462</time>
+</metadata>
+<trk>
+    <name>Chemin du Gros Chêne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7435267" lon="2.5691518"></trkpt>
+        <trkpt lat="48.7434154" lon="2.5692175"></trkpt>
+        <trkpt lat="48.7433075" lon="2.5694926"></trkpt>
+        <trkpt lat="48.7431476" lon="2.5698398"></trkpt>
+        <trkpt lat="48.7429835" lon="2.5702394"></trkpt>
+        <trkpt lat="48.7428409" lon="2.5705342"></trkpt>
+        <trkpt lat="48.7426465" lon="2.5710124"></trkpt>
+        <trkpt lat="48.742575" lon="2.5711914"></trkpt>
+        <trkpt lat="48.7424694" lon="2.5714512"></trkpt>
+        <trkpt lat="48.7422664" lon="2.5719294"></trkpt>
+        <trkpt lat="48.7420331" lon="2.5724011"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

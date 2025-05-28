@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Poitou</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.789967</time>
+</metadata>
+<trk>
+    <name>Chemin du Poitou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9170566" lon="2.640985"></trkpt>
+        <trkpt lat="48.9170311" lon="2.6414612"></trkpt>
+        <trkpt lat="48.9170536" lon="2.6423214"></trkpt>
+        <trkpt lat="48.9171593" lon="2.6435059"></trkpt>
+        <trkpt lat="48.9173284" lon="2.6450476"></trkpt>
+        <trkpt lat="48.917531" lon="2.6468653"></trkpt>
+        <trkpt lat="48.9176428" lon="2.6471414"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

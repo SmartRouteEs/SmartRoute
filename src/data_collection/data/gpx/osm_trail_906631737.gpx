@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Melun</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.164211</time>
+</metadata>
+<trk>
+    <name>Chemin de Melun</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3513746" lon="2.6089432"></trkpt>
+        <trkpt lat="48.3505026" lon="2.6083737"></trkpt>
+        <trkpt lat="48.3498572" lon="2.6080609"></trkpt>
+        <trkpt lat="48.349561" lon="2.607892"></trkpt>
+        <trkpt lat="48.34947" lon="2.6078401"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

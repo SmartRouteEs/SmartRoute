@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de Fourbin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.411383</time>
+</metadata>
+<trk>
+    <name>chemin de Fourbin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9053949" lon="3.1523486"></trkpt>
+        <trkpt lat="48.9054678" lon="3.152187"></trkpt>
+        <trkpt lat="48.9054931" lon="3.1519461"></trkpt>
+        <trkpt lat="48.9054263" lon="3.1514805"></trkpt>
+        <trkpt lat="48.9054283" lon="3.1506262"></trkpt>
+        <trkpt lat="48.9053643" lon="3.1500927"></trkpt>
+        <trkpt lat="48.9053879" lon="3.1496876"></trkpt>
+        <trkpt lat="48.9054728" lon="3.1495251"></trkpt>
+        <trkpt lat="48.9055606" lon="3.1492155"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

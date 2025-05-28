@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Leclers Son du Marais</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.283582</time>
+</metadata>
+<trk>
+    <name>Route Leclers Son du Marais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.42473" lon="2.6941899"></trkpt>
+        <trkpt lat="48.4247399" lon="2.6974633"></trkpt>
+        <trkpt lat="48.4245707" lon="2.6984586"></trkpt>
+        <trkpt lat="48.4242069" lon="2.7008564"></trkpt>
+        <trkpt lat="48.4238039" lon="2.7034217"></trkpt>
+        <trkpt lat="48.4234632" lon="2.7046949"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

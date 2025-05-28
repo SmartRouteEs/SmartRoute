@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Place les Jardins Sainte-Thérèse</name>
+    <desc>Sentier VTT - Type: path - Surface: sett - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.506177</time>
+</metadata>
+<trk>
+    <name>Place les Jardins Sainte-Thérèse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6870173" lon="2.350323"></trkpt>
+        <trkpt lat="48.6869741" lon="2.3502348"></trkpt>
+        <trkpt lat="48.6869511" lon="2.350158"></trkpt>
+        <trkpt lat="48.6869563" lon="2.3502393"></trkpt>
+        <trkpt lat="48.6869755" lon="2.3503947"></trkpt>
+        <trkpt lat="48.6868845" lon="2.3504121"></trkpt>
+        <trkpt lat="48.6868536" lon="2.3503986"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

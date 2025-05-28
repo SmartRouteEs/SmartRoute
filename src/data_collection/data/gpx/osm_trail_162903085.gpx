@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Essois</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.812744</time>
+</metadata>
+<trk>
+    <name>Chemin des Essois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9582062" lon="2.8126492"></trkpt>
+        <trkpt lat="48.9542788" lon="2.8124383"></trkpt>
+        <trkpt lat="48.9526813" lon="2.8123685"></trkpt>
+        <trkpt lat="48.9520387" lon="2.8122993"></trkpt>
+        <trkpt lat="48.9516456" lon="2.8122076"></trkpt>
+        <trkpt lat="48.9503748" lon="2.8117892"></trkpt>
+        <trkpt lat="48.949103" lon="2.8113413"></trkpt>
+        <trkpt lat="48.9477854" lon="2.8109068"></trkpt>
+        <trkpt lat="48.946739" lon="2.8105742"></trkpt>
+        <trkpt lat="48.9465876" lon="2.8105355"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

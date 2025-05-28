@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Léonard de Vinci</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.511736</time>
+</metadata>
+<trk>
+    <name>Route Léonard de Vinci</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4018278" lon="2.675538"></trkpt>
+        <trkpt lat="48.4029614" lon="2.6759361"></trkpt>
+        <trkpt lat="48.4034983" lon="2.6761247"></trkpt>
+        <trkpt lat="48.4040118" lon="2.6762905"></trkpt>
+        <trkpt lat="48.4040953" lon="2.6763161"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route le Féron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.086680</time>
+</metadata>
+<trk>
+    <name>Route le Féron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.410689" lon="2.6241241"></trkpt>
+        <trkpt lat="48.4115008" lon="2.6251512"></trkpt>
+        <trkpt lat="48.4127504" lon="2.6269747"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

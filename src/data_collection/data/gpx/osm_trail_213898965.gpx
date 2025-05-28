@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Igny</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.915215</time>
+</metadata>
+<trk>
+    <name>Route d'Igny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7507076" lon="2.2404779"></trkpt>
+        <trkpt lat="48.7502164" lon="2.2402803"></trkpt>
+        <trkpt lat="48.7494934" lon="2.2400235"></trkpt>
+        <trkpt lat="48.7490577" lon="2.2398507"></trkpt>
+        <trkpt lat="48.7486114" lon="2.2396672"></trkpt>
+        <trkpt lat="48.7480648" lon="2.2394451"></trkpt>
+        <trkpt lat="48.7472518" lon="2.239118"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

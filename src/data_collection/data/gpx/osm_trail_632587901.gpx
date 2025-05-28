@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Bonshommes</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.730795</time>
+</metadata>
+<trk>
+    <name>Chemin des Bonshommes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8950848" lon="2.8066289"></trkpt>
+        <trkpt lat="48.8946342" lon="2.8063728"></trkpt>
+        <trkpt lat="48.8932027" lon="2.8055226"></trkpt>
+        <trkpt lat="48.8927967" lon="2.8052648"></trkpt>
+        <trkpt lat="48.89269" lon="2.8051969"></trkpt>
+        <trkpt lat="48.8918435" lon="2.804637"></trkpt>
+        <trkpt lat="48.88891" lon="2.8032118"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

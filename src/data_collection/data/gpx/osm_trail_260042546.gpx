@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Télégraphe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.727371</time>
+</metadata>
+<trk>
+    <name>Allée du Télégraphe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.672358" lon="2.2722431"></trkpt>
+        <trkpt lat="48.6723137" lon="2.2723305"></trkpt>
+        <trkpt lat="48.6722618" lon="2.2724123"></trkpt>
+        <trkpt lat="48.6722233" lon="2.2724941"></trkpt>
+        <trkpt lat="48.6722127" lon="2.2725652"></trkpt>
+        <trkpt lat="48.6722197" lon="2.2726263"></trkpt>
+        <trkpt lat="48.6722384" lon="2.2726926"></trkpt>
+        <trkpt lat="48.6722605" lon="2.2727415"></trkpt>
+        <trkpt lat="48.6722802" lon="2.2727733"></trkpt>
+        <trkpt lat="48.6722979" lon="2.2727877"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

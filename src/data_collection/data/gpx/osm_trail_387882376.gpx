@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de La Glissoire</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.412793</time>
+</metadata>
+<trk>
+    <name>Chemin de La Glissoire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6785667" lon="2.2495829"></trkpt>
+        <trkpt lat="48.6790639" lon="2.2495228"></trkpt>
+        <trkpt lat="48.6793325" lon="2.2494721"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

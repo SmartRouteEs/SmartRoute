@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Raies Tortues</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.112504</time>
+</metadata>
+<trk>
+    <name>Chemin des Raies Tortues</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9209785" lon="2.8964511"></trkpt>
+        <trkpt lat="48.9209065" lon="2.8964151"></trkpt>
+        <trkpt lat="48.9201471" lon="2.8964783"></trkpt>
+        <trkpt lat="48.9186317" lon="2.8963301"></trkpt>
+        <trkpt lat="48.9182885" lon="2.8962748"></trkpt>
+        <trkpt lat="48.9156248" lon="2.8948386"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

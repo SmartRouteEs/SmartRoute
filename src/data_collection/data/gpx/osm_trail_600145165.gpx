@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>CR du Bas des Petites Roues</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.517845</time>
+</metadata>
+<trk>
+    <name>CR du Bas des Petites Roues</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.217067" lon="3.312327"></trkpt>
+        <trkpt lat="48.2172761" lon="3.3128098"></trkpt>
+        <trkpt lat="48.2173726" lon="3.313188"></trkpt>
+        <trkpt lat="48.2174476" lon="3.3138317"></trkpt>
+        <trkpt lat="48.2174995" lon="3.3144191"></trkpt>
+        <trkpt lat="48.2176406" lon="3.3149931"></trkpt>
+        <trkpt lat="48.2182376" lon="3.3169216"></trkpt>
+        <trkpt lat="48.2190721" lon="3.3194857"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

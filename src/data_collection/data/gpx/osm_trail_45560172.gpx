@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Montigny à Moret</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.457374</time>
+</metadata>
+<trk>
+    <name>Chemin de Montigny à Moret</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3482102" lon="2.7821445"></trkpt>
+        <trkpt lat="48.3477737" lon="2.7810701"></trkpt>
+        <trkpt lat="48.3474231" lon="2.7803948"></trkpt>
+        <trkpt lat="48.346631" lon="2.7786677"></trkpt>
+        <trkpt lat="48.3464492" lon="2.7784079"></trkpt>
+        <trkpt lat="48.3462284" lon="2.7780703"></trkpt>
+        <trkpt lat="48.3460336" lon="2.7779664"></trkpt>
+        <trkpt lat="48.3454342" lon="2.7769924"></trkpt>
+        <trkpt lat="48.3454103" lon="2.7769535"></trkpt>
+        <trkpt lat="48.3449817" lon="2.7761873"></trkpt>
+        <trkpt lat="48.3445854" lon="2.7756182"></trkpt>
+        <trkpt lat="48.3444563" lon="2.7755561"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

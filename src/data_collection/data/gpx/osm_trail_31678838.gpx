@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de Chailly-en-Bière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.901473</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de Chailly-en-Bière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4773392" lon="2.6057404"></trkpt>
+        <trkpt lat="48.4775757" lon="2.6058485"></trkpt>
+        <trkpt lat="48.4780402" lon="2.6061538"></trkpt>
+        <trkpt lat="48.4783779" lon="2.6064228"></trkpt>
+        <trkpt lat="48.4785604" lon="2.6065281"></trkpt>
+        <trkpt lat="48.4789544" lon="2.6066065"></trkpt>
+        <trkpt lat="48.4803194" lon="2.6066902"></trkpt>
+        <trkpt lat="48.4805967" lon="2.6067401"></trkpt>
+        <trkpt lat="48.4820572" lon="2.6072238"></trkpt>
+        <trkpt lat="48.4824391" lon="2.6074167"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

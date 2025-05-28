@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Cavalière du Romulus</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.489898</time>
+</metadata>
+<trk>
+    <name>Route Cavalière du Romulus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3894203" lon="2.7045203"></trkpt>
+        <trkpt lat="48.3907547" lon="2.7065762"></trkpt>
+        <trkpt lat="48.3912164" lon="2.7072946"></trkpt>
+        <trkpt lat="48.3917732" lon="2.7082485"></trkpt>
+        <trkpt lat="48.3925362" lon="2.7094836"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

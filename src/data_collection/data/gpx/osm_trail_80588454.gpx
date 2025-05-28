@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Platières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.317528</time>
+</metadata>
+<trk>
+    <name>Route des Platières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3627801" lon="2.5956025"></trkpt>
+        <trkpt lat="48.3624293" lon="2.5964898"></trkpt>
+        <trkpt lat="48.360558" lon="2.6014343"></trkpt>
+        <trkpt lat="48.3598792" lon="2.603274"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

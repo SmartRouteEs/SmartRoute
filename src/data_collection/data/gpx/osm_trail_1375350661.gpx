@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Raymond</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.993121</time>
+</metadata>
+<trk>
+    <name>Route Raymond</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4014989" lon="2.6222152"></trkpt>
+        <trkpt lat="48.4038262" lon="2.6240989"></trkpt>
+        <trkpt lat="48.4047738" lon="2.62479"></trkpt>
+        <trkpt lat="48.4049838" lon="2.6250985"></trkpt>
+        <trkpt lat="48.4050618" lon="2.6251724"></trkpt>
+        <trkpt lat="48.4053212" lon="2.6252632"></trkpt>
+        <trkpt lat="48.4055397" lon="2.6254459"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

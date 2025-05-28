@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>CR des Essarts</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.517845</time>
+</metadata>
+<trk>
+    <name>CR des Essarts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2132425" lon="3.3010515"></trkpt>
+        <trkpt lat="48.2131971" lon="3.3011748"></trkpt>
+        <trkpt lat="48.2128124" lon="3.3018741"></trkpt>
+        <trkpt lat="48.2125279" lon="3.3024189"></trkpt>
+        <trkpt lat="48.2122462" lon="3.3031222"></trkpt>
+        <trkpt lat="48.2121216" lon="3.30348"></trkpt>
+        <trkpt lat="48.2120745" lon="3.3035813"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

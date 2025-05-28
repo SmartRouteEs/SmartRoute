@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Promenade de la Dhuis</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.575498</time>
+</metadata>
+<trk>
+    <name>Promenade de la Dhuis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9222329" lon="2.5711708"></trkpt>
+        <trkpt lat="48.9222648" lon="2.5712147"></trkpt>
+        <trkpt lat="48.9223098" lon="2.5711727"></trkpt>
+        <trkpt lat="48.922341" lon="2.5711892"></trkpt>
+        <trkpt lat="48.9223358" lon="2.571236"></trkpt>
+        <trkpt lat="48.9223112" lon="2.5713242"></trkpt>
+        <trkpt lat="48.9222735" lon="2.5714818"></trkpt>
+        <trkpt lat="48.9222047" lon="2.5717221"></trkpt>
+        <trkpt lat="48.9221412" lon="2.5719453"></trkpt>
+        <trkpt lat="48.922133" lon="2.5720837"></trkpt>
+        <trkpt lat="48.9221409" lon="2.5722575"></trkpt>
+        <trkpt lat="48.9221482" lon="2.5723814"></trkpt>
+        <trkpt lat="48.9221555" lon="2.5725011"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

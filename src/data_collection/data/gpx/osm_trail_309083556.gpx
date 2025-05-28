@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de Villeneuve</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.165833</time>
+</metadata>
+<trk>
+    <name>chemin de Villeneuve</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8962235" lon="3.1380435"></trkpt>
+        <trkpt lat="48.896315" lon="3.138059"></trkpt>
+        <trkpt lat="48.8980314" lon="3.1384377"></trkpt>
+        <trkpt lat="48.8991616" lon="3.1387079"></trkpt>
+        <trkpt lat="48.9005332" lon="3.139039"></trkpt>
+        <trkpt lat="48.9011133" lon="3.1391675"></trkpt>
+        <trkpt lat="48.9014856" lon="3.1392608"></trkpt>
+        <trkpt lat="48.9018301" lon="3.1393268"></trkpt>
+        <trkpt lat="48.9020212" lon="3.139405"></trkpt>
+        <trkpt lat="48.9021745" lon="3.1395186"></trkpt>
+        <trkpt lat="48.9024034" lon="3.1397378"></trkpt>
+        <trkpt lat="48.9025558" lon="3.1400171"></trkpt>
+        <trkpt lat="48.9025583" lon="3.1401738"></trkpt>
+        <trkpt lat="48.9026176" lon="3.1404351"></trkpt>
+        <trkpt lat="48.9026783" lon="3.1407986"></trkpt>
+        <trkpt lat="48.9027483" lon="3.1411661"></trkpt>
+        <trkpt lat="48.902822" lon="3.1413435"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

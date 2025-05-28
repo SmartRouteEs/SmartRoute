@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Poteau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.351804</time>
+</metadata>
+<trk>
+    <name>Chemin du Poteau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7546036" lon="2.5797774"></trkpt>
+        <trkpt lat="48.7550726" lon="2.5796099"></trkpt>
+        <trkpt lat="48.7576216" lon="2.5786995"></trkpt>
+        <trkpt lat="48.7576887" lon="2.5786735"></trkpt>
+        <trkpt lat="48.7622904" lon="2.577032"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

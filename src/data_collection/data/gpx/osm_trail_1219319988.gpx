@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Découvertes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.104025</time>
+</metadata>
+<trk>
+    <name>Chemin des Découvertes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4068148" lon="2.5353059"></trkpt>
+        <trkpt lat="48.4066481" lon="2.5352321"></trkpt>
+        <trkpt lat="48.406403" lon="2.5351631"></trkpt>
+        <trkpt lat="48.406067" lon="2.5350837"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

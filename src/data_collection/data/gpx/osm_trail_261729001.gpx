@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Grand Veneur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.768641</time>
+</metadata>
+<trk>
+    <name>Chemin du Grand Veneur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6574509" lon="2.4658421"></trkpt>
+        <trkpt lat="48.6574289" lon="2.4657521"></trkpt>
+        <trkpt lat="48.6562404" lon="2.4635724"></trkpt>
+        <trkpt lat="48.6561971" lon="2.4634982"></trkpt>
+        <trkpt lat="48.6561091" lon="2.4633782"></trkpt>
+        <trkpt lat="48.6557383" lon="2.4625388"></trkpt>
+        <trkpt lat="48.6555558" lon="2.4621069"></trkpt>
+        <trkpt lat="48.6553762" lon="2.4617058"></trkpt>
+        <trkpt lat="48.6549034" lon="2.4609662"></trkpt>
+        <trkpt lat="48.6548729" lon="2.4609185"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Saint-Miard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.787675</time>
+</metadata>
+<trk>
+    <name>Rue Saint-Miard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2911909" lon="2.7762538"></trkpt>
+        <trkpt lat="48.2918479" lon="2.7770985"></trkpt>
+        <trkpt lat="48.2920371" lon="2.7772757"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

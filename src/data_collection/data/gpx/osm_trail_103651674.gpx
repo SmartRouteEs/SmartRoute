@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Seigneurs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.643139</time>
+</metadata>
+<trk>
+    <name>Sentier des Seigneurs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3540565" lon="2.6230769"></trkpt>
+        <trkpt lat="48.3526225" lon="2.621987"></trkpt>
+        <trkpt lat="48.3516407" lon="2.6210354"></trkpt>
+        <trkpt lat="48.3514016" lon="2.6207414"></trkpt>
+        <trkpt lat="48.351161" lon="2.6201144"></trkpt>
+        <trkpt lat="48.350573" lon="2.618933"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

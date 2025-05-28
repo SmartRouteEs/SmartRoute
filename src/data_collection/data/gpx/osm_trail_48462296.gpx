@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Engoulevent</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route de l'Engoulevent</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3825305" lon="2.7048576"></trkpt>
+        <trkpt lat="48.3822381" lon="2.7043604"></trkpt>
+        <trkpt lat="48.3818203" lon="2.7036366"></trkpt>
+        <trkpt lat="48.3795508" lon="2.7002417"></trkpt>
+        <trkpt lat="48.3786832" lon="2.699436"></trkpt>
+        <trkpt lat="48.3781681" lon="2.6986327"></trkpt>
+        <trkpt lat="48.377744" lon="2.698314"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

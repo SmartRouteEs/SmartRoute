@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Tramway</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.283582</time>
+</metadata>
+<trk>
+    <name>Chemin du Tramway</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.403355" lon="2.536982"></trkpt>
+        <trkpt lat="48.403369" lon="2.536488"></trkpt>
+        <trkpt lat="48.403525" lon="2.534271"></trkpt>
+        <trkpt lat="48.4035298" lon="2.5339314"></trkpt>
+        <trkpt lat="48.403537" lon="2.533465"></trkpt>
+        <trkpt lat="48.403557" lon="2.53305"></trkpt>
+        <trkpt lat="48.403598" lon="2.5326"></trkpt>
+        <trkpt lat="48.403689" lon="2.531866"></trkpt>
+        <trkpt lat="48.4037044" lon="2.5316506"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

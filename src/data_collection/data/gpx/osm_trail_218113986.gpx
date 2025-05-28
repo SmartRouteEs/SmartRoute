@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Champmotteux à Nangeville</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.149798</time>
+</metadata>
+<trk>
+    <name>Chemin de Champmotteux à Nangeville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3421595" lon="2.3169262"></trkpt>
+        <trkpt lat="48.3419964" lon="2.316792"></trkpt>
+        <trkpt lat="48.341871" lon="2.3166732"></trkpt>
+        <trkpt lat="48.3417547" lon="2.3165677"></trkpt>
+        <trkpt lat="48.341629" lon="2.3164843"></trkpt>
+        <trkpt lat="48.3414977" lon="2.3164069"></trkpt>
+        <trkpt lat="48.3414166" lon="2.3163718"></trkpt>
+        <trkpt lat="48.3407799" lon="2.3160269"></trkpt>
+        <trkpt lat="48.3403763" lon="2.3158112"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Moutons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.809716</time>
+</metadata>
+<trk>
+    <name>Rue des Moutons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8284771" lon="3.2872205"></trkpt>
+        <trkpt lat="48.828528" lon="3.2876885"></trkpt>
+        <trkpt lat="48.8285549" lon="3.2880698"></trkpt>
+        <trkpt lat="48.8286016" lon="3.2887141"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

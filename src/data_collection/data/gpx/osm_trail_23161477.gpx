@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Face</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.518209</time>
+</metadata>
+<trk>
+    <name>Allée de Face</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3903881" lon="2.5120543"></trkpt>
+        <trkpt lat="48.3909473" lon="2.5126887"></trkpt>
+        <trkpt lat="48.3914919" lon="2.5134932"></trkpt>
+        <trkpt lat="48.3915218" lon="2.5135387"></trkpt>
+        <trkpt lat="48.3917842" lon="2.5137109"></trkpt>
+        <trkpt lat="48.3920319" lon="2.5140578"></trkpt>
+        <trkpt lat="48.3924659" lon="2.5146864"></trkpt>
+        <trkpt lat="48.3926041" lon="2.5148288"></trkpt>
+        <trkpt lat="48.3927554" lon="2.5149744"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

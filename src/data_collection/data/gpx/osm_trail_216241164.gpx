@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Meules</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.028874</time>
+</metadata>
+<trk>
+    <name>Chemin des Meules</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3225937" lon="2.6505776"></trkpt>
+        <trkpt lat="48.3232152" lon="2.6505973"></trkpt>
+        <trkpt lat="48.3237193" lon="2.6505968"></trkpt>
+        <trkpt lat="48.3238807" lon="2.6506007"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

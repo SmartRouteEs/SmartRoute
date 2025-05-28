@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Églantines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.688701</time>
+</metadata>
+<trk>
+    <name>Allée des Églantines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.267104" lon="3.1311212"></trkpt>
+        <trkpt lat="48.2671846" lon="3.1309395"></trkpt>
+        <trkpt lat="48.2673034" lon="3.1307675"></trkpt>
+        <trkpt lat="48.2675129" lon="3.1305826"></trkpt>
+        <trkpt lat="48.2676296" lon="3.1305274"></trkpt>
+        <trkpt lat="48.2677182" lon="3.1305599"></trkpt>
+        <trkpt lat="48.268161" lon="3.1308097"></trkpt>
+        <trkpt lat="48.2682517" lon="3.1309395"></trkpt>
+        <trkpt lat="48.2684674" lon="3.1315934"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

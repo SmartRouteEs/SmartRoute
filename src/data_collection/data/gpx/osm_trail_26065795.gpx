@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Écureuils</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588441</time>
+</metadata>
+<trk>
+    <name>Allée des Écureuils</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8773448" lon="2.6493241"></trkpt>
+        <trkpt lat="48.8773563" lon="2.6490181"></trkpt>
+        <trkpt lat="48.8774066" lon="2.6485667"></trkpt>
+        <trkpt lat="48.8774286" lon="2.6483696"></trkpt>
+        <trkpt lat="48.8774616" lon="2.6480741"></trkpt>
+        <trkpt lat="48.87757" lon="2.6473866"></trkpt>
+        <trkpt lat="48.8779171" lon="2.6447868"></trkpt>
+        <trkpt lat="48.8781797" lon="2.6428204"></trkpt>
+        <trkpt lat="48.8781947" lon="2.6427626"></trkpt>
+        <trkpt lat="48.8786977" lon="2.6409391"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

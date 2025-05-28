@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Puits Guyon</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.680228</time>
+</metadata>
+<trk>
+    <name>Rue du Puits Guyon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9254423" lon="2.2976734"></trkpt>
+        <trkpt lat="48.925465" lon="2.2986772"></trkpt>
+        <trkpt lat="48.9254708" lon="2.2989321"></trkpt>
+        <trkpt lat="48.925483" lon="2.2994719"></trkpt>
+        <trkpt lat="48.9254874" lon="2.299765"></trkpt>
+        <trkpt lat="48.9254891" lon="2.2998769"></trkpt>
+        <trkpt lat="48.9254802" lon="2.2999379"></trkpt>
+        <trkpt lat="48.92548" lon="2.2999675"></trkpt>
+        <trkpt lat="48.9254802" lon="2.2999915"></trkpt>
+        <trkpt lat="48.9254805" lon="2.30004"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

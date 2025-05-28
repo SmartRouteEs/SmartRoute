@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pont Blanc</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.124143</time>
+</metadata>
+<trk>
+    <name>Route du Pont Blanc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7938254" lon="2.2099116"></trkpt>
+        <trkpt lat="48.793837" lon="2.2109462"></trkpt>
+        <trkpt lat="48.7938382" lon="2.2110276"></trkpt>
+        <trkpt lat="48.7938173" lon="2.211587"></trkpt>
+        <trkpt lat="48.793815" lon="2.2117433"></trkpt>
+        <trkpt lat="48.7938049" lon="2.2125326"></trkpt>
+        <trkpt lat="48.7937817" lon="2.2143337"></trkpt>
+        <trkpt lat="48.7937768" lon="2.2143848"></trkpt>
+        <trkpt lat="48.7937741" lon="2.2145742"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

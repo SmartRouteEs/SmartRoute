@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Buronnières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.632118</time>
+</metadata>
+<trk>
+    <name>Route des Buronnières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8117182" lon="2.7416589"></trkpt>
+        <trkpt lat="48.8112241" lon="2.7421462"></trkpt>
+        <trkpt lat="48.810766" lon="2.7425807"></trkpt>
+        <trkpt lat="48.8092793" lon="2.7434047"></trkpt>
+        <trkpt lat="48.8091126" lon="2.7434599"></trkpt>
+        <trkpt lat="48.8089771" lon="2.7434684"></trkpt>
+        <trkpt lat="48.8087717" lon="2.743436"></trkpt>
+        <trkpt lat="48.8085831" lon="2.7434211"></trkpt>
+        <trkpt lat="48.8084551" lon="2.743444"></trkpt>
+        <trkpt lat="48.8083102" lon="2.7435154"></trkpt>
+        <trkpt lat="48.8080636" lon="2.7437098"></trkpt>
+        <trkpt lat="48.8075992" lon="2.7440151"></trkpt>
+        <trkpt lat="48.8071824" lon="2.7442891"></trkpt>
+        <trkpt lat="48.8067967" lon="2.7444947"></trkpt>
+        <trkpt lat="48.8054929" lon="2.7451896"></trkpt>
+        <trkpt lat="48.8035572" lon="2.7462728"></trkpt>
+        <trkpt lat="48.802971" lon="2.7466008"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Parcours Sportif</name>
+    <desc>Sentier VTT - Type: footway - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.882143</time>
+</metadata>
+<trk>
+    <name>Parcours Sportif</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7688416" lon="2.3039136"></trkpt>
+        <trkpt lat="48.7691502" lon="2.3038025"></trkpt>
+        <trkpt lat="48.7692175" lon="2.3038287"></trkpt>
+        <trkpt lat="48.7693141" lon="2.3038627"></trkpt>
+        <trkpt lat="48.7696226" lon="2.3036853"></trkpt>
+        <trkpt lat="48.7698172" lon="2.3035425"></trkpt>
+        <trkpt lat="48.7700054" lon="2.3033711"></trkpt>
+        <trkpt lat="48.770156" lon="2.3029616"></trkpt>
+        <trkpt lat="48.7704824" lon="2.3024951"></trkpt>
+        <trkpt lat="48.7706016" lon="2.3023713"></trkpt>
+        <trkpt lat="48.7707146" lon="2.3021808"></trkpt>
+        <trkpt lat="48.7708496" lon="2.3021336"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

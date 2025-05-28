@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Rabouillère</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.408158</time>
+</metadata>
+<trk>
+    <name>Route de la Rabouillère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3864668" lon="2.5977278"></trkpt>
+        <trkpt lat="48.3816436" lon="2.5963996"></trkpt>
+        <trkpt lat="48.3808961" lon="2.5962164"></trkpt>
+        <trkpt lat="48.3807407" lon="2.5962212"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

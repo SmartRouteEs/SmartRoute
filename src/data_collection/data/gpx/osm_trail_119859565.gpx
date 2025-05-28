@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Corniche</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.851230</time>
+</metadata>
+<trk>
+    <name>Rue de la Corniche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7102721" lon="2.1910792"></trkpt>
+        <trkpt lat="48.710255" lon="2.1910951"></trkpt>
+        <trkpt lat="48.7101534" lon="2.1911973"></trkpt>
+        <trkpt lat="48.7100185" lon="2.191328"></trkpt>
+        <trkpt lat="48.7097884" lon="2.1915872"></trkpt>
+        <trkpt lat="48.7096487" lon="2.191795"></trkpt>
+        <trkpt lat="48.7095654" lon="2.1919432"></trkpt>
+        <trkpt lat="48.7094858" lon="2.1920847"></trkpt>
+        <trkpt lat="48.7093296" lon="2.1924558"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

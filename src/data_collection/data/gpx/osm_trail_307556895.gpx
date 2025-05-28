@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rocher de Samois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.959442</time>
+</metadata>
+<trk>
+    <name>Chemin du Rocher de Samois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4516707" lon="2.7413493"></trkpt>
+        <trkpt lat="48.4529425" lon="2.742333"></trkpt>
+        <trkpt lat="48.4530665" lon="2.742429"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

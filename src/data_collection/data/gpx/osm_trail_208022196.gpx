@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Rochettes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.750821</time>
+</metadata>
+<trk>
+    <name>Chemin des Rochettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4704548" lon="2.2476838"></trkpt>
+        <trkpt lat="48.4721679" lon="2.2510817"></trkpt>
+        <trkpt lat="48.4732025" lon="2.2526675"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

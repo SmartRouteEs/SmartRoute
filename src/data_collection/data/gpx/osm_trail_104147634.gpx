@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Napoléon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.684050</time>
+</metadata>
+<trk>
+    <name>Route Napoléon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4721147" lon="2.725722"></trkpt>
+        <trkpt lat="48.4726056" lon="2.7264782"></trkpt>
+        <trkpt lat="48.4739657" lon="2.7285628"></trkpt>
+        <trkpt lat="48.4763064" lon="2.7320418"></trkpt>
+        <trkpt lat="48.4785176" lon="2.7353736"></trkpt>
+        <trkpt lat="48.4789369" lon="2.7360539"></trkpt>
+        <trkpt lat="48.4798183" lon="2.7373116"></trkpt>
+        <trkpt lat="48.4800524" lon="2.7376512"></trkpt>
+        <trkpt lat="48.4809932" lon="2.7391247"></trkpt>
+        <trkpt lat="48.4823341" lon="2.7411766"></trkpt>
+        <trkpt lat="48.4829269" lon="2.7421452"></trkpt>
+        <trkpt lat="48.4835058" lon="2.7430585"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

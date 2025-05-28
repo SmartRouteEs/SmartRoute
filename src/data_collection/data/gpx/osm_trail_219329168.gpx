@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix Boisée</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.207189</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix Boisée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6555259" lon="2.2464271"></trkpt>
+        <trkpt lat="48.6554352" lon="2.2467647"></trkpt>
+        <trkpt lat="48.6553149" lon="2.2470166"></trkpt>
+        <trkpt lat="48.6551802" lon="2.2472649"></trkpt>
+        <trkpt lat="48.6548192" lon="2.2478378"></trkpt>
+        <trkpt lat="48.6543148" lon="2.2486185"></trkpt>
+        <trkpt lat="48.6542846" lon="2.2486653"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

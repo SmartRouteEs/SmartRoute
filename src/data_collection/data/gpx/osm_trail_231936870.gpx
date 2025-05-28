@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grands Réages</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.698137</time>
+</metadata>
+<trk>
+    <name>Chemin des Grands Réages</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2861233" lon="2.7334177"></trkpt>
+        <trkpt lat="48.2851277" lon="2.7314385"></trkpt>
+        <trkpt lat="48.2851082" lon="2.7314047"></trkpt>
+        <trkpt lat="48.2847943" lon="2.7308275"></trkpt>
+        <trkpt lat="48.2843153" lon="2.7299159"></trkpt>
+        <trkpt lat="48.2839161" lon="2.7291698"></trkpt>
+        <trkpt lat="48.2829737" lon="2.7273835"></trkpt>
+        <trkpt lat="48.2820849" lon="2.7257045"></trkpt>
+        <trkpt lat="48.280104" lon="2.7219481"></trkpt>
+        <trkpt lat="48.2797837" lon="2.7213534"></trkpt>
+        <trkpt lat="48.2788603" lon="2.7195528"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

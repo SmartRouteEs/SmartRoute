@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Regrets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.442227</time>
+</metadata>
+<trk>
+    <name>Route des Regrets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3748748" lon="2.648715"></trkpt>
+        <trkpt lat="48.376519" lon="2.6525804"></trkpt>
+        <trkpt lat="48.3770836" lon="2.6539891"></trkpt>
+        <trkpt lat="48.3772251" lon="2.6545909"></trkpt>
+        <trkpt lat="48.3775176" lon="2.6552432"></trkpt>
+        <trkpt lat="48.3775775" lon="2.6557094"></trkpt>
+        <trkpt lat="48.3775339" lon="2.656027"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

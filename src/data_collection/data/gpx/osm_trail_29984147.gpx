@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Corbeil</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.761461</time>
+</metadata>
+<trk>
+    <name>Chemin de Corbeil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6254697" lon="2.3073972"></trkpt>
+        <trkpt lat="48.6254584" lon="2.3073572"></trkpt>
+        <trkpt lat="48.6254551" lon="2.3073401"></trkpt>
+        <trkpt lat="48.625445" lon="2.3072851"></trkpt>
+        <trkpt lat="48.6254338" lon="2.3069857"></trkpt>
+        <trkpt lat="48.6254162" lon="2.3063665"></trkpt>
+        <trkpt lat="48.6253958" lon="2.3058987"></trkpt>
+        <trkpt lat="48.6253559" lon="2.3052755"></trkpt>
+        <trkpt lat="48.6253589" lon="2.3044967"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

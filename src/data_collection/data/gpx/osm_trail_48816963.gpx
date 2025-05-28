@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Bièvres</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.796572</time>
+</metadata>
+<trk>
+    <name>Route de Bièvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7594844" lon="2.2437877"></trkpt>
+        <trkpt lat="48.7591588" lon="2.2430458"></trkpt>
+        <trkpt lat="48.7590607" lon="2.2428222"></trkpt>
+        <trkpt lat="48.7582171" lon="2.2408994"></trkpt>
+        <trkpt lat="48.7574133" lon="2.2389565"></trkpt>
+        <trkpt lat="48.7565865" lon="2.2370488"></trkpt>
+        <trkpt lat="48.7563276" lon="2.2364795"></trkpt>
+        <trkpt lat="48.7560429" lon="2.235754"></trkpt>
+        <trkpt lat="48.755488" lon="2.234466"></trkpt>
+        <trkpt lat="48.7550582" lon="2.2334795"></trkpt>
+        <trkpt lat="48.754776" lon="2.232832"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

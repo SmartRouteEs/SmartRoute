@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Montfermeil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.742816</time>
+</metadata>
+<trk>
+    <name>Allée de Montfermeil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9060557" lon="2.561824"></trkpt>
+        <trkpt lat="48.9052417" lon="2.5624055"></trkpt>
+        <trkpt lat="48.9044056" lon="2.5629513"></trkpt>
+        <trkpt lat="48.9041332" lon="2.5631484"></trkpt>
+        <trkpt lat="48.9037072" lon="2.5634579"></trkpt>
+        <trkpt lat="48.9036419" lon="2.5634985"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

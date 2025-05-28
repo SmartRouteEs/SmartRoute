@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 734</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 734</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5091643" lon="2.3929509"></trkpt>
+        <trkpt lat="48.5091799" lon="2.3932211"></trkpt>
+        <trkpt lat="48.5091659" lon="2.3941161"></trkpt>
+        <trkpt lat="48.5091425" lon="2.3942484"></trkpt>
+        <trkpt lat="48.5083266" lon="2.3968457"></trkpt>
+        <trkpt lat="48.5079582" lon="2.398029"></trkpt>
+        <trkpt lat="48.5076272" lon="2.399127"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

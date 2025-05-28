@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Forestier des Vallées</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.522485</time>
+</metadata>
+<trk>
+    <name>Chemin Forestier des Vallées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6739045" lon="2.4446331"></trkpt>
+        <trkpt lat="48.6771283" lon="2.4461077"></trkpt>
+        <trkpt lat="48.678007" lon="2.4464786"></trkpt>
+        <trkpt lat="48.6800649" lon="2.4473749"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

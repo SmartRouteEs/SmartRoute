@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Écoliers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.777755</time>
+</metadata>
+<trk>
+    <name>Chemin des Écoliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.254241" lon="3.0182244"></trkpt>
+        <trkpt lat="48.2542968" lon="3.0176591"></trkpt>
+        <trkpt lat="48.2543771" lon="3.0173348"></trkpt>
+        <trkpt lat="48.2546154" lon="3.016739"></trkpt>
+        <trkpt lat="48.2547055" lon="3.0164543"></trkpt>
+        <trkpt lat="48.2547499" lon="3.0162429"></trkpt>
+        <trkpt lat="48.2547805" lon="3.0161684"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

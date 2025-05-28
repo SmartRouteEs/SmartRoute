@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Petit Mont Chauvet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.653919</time>
+</metadata>
+<trk>
+    <name>Route du Petit Mont Chauvet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3926449" lon="2.6992898"></trkpt>
+        <trkpt lat="48.3917318" lon="2.6991432"></trkpt>
+        <trkpt lat="48.3916538" lon="2.6991432"></trkpt>
+        <trkpt lat="48.3915782" lon="2.6991712"></trkpt>
+        <trkpt lat="48.3907319" lon="2.6996074"></trkpt>
+        <trkpt lat="48.3904047" lon="2.6998864"></trkpt>
+        <trkpt lat="48.3895491" lon="2.7005219"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

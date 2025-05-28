@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Mesnil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.241450</time>
+</metadata>
+<trk>
+    <name>Chemin du Mesnil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8180826" lon="2.9825501"></trkpt>
+        <trkpt lat="48.8181725" lon="2.9824006"></trkpt>
+        <trkpt lat="48.8184138" lon="2.9820076"></trkpt>
+        <trkpt lat="48.8186017" lon="2.9817211"></trkpt>
+        <trkpt lat="48.8186763" lon="2.981574"></trkpt>
+        <trkpt lat="48.8187326" lon="2.9814157"></trkpt>
+        <trkpt lat="48.8187876" lon="2.9812333"></trkpt>
+        <trkpt lat="48.8188285" lon="2.980963"></trkpt>
+        <trkpt lat="48.818931" lon="2.9807771"></trkpt>
+        <trkpt lat="48.8191912" lon="2.9805379"></trkpt>
+        <trkpt lat="48.8193536" lon="2.9803241"></trkpt>
+        <trkpt lat="48.8195411" lon="2.9801553"></trkpt>
+        <trkpt lat="48.8197939" lon="2.979834"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

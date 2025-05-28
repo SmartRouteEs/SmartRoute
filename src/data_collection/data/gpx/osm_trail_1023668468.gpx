@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de l'Église</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.477651</time>
+</metadata>
+<trk>
+    <name>Sentier de l'Église</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6351657" lon="3.2888899"></trkpt>
+        <trkpt lat="48.6366487" lon="3.2880731"></trkpt>
+        <trkpt lat="48.6366953" lon="3.2879612"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

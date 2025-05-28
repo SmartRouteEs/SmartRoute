@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Pierre-du-Perret à Melun</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.018158</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Pierre-du-Perret à Melun</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5890902" lon="2.5296047"></trkpt>
+        <trkpt lat="48.5913488" lon="2.5261057"></trkpt>
+        <trkpt lat="48.5913798" lon="2.5259363"></trkpt>
+        <trkpt lat="48.5917373" lon="2.5239845"></trkpt>
+        <trkpt lat="48.5919266" lon="2.5229486"></trkpt>
+        <trkpt lat="48.5923192" lon="2.5209169"></trkpt>
+        <trkpt lat="48.592552" lon="2.5202024"></trkpt>
+        <trkpt lat="48.5928083" lon="2.5197221"></trkpt>
+        <trkpt lat="48.593754" lon="2.5189314"></trkpt>
+        <trkpt lat="48.5941111" lon="2.5187097"></trkpt>
+        <trkpt lat="48.59474" lon="2.5182578"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

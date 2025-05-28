@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.416848</time>
+</metadata>
+<trk>
+    <name>Route de la Mue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4702642" lon="2.6770974"></trkpt>
+        <trkpt lat="48.4720578" lon="2.6737628"></trkpt>
+        <trkpt lat="48.4729614" lon="2.6720839"></trkpt>
+        <trkpt lat="48.4732317" lon="2.6714975"></trkpt>
+        <trkpt lat="48.4748158" lon="2.6684458"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

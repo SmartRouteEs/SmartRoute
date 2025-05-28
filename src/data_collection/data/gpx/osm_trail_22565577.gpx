@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 386</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.467243</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 386</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.776333" lon="2.3001619"></trkpt>
+        <trkpt lat="48.7762002" lon="2.2993566"></trkpt>
+        <trkpt lat="48.7761836" lon="2.2992293"></trkpt>
+        <trkpt lat="48.7760742" lon="2.298596"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

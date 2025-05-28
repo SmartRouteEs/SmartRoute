@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Affectation</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.498214</time>
+</metadata>
+<trk>
+    <name>Route de l'Affectation</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3697082" lon="2.6743413"></trkpt>
+        <trkpt lat="48.3714623" lon="2.6755881"></trkpt>
+        <trkpt lat="48.371654" lon="2.6760683"></trkpt>
+        <trkpt lat="48.3717277" lon="2.6764687"></trkpt>
+        <trkpt lat="48.3723108" lon="2.6773152"></trkpt>
+        <trkpt lat="48.3728144" lon="2.6778636"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

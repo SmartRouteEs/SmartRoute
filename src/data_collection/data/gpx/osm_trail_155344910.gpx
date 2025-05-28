@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Amblainvilliers</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.618319</time>
+</metadata>
+<trk>
+    <name>Route d'Amblainvilliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7458446" lon="2.2435287"></trkpt>
+        <trkpt lat="48.745681" lon="2.243628"></trkpt>
+        <trkpt lat="48.74553" lon="2.24365"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

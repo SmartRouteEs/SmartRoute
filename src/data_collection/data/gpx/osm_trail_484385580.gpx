@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Gardes</name>
+    <desc>Sentier VTT - Type: track - Surface: pebblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.546627</time>
+</metadata>
+<trk>
+    <name>Chemin des Gardes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7633548" lon="2.2325088"></trkpt>
+        <trkpt lat="48.7632699" lon="2.2323718"></trkpt>
+        <trkpt lat="48.7632248" lon="2.2322904"></trkpt>
+        <trkpt lat="48.763023" lon="2.231843"></trkpt>
+        <trkpt lat="48.762939" lon="2.231671"></trkpt>
+        <trkpt lat="48.762743" lon="2.231327"></trkpt>
+        <trkpt lat="48.762408" lon="2.230911"></trkpt>
+        <trkpt lat="48.762172" lon="2.230552"></trkpt>
+        <trkpt lat="48.762061" lon="2.230352"></trkpt>
+        <trkpt lat="48.761959" lon="2.230025"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

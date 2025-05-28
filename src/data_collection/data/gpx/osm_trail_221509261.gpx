@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Croix de Pierre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.324546</time>
+</metadata>
+<trk>
+    <name>Rue de la Croix de Pierre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9514593" lon="3.1396366"></trkpt>
+        <trkpt lat="48.951363" lon="3.1395433"></trkpt>
+        <trkpt lat="48.9512421" lon="3.1394657"></trkpt>
+        <trkpt lat="48.9510156" lon="3.1391711"></trkpt>
+        <trkpt lat="48.9508938" lon="3.1389677"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

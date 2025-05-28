@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Montrenard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.628452</time>
+</metadata>
+<trk>
+    <name>Chemin de Montrenard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8254517" lon="3.010069"></trkpt>
+        <trkpt lat="48.8254119" lon="3.0100555"></trkpt>
+        <trkpt lat="48.8252971" lon="3.0098704"></trkpt>
+        <trkpt lat="48.825224" lon="3.0097339"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

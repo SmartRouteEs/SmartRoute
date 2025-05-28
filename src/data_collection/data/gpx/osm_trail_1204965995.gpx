@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Brûlée</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.817206</time>
+</metadata>
+<trk>
+    <name>Route Brûlée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8352661" lon="2.4275977"></trkpt>
+        <trkpt lat="48.8353439" lon="2.4273606"></trkpt>
+        <trkpt lat="48.835445" lon="2.4270434"></trkpt>
+        <trkpt lat="48.8356061" lon="2.4264727"></trkpt>
+        <trkpt lat="48.8357327" lon="2.4259321"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

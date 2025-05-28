@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Sanglier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.128263</time>
+</metadata>
+<trk>
+    <name>Route du Sanglier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4590876" lon="2.6480801"></trkpt>
+        <trkpt lat="48.4574166" lon="2.6471494"></trkpt>
+        <trkpt lat="48.4556385" lon="2.6460921"></trkpt>
+        <trkpt lat="48.4529885" lon="2.6444566"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

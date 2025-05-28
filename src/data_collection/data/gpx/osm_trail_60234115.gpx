@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Yvain</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.052652</time>
+</metadata>
+<trk>
+    <name>Allée Yvain</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6389927" lon="2.424843"></trkpt>
+        <trkpt lat="48.6390413" lon="2.4248132"></trkpt>
+        <trkpt lat="48.6394122" lon="2.4243676"></trkpt>
+        <trkpt lat="48.6396629" lon="2.4240736"></trkpt>
+        <trkpt lat="48.6398961" lon="2.4237927"></trkpt>
+        <trkpt lat="48.6400005" lon="2.4236673"></trkpt>
+        <trkpt lat="48.6401655" lon="2.4235406"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

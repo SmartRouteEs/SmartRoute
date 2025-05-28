@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Nito</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.926786</time>
+</metadata>
+<trk>
+    <name>Allée de Nito</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5619081" lon="2.4171658"></trkpt>
+        <trkpt lat="48.5618973" lon="2.4166874"></trkpt>
+        <trkpt lat="48.5619115" lon="2.4164138"></trkpt>
+        <trkpt lat="48.5619647" lon="2.4162368"></trkpt>
+        <trkpt lat="48.562042" lon="2.4160594"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

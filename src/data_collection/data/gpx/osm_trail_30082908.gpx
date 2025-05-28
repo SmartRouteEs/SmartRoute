@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Vertugadin</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.770341</time>
+</metadata>
+<trk>
+    <name>Route du Vertugadin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8003343" lon="2.2476366"></trkpt>
+        <trkpt lat="48.8004866" lon="2.2467189"></trkpt>
+        <trkpt lat="48.800492" lon="2.2466873"></trkpt>
+        <trkpt lat="48.8005968" lon="2.246077"></trkpt>
+        <trkpt lat="48.8007053" lon="2.2454199"></trkpt>
+        <trkpt lat="48.8008088" lon="2.2446923"></trkpt>
+        <trkpt lat="48.8009553" lon="2.2437392"></trkpt>
+        <trkpt lat="48.8010278" lon="2.2429596"></trkpt>
+        <trkpt lat="48.8011045" lon="2.2419783"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

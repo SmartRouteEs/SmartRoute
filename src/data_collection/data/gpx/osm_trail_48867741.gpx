@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Longues Vallées</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.812869</time>
+</metadata>
+<trk>
+    <name>Route des Longues Vallées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4596002" lon="2.6627164"></trkpt>
+        <trkpt lat="48.458515" lon="2.6660687"></trkpt>
+        <trkpt lat="48.4577937" lon="2.6682454"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

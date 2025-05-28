@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Planche-Coutant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.227729</time>
+</metadata>
+<trk>
+    <name>Chemin de la Planche-Coutant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.503697" lon="2.541504"></trkpt>
+        <trkpt lat="48.5036586" lon="2.5417715"></trkpt>
+        <trkpt lat="48.5036258" lon="2.5425988"></trkpt>
+        <trkpt lat="48.5036703" lon="2.5434673"></trkpt>
+        <trkpt lat="48.5035548" lon="2.5443853"></trkpt>
+        <trkpt lat="48.503489" lon="2.5449081"></trkpt>
+        <trkpt lat="48.503456" lon="2.5460785"></trkpt>
+        <trkpt lat="48.5034086" lon="2.5464359"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

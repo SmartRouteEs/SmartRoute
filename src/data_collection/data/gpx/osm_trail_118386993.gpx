@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cordon du Haut</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.848721</time>
+</metadata>
+<trk>
+    <name>Route du Cordon du Haut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7929927" lon="2.2090261"></trkpt>
+        <trkpt lat="48.7927855" lon="2.2088853"></trkpt>
+        <trkpt lat="48.7924102" lon="2.2085312"></trkpt>
+        <trkpt lat="48.7923311" lon="2.2083979"></trkpt>
+        <trkpt lat="48.7922697" lon="2.2082552"></trkpt>
+        <trkpt lat="48.7922732" lon="2.2080096"></trkpt>
+        <trkpt lat="48.792573" lon="2.20716"></trkpt>
+        <trkpt lat="48.7926003" lon="2.2070168"></trkpt>
+        <trkpt lat="48.7925943" lon="2.2069"></trkpt>
+        <trkpt lat="48.7925478" lon="2.2067831"></trkpt>
+        <trkpt lat="48.792497" lon="2.2066641"></trkpt>
+        <trkpt lat="48.7923846" lon="2.2065356"></trkpt>
+        <trkpt lat="48.7922987" lon="2.2064889"></trkpt>
+        <trkpt lat="48.7921181" lon="2.2064656"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

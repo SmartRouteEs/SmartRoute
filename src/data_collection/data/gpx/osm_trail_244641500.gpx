@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue des Champs Élysées</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.546552</time>
+</metadata>
+<trk>
+    <name>Avenue des Champs Élysées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8888886" lon="2.656687"></trkpt>
+        <trkpt lat="48.890659" lon="2.6575121"></trkpt>
+        <trkpt lat="48.8910782" lon="2.6576918"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

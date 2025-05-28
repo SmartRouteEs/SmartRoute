@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Étang</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.053474</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Étang</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3567646" lon="2.3872514"></trkpt>
+        <trkpt lat="48.3566443" lon="2.3863183"></trkpt>
+        <trkpt lat="48.3572565" lon="2.3858995"></trkpt>
+        <trkpt lat="48.3576141" lon="2.3858077"></trkpt>
+        <trkpt lat="48.3578201" lon="2.3857771"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

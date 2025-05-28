@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de la Ferté Alais</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.319235</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de la Ferté Alais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5937085" lon="2.3133336"></trkpt>
+        <trkpt lat="48.5933248" lon="2.3133494"></trkpt>
+        <trkpt lat="48.5930296" lon="2.3134095"></trkpt>
+        <trkpt lat="48.5926549" lon="2.3136842"></trkpt>
+        <trkpt lat="48.5919964" lon="2.3139588"></trkpt>
+        <trkpt lat="48.5913947" lon="2.3144996"></trkpt>
+        <trkpt lat="48.5912582" lon="2.3146536"></trkpt>
+        <trkpt lat="48.5909916" lon="2.3149545"></trkpt>
+        <trkpt lat="48.5901911" lon="2.3154265"></trkpt>
+        <trkpt lat="48.589436" lon="2.3157269"></trkpt>
+        <trkpt lat="48.5891181" lon="2.3158128"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière Pierreuse</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.522485</time>
+</metadata>
+<trk>
+    <name>Route Forestière Pierreuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6684796" lon="2.4215137"></trkpt>
+        <trkpt lat="48.6687463" lon="2.4220559"></trkpt>
+        <trkpt lat="48.6688844" lon="2.4223368"></trkpt>
+        <trkpt lat="48.6699491" lon="2.4247163"></trkpt>
+        <trkpt lat="48.6699982" lon="2.4248301"></trkpt>
+        <trkpt lat="48.6701297" lon="2.4251343"></trkpt>
+        <trkpt lat="48.6702227" lon="2.4253036"></trkpt>
+        <trkpt lat="48.6713104" lon="2.4278276"></trkpt>
+        <trkpt lat="48.6719819" lon="2.4293301"></trkpt>
+        <trkpt lat="48.6720463" lon="2.4294741"></trkpt>
+        <trkpt lat="48.6720869" lon="2.4295648"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

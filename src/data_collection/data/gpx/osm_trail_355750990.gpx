@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grèves</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.909568</time>
+</metadata>
+<trk>
+    <name>Chemin des Grèves</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2412972" lon="2.703082"></trkpt>
+        <trkpt lat="48.2408024" lon="2.7034226"></trkpt>
+        <trkpt lat="48.2393474" lon="2.7043882"></trkpt>
+        <trkpt lat="48.2391712" lon="2.7045009"></trkpt>
+        <trkpt lat="48.2387657" lon="2.704762"></trkpt>
+        <trkpt lat="48.2386243" lon="2.7048693"></trkpt>
+        <trkpt lat="48.2385506" lon="2.7049586"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 19712</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.459091</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 19712</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5483609" lon="2.5368571"></trkpt>
+        <trkpt lat="48.5503211" lon="2.538681"></trkpt>
+        <trkpt lat="48.5506851" lon="2.5393003"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

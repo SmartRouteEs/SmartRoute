@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 19897</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.519971</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 19897</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2670176" lon="2.2262087"></trkpt>
+        <trkpt lat="48.2674507" lon="2.2255409"></trkpt>
+        <trkpt lat="48.2675034" lon="2.2254929"></trkpt>
+        <trkpt lat="48.267557" lon="2.2254545"></trkpt>
+        <trkpt lat="48.2693303" lon="2.2247116"></trkpt>
+        <trkpt lat="48.2701729" lon="2.2243586"></trkpt>
+        <trkpt lat="48.2708068" lon="2.2240979"></trkpt>
+        <trkpt lat="48.2731934" lon="2.2231424"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue de Trivaux</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.322456</time>
+</metadata>
+<trk>
+    <name>Avenue de Trivaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7949225" lon="2.2349948"></trkpt>
+        <trkpt lat="48.7931695" lon="2.2354527"></trkpt>
+        <trkpt lat="48.7929793" lon="2.2354992"></trkpt>
+        <trkpt lat="48.7918109" lon="2.235785"></trkpt>
+        <trkpt lat="48.7917105" lon="2.2358147"></trkpt>
+        <trkpt lat="48.7903708" lon="2.2361809"></trkpt>
+        <trkpt lat="48.7893142" lon="2.2364718"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

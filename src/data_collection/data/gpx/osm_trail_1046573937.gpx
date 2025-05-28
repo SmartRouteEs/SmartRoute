@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Plage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.676828</time>
+</metadata>
+<trk>
+    <name>Rue de la Plage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3928674" lon="2.8254961"></trkpt>
+        <trkpt lat="48.3927428" lon="2.8258663"></trkpt>
+        <trkpt lat="48.3925504" lon="2.8263866"></trkpt>
+        <trkpt lat="48.3921657" lon="2.8272074"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

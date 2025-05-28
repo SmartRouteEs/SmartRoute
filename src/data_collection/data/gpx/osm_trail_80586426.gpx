@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Achères à Arbonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.280161</time>
+</metadata>
+<trk>
+    <name>Route d'Achères à Arbonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.384809" lon="2.5751263"></trkpt>
+        <trkpt lat="48.3847538" lon="2.5755828"></trkpt>
+        <trkpt lat="48.384773" lon="2.575952"></trkpt>
+        <trkpt lat="48.384765" lon="2.576335"></trkpt>
+        <trkpt lat="48.384674" lon="2.577523"></trkpt>
+        <trkpt lat="48.384623" lon="2.577833"></trkpt>
+        <trkpt lat="48.384447" lon="2.578383"></trkpt>
+        <trkpt lat="48.384372" lon="2.57868"></trkpt>
+        <trkpt lat="48.384316" lon="2.579251"></trkpt>
+        <trkpt lat="48.384318" lon="2.579513"></trkpt>
+        <trkpt lat="48.384267" lon="2.579848"></trkpt>
+        <trkpt lat="48.384137" lon="2.580402"></trkpt>
+        <trkpt lat="48.384081" lon="2.5808654"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

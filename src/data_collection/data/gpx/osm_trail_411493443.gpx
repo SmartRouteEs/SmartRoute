@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin Rompu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.840878</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin Rompu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3124598" lon="3.1344731"></trkpt>
+        <trkpt lat="48.3119241" lon="3.1338103"></trkpt>
+        <trkpt lat="48.3115662" lon="3.1333969"></trkpt>
+        <trkpt lat="48.3110424" lon="3.1328908"></trkpt>
+        <trkpt lat="48.3106158" lon="3.1324667"></trkpt>
+        <trkpt lat="48.3102171" lon="3.132088"></trkpt>
+        <trkpt lat="48.3098344" lon="3.1317244"></trkpt>
+        <trkpt lat="48.3098051" lon="3.1316966"></trkpt>
+        <trkpt lat="48.3097441" lon="3.1316324"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Favreuse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.857031</time>
+</metadata>
+<trk>
+    <name>Rue de Favreuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7347594" lon="2.2009519"></trkpt>
+        <trkpt lat="48.7346886" lon="2.2008822"></trkpt>
+        <trkpt lat="48.7345403" lon="2.200865"></trkpt>
+        <trkpt lat="48.7344236" lon="2.200865"></trkpt>
+        <trkpt lat="48.7343387" lon="2.2008865"></trkpt>
+        <trkpt lat="48.7342483" lon="2.2009627"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

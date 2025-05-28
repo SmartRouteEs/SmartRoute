@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Passage de l'Epi</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.683732</time>
+</metadata>
+<trk>
+    <name>Passage de l'Epi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6819599" lon="2.5573278"></trkpt>
+        <trkpt lat="48.6820071" lon="2.5570942"></trkpt>
+        <trkpt lat="48.6820802" lon="2.5565546"></trkpt>
+        <trkpt lat="48.6822281" lon="2.5556574"></trkpt>
+        <trkpt lat="48.6822844" lon="2.5552999"></trkpt>
+        <trkpt lat="48.6823188" lon="2.5551844"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

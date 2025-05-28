@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois d'Évry</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.696867</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois d'Évry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6610446" lon="2.6481301"></trkpt>
+        <trkpt lat="48.661035" lon="2.6476357"></trkpt>
+        <trkpt lat="48.6609182" lon="2.6471196"></trkpt>
+        <trkpt lat="48.6608362" lon="2.6468963"></trkpt>
+        <trkpt lat="48.6604492" lon="2.6466906"></trkpt>
+        <trkpt lat="48.660113" lon="2.6462084"></trkpt>
+        <trkpt lat="48.6597049" lon="2.6454257"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

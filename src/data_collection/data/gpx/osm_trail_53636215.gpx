@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3760</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.961402</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3760</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5441331" lon="2.6312571"></trkpt>
+        <trkpt lat="48.5441641" lon="2.6312823"></trkpt>
+        <trkpt lat="48.5443394" lon="2.6314773"></trkpt>
+        <trkpt lat="48.544383" lon="2.6315461"></trkpt>
+        <trkpt lat="48.544395" lon="2.6315977"></trkpt>
+        <trkpt lat="48.544411" lon="2.631636"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

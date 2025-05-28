@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Édouets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.862514</time>
+</metadata>
+<trk>
+    <name>Chemin des Édouets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7141401" lon="2.3240645"></trkpt>
+        <trkpt lat="48.7140297" lon="2.3241637"></trkpt>
+        <trkpt lat="48.71291" lon="2.3243376"></trkpt>
+        <trkpt lat="48.7118375" lon="2.3245245"></trkpt>
+        <trkpt lat="48.7114908" lon="2.3246443"></trkpt>
+        <trkpt lat="48.7109914" lon="2.3248341"></trkpt>
+        <trkpt lat="48.7109003" lon="2.3248696"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 313</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.442237</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 313</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8902585" lon="2.2312559"></trkpt>
+        <trkpt lat="48.8902255" lon="2.2312833"></trkpt>
+        <trkpt lat="48.8897282" lon="2.2316958"></trkpt>
+        <trkpt lat="48.8893042" lon="2.2321197"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

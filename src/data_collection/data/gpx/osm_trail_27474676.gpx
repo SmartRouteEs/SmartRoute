@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Charme Brulé</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.613085</time>
+</metadata>
+<trk>
+    <name>Route du Charme Brulé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4690478" lon="2.7141716"></trkpt>
+        <trkpt lat="48.4685369" lon="2.7159124"></trkpt>
+        <trkpt lat="48.4681686" lon="2.7171805"></trkpt>
+        <trkpt lat="48.4677512" lon="2.7186177"></trkpt>
+        <trkpt lat="48.4665514" lon="2.7226762"></trkpt>
+        <trkpt lat="48.4662518" lon="2.7237337"></trkpt>
+        <trkpt lat="48.4653997" lon="2.7261842"></trkpt>
+        <trkpt lat="48.4646333" lon="2.7285274"></trkpt>
+        <trkpt lat="48.4642569" lon="2.7295697"></trkpt>
+        <trkpt lat="48.4640932" lon="2.7298884"></trkpt>
+        <trkpt lat="48.4635603" lon="2.730785"></trkpt>
+        <trkpt lat="48.46304" lon="2.731697"></trkpt>
+        <trkpt lat="48.4628151" lon="2.7320684"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

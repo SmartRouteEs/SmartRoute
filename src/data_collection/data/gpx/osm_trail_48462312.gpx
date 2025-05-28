@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Biron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route Biron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3680586" lon="2.7157713"></trkpt>
+        <trkpt lat="48.3680516" lon="2.7160713"></trkpt>
+        <trkpt lat="48.3679595" lon="2.7200001"></trkpt>
+        <trkpt lat="48.3679561" lon="2.7201472"></trkpt>
+        <trkpt lat="48.3679481" lon="2.7204749"></trkpt>
+        <trkpt lat="48.3678993" lon="2.7224706"></trkpt>
+        <trkpt lat="48.3678724" lon="2.7271831"></trkpt>
+        <trkpt lat="48.3677952" lon="2.729769"></trkpt>
+        <trkpt lat="48.3676657" lon="2.735265"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

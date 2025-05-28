@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Courtilleraies</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.935941</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Courtilleraies</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.544725" lon="2.6320487"></trkpt>
+        <trkpt lat="48.5447235" lon="2.6319873"></trkpt>
+        <trkpt lat="48.5445708" lon="2.6319323"></trkpt>
+        <trkpt lat="48.544514" lon="2.6318854"></trkpt>
+        <trkpt lat="48.5444688" lon="2.6318542"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

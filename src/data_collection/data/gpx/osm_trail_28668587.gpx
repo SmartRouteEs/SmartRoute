@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Renard</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.649525</time>
+</metadata>
+<trk>
+    <name>Allée du Renard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7524036" lon="2.5572068"></trkpt>
+        <trkpt lat="48.7523378" lon="2.5569364"></trkpt>
+        <trkpt lat="48.751887" lon="2.5550838"></trkpt>
+        <trkpt lat="48.7512906" lon="2.5526332"></trkpt>
+        <trkpt lat="48.7512874" lon="2.5525344"></trkpt>
+        <trkpt lat="48.7512592" lon="2.5516486"></trkpt>
+        <trkpt lat="48.7511667" lon="2.5499661"></trkpt>
+        <trkpt lat="48.7510216" lon="2.5462499"></trkpt>
+        <trkpt lat="48.7510264" lon="2.54596"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

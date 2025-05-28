@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Satyres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.514473</time>
+</metadata>
+<trk>
+    <name>Route des Satyres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3767663" lon="2.6608082"></trkpt>
+        <trkpt lat="48.3775601" lon="2.6618617"></trkpt>
+        <trkpt lat="48.3782074" lon="2.6626074"></trkpt>
+        <trkpt lat="48.3784999" lon="2.6631797"></trkpt>
+        <trkpt lat="48.3788422" lon="2.6633457"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chauffour</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.744687</time>
+</metadata>
+<trk>
+    <name>Chemin de Chauffour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6872579" lon="2.2660459"></trkpt>
+        <trkpt lat="48.6870834" lon="2.26629"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

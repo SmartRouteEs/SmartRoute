@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Monastère</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.022609</time>
+</metadata>
+<trk>
+    <name>Route du Monastère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4093079" lon="2.6318386"></trkpt>
+        <trkpt lat="48.4094551" lon="2.6315532"></trkpt>
+        <trkpt lat="48.4095439" lon="2.6314527"></trkpt>
+        <trkpt lat="48.4098529" lon="2.6311389"></trkpt>
+        <trkpt lat="48.4100934" lon="2.6308019"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Forestièr dite Route de Villeneuve-Saint-Georges à Corbeil</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.761132</time>
+</metadata>
+<trk>
+    <name>Chemin Forestièr dite Route de Villeneuve-Saint-Georges à Corbeil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6709055" lon="2.4563376"></trkpt>
+        <trkpt lat="48.6715233" lon="2.455765"></trkpt>
+        <trkpt lat="48.675607" lon="2.4517392"></trkpt>
+        <trkpt lat="48.6756388" lon="2.4517077"></trkpt>
+        <trkpt lat="48.6787535" lon="2.4486203"></trkpt>
+        <trkpt lat="48.6800649" lon="2.4473749"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

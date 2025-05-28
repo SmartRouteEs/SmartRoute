@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Marais</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.862260</time>
+</metadata>
+<trk>
+    <name>Chemin du Marais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.502122" lon="2.2525033"></trkpt>
+        <trkpt lat="48.5022834" lon="2.2522701"></trkpt>
+        <trkpt lat="48.5023071" lon="2.252207"></trkpt>
+        <trkpt lat="48.5026851" lon="2.251596"></trkpt>
+        <trkpt lat="48.502945" lon="2.2511016"></trkpt>
+        <trkpt lat="48.5030679" lon="2.2509414"></trkpt>
+        <trkpt lat="48.5036485" lon="2.2499135"></trkpt>
+        <trkpt lat="48.503827" lon="2.2494948"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

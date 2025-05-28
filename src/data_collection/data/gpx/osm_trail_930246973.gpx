@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Jacquette</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.497314</time>
+</metadata>
+<trk>
+    <name>Allée Jacquette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7586533" lon="2.6051237"></trkpt>
+        <trkpt lat="48.7628314" lon="2.6036182"></trkpt>
+        <trkpt lat="48.763309" lon="2.603445"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

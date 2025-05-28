@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Mazarin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.382017</time>
+</metadata>
+<trk>
+    <name>Route Mazarin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4088727" lon="2.647695"></trkpt>
+        <trkpt lat="48.4079963" lon="2.642709"></trkpt>
+        <trkpt lat="48.4075133" lon="2.6415802"></trkpt>
+        <trkpt lat="48.4073941" lon="2.6415012"></trkpt>
+        <trkpt lat="48.4072588" lon="2.6413383"></trkpt>
+        <trkpt lat="48.4070874" lon="2.6411388"></trkpt>
+        <trkpt lat="48.4069398" lon="2.6410455"></trkpt>
+        <trkpt lat="48.4067778" lon="2.6409359"></trkpt>
+        <trkpt lat="48.4066541" lon="2.6408504"></trkpt>
+        <trkpt lat="48.4065378" lon="2.6407224"></trkpt>
+        <trkpt lat="48.4063955" lon="2.6405613"></trkpt>
+        <trkpt lat="48.4061957" lon="2.6403589"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

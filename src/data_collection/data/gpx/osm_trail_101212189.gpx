@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Haut Montanglos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.595579</time>
+</metadata>
+<trk>
+    <name>Sentier du Haut Montanglos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7327281" lon="2.5598585"></trkpt>
+        <trkpt lat="48.7328318" lon="2.5592736"></trkpt>
+        <trkpt lat="48.7329912" lon="2.5581671"></trkpt>
+        <trkpt lat="48.733137" lon="2.5571554"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

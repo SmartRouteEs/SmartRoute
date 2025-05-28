@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante des Ventes Alexandre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.629456</time>
+</metadata>
+<trk>
+    <name>Route Tournante des Ventes Alexandre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4233362" lon="2.620561"></trkpt>
+        <trkpt lat="48.4221352" lon="2.6223448"></trkpt>
+        <trkpt lat="48.420953" lon="2.6241403"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

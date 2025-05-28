@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Monts de Truies</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.702712</time>
+</metadata>
+<trk>
+    <name>Route des Monts de Truies</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4520012" lon="2.6829561"></trkpt>
+        <trkpt lat="48.451343" lon="2.6811685"></trkpt>
+        <trkpt lat="48.451009" lon="2.6801045"></trkpt>
+        <trkpt lat="48.4508029" lon="2.6791082"></trkpt>
+        <trkpt lat="48.4505098" lon="2.6780222"></trkpt>
+        <trkpt lat="48.4499438" lon="2.6765482"></trkpt>
+        <trkpt lat="48.4498976" lon="2.6761918"></trkpt>
+        <trkpt lat="48.4498943" lon="2.6760333"></trkpt>
+        <trkpt lat="48.4498666" lon="2.6759102"></trkpt>
+        <trkpt lat="48.4498228" lon="2.6757273"></trkpt>
+        <trkpt lat="48.4491682" lon="2.6705814"></trkpt>
+        <trkpt lat="48.4490274" lon="2.670302"></trkpt>
+        <trkpt lat="48.4490051" lon="2.6700544"></trkpt>
+        <trkpt lat="48.4489025" lon="2.6693929"></trkpt>
+        <trkpt lat="48.448478" lon="2.667309"></trkpt>
+        <trkpt lat="48.4480833" lon="2.6648623"></trkpt>
+        <trkpt lat="48.4479874" lon="2.6643038"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Plaine de la Mée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.026308</time>
+</metadata>
+<trk>
+    <name>Chemin de la Plaine de la Mée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3700417" lon="2.511196"></trkpt>
+        <trkpt lat="48.3701284" lon="2.5114144"></trkpt>
+        <trkpt lat="48.3703182" lon="2.511854"></trkpt>
+        <trkpt lat="48.3705681" lon="2.5123373"></trkpt>
+        <trkpt lat="48.370605" lon="2.5124955"></trkpt>
+        <trkpt lat="48.3706171" lon="2.5126798"></trkpt>
+        <trkpt lat="48.370593" lon="2.5128937"></trkpt>
+        <trkpt lat="48.3704744" lon="2.5131666"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

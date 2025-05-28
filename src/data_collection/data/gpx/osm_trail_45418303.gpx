@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Moraille</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.391797</time>
+</metadata>
+<trk>
+    <name>Sentier de Moraille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3438564" lon="2.8905886"></trkpt>
+        <trkpt lat="48.3438368" lon="2.8918664"></trkpt>
+        <trkpt lat="48.3439271" lon="2.892888"></trkpt>
+        <trkpt lat="48.3439912" lon="2.8935758"></trkpt>
+        <trkpt lat="48.3440493" lon="2.8939403"></trkpt>
+        <trkpt lat="48.3442464" lon="2.8947046"></trkpt>
+        <trkpt lat="48.3443448" lon="2.8950217"></trkpt>
+        <trkpt lat="48.3445117" lon="2.89552"></trkpt>
+        <trkpt lat="48.3447745" lon="2.8962633"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

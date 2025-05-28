@@ -6,16 +6,16 @@ import xml.etree.ElementTree as ET
 from geopy.distance import geodesic
 
 # Dossiers
-INPUT_DIR = "data/gpx"
-OUTPUT_DIR = "data/gpx_filtered"
+INPUT_DIR = "data/alternative_vtt_traces"
+OUTPUT_DIR = "data/gpx_filtered2"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 # Bounding box (lon_min, lat_min, lon_max, lat_max)
 BBOX = [2.188650, 48.145309, 3.411287, 48.954693]
 
 # Critères
-MIN_POINTS = 10
-MIN_DISTANCE_METERS = 2000  # 5 km
+MIN_POINTS = 4
+MIN_DISTANCE_METERS = 3000  # 3 km
 MAX_OUTSIDE_RATIO = 0.20    # 20% de points max hors zone
 
 def is_point_in_bbox(lat, lon, bbox):

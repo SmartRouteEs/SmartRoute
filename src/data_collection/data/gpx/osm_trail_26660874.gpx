@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Justes</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Allée des Justes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6233638" lon="2.4317608"></trkpt>
+        <trkpt lat="48.6230819" lon="2.4316991"></trkpt>
+        <trkpt lat="48.6222504" lon="2.4315167"></trkpt>
+        <trkpt lat="48.6219083" lon="2.431448"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

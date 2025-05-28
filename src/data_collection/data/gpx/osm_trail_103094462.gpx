@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Pré Monseigneur</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.609612</time>
+</metadata>
+<trk>
+    <name>Rue du Pré Monseigneur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7403837" lon="2.2358108"></trkpt>
+        <trkpt lat="48.7403803" lon="2.2358075"></trkpt>
+        <trkpt lat="48.7400759" lon="2.2354907"></trkpt>
+        <trkpt lat="48.7400311" lon="2.2354442"></trkpt>
+        <trkpt lat="48.740012" lon="2.2354235"></trkpt>
+        <trkpt lat="48.7398832" lon="2.2352841"></trkpt>
+        <trkpt lat="48.7396101" lon="2.2349883"></trkpt>
+        <trkpt lat="48.7392033" lon="2.2344465"></trkpt>
+        <trkpt lat="48.7388601" lon="2.2339046"></trkpt>
+        <trkpt lat="48.7386453" lon="2.2335638"></trkpt>
+        <trkpt lat="48.7386234" lon="2.2335298"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

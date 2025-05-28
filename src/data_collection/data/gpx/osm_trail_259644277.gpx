@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Gobe-Neige</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.726525</time>
+</metadata>
+<trk>
+    <name>Allée du Gobe-Neige</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7138137" lon="2.2692311"></trkpt>
+        <trkpt lat="48.7138568" lon="2.2697992"></trkpt>
+        <trkpt lat="48.7139014" lon="2.2703972"></trkpt>
+        <trkpt lat="48.7138904" lon="2.2706808"></trkpt>
+        <trkpt lat="48.7138468" lon="2.2709444"></trkpt>
+        <trkpt lat="48.713751" lon="2.2713172"></trkpt>
+        <trkpt lat="48.7136984" lon="2.2714238"></trkpt>
+        <trkpt lat="48.7136436" lon="2.2714815"></trkpt>
+        <trkpt lat="48.7134018" lon="2.2714837"></trkpt>
+        <trkpt lat="48.7129916" lon="2.2716194"></trkpt>
+        <trkpt lat="48.7127176" lon="2.2718154"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

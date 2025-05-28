@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Maurice</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.927104</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Maurice</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5607099" lon="2.7749649"></trkpt>
+        <trkpt lat="48.5624913" lon="2.7740911"></trkpt>
+        <trkpt lat="48.5633191" lon="2.7737672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

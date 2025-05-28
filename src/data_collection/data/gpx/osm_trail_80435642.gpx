@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont Andart</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.262387</time>
+</metadata>
+<trk>
+    <name>Route du Mont Andart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4027722" lon="2.7548973"></trkpt>
+        <trkpt lat="48.4025408" lon="2.7542978"></trkpt>
+        <trkpt lat="48.4021813" lon="2.753798"></trkpt>
+        <trkpt lat="48.4020209" lon="2.7530647"></trkpt>
+        <trkpt lat="48.4016458" lon="2.7502573"></trkpt>
+        <trkpt lat="48.4016797" lon="2.7497756"></trkpt>
+        <trkpt lat="48.4020439" lon="2.7445321"></trkpt>
+        <trkpt lat="48.402307" lon="2.7406483"></trkpt>
+        <trkpt lat="48.4025071" lon="2.7368541"></trkpt>
+        <trkpt lat="48.4027843" lon="2.7365307"></trkpt>
+        <trkpt lat="48.4028828" lon="2.7349394"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

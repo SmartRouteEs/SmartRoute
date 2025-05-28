@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8689</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.254869</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8689</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5932364" lon="3.070506"></trkpt>
+        <trkpt lat="48.5933104" lon="3.0704772"></trkpt>
+        <trkpt lat="48.5934191" lon="3.0704772"></trkpt>
+        <trkpt lat="48.5935162" lon="3.0704778"></trkpt>
+        <trkpt lat="48.5935276" lon="3.0704185"></trkpt>
+        <trkpt lat="48.5935605" lon="3.0700417"></trkpt>
+        <trkpt lat="48.5935329" lon="3.0699374"></trkpt>
+        <trkpt lat="48.5934191" lon="3.0698931"></trkpt>
+        <trkpt lat="48.5933009" lon="3.0698676"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

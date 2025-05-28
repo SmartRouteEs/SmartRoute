@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de la Pyramide</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.712914</time>
+</metadata>
+<trk>
+    <name>Route Forestière de la Pyramide</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6770398" lon="2.4669486"></trkpt>
+        <trkpt lat="48.6783023" lon="2.4717109"></trkpt>
+        <trkpt lat="48.6792955" lon="2.4755054"></trkpt>
+        <trkpt lat="48.6793803" lon="2.4758293"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

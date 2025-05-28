@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Reine</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.311546</time>
+</metadata>
+<trk>
+    <name>Allée de la Reine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.402545" lon="2.7058769"></trkpt>
+        <trkpt lat="48.4025713" lon="2.7059561"></trkpt>
+        <trkpt lat="48.403784" lon="2.7095349"></trkpt>
+        <trkpt lat="48.4038304" lon="2.7096718"></trkpt>
+        <trkpt lat="48.4072986" lon="2.719907"></trkpt>
+        <trkpt lat="48.407354" lon="2.7200706"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

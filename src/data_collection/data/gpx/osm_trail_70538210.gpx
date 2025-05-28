@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Manoeuvres</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.110153</time>
+</metadata>
+<trk>
+    <name>Chemin des Manoeuvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4384005" lon="2.7614415"></trkpt>
+        <trkpt lat="48.4390358" lon="2.7594402"></trkpt>
+        <trkpt lat="48.4392706" lon="2.7594134"></trkpt>
+        <trkpt lat="48.4394432" lon="2.7592659"></trkpt>
+        <trkpt lat="48.4397707" lon="2.75918"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

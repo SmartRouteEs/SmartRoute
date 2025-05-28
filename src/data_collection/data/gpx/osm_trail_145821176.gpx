@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Friches Grillées</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.211629</time>
+</metadata>
+<trk>
+    <name>Chemin des Friches Grillées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3355275" lon="2.2704603"></trkpt>
+        <trkpt lat="48.3356689" lon="2.2672489"></trkpt>
+        <trkpt lat="48.3357503" lon="2.2652701"></trkpt>
+        <trkpt lat="48.3358062" lon="2.2640092"></trkpt>
+        <trkpt lat="48.3358395" lon="2.2634094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

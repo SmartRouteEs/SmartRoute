@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grille Nord de Monthuchet</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.901317</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grille Nord de Monthuchet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.69165" lon="2.2709282"></trkpt>
+        <trkpt lat="48.6917053" lon="2.2710208"></trkpt>
+        <trkpt lat="48.6916776" lon="2.2711221"></trkpt>
+        <trkpt lat="48.6915381" lon="2.2715083"></trkpt>
+        <trkpt lat="48.6912123" lon="2.2723944"></trkpt>
+        <trkpt lat="48.6911016" lon="2.2726955"></trkpt>
+        <trkpt lat="48.690965" lon="2.2730494"></trkpt>
+        <trkpt lat="48.6909449" lon="2.2731016"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

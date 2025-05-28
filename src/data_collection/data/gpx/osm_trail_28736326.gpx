@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Fosse Giroux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.670946</time>
+</metadata>
+<trk>
+    <name>Chemin de la Fosse Giroux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6957625" lon="2.6604931"></trkpt>
+        <trkpt lat="48.6958418" lon="2.6606991"></trkpt>
+        <trkpt lat="48.6980173" lon="2.6660807"></trkpt>
+        <trkpt lat="48.7000332" lon="2.6710157"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

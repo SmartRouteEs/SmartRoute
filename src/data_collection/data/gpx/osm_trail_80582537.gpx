@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Justice de Chambergeot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.276521</time>
+</metadata>
+<trk>
+    <name>Chemin de la Justice de Chambergeot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3966657" lon="2.5173913"></trkpt>
+        <trkpt lat="48.3965425" lon="2.5177715"></trkpt>
+        <trkpt lat="48.3964557" lon="2.5180927"></trkpt>
+        <trkpt lat="48.3957718" lon="2.5219658"></trkpt>
+        <trkpt lat="48.3952666" lon="2.5243576"></trkpt>
+        <trkpt lat="48.3950371" lon="2.527611"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Cathédrale</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.268510</time>
+</metadata>
+<trk>
+    <name>Chemin de la Cathédrale</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.363627" lon="2.5332887"></trkpt>
+        <trkpt lat="48.3634517" lon="2.5338634"></trkpt>
+        <trkpt lat="48.3633569" lon="2.5341464"></trkpt>
+        <trkpt lat="48.3633078" lon="2.5342828"></trkpt>
+        <trkpt lat="48.3632329" lon="2.5345722"></trkpt>
+        <trkpt lat="48.3631962" lon="2.5349549"></trkpt>
+        <trkpt lat="48.3632234" lon="2.535397"></trkpt>
+        <trkpt lat="48.3634833" lon="2.5360178"></trkpt>
+        <trkpt lat="48.3637909" lon="2.5364521"></trkpt>
+        <trkpt lat="48.364006" lon="2.536629"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

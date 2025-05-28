@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Lièvre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.815872</time>
+</metadata>
+<trk>
+    <name>Route du Lièvre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2838937" lon="2.6429402"></trkpt>
+        <trkpt lat="48.284163" lon="2.6429255"></trkpt>
+        <trkpt lat="48.2852567" lon="2.6424929"></trkpt>
+        <trkpt lat="48.2866493" lon="2.6419776"></trkpt>
+        <trkpt lat="48.2888693" lon="2.639145"></trkpt>
+        <trkpt lat="48.2889156" lon="2.6391076"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

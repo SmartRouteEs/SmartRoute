@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lavenderie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.529598</time>
+</metadata>
+<trk>
+    <name>Chemin de Lavenderie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8059409" lon="3.0229856"></trkpt>
+        <trkpt lat="48.8057892" lon="3.0226485"></trkpt>
+        <trkpt lat="48.8055238" lon="3.0219131"></trkpt>
+        <trkpt lat="48.8053659" lon="3.0209425"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

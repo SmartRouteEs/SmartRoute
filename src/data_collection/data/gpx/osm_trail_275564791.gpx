@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Maisonnettes</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.194286</time>
+</metadata>
+<trk>
+    <name>Chemin des Maisonnettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6689338" lon="2.2635019"></trkpt>
+        <trkpt lat="48.6689648" lon="2.2634054"></trkpt>
+        <trkpt lat="48.6690791" lon="2.2632632"></trkpt>
+        <trkpt lat="48.6693793" lon="2.2631009"></trkpt>
+        <trkpt lat="48.6696655" lon="2.2627853"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

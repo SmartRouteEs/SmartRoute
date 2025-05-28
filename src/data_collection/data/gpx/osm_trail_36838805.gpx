@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Joinville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.080255</time>
+</metadata>
+<trk>
+    <name>Route de Joinville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.367023" lon="2.6438323"></trkpt>
+        <trkpt lat="48.3662343" lon="2.6470265"></trkpt>
+        <trkpt lat="48.3659076" lon="2.6485246"></trkpt>
+        <trkpt lat="48.3654299" lon="2.6503369"></trkpt>
+        <trkpt lat="48.365393" lon="2.6504723"></trkpt>
+        <trkpt lat="48.3653364" lon="2.6506056"></trkpt>
+        <trkpt lat="48.3649634" lon="2.6513781"></trkpt>
+        <trkpt lat="48.3638653" lon="2.6534149"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

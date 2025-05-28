@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Geoffroy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.721892</time>
+</metadata>
+<trk>
+    <name>Route Geoffroy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4213139" lon="2.6512806"></trkpt>
+        <trkpt lat="48.4215559" lon="2.6523373"></trkpt>
+        <trkpt lat="48.421573" lon="2.6525767"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

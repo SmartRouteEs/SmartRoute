@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Aulnettes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.025013</time>
+</metadata>
+<trk>
+    <name>Chemin des Aulnettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8770857" lon="3.2970275"></trkpt>
+        <trkpt lat="48.8770987" lon="3.2969832"></trkpt>
+        <trkpt lat="48.8771474" lon="3.2969184"></trkpt>
+        <trkpt lat="48.8772327" lon="3.2968381"></trkpt>
+        <trkpt lat="48.8773483" lon="3.2967517"></trkpt>
+        <trkpt lat="48.8777847" lon="3.2964586"></trkpt>
+        <trkpt lat="48.8778801" lon="3.2963783"></trkpt>
+        <trkpt lat="48.8779613" lon="3.296332"></trkpt>
+        <trkpt lat="48.8780506" lon="3.2963135"></trkpt>
+        <trkpt lat="48.8783019" lon="3.2963151"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pré Gardien</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.178899</time>
+</metadata>
+<trk>
+    <name>Chemin du Pré Gardien</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6757258" lon="2.9353479"></trkpt>
+        <trkpt lat="48.6759371" lon="2.9355935"></trkpt>
+        <trkpt lat="48.6760995" lon="2.9357824"></trkpt>
+        <trkpt lat="48.6767066" lon="2.9364377"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

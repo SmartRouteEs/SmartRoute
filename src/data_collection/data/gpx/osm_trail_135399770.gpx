@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Inspecteur Principal Sinturel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.069837</time>
+</metadata>
+<trk>
+    <name>Route de l'Inspecteur Principal Sinturel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4124175" lon="2.6909615"></trkpt>
+        <trkpt lat="48.4123088" lon="2.690942"></trkpt>
+        <trkpt lat="48.4116985" lon="2.6915683"></trkpt>
+        <trkpt lat="48.4113688" lon="2.6919085"></trkpt>
+        <trkpt lat="48.4109299" lon="2.6923644"></trkpt>
+        <trkpt lat="48.4106795" lon="2.6926191"></trkpt>
+        <trkpt lat="48.4105872" lon="2.6927032"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

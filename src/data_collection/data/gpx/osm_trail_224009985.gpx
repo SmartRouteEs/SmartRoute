@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Gatines</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.514710</time>
+</metadata>
+<trk>
+    <name>Route des Gatines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7499781" lon="2.2467534"></trkpt>
+        <trkpt lat="48.7502787" lon="2.2458724"></trkpt>
+        <trkpt lat="48.7511637" lon="2.243265"></trkpt>
+        <trkpt lat="48.7518505" lon="2.2410535"></trkpt>
+        <trkpt lat="48.7518937" lon="2.2409478"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

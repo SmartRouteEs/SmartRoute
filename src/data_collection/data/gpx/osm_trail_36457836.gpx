@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Michelet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.057713</time>
+</metadata>
+<trk>
+    <name>Route Michelet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4266097" lon="2.6401482"></trkpt>
+        <trkpt lat="48.4257079" lon="2.63931"></trkpt>
+        <trkpt lat="48.424864" lon="2.6382697"></trkpt>
+        <trkpt lat="48.4243622" lon="2.6383699"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

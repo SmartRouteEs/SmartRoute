@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.522722</time>
+</metadata>
+<trk>
+    <name>Chemin des Pins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3591767" lon="2.5270846"></trkpt>
+        <trkpt lat="48.3577951" lon="2.5246994"></trkpt>
+        <trkpt lat="48.3574863" lon="2.5242725"></trkpt>
+        <trkpt lat="48.3572142" lon="2.5236892"></trkpt>
+        <trkpt lat="48.3569247" lon="2.5231933"></trkpt>
+        <trkpt lat="48.3560209" lon="2.5215447"></trkpt>
+        <trkpt lat="48.355628" lon="2.5209719"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

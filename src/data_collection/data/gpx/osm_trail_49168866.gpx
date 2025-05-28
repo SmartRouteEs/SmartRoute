@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Mariniers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.829488</time>
+</metadata>
+<trk>
+    <name>Chemin des Mariniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4726223" lon="2.5525367"></trkpt>
+        <trkpt lat="48.4716959" lon="2.5539941"></trkpt>
+        <trkpt lat="48.4716447" lon="2.555701"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Roullets à la Mardelle d'Acier</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.977566</time>
+</metadata>
+<trk>
+    <name>Chemin des Roullets à la Mardelle d'Acier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1548482" lon="2.9505901"></trkpt>
+        <trkpt lat="48.1548436" lon="2.9504522"></trkpt>
+        <trkpt lat="48.1547276" lon="2.9458593"></trkpt>
+        <trkpt lat="48.1530885" lon="2.9463421"></trkpt>
+        <trkpt lat="48.1509421" lon="2.9456439"></trkpt>
+        <trkpt lat="48.147416" lon="2.9444969"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

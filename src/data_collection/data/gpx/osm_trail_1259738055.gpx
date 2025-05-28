@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Bonne Idée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.401487</time>
+</metadata>
+<trk>
+    <name>Route de la Bonne Idée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3856027" lon="2.6307538"></trkpt>
+        <trkpt lat="48.385682" lon="2.6308076"></trkpt>
+        <trkpt lat="48.3857179" lon="2.6308695"></trkpt>
+        <trkpt lat="48.3858034" lon="2.6309367"></trkpt>
+        <trkpt lat="48.385901" lon="2.6309893"></trkpt>
+        <trkpt lat="48.3860802" lon="2.6311357"></trkpt>
+        <trkpt lat="48.3879089" lon="2.6327075"></trkpt>
+        <trkpt lat="48.3881957" lon="2.6329583"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

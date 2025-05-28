@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle des Gombards</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.184510</time>
+</metadata>
+<trk>
+    <name>Ruelle des Gombards</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2165118" lon="3.3809213"></trkpt>
+        <trkpt lat="48.2172305" lon="3.3810888"></trkpt>
+        <trkpt lat="48.2174009" lon="3.3812553"></trkpt>
+        <trkpt lat="48.2174673" lon="3.3813348"></trkpt>
+        <trkpt lat="48.2175334" lon="3.3813724"></trkpt>
+        <trkpt lat="48.217755" lon="3.3814582"></trkpt>
+        <trkpt lat="48.2179373" lon="3.381536"></trkpt>
+        <trkpt lat="48.2183557" lon="3.3817845"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Épinières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.109021</time>
+</metadata>
+<trk>
+    <name>Chemin des Épinières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9113741" lon="2.6727904"></trkpt>
+        <trkpt lat="48.9126354" lon="2.6721677"></trkpt>
+        <trkpt lat="48.9127246" lon="2.6721227"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte de Châtillon</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.283582</time>
+</metadata>
+<trk>
+    <name>Route de la Porte de Châtillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8000192" lon="2.2489106"></trkpt>
+        <trkpt lat="48.7999938" lon="2.2489451"></trkpt>
+        <trkpt lat="48.7982712" lon="2.2516242"></trkpt>
+        <trkpt lat="48.7978949" lon="2.2521745"></trkpt>
+        <trkpt lat="48.7976442" lon="2.2526269"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

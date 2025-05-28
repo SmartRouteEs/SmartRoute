@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse de Pessard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.850064</time>
+</metadata>
+<trk>
+    <name>Impasse de Pessard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5592162" lon="2.562253"></trkpt>
+        <trkpt lat="48.5595092" lon="2.5622638"></trkpt>
+        <trkpt lat="48.5597498" lon="2.5620354"></trkpt>
+        <trkpt lat="48.5599395" lon="2.5619673"></trkpt>
+        <trkpt lat="48.5601871" lon="2.5620449"></trkpt>
+        <trkpt lat="48.560659" lon="2.5622595"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

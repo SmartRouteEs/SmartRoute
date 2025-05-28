@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Avenir</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.409581</time>
+</metadata>
+<trk>
+    <name>Route de l'Avenir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3601106" lon="2.638966"></trkpt>
+        <trkpt lat="48.3597379" lon="2.6445869"></trkpt>
+        <trkpt lat="48.3595245" lon="2.6469222"></trkpt>
+        <trkpt lat="48.3592126" lon="2.6508732"></trkpt>
+        <trkpt lat="48.3592016" lon="2.6510148"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

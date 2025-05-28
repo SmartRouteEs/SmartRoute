@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Creuse Voie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.838649</time>
+</metadata>
+<trk>
+    <name>Chemin de la Creuse Voie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.760206" lon="2.2132782"></trkpt>
+        <trkpt lat="48.7602481" lon="2.2132338"></trkpt>
+        <trkpt lat="48.7604272" lon="2.2130652"></trkpt>
+        <trkpt lat="48.7606718" lon="2.2129053"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

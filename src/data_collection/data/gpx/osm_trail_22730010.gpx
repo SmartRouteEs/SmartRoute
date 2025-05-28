@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Paray</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.490296</time>
+</metadata>
+<trk>
+    <name>Chemin de Paray</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4063852" lon="2.4719078"></trkpt>
+        <trkpt lat="48.4064172" lon="2.4719723"></trkpt>
+        <trkpt lat="48.4064181" lon="2.4726061"></trkpt>
+        <trkpt lat="48.4064567" lon="2.473141"></trkpt>
+        <trkpt lat="48.4064637" lon="2.4732386"></trkpt>
+        <trkpt lat="48.4065492" lon="2.4739312"></trkpt>
+        <trkpt lat="48.4066288" lon="2.4743599"></trkpt>
+        <trkpt lat="48.406662" lon="2.474643"></trkpt>
+        <trkpt lat="48.4066826" lon="2.4748776"></trkpt>
+        <trkpt lat="48.4066888" lon="2.4749995"></trkpt>
+        <trkpt lat="48.4066913" lon="2.475047"></trkpt>
+        <trkpt lat="48.4066953" lon="2.4750999"></trkpt>
+        <trkpt lat="48.4067139" lon="2.4752595"></trkpt>
+        <trkpt lat="48.4067595" lon="2.4756554"></trkpt>
+        <trkpt lat="48.4067433" lon="2.4760701"></trkpt>
+        <trkpt lat="48.4067213" lon="2.4765924"></trkpt>
+        <trkpt lat="48.4066987" lon="2.4777248"></trkpt>
+        <trkpt lat="48.4066981" lon="2.4783258"></trkpt>
+        <trkpt lat="48.4067528" lon="2.4787302"></trkpt>
+        <trkpt lat="48.4068807" lon="2.4794588"></trkpt>
+        <trkpt lat="48.4069109" lon="2.479802"></trkpt>
+        <trkpt lat="48.4069859" lon="2.4808443"></trkpt>
+        <trkpt lat="48.407012" lon="2.4817029"></trkpt>
+        <trkpt lat="48.4070176" lon="2.4819931"></trkpt>
+        <trkpt lat="48.4070439" lon="2.4821557"></trkpt>
+        <trkpt lat="48.4070714" lon="2.4822448"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

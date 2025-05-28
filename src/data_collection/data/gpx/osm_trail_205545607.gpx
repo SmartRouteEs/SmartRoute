@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Puits</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.627667</time>
+</metadata>
+<trk>
+    <name>Rue du Puits</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5146562" lon="3.1681728"></trkpt>
+        <trkpt lat="48.5145647" lon="3.1677478"></trkpt>
+        <trkpt lat="48.5144723" lon="3.167383"></trkpt>
+        <trkpt lat="48.5143799" lon="3.1672596"></trkpt>
+        <trkpt lat="48.5142343" lon="3.1671899"></trkpt>
+        <trkpt lat="48.5140187" lon="3.1670968"></trkpt>
+        <trkpt lat="48.5137167" lon="3.1669412"></trkpt>
+        <trkpt lat="48.5135958" lon="3.1667803"></trkpt>
+        <trkpt lat="48.5134537" lon="3.1667427"></trkpt>
+        <trkpt lat="48.5132654" lon="3.1666837"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

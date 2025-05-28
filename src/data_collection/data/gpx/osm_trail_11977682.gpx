@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tourzelle</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.359340</time>
+</metadata>
+<trk>
+    <name>Route de la Tourzelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3604833" lon="2.7572006"></trkpt>
+        <trkpt lat="48.3597293" lon="2.7591835"></trkpt>
+        <trkpt lat="48.3591836" lon="2.7610157"></trkpt>
+        <trkpt lat="48.3591089" lon="2.7614339"></trkpt>
+        <trkpt lat="48.3584968" lon="2.7659355"></trkpt>
+        <trkpt lat="48.3584911" lon="2.7659767"></trkpt>
+        <trkpt lat="48.3578226" lon="2.7709408"></trkpt>
+        <trkpt lat="48.3573652" lon="2.7742688"></trkpt>
+        <trkpt lat="48.3571917" lon="2.775294"></trkpt>
+        <trkpt lat="48.3569866" lon="2.7769659"></trkpt>
+        <trkpt lat="48.3562873" lon="2.78205"></trkpt>
+        <trkpt lat="48.356224" lon="2.7825571"></trkpt>
+        <trkpt lat="48.3561099" lon="2.7835142"></trkpt>
+        <trkpt lat="48.3558797" lon="2.7850697"></trkpt>
+        <trkpt lat="48.3557593" lon="2.7861291"></trkpt>
+        <trkpt lat="48.3553634" lon="2.7887751"></trkpt>
+        <trkpt lat="48.3552308" lon="2.7895314"></trkpt>
+        <trkpt lat="48.3549749" lon="2.7900433"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

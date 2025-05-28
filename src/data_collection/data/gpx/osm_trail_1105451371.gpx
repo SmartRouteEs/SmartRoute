@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Lebel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.137778</time>
+</metadata>
+<trk>
+    <name>Route Lebel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4397548" lon="2.6633166"></trkpt>
+        <trkpt lat="48.4390299" lon="2.6641548"></trkpt>
+        <trkpt lat="48.4385483" lon="2.6646358"></trkpt>
+        <trkpt lat="48.4382428" lon="2.6649162"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

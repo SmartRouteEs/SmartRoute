@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Bouillants</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.393825</time>
+</metadata>
+<trk>
+    <name>Sentier des Bouillants</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8994232" lon="2.8832569"></trkpt>
+        <trkpt lat="48.8994309" lon="2.8839916"></trkpt>
+        <trkpt lat="48.8994855" lon="2.8846192"></trkpt>
+        <trkpt lat="48.8995508" lon="2.8856304"></trkpt>
+        <trkpt lat="48.8997394" lon="2.8866309"></trkpt>
+        <trkpt lat="48.8999052" lon="2.8878942"></trkpt>
+        <trkpt lat="48.8998928" lon="2.8885701"></trkpt>
+        <trkpt lat="48.8992775" lon="2.888554"></trkpt>
+        <trkpt lat="48.8990359" lon="2.8885487"></trkpt>
+        <trkpt lat="48.8986057" lon="2.8883207"></trkpt>
+        <trkpt lat="48.8976132" lon="2.8881786"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

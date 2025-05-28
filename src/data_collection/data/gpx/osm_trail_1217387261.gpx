@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Bois Plantés</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.861672</time>
+</metadata>
+<trk>
+    <name>Route des Bois Plantés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.802938" lon="2.2200512"></trkpt>
+        <trkpt lat="48.8031503" lon="2.2198914"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

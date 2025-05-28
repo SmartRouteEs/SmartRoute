@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grande Boudrot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.424504</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grande Boudrot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.361413" lon="2.8517041"></trkpt>
+        <trkpt lat="48.3614308" lon="2.8511718"></trkpt>
+        <trkpt lat="48.3615743" lon="2.847291"></trkpt>
+        <trkpt lat="48.3613533" lon="2.8458872"></trkpt>
+        <trkpt lat="48.3611694" lon="2.8450009"></trkpt>
+        <trkpt lat="48.361096" lon="2.8443628"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Paisson</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.676299</time>
+</metadata>
+<trk>
+    <name>Route de la Paisson</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3653756" lon="2.7269162"></trkpt>
+        <trkpt lat="48.3678724" lon="2.7271831"></trkpt>
+        <trkpt lat="48.3701321" lon="2.7273543"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

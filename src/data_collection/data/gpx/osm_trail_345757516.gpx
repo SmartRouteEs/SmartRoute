@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Sèvres</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.828878</time>
+</metadata>
+<trk>
+    <name>Allée de Sèvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8043898" lon="2.2605629"></trkpt>
+        <trkpt lat="48.8044377" lon="2.2606258"></trkpt>
+        <trkpt lat="48.8050644" lon="2.2614492"></trkpt>
+        <trkpt lat="48.8051203" lon="2.2614644"></trkpt>
+        <trkpt lat="48.8052157" lon="2.2613636"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

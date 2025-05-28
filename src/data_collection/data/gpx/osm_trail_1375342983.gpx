@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Touche aux Mulets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.983680</time>
+</metadata>
+<trk>
+    <name>Route de la Touche aux Mulets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3892503" lon="2.6062819"></trkpt>
+        <trkpt lat="48.3879368" lon="2.6068767"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

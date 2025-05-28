@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Brie</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.545201</time>
+</metadata>
+<trk>
+    <name>Chemin de la Brie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6228979" lon="2.5898018"></trkpt>
+        <trkpt lat="48.6231096" lon="2.5896564"></trkpt>
+        <trkpt lat="48.6235509" lon="2.5893306"></trkpt>
+        <trkpt lat="48.6235997" lon="2.5892525"></trkpt>
+        <trkpt lat="48.6236285" lon="2.5891633"></trkpt>
+        <trkpt lat="48.6236547" lon="2.5890158"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

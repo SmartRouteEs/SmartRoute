@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Marlotte</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.912293</time>
+</metadata>
+<trk>
+    <name>Route de Marlotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3631324" lon="2.6919274"></trkpt>
+        <trkpt lat="48.3631152" lon="2.6920002"></trkpt>
+        <trkpt lat="48.3630462" lon="2.6920142"></trkpt>
+        <trkpt lat="48.3630094" lon="2.6920456"></trkpt>
+        <trkpt lat="48.3629022" lon="2.6922144"></trkpt>
+        <trkpt lat="48.3627993" lon="2.6923506"></trkpt>
+        <trkpt lat="48.362746" lon="2.6924302"></trkpt>
+        <trkpt lat="48.3627096" lon="2.6925196"></trkpt>
+        <trkpt lat="48.3626679" lon="2.6925941"></trkpt>
+        <trkpt lat="48.3615179" lon="2.6943439"></trkpt>
+        <trkpt lat="48.3614049" lon="2.6945568"></trkpt>
+        <trkpt lat="48.3608557" lon="2.6953999"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Rue de la Mare</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.140131</time>
+</metadata>
+<trk>
+    <name>Chemin de la Rue de la Mare</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3464886" lon="2.3268683"></trkpt>
+        <trkpt lat="48.3463944" lon="2.3269324"></trkpt>
+        <trkpt lat="48.3453679" lon="2.3273552"></trkpt>
+        <trkpt lat="48.3438157" lon="2.3280211"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

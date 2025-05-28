@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Troillage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.615340</time>
+</metadata>
+<trk>
+    <name>Route du Troillage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3969181" lon="2.673835"></trkpt>
+        <trkpt lat="48.3976416" lon="2.6729988"></trkpt>
+        <trkpt lat="48.398581" lon="2.6713927"></trkpt>
+        <trkpt lat="48.3987813" lon="2.669866"></trkpt>
+        <trkpt lat="48.398923" lon="2.6696798"></trkpt>
+        <trkpt lat="48.3990925" lon="2.6694716"></trkpt>
+        <trkpt lat="48.399194" lon="2.6689636"></trkpt>
+        <trkpt lat="48.3993854" lon="2.6686568"></trkpt>
+        <trkpt lat="48.3997621" lon="2.6678848"></trkpt>
+        <trkpt lat="48.400053" lon="2.6675864"></trkpt>
+        <trkpt lat="48.4004243" lon="2.6673359"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

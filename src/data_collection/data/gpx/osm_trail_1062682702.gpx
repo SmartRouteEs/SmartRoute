@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Étranger</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.792261</time>
+</metadata>
+<trk>
+    <name>Route de l'Étranger</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4014989" lon="2.6222152"></trkpt>
+        <trkpt lat="48.401779" lon="2.623636"></trkpt>
+        <trkpt lat="48.401916" lon="2.624457"></trkpt>
+        <trkpt lat="48.401982" lon="2.6247658"></trkpt>
+        <trkpt lat="48.402061" lon="2.625135"></trkpt>
+        <trkpt lat="48.402199" lon="2.625672"></trkpt>
+        <trkpt lat="48.402636" lon="2.628178"></trkpt>
+        <trkpt lat="48.4027868" lon="2.6290028"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

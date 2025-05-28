@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Bois-le-Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.797337</time>
+</metadata>
+<trk>
+    <name>Chemin de Bois-le-Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2213496" lon="3.2191331"></trkpt>
+        <trkpt lat="48.2214463" lon="3.2193643"></trkpt>
+        <trkpt lat="48.2217144" lon="3.2204015"></trkpt>
+        <trkpt lat="48.221783" lon="3.2206766"></trkpt>
+        <trkpt lat="48.2219465" lon="3.2216949"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

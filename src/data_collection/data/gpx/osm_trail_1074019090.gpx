@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Madame</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.898170</time>
+</metadata>
+<trk>
+    <name>Route Madame</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8056396" lon="2.6625481"></trkpt>
+        <trkpt lat="48.8064392" lon="2.6613529"></trkpt>
+        <trkpt lat="48.8072928" lon="2.6600569"></trkpt>
+        <trkpt lat="48.8080333" lon="2.6588982"></trkpt>
+        <trkpt lat="48.8083781" lon="2.6583832"></trkpt>
+        <trkpt lat="48.8085806" lon="2.6580452"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

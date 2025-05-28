@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Chêne Coton</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.259699</time>
+</metadata>
+<trk>
+    <name>Chemin du Chêne Coton</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.296385" lon="3.1470624"></trkpt>
+        <trkpt lat="48.2964179" lon="3.1470362"></trkpt>
+        <trkpt lat="48.2964897" lon="3.1468642"></trkpt>
+        <trkpt lat="48.2965828" lon="3.1466485"></trkpt>
+        <trkpt lat="48.2966972" lon="3.1464416"></trkpt>
+        <trkpt lat="48.2967534" lon="3.1463337"></trkpt>
+        <trkpt lat="48.2967748" lon="3.146083"></trkpt>
+        <trkpt lat="48.2967825" lon="3.1459285"></trkpt>
+        <trkpt lat="48.2967786" lon="3.1456487"></trkpt>
+        <trkpt lat="48.2967709" lon="3.1454359"></trkpt>
+        <trkpt lat="48.2967592" lon="3.1452581"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

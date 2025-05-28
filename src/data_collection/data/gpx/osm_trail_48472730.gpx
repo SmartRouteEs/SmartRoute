@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Barnolets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.663923</time>
+</metadata>
+<trk>
+    <name>Route des Barnolets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3536218" lon="2.713924"></trkpt>
+        <trkpt lat="48.3534156" lon="2.7140847"></trkpt>
+        <trkpt lat="48.352774" lon="2.7143965"></trkpt>
+        <trkpt lat="48.3514947" lon="2.7151776"></trkpt>
+        <trkpt lat="48.3508756" lon="2.7161083"></trkpt>
+        <trkpt lat="48.3505546" lon="2.7166404"></trkpt>
+        <trkpt lat="48.3502311" lon="2.7172628"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

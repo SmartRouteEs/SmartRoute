@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villechasson à Épigny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.047538</time>
+</metadata>
+<trk>
+    <name>Chemin de Villechasson à Épigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2487666" lon="2.980645"></trkpt>
+        <trkpt lat="48.2503224" lon="2.980284"></trkpt>
+        <trkpt lat="48.2512607" lon="2.9799619"></trkpt>
+        <trkpt lat="48.2517165" lon="2.9798814"></trkpt>
+        <trkpt lat="48.2527352" lon="2.9798914"></trkpt>
+        <trkpt lat="48.2533585" lon="2.9798009"></trkpt>
+        <trkpt lat="48.2538477" lon="2.9798109"></trkpt>
+        <trkpt lat="48.2541962" lon="2.9798613"></trkpt>
+        <trkpt lat="48.2559648" lon="2.9795717"></trkpt>
+        <trkpt lat="48.2560444" lon="2.9795261"></trkpt>
+        <trkpt lat="48.2574733" lon="2.9793177"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

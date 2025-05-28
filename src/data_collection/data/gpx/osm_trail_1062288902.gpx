@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Du Camp</name>
+    <desc>Sentier VTT - Type: path - Surface: sand - Difficulté: 3</desc>
+    <time>2025-05-28T01:16:00.783678</time>
+</metadata>
+<trk>
+    <name>Chemin Du Camp</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4413385" lon="2.2848349"></trkpt>
+        <trkpt lat="48.4407828" lon="2.2844628"></trkpt>
+        <trkpt lat="48.4401565" lon="2.2843985"></trkpt>
+        <trkpt lat="48.4395365" lon="2.2839757"></trkpt>
+        <trkpt lat="48.4390461" lon="2.2833685"></trkpt>
+        <trkpt lat="48.4388673" lon="2.2826564"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

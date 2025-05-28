@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Laveyssière</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.816133</time>
+</metadata>
+<trk>
+    <name>Chemin Laveyssière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6889389" lon="2.3892419"></trkpt>
+        <trkpt lat="48.6889674" lon="2.389284"></trkpt>
+        <trkpt lat="48.689024" lon="2.3892985"></trkpt>
+        <trkpt lat="48.689107" lon="2.3892977"></trkpt>
+        <trkpt lat="48.6891602" lon="2.3892972"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

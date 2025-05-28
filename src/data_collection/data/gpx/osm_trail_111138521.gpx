@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Couture</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.774665</time>
+</metadata>
+<trk>
+    <name>Chemin de la Couture</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8151471" lon="2.916628"></trkpt>
+        <trkpt lat="48.8157239" lon="2.9164639"></trkpt>
+        <trkpt lat="48.8170105" lon="2.916163"></trkpt>
+        <trkpt lat="48.8179224" lon="2.9159206"></trkpt>
+        <trkpt lat="48.8184455" lon="2.9157666"></trkpt>
+        <trkpt lat="48.81865" lon="2.915682"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

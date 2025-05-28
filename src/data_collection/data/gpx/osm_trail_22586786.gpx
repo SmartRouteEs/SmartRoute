@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 431</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.481767</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 431</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4058279" lon="2.6532817"></trkpt>
+        <trkpt lat="48.4057339" lon="2.6531352"></trkpt>
+        <trkpt lat="48.4056791" lon="2.6530309"></trkpt>
+        <trkpt lat="48.4056234" lon="2.6529542"></trkpt>
+        <trkpt lat="48.4056107" lon="2.6528108"></trkpt>
+        <trkpt lat="48.4056326" lon="2.652741"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

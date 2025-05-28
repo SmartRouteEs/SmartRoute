@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chouanville</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.521114</time>
+</metadata>
+<trk>
+    <name>Chemin de Chouanville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6325854" lon="2.2587534"></trkpt>
+        <trkpt lat="48.6325276" lon="2.2588882"></trkpt>
+        <trkpt lat="48.6324104" lon="2.2590616"></trkpt>
+        <trkpt lat="48.6323128" lon="2.2591432"></trkpt>
+        <trkpt lat="48.6322382" lon="2.259176"></trkpt>
+        <trkpt lat="48.6320702" lon="2.2592162"></trkpt>
+        <trkpt lat="48.6318728" lon="2.2591845"></trkpt>
+        <trkpt lat="48.6316852" lon="2.2590849"></trkpt>
+        <trkpt lat="48.6315536" lon="2.2589642"></trkpt>
+        <trkpt lat="48.631464" lon="2.2588625"></trkpt>
+        <trkpt lat="48.6313856" lon="2.2588392"></trkpt>
+        <trkpt lat="48.6313128" lon="2.2588688"></trkpt>
+        <trkpt lat="48.6312526" lon="2.2589981"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

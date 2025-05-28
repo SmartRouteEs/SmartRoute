@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Aulnay de l'Ecu</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.738422</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Aulnay de l'Ecu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6825419" lon="2.2722962"></trkpt>
+        <trkpt lat="48.6817937" lon="2.2734931"></trkpt>
+        <trkpt lat="48.681714" lon="2.273623"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

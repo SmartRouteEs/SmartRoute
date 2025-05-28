@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin du Champ Massiot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.165833</time>
+</metadata>
+<trk>
+    <name>chemin du Champ Massiot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8919942" lon="3.1377956"></trkpt>
+        <trkpt lat="48.8923124" lon="3.1399881"></trkpt>
+        <trkpt lat="48.8927199" lon="3.1426207"></trkpt>
+        <trkpt lat="48.892859" lon="3.1436053"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

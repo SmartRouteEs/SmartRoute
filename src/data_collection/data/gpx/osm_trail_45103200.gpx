@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Port aux Paveurs</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.383527</time>
+</metadata>
+<trk>
+    <name>Chemin du Port aux Paveurs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6339429" lon="2.4653319"></trkpt>
+        <trkpt lat="48.6338015" lon="2.4651736"></trkpt>
+        <trkpt lat="48.6337497" lon="2.4650859"></trkpt>
+        <trkpt lat="48.6335518" lon="2.4647594"></trkpt>
+        <trkpt lat="48.6322753" lon="2.4625599"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

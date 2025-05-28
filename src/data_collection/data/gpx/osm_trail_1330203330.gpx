@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Serbonnes à Sens</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.607558</time>
+</metadata>
+<trk>
+    <name>Chemin de Serbonnes à Sens</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.289448" lon="3.2233502"></trkpt>
+        <trkpt lat="48.2896198" lon="3.2233205"></trkpt>
+        <trkpt lat="48.2901802" lon="3.2228485"></trkpt>
+        <trkpt lat="48.2908816" lon="3.2221511"></trkpt>
+        <trkpt lat="48.2924413" lon="3.221097"></trkpt>
+        <trkpt lat="48.2929731" lon="3.2208985"></trkpt>
+        <trkpt lat="48.293736" lon="3.2207236"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

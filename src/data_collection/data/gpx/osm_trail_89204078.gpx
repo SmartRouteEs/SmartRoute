@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle des Pissottes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.471828</time>
+</metadata>
+<trk>
+    <name>Ruelle des Pissottes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8731211" lon="2.7466783"></trkpt>
+        <trkpt lat="48.872999" lon="2.7465292"></trkpt>
+        <trkpt lat="48.8726921" lon="2.7463494"></trkpt>
+        <trkpt lat="48.8726889" lon="2.7459279"></trkpt>
+        <trkpt lat="48.8727995" lon="2.745212"></trkpt>
+        <trkpt lat="48.8727756" lon="2.7451435"></trkpt>
+        <trkpt lat="48.8726042" lon="2.7451107"></trkpt>
+        <trkpt lat="48.8725885" lon="2.7450596"></trkpt>
+        <trkpt lat="48.8725917" lon="2.744977"></trkpt>
+        <trkpt lat="48.8728153" lon="2.7440637"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

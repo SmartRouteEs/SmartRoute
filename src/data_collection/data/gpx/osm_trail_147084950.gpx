@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Roussillon</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.251645</time>
+</metadata>
+<trk>
+    <name>Allée du Roussillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7350303" lon="2.2970118"></trkpt>
+        <trkpt lat="48.7350206" lon="2.2969679"></trkpt>
+        <trkpt lat="48.7349213" lon="2.2965166"></trkpt>
+        <trkpt lat="48.7349045" lon="2.2964403"></trkpt>
+        <trkpt lat="48.734831" lon="2.2961065"></trkpt>
+        <trkpt lat="48.7346898" lon="2.295591"></trkpt>
+        <trkpt lat="48.7346624" lon="2.2955109"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

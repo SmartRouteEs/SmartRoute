@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Larchant à Moret</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.351247</time>
+</metadata>
+<trk>
+    <name>Chemin de Larchant à Moret</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3472666" lon="2.769454"></trkpt>
+        <trkpt lat="48.3478088" lon="2.7709013"></trkpt>
+        <trkpt lat="48.3482845" lon="2.7723011"></trkpt>
+        <trkpt lat="48.3487537" lon="2.7734193"></trkpt>
+        <trkpt lat="48.3490044" lon="2.7742566"></trkpt>
+        <trkpt lat="48.3496039" lon="2.7758771"></trkpt>
+        <trkpt lat="48.3497445" lon="2.7763188"></trkpt>
+        <trkpt lat="48.3500131" lon="2.7768794"></trkpt>
+        <trkpt lat="48.3505774" lon="2.7786228"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

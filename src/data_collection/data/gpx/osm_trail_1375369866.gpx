@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cul de Chaudron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.993121</time>
+</metadata>
+<trk>
+    <name>Route du Cul de Chaudron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4200671" lon="2.614637"></trkpt>
+        <trkpt lat="48.4210245" lon="2.6164454"></trkpt>
+        <trkpt lat="48.4217854" lon="2.6177854"></trkpt>
+        <trkpt lat="48.422602" lon="2.6192577"></trkpt>
+        <trkpt lat="48.4233362" lon="2.620561"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

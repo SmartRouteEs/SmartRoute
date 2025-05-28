@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chêne Feuillu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.511736</time>
+</metadata>
+<trk>
+    <name>Route du Chêne Feuillu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3819178" lon="2.7535152"></trkpt>
+        <trkpt lat="48.3816478" lon="2.7553773"></trkpt>
+        <trkpt lat="48.3815091" lon="2.7565329"></trkpt>
+        <trkpt lat="48.3812172" lon="2.7584792"></trkpt>
+        <trkpt lat="48.3809818" lon="2.7603973"></trkpt>
+        <trkpt lat="48.3804678" lon="2.7639978"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

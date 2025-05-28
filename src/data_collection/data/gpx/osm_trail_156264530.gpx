@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Terrier</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.625627</time>
+</metadata>
+<trk>
+    <name>Chemin du Terrier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7536976" lon="2.2543149"></trkpt>
+        <trkpt lat="48.7537639" lon="2.2534688"></trkpt>
+        <trkpt lat="48.7538061" lon="2.2529303"></trkpt>
+        <trkpt lat="48.7539333" lon="2.2514119"></trkpt>
+        <trkpt lat="48.7539789" lon="2.2508402"></trkpt>
+        <trkpt lat="48.7540236" lon="2.2503086"></trkpt>
+        <trkpt lat="48.7540384" lon="2.2501955"></trkpt>
+        <trkpt lat="48.7541324" lon="2.2491972"></trkpt>
+        <trkpt lat="48.754169" lon="2.2483787"></trkpt>
+        <trkpt lat="48.754175" lon="2.2482434"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

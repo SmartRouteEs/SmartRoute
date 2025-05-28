@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Les Glycines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.656799</time>
+</metadata>
+<trk>
+    <name>Les Glycines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.772895" lon="2.2737616"></trkpt>
+        <trkpt lat="48.7728755" lon="2.2737626"></trkpt>
+        <trkpt lat="48.7727014" lon="2.2737714"></trkpt>
+        <trkpt lat="48.7725481" lon="2.273829"></trkpt>
+        <trkpt lat="48.7724948" lon="2.2737246"></trkpt>
+        <trkpt lat="48.7724659" lon="2.2735873"></trkpt>
+        <trkpt lat="48.7724445" lon="2.273553"></trkpt>
+        <trkpt lat="48.7723012" lon="2.273553"></trkpt>
+        <trkpt lat="48.7722019" lon="2.2736026"></trkpt>
+        <trkpt lat="48.7721994" lon="2.2737609"></trkpt>
+        <trkpt lat="48.7722119" lon="2.2739121"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

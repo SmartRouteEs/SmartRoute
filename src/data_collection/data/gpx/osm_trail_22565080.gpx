@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 353</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.458489</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 353</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7634871" lon="2.3012499"></trkpt>
+        <trkpt lat="48.7646896" lon="2.3008464"></trkpt>
+        <trkpt lat="48.765077" lon="2.3007164"></trkpt>
+        <trkpt lat="48.7651822" lon="2.3006811"></trkpt>
+        <trkpt lat="48.7652489" lon="2.3006587"></trkpt>
+        <trkpt lat="48.7657017" lon="2.3004918"></trkpt>
+        <trkpt lat="48.7670692" lon="2.2999875"></trkpt>
+        <trkpt lat="48.7674333" lon="2.2998573"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

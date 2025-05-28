@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Val de Marne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.759165</time>
+</metadata>
+<trk>
+    <name>Rue du Val de Marne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9539701" lon="3.2826347"></trkpt>
+        <trkpt lat="48.9539521" lon="3.2826825"></trkpt>
+        <trkpt lat="48.9539332" lon="3.2827677"></trkpt>
+        <trkpt lat="48.9539116" lon="3.2829058"></trkpt>
+        <trkpt lat="48.9538769" lon="3.2831022"></trkpt>
+        <trkpt lat="48.9538476" lon="3.2832314"></trkpt>
+        <trkpt lat="48.9538148" lon="3.2833356"></trkpt>
+        <trkpt lat="48.9537293" lon="3.2835744"></trkpt>
+        <trkpt lat="48.9535527" lon="3.284009"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

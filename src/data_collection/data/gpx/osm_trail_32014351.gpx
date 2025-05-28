@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte Saint-James</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.912289</time>
+</metadata>
+<trk>
+    <name>Route de la Porte Saint-James</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8767924" lon="2.2605586"></trkpt>
+        <trkpt lat="48.8768077" lon="2.260606"></trkpt>
+        <trkpt lat="48.8767935" lon="2.2606581"></trkpt>
+        <trkpt lat="48.876797" lon="2.2608381"></trkpt>
+        <trkpt lat="48.8767963" lon="2.2610435"></trkpt>
+        <trkpt lat="48.8767878" lon="2.2611922"></trkpt>
+        <trkpt lat="48.8767483" lon="2.261462"></trkpt>
+        <trkpt lat="48.8766977" lon="2.2617141"></trkpt>
+        <trkpt lat="48.8765653" lon="2.2622373"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

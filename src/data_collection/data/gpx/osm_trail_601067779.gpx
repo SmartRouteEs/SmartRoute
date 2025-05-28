@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois de Blezy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.529877</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois de Blezy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3194369" lon="3.0982906"></trkpt>
+        <trkpt lat="48.3197151" lon="3.0984838"></trkpt>
+        <trkpt lat="48.3199292" lon="3.098752"></trkpt>
+        <trkpt lat="48.3203144" lon="3.0993528"></trkpt>
+        <trkpt lat="48.3205998" lon="3.099739"></trkpt>
+        <trkpt lat="48.3210304" lon="3.1001657"></trkpt>
+        <trkpt lat="48.3215794" lon="3.100743"></trkpt>
+        <trkpt lat="48.3217484" lon="3.1009943"></trkpt>
+        <trkpt lat="48.3221525" lon="3.1017816"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Platières</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:59.439394</time>
+</metadata>
+<trk>
+    <name>Chemin des Platières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5035304" lon="2.4583886"></trkpt>
+        <trkpt lat="48.5034426" lon="2.4590412"></trkpt>
+        <trkpt lat="48.5034346" lon="2.4600266"></trkpt>
+        <trkpt lat="48.5033182" lon="2.4605499"></trkpt>
+        <trkpt lat="48.5032209" lon="2.460976"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

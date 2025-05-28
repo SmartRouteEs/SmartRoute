@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Néant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.627260</time>
+</metadata>
+<trk>
+    <name>Route de Néant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3492315" lon="2.7271292"></trkpt>
+        <trkpt lat="48.3493396" lon="2.7272536"></trkpt>
+        <trkpt lat="48.3506562" lon="2.7276298"></trkpt>
+        <trkpt lat="48.3507778" lon="2.7276645"></trkpt>
+        <trkpt lat="48.3510066" lon="2.7277151"></trkpt>
+        <trkpt lat="48.3515622" lon="2.727838"></trkpt>
+        <trkpt lat="48.3518095" lon="2.7278878"></trkpt>
+        <trkpt lat="48.3534537" lon="2.7281711"></trkpt>
+        <trkpt lat="48.3536563" lon="2.7282328"></trkpt>
+        <trkpt lat="48.3537398" lon="2.7282848"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

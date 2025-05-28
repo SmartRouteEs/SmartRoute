@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Passage Franck</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.786664</time>
+</metadata>
+<trk>
+    <name>Passage Franck</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7976053" lon="2.2750343"></trkpt>
+        <trkpt lat="48.7975863" lon="2.2750282"></trkpt>
+        <trkpt lat="48.7975691" lon="2.2750381"></trkpt>
+        <trkpt lat="48.797238" lon="2.2754996"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

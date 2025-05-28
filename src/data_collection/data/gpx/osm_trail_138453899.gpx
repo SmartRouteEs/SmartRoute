@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 6478</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.136365</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 6478</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6323041" lon="2.8930565"></trkpt>
+        <trkpt lat="48.6341821" lon="2.898673"></trkpt>
+        <trkpt lat="48.6349198" lon="2.9007141"></trkpt>
+        <trkpt lat="48.6357225" lon="2.9019248"></trkpt>
+        <trkpt lat="48.6367446" lon="2.9033361"></trkpt>
+        <trkpt lat="48.6375613" lon="2.9044921"></trkpt>
+        <trkpt lat="48.6395924" lon="2.9072497"></trkpt>
+        <trkpt lat="48.6408469" lon="2.9088822"></trkpt>
+        <trkpt lat="48.6416161" lon="2.9100143"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

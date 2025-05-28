@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Saint-Sébastien</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.879192</time>
+</metadata>
+<trk>
+    <name>Chemin Saint-Sébastien</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6634397" lon="2.8516473"></trkpt>
+        <trkpt lat="48.6634442" lon="2.851759"></trkpt>
+        <trkpt lat="48.6632585" lon="2.8526336"></trkpt>
+        <trkpt lat="48.6630767" lon="2.8533286"></trkpt>
+        <trkpt lat="48.6628652" lon="2.8540337"></trkpt>
+        <trkpt lat="48.6624318" lon="2.8551578"></trkpt>
+        <trkpt lat="48.6620219" lon="2.856276"></trkpt>
+        <trkpt lat="48.6618199" lon="2.8570753"></trkpt>
+        <trkpt lat="48.6617314" lon="2.8578532"></trkpt>
+        <trkpt lat="48.6613097" lon="2.8589153"></trkpt>
+        <trkpt lat="48.6609261" lon="2.8598806"></trkpt>
+        <trkpt lat="48.6607392" lon="2.8602457"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

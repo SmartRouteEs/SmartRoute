@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Flagy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.779574</time>
+</metadata>
+<trk>
+    <name>Chemin de Flagy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2969813" lon="2.8248714"></trkpt>
+        <trkpt lat="48.2973609" lon="2.8263717"></trkpt>
+        <trkpt lat="48.297415" lon="2.8265764"></trkpt>
+        <trkpt lat="48.2977387" lon="2.8277544"></trkpt>
+        <trkpt lat="48.2978312" lon="2.8280947"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

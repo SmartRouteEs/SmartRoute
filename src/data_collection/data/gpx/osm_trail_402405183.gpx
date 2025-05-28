@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Curie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.749679</time>
+</metadata>
+<trk>
+    <name>Rue Curie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.897322" lon="2.5855266"></trkpt>
+        <trkpt lat="48.8972491" lon="2.5856843"></trkpt>
+        <trkpt lat="48.8971786" lon="2.5857487"></trkpt>
+        <trkpt lat="48.8971134" lon="2.5857433"></trkpt>
+        <trkpt lat="48.8969459" lon="2.5855824"></trkpt>
+        <trkpt lat="48.8968841" lon="2.5855368"></trkpt>
+        <trkpt lat="48.8968242" lon="2.5855153"></trkpt>
+        <trkpt lat="48.8967743" lon="2.5855223"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Attaque</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.392270</time>
+</metadata>
+<trk>
+    <name>Route de l'Attaque</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3626629" lon="2.6843983"></trkpt>
+        <trkpt lat="48.3627429" lon="2.6841973"></trkpt>
+        <trkpt lat="48.3645928" lon="2.679549"></trkpt>
+        <trkpt lat="48.3649503" lon="2.6786517"></trkpt>
+        <trkpt lat="48.3651096" lon="2.6782417"></trkpt>
+        <trkpt lat="48.3653119" lon="2.6779457"></trkpt>
+        <trkpt lat="48.3654753" lon="2.6778373"></trkpt>
+        <trkpt lat="48.3657684" lon="2.6778103"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

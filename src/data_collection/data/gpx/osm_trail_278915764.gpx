@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Milans</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.233442</time>
+</metadata>
+<trk>
+    <name>Chemin des Milans</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6843681" lon="2.2582743"></trkpt>
+        <trkpt lat="48.6842625" lon="2.2581281"></trkpt>
+        <trkpt lat="48.6838575" lon="2.2576417"></trkpt>
+        <trkpt lat="48.6827306" lon="2.2567769"></trkpt>
+        <trkpt lat="48.6831363" lon="2.2558514"></trkpt>
+        <trkpt lat="48.6828208" lon="2.2554796"></trkpt>
+        <trkpt lat="48.6826004" lon="2.2553355"></trkpt>
+        <trkpt lat="48.6821709" lon="2.2549627"></trkpt>
+        <trkpt lat="48.681702" lon="2.2544759"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

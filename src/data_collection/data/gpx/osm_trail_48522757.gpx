@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tourterelle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.670385</time>
+</metadata>
+<trk>
+    <name>Route de la Tourterelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3635721" lon="2.6638764"></trkpt>
+        <trkpt lat="48.3637573" lon="2.6638595"></trkpt>
+        <trkpt lat="48.3657625" lon="2.6640027"></trkpt>
+        <trkpt lat="48.3668121" lon="2.6641085"></trkpt>
+        <trkpt lat="48.3677618" lon="2.6641163"></trkpt>
+        <trkpt lat="48.3679228" lon="2.6641287"></trkpt>
+        <trkpt lat="48.3679872" lon="2.6641339"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

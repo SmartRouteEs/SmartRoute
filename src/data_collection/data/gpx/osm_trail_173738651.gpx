@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Guin</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.042795</time>
+</metadata>
+<trk>
+    <name>Chemin du Guin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3421123" lon="3.1361497"></trkpt>
+        <trkpt lat="48.342605" lon="3.136666"></trkpt>
+        <trkpt lat="48.343265" lon="3.137606"></trkpt>
+        <trkpt lat="48.343585" lon="3.137986"></trkpt>
+        <trkpt lat="48.3449686" lon="3.1392376"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Rempart</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.426106</time>
+</metadata>
+<trk>
+    <name>Rue du Rempart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8338011" lon="2.5562669"></trkpt>
+        <trkpt lat="48.8337563" lon="2.5562669"></trkpt>
+        <trkpt lat="48.8335939" lon="2.5562222"></trkpt>
+        <trkpt lat="48.8335307" lon="2.5562013"></trkpt>
+        <trkpt lat="48.8334676" lon="2.5561687"></trkpt>
+        <trkpt lat="48.8333897" lon="2.5561006"></trkpt>
+        <trkpt lat="48.8333574" lon="2.5560727"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

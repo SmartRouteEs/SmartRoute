@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont Enflammé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.600172</time>
+</metadata>
+<trk>
+    <name>Route du Mont Enflammé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3847993" lon="2.662247"></trkpt>
+        <trkpt lat="48.3847582" lon="2.658418"></trkpt>
+        <trkpt lat="48.3847556" lon="2.6581731"></trkpt>
+        <trkpt lat="48.3848158" lon="2.6552193"></trkpt>
+        <trkpt lat="48.3852011" lon="2.6517039"></trkpt>
+        <trkpt lat="48.3850774" lon="2.6496235"></trkpt>
+        <trkpt lat="48.3855521" lon="2.6485475"></trkpt>
+        <trkpt lat="48.3850406" lon="2.6453548"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

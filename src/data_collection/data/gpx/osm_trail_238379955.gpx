@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Forêt-Sainte-Croix à Mezières</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.101661</time>
+</metadata>
+<trk>
+    <name>Chemin de la Forêt-Sainte-Croix à Mezières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.378757" lon="2.2625119"></trkpt>
+        <trkpt lat="48.3787729" lon="2.2618015"></trkpt>
+        <trkpt lat="48.3787862" lon="2.2617513"></trkpt>
+        <trkpt lat="48.3788213" lon="2.2616667"></trkpt>
+        <trkpt lat="48.3789968" lon="2.2614413"></trkpt>
+        <trkpt lat="48.3790235" lon="2.261381"></trkpt>
+        <trkpt lat="48.379043" lon="2.2612931"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

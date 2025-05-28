@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de la Vallée aux Alins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.824484</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de la Vallée aux Alins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5017451" lon="2.3314987"></trkpt>
+        <trkpt lat="48.5018629" lon="2.3317791"></trkpt>
+        <trkpt lat="48.5019448" lon="2.3320134"></trkpt>
+        <trkpt lat="48.5019894" lon="2.3322273"></trkpt>
+        <trkpt lat="48.5022123" lon="2.3327371"></trkpt>
+        <trkpt lat="48.502281" lon="2.3330881"></trkpt>
+        <trkpt lat="48.5023624" lon="2.3332409"></trkpt>
+        <trkpt lat="48.5024585" lon="2.3335147"></trkpt>
+        <trkpt lat="48.5025045" lon="2.3337005"></trkpt>
+        <trkpt lat="48.5026182" lon="2.3343423"></trkpt>
+        <trkpt lat="48.5026623" lon="2.3347263"></trkpt>
+        <trkpt lat="48.5026907" lon="2.3350942"></trkpt>
+        <trkpt lat="48.5026875" lon="2.335339"></trkpt>
+        <trkpt lat="48.5027362" lon="2.3357113"></trkpt>
+        <trkpt lat="48.5027875" lon="2.336655"></trkpt>
+        <trkpt lat="48.5028055" lon="2.3369876"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

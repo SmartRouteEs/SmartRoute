@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pin Sylvestre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.615340</time>
+</metadata>
+<trk>
+    <name>Route du Pin Sylvestre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4001764" lon="2.6440885"></trkpt>
+        <trkpt lat="48.4003263" lon="2.644587"></trkpt>
+        <trkpt lat="48.4002907" lon="2.645556"></trkpt>
+        <trkpt lat="48.3996829" lon="2.6465892"></trkpt>
+        <trkpt lat="48.3992128" lon="2.6481077"></trkpt>
+        <trkpt lat="48.3987292" lon="2.6496079"></trkpt>
+        <trkpt lat="48.3981881" lon="2.6503844"></trkpt>
+        <trkpt lat="48.3977042" lon="2.6510789"></trkpt>
+        <trkpt lat="48.3975402" lon="2.6517911"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Frênes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.521854</time>
+</metadata>
+<trk>
+    <name>Allée des Frênes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8696992" lon="2.5138281"></trkpt>
+        <trkpt lat="48.8696847" lon="2.5139101"></trkpt>
+        <trkpt lat="48.8696164" lon="2.5142963"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

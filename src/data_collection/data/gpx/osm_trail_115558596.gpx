@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grouettes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.815872</time>
+</metadata>
+<trk>
+    <name>Chemin des Grouettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6966381" lon="2.2583977"></trkpt>
+        <trkpt lat="48.6964456" lon="2.2582698"></trkpt>
+        <trkpt lat="48.6962878" lon="2.2581181"></trkpt>
+        <trkpt lat="48.6959661" lon="2.2577972"></trkpt>
+        <trkpt lat="48.6956951" lon="2.2575764"></trkpt>
+        <trkpt lat="48.6943823" lon="2.2571763"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

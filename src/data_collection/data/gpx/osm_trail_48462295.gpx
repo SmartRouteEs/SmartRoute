@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chevrillard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.632118</time>
+</metadata>
+<trk>
+    <name>Route du Chevrillard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3677397" lon="2.7095585"></trkpt>
+        <trkpt lat="48.370141" lon="2.7096862"></trkpt>
+        <trkpt lat="48.3724211" lon="2.7096935"></trkpt>
+        <trkpt lat="48.3741421" lon="2.7097117"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

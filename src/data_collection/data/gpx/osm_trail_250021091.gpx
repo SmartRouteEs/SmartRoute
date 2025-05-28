@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Hauts Griptains</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.604467</time>
+</metadata>
+<trk>
+    <name>Sentier des Hauts Griptains</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.611639" lon="2.4936528"></trkpt>
+        <trkpt lat="48.6115642" lon="2.4936152"></trkpt>
+        <trkpt lat="48.6114969" lon="2.4936102"></trkpt>
+        <trkpt lat="48.6113727" lon="2.4936961"></trkpt>
+        <trkpt lat="48.611206" lon="2.4938248"></trkpt>
+        <trkpt lat="48.6110429" lon="2.4938838"></trkpt>
+        <trkpt lat="48.6108549" lon="2.4939697"></trkpt>
+        <trkpt lat="48.6106563" lon="2.4940609"></trkpt>
+        <trkpt lat="48.6104435" lon="2.4941306"></trkpt>
+        <trkpt lat="48.6102768" lon="2.4942003"></trkpt>
+        <trkpt lat="48.6101385" lon="2.4942862"></trkpt>
+        <trkpt lat="48.610025" lon="2.4943398"></trkpt>
+        <trkpt lat="48.6098973" lon="2.4944042"></trkpt>
+        <trkpt lat="48.6097382" lon="2.4944749"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

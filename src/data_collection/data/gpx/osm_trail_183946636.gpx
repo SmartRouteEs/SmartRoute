@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix Lambert</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.367917</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix Lambert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3209566" lon="2.6601068"></trkpt>
+        <trkpt lat="48.3201393" lon="2.6603298"></trkpt>
+        <trkpt lat="48.3195539" lon="2.6588885"></trkpt>
+        <trkpt lat="48.3190473" lon="2.6575095"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

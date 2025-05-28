@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Parcours Santé</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.817206</time>
+</metadata>
+<trk>
+    <name>Parcours Santé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.83596" lon="2.4236172"></trkpt>
+        <trkpt lat="48.8359494" lon="2.4236709"></trkpt>
+        <trkpt lat="48.835907" lon="2.423746"></trkpt>
+        <trkpt lat="48.8358152" lon="2.4238318"></trkpt>
+        <trkpt lat="48.8357072" lon="2.4238652"></trkpt>
+        <trkpt lat="48.8355998" lon="2.4239015"></trkpt>
+        <trkpt lat="48.8355386" lon="2.4239015"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

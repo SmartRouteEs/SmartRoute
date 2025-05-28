@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pont Monseigneur</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.508144</time>
+</metadata>
+<trk>
+    <name>Chemin du Pont Monseigneur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.741844" lon="2.236971"></trkpt>
+        <trkpt lat="48.7413451" lon="2.2368001"></trkpt>
+        <trkpt lat="48.7411996" lon="2.2367039"></trkpt>
+        <trkpt lat="48.741087" lon="2.2365697"></trkpt>
+        <trkpt lat="48.7410722" lon="2.2365535"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

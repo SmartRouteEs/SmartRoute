@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Saint-Fiacre</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.569464</time>
+</metadata>
+<trk>
+    <name>Allée Saint-Fiacre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.753802" lon="2.2664685"></trkpt>
+        <trkpt lat="48.7538187" lon="2.2664071"></trkpt>
+        <trkpt lat="48.7540797" lon="2.2655328"></trkpt>
+        <trkpt lat="48.7542398" lon="2.2649936"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

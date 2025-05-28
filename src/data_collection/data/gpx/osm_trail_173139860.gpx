@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Buffon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.985676</time>
+</metadata>
+<trk>
+    <name>Route de Buffon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.420867" lon="2.7183718"></trkpt>
+        <trkpt lat="48.4216181" lon="2.7179792"></trkpt>
+        <trkpt lat="48.4224274" lon="2.7174549"></trkpt>
+        <trkpt lat="48.4238442" lon="2.7165822"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

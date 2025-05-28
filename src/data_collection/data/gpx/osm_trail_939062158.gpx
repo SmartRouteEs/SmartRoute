@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Test Single VTT</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:59.611345</time>
+</metadata>
+<trk>
+    <name>Test Single VTT</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8340864" lon="3.1115538"></trkpt>
+        <trkpt lat="48.8341928" lon="3.1114325"></trkpt>
+        <trkpt lat="48.8342131" lon="3.1113965"></trkpt>
+        <trkpt lat="48.8342308" lon="3.1113455"></trkpt>
+        <trkpt lat="48.8342555" lon="3.1112382"></trkpt>
+        <trkpt lat="48.8342837" lon="3.1111363"></trkpt>
+        <trkpt lat="48.8343243" lon="3.1109942"></trkpt>
+        <trkpt lat="48.8343561" lon="3.1108493"></trkpt>
+        <trkpt lat="48.8343967" lon="3.1107447"></trkpt>
+        <trkpt lat="48.834455" lon="3.1105543"></trkpt>
+        <trkpt lat="48.8344868" lon="3.1104148"></trkpt>
+        <trkpt lat="48.8345133" lon="3.1102861"></trkpt>
+        <trkpt lat="48.8345115" lon="3.1101439"></trkpt>
+        <trkpt lat="48.8344956" lon="3.1100339"></trkpt>
+        <trkpt lat="48.8344744" lon="3.1099213"></trkpt>
+        <trkpt lat="48.8344638" lon="3.1097818"></trkpt>
+        <trkpt lat="48.8344391" lon="3.1097335"></trkpt>
+        <trkpt lat="48.8345327" lon="3.1096799"></trkpt>
+        <trkpt lat="48.8346086" lon="3.1095404"></trkpt>
+        <trkpt lat="48.8346439" lon="3.1094814"></trkpt>
+        <trkpt lat="48.8346669" lon="3.1094278"></trkpt>
+        <trkpt lat="48.8347357" lon="3.1094385"></trkpt>
+        <trkpt lat="48.8348258" lon="3.1093848"></trkpt>
+        <trkpt lat="48.8348964" lon="3.1092454"></trkpt>
+        <trkpt lat="48.83513" lon="3.1089011"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

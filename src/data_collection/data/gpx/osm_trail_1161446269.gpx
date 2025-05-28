@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la République</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.677408</time>
+</metadata>
+<trk>
+    <name>Chemin de la République</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8232039" lon="3.0190492"></trkpt>
+        <trkpt lat="48.8233946" lon="3.0197251"></trkpt>
+        <trkpt lat="48.8234998" lon="3.0201015"></trkpt>
+        <trkpt lat="48.8236436" lon="3.02079"></trkpt>
+        <trkpt lat="48.8238113" lon="3.0214391"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

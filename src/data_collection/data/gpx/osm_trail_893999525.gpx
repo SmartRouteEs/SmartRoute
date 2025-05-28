@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Boule</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.932077</time>
+</metadata>
+<trk>
+    <name>Chemin de la Boule</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5522617" lon="2.616817"></trkpt>
+        <trkpt lat="48.5526975" lon="2.6169108"></trkpt>
+        <trkpt lat="48.5530538" lon="2.6170294"></trkpt>
+        <trkpt lat="48.5533354" lon="2.61718"></trkpt>
+        <trkpt lat="48.553452" lon="2.6172268"></trkpt>
+        <trkpt lat="48.553585" lon="2.6172736"></trkpt>
+        <trkpt lat="48.5536853" lon="2.6172571"></trkpt>
+        <trkpt lat="48.5537838" lon="2.6172391"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

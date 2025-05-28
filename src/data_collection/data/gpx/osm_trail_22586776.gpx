@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Vallière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.481767</time>
+</metadata>
+<trk>
+    <name>Route de la Vallière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3967778" lon="2.6924738"></trkpt>
+        <trkpt lat="48.3965623" lon="2.6925794"></trkpt>
+        <trkpt lat="48.3964008" lon="2.6926767"></trkpt>
+        <trkpt lat="48.3952875" lon="2.6933344"></trkpt>
+        <trkpt lat="48.3933798" lon="2.6944943"></trkpt>
+        <trkpt lat="48.3926207" lon="2.6949804"></trkpt>
+        <trkpt lat="48.3924252" lon="2.695068"></trkpt>
+        <trkpt lat="48.3909963" lon="2.6959141"></trkpt>
+        <trkpt lat="48.3903096" lon="2.6963277"></trkpt>
+        <trkpt lat="48.3896605" lon="2.6967672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

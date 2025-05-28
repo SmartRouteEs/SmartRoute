@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue des Tribunes</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.936204</time>
+</metadata>
+<trk>
+    <name>Avenue des Tribunes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.827122" lon="2.4305642"></trkpt>
+        <trkpt lat="48.8270139" lon="2.4309074"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

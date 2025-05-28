@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Ferté Alais à Méréville</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.865479</time>
+</metadata>
+<trk>
+    <name>Chemin de la Ferté Alais à Méréville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3881342" lon="2.2231897"></trkpt>
+        <trkpt lat="48.3882455" lon="2.22324"></trkpt>
+        <trkpt lat="48.3886189" lon="2.2235087"></trkpt>
+        <trkpt lat="48.3887574" lon="2.2235865"></trkpt>
+        <trkpt lat="48.3894283" lon="2.2240843"></trkpt>
+        <trkpt lat="48.3894594" lon="2.2241631"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

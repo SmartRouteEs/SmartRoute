@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Adélaïde</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.696180</time>
+</metadata>
+<trk>
+    <name>Route Adélaïde</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4138182" lon="2.6874228"></trkpt>
+        <trkpt lat="48.4123035" lon="2.6891538"></trkpt>
+        <trkpt lat="48.4120839" lon="2.6893594"></trkpt>
+        <trkpt lat="48.410711" lon="2.690696"></trkpt>
+        <trkpt lat="48.4100677" lon="2.6912867"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

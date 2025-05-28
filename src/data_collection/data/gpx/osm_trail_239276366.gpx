@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Puiselet à Villiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.228419</time>
+</metadata>
+<trk>
+    <name>Chemin de Puiselet à Villiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3009011" lon="2.6452361"></trkpt>
+        <trkpt lat="48.2991226" lon="2.6456867"></trkpt>
+        <trkpt lat="48.2979503" lon="2.6461773"></trkpt>
+        <trkpt lat="48.2968045" lon="2.6466078"></trkpt>
+        <trkpt lat="48.2948995" lon="2.6472267"></trkpt>
+        <trkpt lat="48.2947761" lon="2.6471891"></trkpt>
+        <trkpt lat="48.2944474" lon="2.6470891"></trkpt>
+        <trkpt lat="48.2943465" lon="2.6470584"></trkpt>
+        <trkpt lat="48.2932561" lon="2.6468713"></trkpt>
+        <trkpt lat="48.2906025" lon="2.6461873"></trkpt>
+        <trkpt lat="48.2894766" lon="2.6453262"></trkpt>
+        <trkpt lat="48.2878044" lon="2.6436541"></trkpt>
+        <trkpt lat="48.2844254" lon="2.6447168"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

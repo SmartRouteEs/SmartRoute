@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rocher Besnard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.343180</time>
+</metadata>
+<trk>
+    <name>Route du Rocher Besnard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3720452" lon="2.7570532"></trkpt>
+        <trkpt lat="48.3720231" lon="2.7576012"></trkpt>
+        <trkpt lat="48.371916" lon="2.7584148"></trkpt>
+        <trkpt lat="48.3717073" lon="2.7608532"></trkpt>
+        <trkpt lat="48.3716613" lon="2.7614128"></trkpt>
+        <trkpt lat="48.3712411" lon="2.7673264"></trkpt>
+        <trkpt lat="48.3708683" lon="2.7720386"></trkpt>
+        <trkpt lat="48.370794" lon="2.7730891"></trkpt>
+        <trkpt lat="48.3705899" lon="2.7754535"></trkpt>
+        <trkpt lat="48.3704848" lon="2.7766851"></trkpt>
+        <trkpt lat="48.3700352" lon="2.7820451"></trkpt>
+        <trkpt lat="48.3700249" lon="2.7825503"></trkpt>
+        <trkpt lat="48.369994" lon="2.7830349"></trkpt>
+        <trkpt lat="48.3697156" lon="2.7863238"></trkpt>
+        <trkpt lat="48.3696709" lon="2.7872194"></trkpt>
+        <trkpt lat="48.3696518" lon="2.7874806"></trkpt>
+        <trkpt lat="48.3695141" lon="2.789934"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

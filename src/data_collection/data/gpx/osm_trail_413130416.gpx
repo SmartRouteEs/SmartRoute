@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Pointe des Buttes</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.871010</time>
+</metadata>
+<trk>
+    <name>Sentier de la Pointe des Buttes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7953216" lon="2.3150195"></trkpt>
+        <trkpt lat="48.7953418" lon="2.3151121"></trkpt>
+        <trkpt lat="48.7953586" lon="2.3155248"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

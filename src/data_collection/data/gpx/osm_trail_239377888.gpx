@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 13942</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.288043</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 13942</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5125919" lon="3.1857066"></trkpt>
+        <trkpt lat="48.5143469" lon="3.1842382"></trkpt>
+        <trkpt lat="48.515936" lon="3.1828438"></trkpt>
+        <trkpt lat="48.5167863" lon="3.1820722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

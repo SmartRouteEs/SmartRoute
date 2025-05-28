@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Grosseville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.021199</time>
+</metadata>
+<trk>
+    <name>Chemin de Grosseville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3506759" lon="3.1403243"></trkpt>
+        <trkpt lat="48.350986" lon="3.140606"></trkpt>
+        <trkpt lat="48.351666" lon="3.141086"></trkpt>
+        <trkpt lat="48.3529333" lon="3.1418029"></trkpt>
+        <trkpt lat="48.353306" lon="3.142026"></trkpt>
+        <trkpt lat="48.354706" lon="3.142786"></trkpt>
+        <trkpt lat="48.355727" lon="3.143466"></trkpt>
+        <trkpt lat="48.356247" lon="3.143746"></trkpt>
+        <trkpt lat="48.356667" lon="3.144066"></trkpt>
+        <trkpt lat="48.357527" lon="3.144886"></trkpt>
+        <trkpt lat="48.358067" lon="3.145546"></trkpt>
+        <trkpt lat="48.358447" lon="3.145886"></trkpt>
+        <trkpt lat="48.358447" lon="3.146026"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

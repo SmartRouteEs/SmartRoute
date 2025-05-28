@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Tremblay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.766809</time>
+</metadata>
+<trk>
+    <name>Chemin du Tremblay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8040936" lon="2.9518891"></trkpt>
+        <trkpt lat="48.8048356" lon="2.9517926"></trkpt>
+        <trkpt lat="48.8055104" lon="2.9517175"></trkpt>
+        <trkpt lat="48.8059132" lon="2.9516424"></trkpt>
+        <trkpt lat="48.8065597" lon="2.9513742"></trkpt>
+        <trkpt lat="48.8077327" lon="2.9509128"></trkpt>
+        <trkpt lat="48.8078104" lon="2.9509021"></trkpt>
+        <trkpt lat="48.8084322" lon="2.951122"></trkpt>
+        <trkpt lat="48.8087148" lon="2.9511757"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

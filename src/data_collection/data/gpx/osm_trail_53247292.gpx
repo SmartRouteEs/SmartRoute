@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Buttes</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.961402</time>
+</metadata>
+<trk>
+    <name>Allée des Buttes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8241762" lon="2.4273133"></trkpt>
+        <trkpt lat="48.8241832" lon="2.4271101"></trkpt>
+        <trkpt lat="48.8241898" lon="2.4270324"></trkpt>
+        <trkpt lat="48.8242141" lon="2.4269499"></trkpt>
+        <trkpt lat="48.8242605" lon="2.426805"></trkpt>
+        <trkpt lat="48.8242746" lon="2.4265623"></trkpt>
+        <trkpt lat="48.8242967" lon="2.4260688"></trkpt>
+        <trkpt lat="48.8243307" lon="2.4257838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

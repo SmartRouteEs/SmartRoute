@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Behoudière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.275567</time>
+</metadata>
+<trk>
+    <name>Route de la Behoudière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4332089" lon="2.721237"></trkpt>
+        <trkpt lat="48.4320272" lon="2.7184357"></trkpt>
+        <trkpt lat="48.43164" lon="2.7174159"></trkpt>
+        <trkpt lat="48.4312153" lon="2.716272"></trkpt>
+        <trkpt lat="48.4307442" lon="2.7154906"></trkpt>
+        <trkpt lat="48.4304768" lon="2.7148213"></trkpt>
+        <trkpt lat="48.4298361" lon="2.7131154"></trkpt>
+        <trkpt lat="48.4292808" lon="2.7114417"></trkpt>
+        <trkpt lat="48.4292031" lon="2.7112944"></trkpt>
+        <trkpt lat="48.4291164" lon="2.7112105"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

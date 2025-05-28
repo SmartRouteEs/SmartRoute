@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 457</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.498042</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 457</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8301185" lon="2.4305482"></trkpt>
+        <trkpt lat="48.8289124" lon="2.4323043"></trkpt>
+        <trkpt lat="48.828862" lon="2.4323585"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

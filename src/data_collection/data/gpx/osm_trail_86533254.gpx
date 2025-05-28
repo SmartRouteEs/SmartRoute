@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Ratraits</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.450528</time>
+</metadata>
+<trk>
+    <name>Sentier des Ratraits</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8252489" lon="2.5238957"></trkpt>
+        <trkpt lat="48.8253229" lon="2.5235397"></trkpt>
+        <trkpt lat="48.8254571" lon="2.5227243"></trkpt>
+        <trkpt lat="48.8255171" lon="2.5222768"></trkpt>
+        <trkpt lat="48.8256162" lon="2.5219296"></trkpt>
+        <trkpt lat="48.8256973" lon="2.5217051"></trkpt>
+        <trkpt lat="48.8258373" lon="2.5213252"></trkpt>
+        <trkpt lat="48.8259628" lon="2.5203445"></trkpt>
+        <trkpt lat="48.8260506" lon="2.5199907"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

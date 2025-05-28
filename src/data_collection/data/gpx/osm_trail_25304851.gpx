@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Fontainebleau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.564160</time>
+</metadata>
+<trk>
+    <name>Allée de Fontainebleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8021342" lon="2.6596739"></trkpt>
+        <trkpt lat="48.8019785" lon="2.6595543"></trkpt>
+        <trkpt lat="48.8018715" lon="2.6593874"></trkpt>
+        <trkpt lat="48.8016083" lon="2.6586993"></trkpt>
+        <trkpt lat="48.8015191" lon="2.6583574"></trkpt>
+        <trkpt lat="48.8014719" lon="2.6581545"></trkpt>
+        <trkpt lat="48.8014481" lon="2.6580691"></trkpt>
+        <trkpt lat="48.8014205" lon="2.6579701"></trkpt>
+        <trkpt lat="48.8009701" lon="2.6564401"></trkpt>
+        <trkpt lat="48.8006717" lon="2.6554972"></trkpt>
+        <trkpt lat="48.8006195" lon="2.6553878"></trkpt>
+        <trkpt lat="48.8005451" lon="2.6553222"></trkpt>
+        <trkpt lat="48.8003967" lon="2.6553269"></trkpt>
+        <trkpt lat="48.8002322" lon="2.6553521"></trkpt>
+        <trkpt lat="48.8001294" lon="2.655397"></trkpt>
+        <trkpt lat="48.7999083" lon="2.6554774"></trkpt>
+        <trkpt lat="48.7996265" lon="2.6555799"></trkpt>
+        <trkpt lat="48.7986446" lon="2.655937"></trkpt>
+        <trkpt lat="48.7983459" lon="2.6560449"></trkpt>
+        <trkpt lat="48.7975096" lon="2.6563546"></trkpt>
+        <trkpt lat="48.7972949" lon="2.6564319"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

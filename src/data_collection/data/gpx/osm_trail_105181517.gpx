@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Contre-Halage</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.692421</time>
+</metadata>
+<trk>
+    <name>Chemin de Contre-Halage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3654014" lon="2.8279835"></trkpt>
+        <trkpt lat="48.3654776" lon="2.827947"></trkpt>
+        <trkpt lat="48.3655847" lon="2.8279226"></trkpt>
+        <trkpt lat="48.3663529" lon="2.8275995"></trkpt>
+        <trkpt lat="48.3666277" lon="2.8274814"></trkpt>
+        <trkpt lat="48.3670861" lon="2.8273053"></trkpt>
+        <trkpt lat="48.3679486" lon="2.826954"></trkpt>
+        <trkpt lat="48.3680449" lon="2.8269119"></trkpt>
+        <trkpt lat="48.3681749" lon="2.8268579"></trkpt>
+        <trkpt lat="48.3686066" lon="2.82671"></trkpt>
+        <trkpt lat="48.368984" lon="2.8265795"></trkpt>
+        <trkpt lat="48.3693659" lon="2.8264314"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

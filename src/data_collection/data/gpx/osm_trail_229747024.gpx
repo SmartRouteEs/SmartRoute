@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint-Martin</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:50.648379</time>
+</metadata>
+<trk>
+    <name>Route de Saint-Martin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7586123" lon="2.2655423"></trkpt>
+        <trkpt lat="48.7584565" lon="2.2652865"></trkpt>
+        <trkpt lat="48.7581595" lon="2.2648257"></trkpt>
+        <trkpt lat="48.7580274" lon="2.2645945"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

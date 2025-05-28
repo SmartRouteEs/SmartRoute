@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 20731</name>
+    <desc>Sentier VTT - Type: footway - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.882143</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 20731</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7662185" lon="2.3011188"></trkpt>
+        <trkpt lat="48.7661344" lon="2.3013775"></trkpt>
+        <trkpt lat="48.7662617" lon="2.3015384"></trkpt>
+        <trkpt lat="48.7661087" lon="2.302211"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

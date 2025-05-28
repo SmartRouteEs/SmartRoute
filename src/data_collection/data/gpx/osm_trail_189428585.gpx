@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Chapelle Sainte-Anne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.605203</time>
+</metadata>
+<trk>
+    <name>Chemin de la Chapelle Sainte-Anne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4369175" lon="2.4519936"></trkpt>
+        <trkpt lat="48.437026" lon="2.4516396"></trkpt>
+        <trkpt lat="48.4371209" lon="2.4512918"></trkpt>
+        <trkpt lat="48.4373058" lon="2.450642"></trkpt>
+        <trkpt lat="48.4373929" lon="2.4503581"></trkpt>
+        <trkpt lat="48.4374167" lon="2.4502805"></trkpt>
+        <trkpt lat="48.4375243" lon="2.4500301"></trkpt>
+        <trkpt lat="48.4376429" lon="2.449825"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

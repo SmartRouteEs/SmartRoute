@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Autour</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.615340</time>
+</metadata>
+<trk>
+    <name>Route de l'Autour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3980056" lon="2.6742114"></trkpt>
+        <trkpt lat="48.3981362" lon="2.6738506"></trkpt>
+        <trkpt lat="48.3990814" lon="2.6729995"></trkpt>
+        <trkpt lat="48.3997458" lon="2.6723972"></trkpt>
+        <trkpt lat="48.400246" lon="2.6719813"></trkpt>
+        <trkpt lat="48.4005469" lon="2.6716931"></trkpt>
+        <trkpt lat="48.4017928" lon="2.6706109"></trkpt>
+        <trkpt lat="48.4020392" lon="2.6704004"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

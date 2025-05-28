@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse du Mont Sarrazin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.007273</time>
+</metadata>
+<trk>
+    <name>Impasse du Mont Sarrazin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2672944" lon="2.6511722"></trkpt>
+        <trkpt lat="48.2671397" lon="2.6513819"></trkpt>
+        <trkpt lat="48.2667964" lon="2.6514201"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

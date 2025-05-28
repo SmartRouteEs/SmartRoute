@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Saints-Pères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.504613</time>
+</metadata>
+<trk>
+    <name>Chemin des Saints-Pères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2941744" lon="2.9556961"></trkpt>
+        <trkpt lat="48.2921121" lon="2.9575874"></trkpt>
+        <trkpt lat="48.2911792" lon="2.9593104"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

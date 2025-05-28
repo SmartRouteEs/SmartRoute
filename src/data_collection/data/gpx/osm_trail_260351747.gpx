@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Prés du Fourneau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.735392</time>
+</metadata>
+<trk>
+    <name>Sentier des Prés du Fourneau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6109573" lon="2.2712768"></trkpt>
+        <trkpt lat="48.611073" lon="2.270301"></trkpt>
+        <trkpt lat="48.6111137" lon="2.2698867"></trkpt>
+        <trkpt lat="48.6111414" lon="2.2694999"></trkpt>
+        <trkpt lat="48.6111726" lon="2.2689528"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière du Tremble</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.522485</time>
+</metadata>
+<trk>
+    <name>Route Forestière du Tremble</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6691575" lon="2.4499861"></trkpt>
+        <trkpt lat="48.6692652" lon="2.4503669"></trkpt>
+        <trkpt lat="48.6693622" lon="2.4507612"></trkpt>
+        <trkpt lat="48.6695336" lon="2.4514425"></trkpt>
+        <trkpt lat="48.6699519" lon="2.4531362"></trkpt>
+        <trkpt lat="48.6700464" lon="2.4534719"></trkpt>
+        <trkpt lat="48.6701435" lon="2.453826"></trkpt>
+        <trkpt lat="48.6709055" lon="2.4563376"></trkpt>
+        <trkpt lat="48.6717348" lon="2.4595313"></trkpt>
+        <trkpt lat="48.6720791" lon="2.4608216"></trkpt>
+        <trkpt lat="48.6725737" lon="2.462679"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

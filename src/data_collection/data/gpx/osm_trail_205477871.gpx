@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villiers à Faÿ</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.611067</time>
+</metadata>
+<trk>
+    <name>Chemin de Villiers à Faÿ</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4854175" lon="2.6132516"></trkpt>
+        <trkpt lat="48.4854514" lon="2.6135804"></trkpt>
+        <trkpt lat="48.4853641" lon="2.6137629"></trkpt>
+        <trkpt lat="48.4852584" lon="2.6138758"></trkpt>
+        <trkpt lat="48.4849077" lon="2.613977"></trkpt>
+        <trkpt lat="48.4836667" lon="2.6163825"></trkpt>
+        <trkpt lat="48.4822529" lon="2.6192087"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

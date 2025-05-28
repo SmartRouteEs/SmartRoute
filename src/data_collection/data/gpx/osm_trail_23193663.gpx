@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Fretay</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.518209</time>
+</metadata>
+<trk>
+    <name>Chemin de Fretay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6690022" lon="2.1982613"></trkpt>
+        <trkpt lat="48.6690552" lon="2.1983369"></trkpt>
+        <trkpt lat="48.6692646" lon="2.1987504"></trkpt>
+        <trkpt lat="48.6695095" lon="2.1992503"></trkpt>
+        <trkpt lat="48.6699224" lon="2.2002049"></trkpt>
+        <trkpt lat="48.6700948" lon="2.2006621"></trkpt>
+        <trkpt lat="48.6702332" lon="2.2011024"></trkpt>
+        <trkpt lat="48.6703624" lon="2.201531"></trkpt>
+        <trkpt lat="48.6704173" lon="2.2017089"></trkpt>
+        <trkpt lat="48.6704533" lon="2.2018988"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Pente d'Ardenay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.800000</time>
+</metadata>
+<trk>
+    <name>Chemin de la Pente d'Ardenay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5029196" lon="2.3475836"></trkpt>
+        <trkpt lat="48.5028767" lon="2.3473653"></trkpt>
+        <trkpt lat="48.5022193" lon="2.3449072"></trkpt>
+        <trkpt lat="48.50192" lon="2.343916"></trkpt>
+        <trkpt lat="48.501739" lon="2.343552"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

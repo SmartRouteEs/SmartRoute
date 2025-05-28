@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grange à Boissy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.310643</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grange à Boissy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7373798" lon="2.5028838"></trkpt>
+        <trkpt lat="48.7384978" lon="2.5042614"></trkpt>
+        <trkpt lat="48.738963" lon="2.5048629"></trkpt>
+        <trkpt lat="48.739054" lon="2.5049044"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

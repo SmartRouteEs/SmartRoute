@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tillaie</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.656407</time>
+</metadata>
+<trk>
+    <name>Route de la Tillaie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4169558" lon="2.65889"></trkpt>
+        <trkpt lat="48.4174142" lon="2.6591016"></trkpt>
+        <trkpt lat="48.4175398" lon="2.6591595"></trkpt>
+        <trkpt lat="48.4181293" lon="2.6594222"></trkpt>
+        <trkpt lat="48.4200262" lon="2.6602462"></trkpt>
+        <trkpt lat="48.4203311" lon="2.6603665"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

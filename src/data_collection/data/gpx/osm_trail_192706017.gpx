@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Platines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.662925</time>
+</metadata>
+<trk>
+    <name>Chemin des Platines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4603133" lon="2.3180476"></trkpt>
+        <trkpt lat="48.4602043" lon="2.3176761"></trkpt>
+        <trkpt lat="48.4600183" lon="2.3173033"></trkpt>
+        <trkpt lat="48.4593061" lon="2.3159969"></trkpt>
+        <trkpt lat="48.4588059" lon="2.3150237"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

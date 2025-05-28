@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 9560</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.671271</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 9560</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3078524" lon="2.9966164"></trkpt>
+        <trkpt lat="48.307163" lon="2.9981975"></trkpt>
+        <trkpt lat="48.3060905" lon="3.0004401"></trkpt>
+        <trkpt lat="48.3024038" lon="3.0032253"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

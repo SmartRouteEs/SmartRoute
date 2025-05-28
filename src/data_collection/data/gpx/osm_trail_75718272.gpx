@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Nemours</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.141687</time>
+</metadata>
+<trk>
+    <name>Chemin de Nemours</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3704903" lon="2.935033"></trkpt>
+        <trkpt lat="48.3702729" lon="2.9344273"></trkpt>
+        <trkpt lat="48.3696917" lon="2.9328561"></trkpt>
+        <trkpt lat="48.3688765" lon="2.9296886"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

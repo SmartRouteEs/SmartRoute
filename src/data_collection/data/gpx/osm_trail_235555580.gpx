@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Vert</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.026948</time>
+</metadata>
+<trk>
+    <name>Chemin Vert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5758208" lon="2.2728971"></trkpt>
+        <trkpt lat="48.5761807" lon="2.2732132"></trkpt>
+        <trkpt lat="48.5767165" lon="2.2736107"></trkpt>
+        <trkpt lat="48.5772914" lon="2.2740367"></trkpt>
+        <trkpt lat="48.5776472" lon="2.2742888"></trkpt>
+        <trkpt lat="48.5786588" lon="2.274956"></trkpt>
+        <trkpt lat="48.5792616" lon="2.2753427"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

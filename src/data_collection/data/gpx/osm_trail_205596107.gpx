@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Serpent</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.636061</time>
+</metadata>
+<trk>
+    <name>Chemin du Serpent</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.760852" lon="2.5911513"></trkpt>
+        <trkpt lat="48.7591499" lon="2.592074"></trkpt>
+        <trkpt lat="48.7579648" lon="2.5931048"></trkpt>
+        <trkpt lat="48.7570137" lon="2.5945406"></trkpt>
+        <trkpt lat="48.7562312" lon="2.5962062"></trkpt>
+        <trkpt lat="48.755736" lon="2.597738"></trkpt>
+        <trkpt lat="48.7553562" lon="2.5993951"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

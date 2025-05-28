@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Hibou</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.057713</time>
+</metadata>
+<trk>
+    <name>Route du Hibou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4286769" lon="2.6412588"></trkpt>
+        <trkpt lat="48.4285884" lon="2.6412003"></trkpt>
+        <trkpt lat="48.4266097" lon="2.6401482"></trkpt>
+        <trkpt lat="48.4259383" lon="2.6410278"></trkpt>
+        <trkpt lat="48.425365" lon="2.6417559"></trkpt>
+        <trkpt lat="48.4251941" lon="2.6420805"></trkpt>
+        <trkpt lat="48.425126" lon="2.6424085"></trkpt>
+        <trkpt lat="48.4250749" lon="2.6428959"></trkpt>
+        <trkpt lat="48.4250304" lon="2.6432016"></trkpt>
+        <trkpt lat="48.4249626" lon="2.6433533"></trkpt>
+        <trkpt lat="48.4248435" lon="2.6433948"></trkpt>
+        <trkpt lat="48.4246851" lon="2.6432821"></trkpt>
+        <trkpt lat="48.4245676" lon="2.643266"></trkpt>
+        <trkpt lat="48.4244443" lon="2.6434544"></trkpt>
+        <trkpt lat="48.4242292" lon="2.6439915"></trkpt>
+        <trkpt lat="48.4238967" lon="2.6442171"></trkpt>
+        <trkpt lat="48.4227324" lon="2.6445067"></trkpt>
+        <trkpt lat="48.4219097" lon="2.6462024"></trkpt>
+        <trkpt lat="48.4214263" lon="2.6490869"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

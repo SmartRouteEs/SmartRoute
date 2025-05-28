@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Gueule Noire</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.912428</time>
+</metadata>
+<trk>
+    <name>Chemin de la Gueule Noire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7659195" lon="2.5402202"></trkpt>
+        <trkpt lat="48.7659283" lon="2.5402492"></trkpt>
+        <trkpt lat="48.765876" lon="2.5403758"></trkpt>
+        <trkpt lat="48.7658106" lon="2.5405462"></trkpt>
+        <trkpt lat="48.765549" lon="2.5413695"></trkpt>
+        <trkpt lat="48.7653581" lon="2.5420502"></trkpt>
+        <trkpt lat="48.7653419" lon="2.5421299"></trkpt>
+        <trkpt lat="48.7652017" lon="2.5434489"></trkpt>
+        <trkpt lat="48.7653568" lon="2.5467514"></trkpt>
+        <trkpt lat="48.765527" lon="2.5497461"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

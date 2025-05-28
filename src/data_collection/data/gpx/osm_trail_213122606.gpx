@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Dauges aux Provendiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.878545</time>
+</metadata>
+<trk>
+    <name>Chemin des Dauges aux Provendiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1880704" lon="3.2281371"></trkpt>
+        <trkpt lat="48.1886423" lon="3.2284974"></trkpt>
+        <trkpt lat="48.1890484" lon="3.2288582"></trkpt>
+        <trkpt lat="48.189431" lon="3.2292962"></trkpt>
+        <trkpt lat="48.1898606" lon="3.2299372"></trkpt>
+        <trkpt lat="48.1900273" lon="3.2302443"></trkpt>
+        <trkpt lat="48.1903962" lon="3.2310266"></trkpt>
+        <trkpt lat="48.1904849" lon="3.2312244"></trkpt>
+        <trkpt lat="48.1905867" lon="3.23155"></trkpt>
+        <trkpt lat="48.1906784" lon="3.2319309"></trkpt>
+        <trkpt lat="48.1910644" lon="3.2329231"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

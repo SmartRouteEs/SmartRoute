@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Morbras</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.549379</time>
+</metadata>
+<trk>
+    <name>Route du Morbras</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7436699" lon="2.5775756"></trkpt>
+        <trkpt lat="48.7437038" lon="2.5773439"></trkpt>
+        <trkpt lat="48.7437491" lon="2.5768976"></trkpt>
+        <trkpt lat="48.7438114" lon="2.5764341"></trkpt>
+        <trkpt lat="48.743851" lon="2.5761251"></trkpt>
+        <trkpt lat="48.743834" lon="2.5758934"></trkpt>
+        <trkpt lat="48.7437831" lon="2.5756959"></trkpt>
+        <trkpt lat="48.7437434" lon="2.5755157"></trkpt>
+        <trkpt lat="48.7437378" lon="2.5752925"></trkpt>
+        <trkpt lat="48.7437944" lon="2.5745887"></trkpt>
+        <trkpt lat="48.744134" lon="2.5707178"></trkpt>
+        <trkpt lat="48.7441906" lon="2.5700397"></trkpt>
+        <trkpt lat="48.7443813" lon="2.5679227"></trkpt>
+        <trkpt lat="48.7446779" lon="2.56463"></trkpt>
+        <trkpt lat="48.7448223" lon="2.562893"></trkpt>
+        <trkpt lat="48.7450746" lon="2.5598769"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

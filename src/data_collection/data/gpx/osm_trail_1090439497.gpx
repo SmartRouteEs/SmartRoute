@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Pelouses</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.012807</time>
+</metadata>
+<trk>
+    <name>Allée des Pelouses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9085574" lon="2.5648654"></trkpt>
+        <trkpt lat="48.9083598" lon="2.5652288"></trkpt>
+        <trkpt lat="48.9081416" lon="2.5657535"></trkpt>
+        <trkpt lat="48.9080911" lon="2.5662172"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

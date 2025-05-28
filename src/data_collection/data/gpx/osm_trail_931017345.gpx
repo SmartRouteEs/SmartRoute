@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Dame Blanche</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.521854</time>
+</metadata>
+<trk>
+    <name>Route de la Dame Blanche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8448674" lon="2.4439723"></trkpt>
+        <trkpt lat="48.8448656" lon="2.4437577"></trkpt>
+        <trkpt lat="48.8448885" lon="2.44357"></trkpt>
+        <trkpt lat="48.8449458" lon="2.4433085"></trkpt>
+        <trkpt lat="48.8450069" lon="2.4430041"></trkpt>
+        <trkpt lat="48.8450257" lon="2.4428194"></trkpt>
+        <trkpt lat="48.8450267" lon="2.4425946"></trkpt>
+        <trkpt lat="48.8450152" lon="2.4422573"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

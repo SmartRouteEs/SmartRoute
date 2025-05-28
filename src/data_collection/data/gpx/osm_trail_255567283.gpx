@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Germain à Fourcon</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.666910</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Germain à Fourcon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6006623" lon="2.2624334"></trkpt>
+        <trkpt lat="48.6006023" lon="2.2627819"></trkpt>
+        <trkpt lat="48.6004856" lon="2.2633575"></trkpt>
+        <trkpt lat="48.6004606" lon="2.2636968"></trkpt>
+        <trkpt lat="48.6004674" lon="2.2640242"></trkpt>
+        <trkpt lat="48.6004681" lon="2.26406"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

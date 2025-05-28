@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue de l'Europe</name>
+    <desc>Sentier VTT - Type: path - Surface: paving_stones - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.614452</time>
+</metadata>
+<trk>
+    <name>Avenue de l'Europe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9068988" lon="2.2613172"></trkpt>
+        <trkpt lat="48.9068871" lon="2.2612453"></trkpt>
+        <trkpt lat="48.9068513" lon="2.2610258"></trkpt>
+        <trkpt lat="48.9067703" lon="2.2605568"></trkpt>
+        <trkpt lat="48.9067449" lon="2.2604101"></trkpt>
+        <trkpt lat="48.9067213" lon="2.2602567"></trkpt>
+        <trkpt lat="48.9066301" lon="2.2596639"></trkpt>
+        <trkpt lat="48.9065883" lon="2.2595344"></trkpt>
+        <trkpt lat="48.9065275" lon="2.2593248"></trkpt>
+        <trkpt lat="48.906515" lon="2.2592815"></trkpt>
+        <trkpt lat="48.9063454" lon="2.2586828"></trkpt>
+        <trkpt lat="48.9062391" lon="2.2584135"></trkpt>
+        <trkpt lat="48.9062298" lon="2.2583899"></trkpt>
+        <trkpt lat="48.9061975" lon="2.2582891"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

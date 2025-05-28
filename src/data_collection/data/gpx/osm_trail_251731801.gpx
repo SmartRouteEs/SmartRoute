@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Carré</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.614232</time>
+</metadata>
+<trk>
+    <name>Chemin du Carré</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5426898" lon="2.2030249"></trkpt>
+        <trkpt lat="48.5431299" lon="2.2033991"></trkpt>
+        <trkpt lat="48.5430823" lon="2.2035227"></trkpt>
+        <trkpt lat="48.543687" lon="2.2040031"></trkpt>
+        <trkpt lat="48.5442604" lon="2.2044866"></trkpt>
+        <trkpt lat="48.5448616" lon="2.2050719"></trkpt>
+        <trkpt lat="48.5453747" lon="2.2056945"></trkpt>
+        <trkpt lat="48.5454169" lon="2.2057466"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

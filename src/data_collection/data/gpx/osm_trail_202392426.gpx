@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Piot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.856260</time>
+</metadata>
+<trk>
+    <name>Rue Piot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.801705" lon="3.1395398"></trkpt>
+        <trkpt lat="48.8026395" lon="3.1405328"></trkpt>
+        <trkpt lat="48.8028257" lon="3.1407603"></trkpt>
+        <trkpt lat="48.8029363" lon="3.1409971"></trkpt>
+        <trkpt lat="48.8030178" lon="3.1412892"></trkpt>
+        <trkpt lat="48.8030678" lon="3.1416326"></trkpt>
+        <trkpt lat="48.8032594" lon="3.1436093"></trkpt>
+        <trkpt lat="48.8033743" lon="3.144384"></trkpt>
+        <trkpt lat="48.8034064" lon="3.1449163"></trkpt>
+        <trkpt lat="48.8033856" lon="3.1454293"></trkpt>
+        <trkpt lat="48.8033232" lon="3.1459365"></trkpt>
+        <trkpt lat="48.8032131" lon="3.1463864"></trkpt>
+        <trkpt lat="48.8031522" lon="3.1467085"></trkpt>
+        <trkpt lat="48.8031378" lon="3.1470843"></trkpt>
+        <trkpt lat="48.80318" lon="3.1476032"></trkpt>
+        <trkpt lat="48.8031879" lon="3.1476617"></trkpt>
+        <trkpt lat="48.8032786" lon="3.1483341"></trkpt>
+        <trkpt lat="48.8032804" lon="3.1483849"></trkpt>
+        <trkpt lat="48.8032956" lon="3.1488129"></trkpt>
+        <trkpt lat="48.8032546" lon="3.1493678"></trkpt>
+        <trkpt lat="48.8033057" lon="3.1498162"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

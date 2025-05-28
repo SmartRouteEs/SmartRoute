@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Milieu</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.574904</time>
+</metadata>
+<trk>
+    <name>Chemin du Milieu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7710211" lon="2.1844258"></trkpt>
+        <trkpt lat="48.7709597" lon="2.1844621"></trkpt>
+        <trkpt lat="48.7709302" lon="2.1845701"></trkpt>
+        <trkpt lat="48.7709129" lon="2.1848027"></trkpt>
+        <trkpt lat="48.7709058" lon="2.1851501"></trkpt>
+        <trkpt lat="48.7709169" lon="2.185292"></trkpt>
+        <trkpt lat="48.7710092" lon="2.1856691"></trkpt>
+        <trkpt lat="48.7710234" lon="2.1857301"></trkpt>
+        <trkpt lat="48.7710221" lon="2.1857905"></trkpt>
+        <trkpt lat="48.7706482" lon="2.1874546"></trkpt>
+        <trkpt lat="48.7699093" lon="2.1907338"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

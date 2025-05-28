@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Ronomière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.416848</time>
+</metadata>
+<trk>
+    <name>Route de la Ronomière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4251189" lon="2.6975508"></trkpt>
+        <trkpt lat="48.4257368" lon="2.6971897"></trkpt>
+        <trkpt lat="48.4274797" lon="2.6962885"></trkpt>
+        <trkpt lat="48.4286243" lon="2.6956724"></trkpt>
+        <trkpt lat="48.4288523" lon="2.6955417"></trkpt>
+        <trkpt lat="48.4301109" lon="2.694908"></trkpt>
+        <trkpt lat="48.4302091" lon="2.6948748"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sablons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.739987</time>
+</metadata>
+<trk>
+    <name>Chemin des Sablons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4717521" lon="2.2781295"></trkpt>
+        <trkpt lat="48.4717257" lon="2.2784306"></trkpt>
+        <trkpt lat="48.4717323" lon="2.2789149"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

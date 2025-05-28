@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 444</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.490296</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 444</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4079918" lon="2.4717974"></trkpt>
+        <trkpt lat="48.4079376" lon="2.4719637"></trkpt>
+        <trkpt lat="48.4079418" lon="2.4728013"></trkpt>
+        <trkpt lat="48.4080743" lon="2.4742809"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

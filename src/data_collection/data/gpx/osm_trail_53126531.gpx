@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Charbonneau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.957397</time>
+</metadata>
+<trk>
+    <name>Charbonneau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5476161" lon="2.3120888"></trkpt>
+        <trkpt lat="48.5476071" lon="2.3121818"></trkpt>
+        <trkpt lat="48.5475271" lon="2.3128601"></trkpt>
+        <trkpt lat="48.5473981" lon="2.3134943"></trkpt>
+        <trkpt lat="48.5472573" lon="2.314161"></trkpt>
+        <trkpt lat="48.5470591" lon="2.3150477"></trkpt>
+        <trkpt lat="48.5467571" lon="2.3162809"></trkpt>
+        <trkpt lat="48.5464433" lon="2.3178729"></trkpt>
+        <trkpt lat="48.5462414" lon="2.3191663"></trkpt>
+        <trkpt lat="48.5460816" lon="2.3199474"></trkpt>
+        <trkpt lat="48.5462924" lon="2.3203393"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

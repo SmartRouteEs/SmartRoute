@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Semalzes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.843394</time>
+</metadata>
+<trk>
+    <name>Chemin de Semalzes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4745257" lon="2.6295549"></trkpt>
+        <trkpt lat="48.4735252" lon="2.6316111"></trkpt>
+        <trkpt lat="48.4730879" lon="2.6326056"></trkpt>
+        <trkpt lat="48.4725803" lon="2.6342953"></trkpt>
+        <trkpt lat="48.4723843" lon="2.6355771"></trkpt>
+        <trkpt lat="48.47222" lon="2.6364421"></trkpt>
+        <trkpt lat="48.471843" lon="2.6377959"></trkpt>
+        <trkpt lat="48.4716498" lon="2.6384933"></trkpt>
+        <trkpt lat="48.471597" lon="2.638836"></trkpt>
+        <trkpt lat="48.4716292" lon="2.6390612"></trkpt>
+        <trkpt lat="48.4728796" lon="2.6400638"></trkpt>
+        <trkpt lat="48.473833" lon="2.6408521"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

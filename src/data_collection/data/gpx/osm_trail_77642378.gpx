@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Mouillères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.163674</time>
+</metadata>
+<trk>
+    <name>Chemin des Mouillères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3251027" lon="3.0015041"></trkpt>
+        <trkpt lat="48.324839" lon="3.0019927"></trkpt>
+        <trkpt lat="48.324787" lon="3.0022995"></trkpt>
+        <trkpt lat="48.3252904" lon="3.0024844"></trkpt>
+        <trkpt lat="48.3256017" lon="3.002742"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

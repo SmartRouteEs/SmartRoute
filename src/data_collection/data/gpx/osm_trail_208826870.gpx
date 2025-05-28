@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Fours</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.809120</time>
+</metadata>
+<trk>
+    <name>Route des Fours</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1537594" lon="3.2637664"></trkpt>
+        <trkpt lat="48.1535246" lon="3.2636732"></trkpt>
+        <trkpt lat="48.1531128" lon="3.2635097"></trkpt>
+        <trkpt lat="48.1522488" lon="3.2631495"></trkpt>
+        <trkpt lat="48.1518139" lon="3.2629651"></trkpt>
+        <trkpt lat="48.1511645" lon="3.2624333"></trkpt>
+        <trkpt lat="48.1490817" lon="3.2607609"></trkpt>
+        <trkpt lat="48.148948" lon="3.2606366"></trkpt>
+        <trkpt lat="48.1482771" lon="3.2599829"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

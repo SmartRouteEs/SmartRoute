@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Magenta</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.066522</time>
+</metadata>
+<trk>
+    <name>Route de Magenta</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4777181" lon="2.7210617"></trkpt>
+        <trkpt lat="48.4756228" lon="2.7255807"></trkpt>
+        <trkpt lat="48.4739657" lon="2.7285628"></trkpt>
+        <trkpt lat="48.4734727" lon="2.7294672"></trkpt>
+        <trkpt lat="48.4724343" lon="2.7313585"></trkpt>
+        <trkpt lat="48.4720089" lon="2.7321493"></trkpt>
+        <trkpt lat="48.4712026" lon="2.7336958"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

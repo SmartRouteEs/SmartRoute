@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue Charles de Gaulle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.656799</time>
+</metadata>
+<trk>
+    <name>Avenue Charles de Gaulle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9085802" lon="2.7814607"></trkpt>
+        <trkpt lat="48.9088409" lon="2.7808734"></trkpt>
+        <trkpt lat="48.9088486" lon="2.7808436"></trkpt>
+        <trkpt lat="48.9088504" lon="2.7808083"></trkpt>
+        <trkpt lat="48.9088421" lon="2.7807722"></trkpt>
+        <trkpt lat="48.9088225" lon="2.7807234"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

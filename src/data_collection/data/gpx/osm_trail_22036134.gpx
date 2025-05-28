@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Glaises</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.442237</time>
+</metadata>
+<trk>
+    <name>Allée des Glaises</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8368155" lon="2.2113197"></trkpt>
+        <trkpt lat="48.8357676" lon="2.2101146"></trkpt>
+        <trkpt lat="48.8356095" lon="2.2099262"></trkpt>
+        <trkpt lat="48.8346272" lon="2.208695"></trkpt>
+        <trkpt lat="48.8339757" lon="2.2079172"></trkpt>
+        <trkpt lat="48.8336433" lon="2.2076353"></trkpt>
+        <trkpt lat="48.833309" lon="2.2072083"></trkpt>
+        <trkpt lat="48.8329289" lon="2.2067938"></trkpt>
+        <trkpt lat="48.8326567" lon="2.206438"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

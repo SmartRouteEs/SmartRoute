@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Repos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.869373</time>
+</metadata>
+<trk>
+    <name>Rue du Repos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6846221" lon="3.0820074"></trkpt>
+        <trkpt lat="48.6845941" lon="3.0827314"></trkpt>
+        <trkpt lat="48.684541" lon="3.0836205"></trkpt>
+        <trkpt lat="48.684555" lon="3.0837348"></trkpt>
+        <trkpt lat="48.6845647" lon="3.0838206"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

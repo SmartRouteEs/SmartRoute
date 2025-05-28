@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 16470</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.753887</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 16470</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1877849" lon="2.3642585"></trkpt>
+        <trkpt lat="48.1877181" lon="2.3642593"></trkpt>
+        <trkpt lat="48.1876399" lon="2.3642508"></trkpt>
+        <trkpt lat="48.1874153" lon="2.3641952"></trkpt>
+        <trkpt lat="48.1873269" lon="2.3641793"></trkpt>
+        <trkpt lat="48.1871284" lon="2.3641811"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Rougemont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.878829</time>
+</metadata>
+<trk>
+    <name>Chemin de Rougemont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3255956" lon="2.9918199"></trkpt>
+        <trkpt lat="48.32629" lon="2.9963812"></trkpt>
+        <trkpt lat="48.3263294" lon="2.9969648"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

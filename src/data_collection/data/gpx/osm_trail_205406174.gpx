@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grands Champs</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.602893</time>
+</metadata>
+<trk>
+    <name>Chemin des Grands Champs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6841943" lon="2.2890071"></trkpt>
+        <trkpt lat="48.6841567" lon="2.2889783"></trkpt>
+        <trkpt lat="48.683296" lon="2.2884519"></trkpt>
+        <trkpt lat="48.6824561" lon="2.287889"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

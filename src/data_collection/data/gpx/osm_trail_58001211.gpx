@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Bois Monnet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.003131</time>
+</metadata>
+<trk>
+    <name>Sentier du Bois Monnet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5235972" lon="2.2506984"></trkpt>
+        <trkpt lat="48.5239796" lon="2.2513677"></trkpt>
+        <trkpt lat="48.5240738" lon="2.2514925"></trkpt>
+        <trkpt lat="48.5243225" lon="2.2520702"></trkpt>
+        <trkpt lat="48.5245396" lon="2.2527174"></trkpt>
+        <trkpt lat="48.5245114" lon="2.2530914"></trkpt>
+        <trkpt lat="48.524591" lon="2.2534118"></trkpt>
+        <trkpt lat="48.5247361" lon="2.2537989"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

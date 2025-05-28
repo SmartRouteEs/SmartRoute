@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Enclos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.178899</time>
+</metadata>
+<trk>
+    <name>Chemin des Enclos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6733336" lon="3.1134629"></trkpt>
+        <trkpt lat="48.6735632" lon="3.1137416"></trkpt>
+        <trkpt lat="48.6731433" lon="3.1146743"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

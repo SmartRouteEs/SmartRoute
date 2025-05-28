@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Meudon</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.840680</time>
+</metadata>
+<trk>
+    <name>Chemin de Meudon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7936014" lon="2.2183888"></trkpt>
+        <trkpt lat="48.7933903" lon="2.2184646"></trkpt>
+        <trkpt lat="48.7918862" lon="2.2164726"></trkpt>
+        <trkpt lat="48.7918258" lon="2.2163897"></trkpt>
+        <trkpt lat="48.7916605" lon="2.2161529"></trkpt>
+        <trkpt lat="48.7902556" lon="2.2145664"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

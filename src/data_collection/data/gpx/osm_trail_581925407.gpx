@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Sens à St Martin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.369419</time>
+</metadata>
+<trk>
+    <name>Chemin de Sens à St Martin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2720498" lon="3.3199919"></trkpt>
+        <trkpt lat="48.2722608" lon="3.320714"></trkpt>
+        <trkpt lat="48.2724317" lon="3.3209432"></trkpt>
+        <trkpt lat="48.2729964" lon="3.3212539"></trkpt>
+        <trkpt lat="48.2734802" lon="3.3216185"></trkpt>
+        <trkpt lat="48.2736583" lon="3.3217527"></trkpt>
+        <trkpt lat="48.2743188" lon="3.3222504"></trkpt>
+        <trkpt lat="48.2746639" lon="3.3226345"></trkpt>
+        <trkpt lat="48.2751305" lon="3.3234411"></trkpt>
+        <trkpt lat="48.2756673" lon="3.3239501"></trkpt>
+        <trkpt lat="48.2767498" lon="3.324723"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

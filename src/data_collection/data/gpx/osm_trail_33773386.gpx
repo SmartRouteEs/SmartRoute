@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Léon Bourgeois</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.943172</time>
+</metadata>
+<trk>
+    <name>Rue Léon Bourgeois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8191006" lon="2.2107574"></trkpt>
+        <trkpt lat="48.818945" lon="2.2105388"></trkpt>
+        <trkpt lat="48.8177875" lon="2.2087244"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

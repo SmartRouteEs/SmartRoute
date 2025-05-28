@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Belvédères : Raccourci Pierre Blanche</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.016682</time>
+</metadata>
+<trk>
+    <name>Sentier des Belvédères : Raccourci Pierre Blanche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3956621" lon="2.5379545"></trkpt>
+        <trkpt lat="48.3956943" lon="2.5379812"></trkpt>
+        <trkpt lat="48.3957303" lon="2.5380363"></trkpt>
+        <trkpt lat="48.3957741" lon="2.5380786"></trkpt>
+        <trkpt lat="48.3957959" lon="2.5380936"></trkpt>
+        <trkpt lat="48.3958619" lon="2.5381042"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

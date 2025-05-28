@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue de Fontenay</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.460649</time>
+</metadata>
+<trk>
+    <name>Avenue de Fontenay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8418182" lon="2.4623239"></trkpt>
+        <trkpt lat="48.8417896" lon="2.4623108"></trkpt>
+        <trkpt lat="48.8416431" lon="2.4621626"></trkpt>
+        <trkpt lat="48.8414083" lon="2.4619762"></trkpt>
+        <trkpt lat="48.8411532" lon="2.4618085"></trkpt>
+        <trkpt lat="48.8408818" lon="2.4616845"></trkpt>
+        <trkpt lat="48.8407037" lon="2.4616095"></trkpt>
+        <trkpt lat="48.8405777" lon="2.4615564"></trkpt>
+        <trkpt lat="48.8404749" lon="2.4615013"></trkpt>
+        <trkpt lat="48.8403275" lon="2.4614223"></trkpt>
+        <trkpt lat="48.8401616" lon="2.4613026"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

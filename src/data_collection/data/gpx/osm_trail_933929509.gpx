@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin aux Ânes</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.570618</time>
+</metadata>
+<trk>
+    <name>Chemin aux Ânes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4783688" lon="2.1976628"></trkpt>
+        <trkpt lat="48.4782815" lon="2.1977643"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

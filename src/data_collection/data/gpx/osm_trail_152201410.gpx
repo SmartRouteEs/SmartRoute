@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Chapeau de Napoléon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.547797</time>
+</metadata>
+<trk>
+    <name>Chemin du Chapeau de Napoléon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7787656" lon="3.0220141"></trkpt>
+        <trkpt lat="48.7780838" lon="3.0207649"></trkpt>
+        <trkpt lat="48.7773772" lon="3.0194696"></trkpt>
+        <trkpt lat="48.7773224" lon="3.0194069"></trkpt>
+        <trkpt lat="48.7771324" lon="3.0192547"></trkpt>
+        <trkpt lat="48.7770665" lon="3.0191818"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

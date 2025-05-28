@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Panurge</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.634659</time>
+</metadata>
+<trk>
+    <name>Sentier de Panurge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7704658" lon="2.25927"></trkpt>
+        <trkpt lat="48.7704879" lon="2.2591893"></trkpt>
+        <trkpt lat="48.770505" lon="2.2591477"></trkpt>
+        <trkpt lat="48.7705224" lon="2.2591121"></trkpt>
+        <trkpt lat="48.7705377" lon="2.2590496"></trkpt>
+        <trkpt lat="48.7705805" lon="2.25902"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

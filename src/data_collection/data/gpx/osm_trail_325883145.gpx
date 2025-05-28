@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Vallée de la Solle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.528598</time>
+</metadata>
+<trk>
+    <name>Route de la Vallée de la Solle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4347618" lon="2.7103663"></trkpt>
+        <trkpt lat="48.4347227" lon="2.7105526"></trkpt>
+        <trkpt lat="48.434341" lon="2.7130362"></trkpt>
+        <trkpt lat="48.434336" lon="2.7130921"></trkpt>
+        <trkpt lat="48.4342786" lon="2.7133903"></trkpt>
+        <trkpt lat="48.4342577" lon="2.7135998"></trkpt>
+        <trkpt lat="48.434236" lon="2.7137802"></trkpt>
+        <trkpt lat="48.4342083" lon="2.7140112"></trkpt>
+        <trkpt lat="48.4337687" lon="2.7171534"></trkpt>
+        <trkpt lat="48.4336709" lon="2.7178605"></trkpt>
+        <trkpt lat="48.4332089" lon="2.721237"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

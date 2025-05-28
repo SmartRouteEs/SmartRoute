@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Circulaire</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.904022</time>
+</metadata>
+<trk>
+    <name>Route Circulaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3683355" lon="2.6032643"></trkpt>
+        <trkpt lat="48.3692081" lon="2.601882"></trkpt>
+        <trkpt lat="48.3698049" lon="2.6013759"></trkpt>
+        <trkpt lat="48.370448" lon="2.6010639"></trkpt>
+        <trkpt lat="48.3711171" lon="2.6007207"></trkpt>
+        <trkpt lat="48.3715546" lon="2.6001384"></trkpt>
+        <trkpt lat="48.3716476" lon="2.6000146"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

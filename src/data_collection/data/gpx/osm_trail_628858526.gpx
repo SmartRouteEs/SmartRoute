@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Petereau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.714608</time>
+</metadata>
+<trk>
+    <name>Sentier du Petereau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2557149" lon="2.4222497"></trkpt>
+        <trkpt lat="48.2557216" lon="2.422487"></trkpt>
+        <trkpt lat="48.2557859" lon="2.4241751"></trkpt>
+        <trkpt lat="48.2557788" lon="2.4242207"></trkpt>
+        <trkpt lat="48.2557538" lon="2.4242958"></trkpt>
+        <trkpt lat="48.2554806" lon="2.4249624"></trkpt>
+        <trkpt lat="48.2554065" lon="2.4250817"></trkpt>
+        <trkpt lat="48.2545367" lon="2.4264926"></trkpt>
+        <trkpt lat="48.2544653" lon="2.4265945"></trkpt>
+        <trkpt lat="48.2543814" lon="2.4266803"></trkpt>
+        <trkpt lat="48.253984" lon="2.4270491"></trkpt>
+        <trkpt lat="48.2539242" lon="2.427084"></trkpt>
+        <trkpt lat="48.253734" lon="2.4271752"></trkpt>
+        <trkpt lat="48.2536911" lon="2.4272194"></trkpt>
+        <trkpt lat="48.2535491" lon="2.4273871"></trkpt>
+        <trkpt lat="48.2535043" lon="2.427468"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

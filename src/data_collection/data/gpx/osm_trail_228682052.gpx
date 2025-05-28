@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Abime</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.617215</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Abime</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1657553" lon="2.4329374"></trkpt>
+        <trkpt lat="48.1634676" lon="2.4299063"></trkpt>
+        <trkpt lat="48.1634035" lon="2.4298224"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

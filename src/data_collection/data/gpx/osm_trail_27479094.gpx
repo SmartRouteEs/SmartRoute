@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Amoncourt</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.613085</time>
+</metadata>
+<trk>
+    <name>Route d'Amoncourt</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4486479" lon="2.7124355"></trkpt>
+        <trkpt lat="48.4536444" lon="2.71302"></trkpt>
+        <trkpt lat="48.454526" lon="2.7127944"></trkpt>
+        <trkpt lat="48.456556" lon="2.712282"></trkpt>
+        <trkpt lat="48.4597035" lon="2.7113864"></trkpt>
+        <trkpt lat="48.4613756" lon="2.7109292"></trkpt>
+        <trkpt lat="48.4626824" lon="2.7106627"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

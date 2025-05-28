@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie de Cheptainville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.913631</time>
+</metadata>
+<trk>
+    <name>Voie de Cheptainville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.569236" lon="2.2730032"></trkpt>
+        <trkpt lat="48.5690615" lon="2.2731767"></trkpt>
+        <trkpt lat="48.5686837" lon="2.2738016"></trkpt>
+        <trkpt lat="48.5682385" lon="2.2744957"></trkpt>
+        <trkpt lat="48.5673547" lon="2.2758786"></trkpt>
+        <trkpt lat="48.5673184" lon="2.2759062"></trkpt>
+        <trkpt lat="48.5672764" lon="2.2759132"></trkpt>
+        <trkpt lat="48.5672268" lon="2.2758877"></trkpt>
+        <trkpt lat="48.566974" lon="2.2756242"></trkpt>
+        <trkpt lat="48.5664369" lon="2.2750915"></trkpt>
+        <trkpt lat="48.5657973" lon="2.2744454"></trkpt>
+        <trkpt lat="48.5657527" lon="2.2744944"></trkpt>
+        <trkpt lat="48.5656559" lon="2.2746948"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

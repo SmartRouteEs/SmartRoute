@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Circulaire</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:47.944915</time>
+</metadata>
+<trk>
+    <name>Allée Circulaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7684927" lon="2.3040613"></trkpt>
+        <trkpt lat="48.7682939" lon="2.3041453"></trkpt>
+        <trkpt lat="48.767999" lon="2.3042552"></trkpt>
+        <trkpt lat="48.7678369" lon="2.3042552"></trkpt>
+        <trkpt lat="48.7677128" lon="2.304218"></trkpt>
+        <trkpt lat="48.7674005" lon="2.3041139"></trkpt>
+        <trkpt lat="48.7672672" lon="2.3040307"></trkpt>
+        <trkpt lat="48.7670155" lon="2.3038885"></trkpt>
+        <trkpt lat="48.7665537" lon="2.3035827"></trkpt>
+        <trkpt lat="48.7664125" lon="2.3034686"></trkpt>
+        <trkpt lat="48.766254" lon="2.3031422"></trkpt>
+        <trkpt lat="48.7662482" lon="2.302953"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

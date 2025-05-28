@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte Nadon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.262387</time>
+</metadata>
+<trk>
+    <name>Route de la Porte Nadon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4000762" lon="2.7470059"></trkpt>
+        <trkpt lat="48.3987055" lon="2.7494901"></trkpt>
+        <trkpt lat="48.3971189" lon="2.7523639"></trkpt>
+        <trkpt lat="48.3969362" lon="2.7526999"></trkpt>
+        <trkpt lat="48.3967294" lon="2.7530372"></trkpt>
+        <trkpt lat="48.3962174" lon="2.7539748"></trkpt>
+        <trkpt lat="48.3960678" lon="2.7542605"></trkpt>
+        <trkpt lat="48.3960611" lon="2.7544553"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

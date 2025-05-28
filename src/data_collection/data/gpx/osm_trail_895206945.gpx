@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vergers</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.940662</time>
+</metadata>
+<trk>
+    <name>Chemin des Vergers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3192745" lon="2.6457985"></trkpt>
+        <trkpt lat="48.3192724" lon="2.6456166"></trkpt>
+        <trkpt lat="48.3192537" lon="2.6450762"></trkpt>
+        <trkpt lat="48.319207" lon="2.6442175"></trkpt>
+        <trkpt lat="48.319208" lon="2.6439117"></trkpt>
+        <trkpt lat="48.3192227" lon="2.643819"></trkpt>
+        <trkpt lat="48.3192367" lon="2.6437853"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

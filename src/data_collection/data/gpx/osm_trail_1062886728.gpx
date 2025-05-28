@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sources Saint-Thibault</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.792261</time>
+</metadata>
+<trk>
+    <name>Chemin des Sources Saint-Thibault</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6997083" lon="2.5314057"></trkpt>
+        <trkpt lat="48.6998863" lon="2.5312579"></trkpt>
+        <trkpt lat="48.7000856" lon="2.5311872"></trkpt>
+        <trkpt lat="48.700268" lon="2.5311391"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

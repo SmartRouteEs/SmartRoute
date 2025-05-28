@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois Ferment</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.505540</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois Ferment</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7721386" lon="3.0198332"></trkpt>
+        <trkpt lat="48.7724342" lon="3.0198588"></trkpt>
+        <trkpt lat="48.7725264" lon="3.0198368"></trkpt>
+        <trkpt lat="48.7725487" lon="3.0198098"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

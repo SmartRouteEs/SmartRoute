@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.617653</time>
+</metadata>
+<trk>
+    <name>Chemin de Villiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4620288" lon="2.8413171"></trkpt>
+        <trkpt lat="48.4611822" lon="2.8409228"></trkpt>
+        <trkpt lat="48.4601683" lon="2.840432"></trkpt>
+        <trkpt lat="48.4602164" lon="2.8397829"></trkpt>
+        <trkpt lat="48.4591616" lon="2.8392679"></trkpt>
+        <trkpt lat="48.4581472" lon="2.8386169"></trkpt>
+        <trkpt lat="48.458259" lon="2.8382294"></trkpt>
+        <trkpt lat="48.45828" lon="2.8381459"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

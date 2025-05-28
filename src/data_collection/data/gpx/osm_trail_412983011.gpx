@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Thiou</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.865573</time>
+</metadata>
+<trk>
+    <name>Chemin de Thiou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.668601" lon="2.8287455"></trkpt>
+        <trkpt lat="48.6689083" lon="2.8280785"></trkpt>
+        <trkpt lat="48.6687029" lon="2.8274777"></trkpt>
+        <trkpt lat="48.6687721" lon="2.8273665"></trkpt>
+        <trkpt lat="48.6687863" lon="2.8273324"></trkpt>
+        <trkpt lat="48.6688029" lon="2.8273038"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

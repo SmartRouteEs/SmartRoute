@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Cossigny</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.917728</time>
+</metadata>
+<trk>
+    <name>Chemin de Cossigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6029504" lon="2.2748133"></trkpt>
+        <trkpt lat="48.6027421" lon="2.2752573"></trkpt>
+        <trkpt lat="48.6025417" lon="2.2756633"></trkpt>
+        <trkpt lat="48.602287" lon="2.27618"></trkpt>
+        <trkpt lat="48.602179" lon="2.276428"></trkpt>
+        <trkpt lat="48.6020292" lon="2.2767329"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

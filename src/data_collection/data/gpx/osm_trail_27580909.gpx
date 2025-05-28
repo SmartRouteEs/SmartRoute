@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Pompadour</name>
+    <desc>Sentier VTT - Type: bridleway - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.613085</time>
+</metadata>
+<trk>
+    <name>Route de la Pompadour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8294731" lon="2.4298872"></trkpt>
+        <trkpt lat="48.8294078" lon="2.4298306"></trkpt>
+        <trkpt lat="48.8286203" lon="2.4296772"></trkpt>
+        <trkpt lat="48.8283828" lon="2.4296158"></trkpt>
+        <trkpt lat="48.8280204" lon="2.4294993"></trkpt>
+        <trkpt lat="48.827736" lon="2.4293946"></trkpt>
+        <trkpt lat="48.8276434" lon="2.4293557"></trkpt>
+        <trkpt lat="48.8274368" lon="2.4292894"></trkpt>
+        <trkpt lat="48.8272892" lon="2.4292272"></trkpt>
+        <trkpt lat="48.8264603" lon="2.428789"></trkpt>
+        <trkpt lat="48.8262291" lon="2.4286218"></trkpt>
+        <trkpt lat="48.8260996" lon="2.4285298"></trkpt>
+        <trkpt lat="48.8258324" lon="2.4283059"></trkpt>
+        <trkpt lat="48.8255845" lon="2.4280934"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Versailles à Arpajon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.318757</time>
+</metadata>
+<trk>
+    <name>Chemin de Versailles à Arpajon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6353817" lon="2.2271215"></trkpt>
+        <trkpt lat="48.6347574" lon="2.2274891"></trkpt>
+        <trkpt lat="48.6344386" lon="2.2276835"></trkpt>
+        <trkpt lat="48.6342185" lon="2.227759"></trkpt>
+        <trkpt lat="48.6336917" lon="2.2278375"></trkpt>
+        <trkpt lat="48.6334504" lon="2.227911"></trkpt>
+        <trkpt lat="48.6332559" lon="2.2280067"></trkpt>
+        <trkpt lat="48.6331758" lon="2.2280708"></trkpt>
+        <trkpt lat="48.6325049" lon="2.2287268"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

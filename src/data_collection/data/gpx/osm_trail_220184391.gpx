@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Paul</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.259455</time>
+</metadata>
+<trk>
+    <name>Route Paul</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4165123" lon="2.6797522"></trkpt>
+        <trkpt lat="48.4166281" lon="2.6792869"></trkpt>
+        <trkpt lat="48.4167569" lon="2.6786358"></trkpt>
+        <trkpt lat="48.4178272" lon="2.6745875"></trkpt>
+        <trkpt lat="48.418007" lon="2.6739897"></trkpt>
+        <trkpt lat="48.4180997" lon="2.6736816"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

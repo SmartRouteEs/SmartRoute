@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Royale</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.350219</time>
+</metadata>
+<trk>
+    <name>Rue Royale</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7567915" lon="2.5432776"></trkpt>
+        <trkpt lat="48.7568375" lon="2.5433403"></trkpt>
+        <trkpt lat="48.7568536" lon="2.5433779"></trkpt>
+        <trkpt lat="48.7568688" lon="2.5434263"></trkpt>
+        <trkpt lat="48.7578669" lon="2.5495767"></trkpt>
+        <trkpt lat="48.7578792" lon="2.5496545"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

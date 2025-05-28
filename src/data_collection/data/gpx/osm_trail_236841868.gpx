@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sangsues</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.044407</time>
+</metadata>
+<trk>
+    <name>Chemin des Sangsues</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.897819" lon="2.718324"></trkpt>
+        <trkpt lat="48.8977105" lon="2.7182301"></trkpt>
+        <trkpt lat="48.8966176" lon="2.7177555"></trkpt>
+        <trkpt lat="48.8958683" lon="2.7173422"></trkpt>
+        <trkpt lat="48.8950555" lon="2.7169471"></trkpt>
+        <trkpt lat="48.8945208" lon="2.7167536"></trkpt>
+        <trkpt lat="48.8942499" lon="2.7166995"></trkpt>
+        <trkpt lat="48.8942098" lon="2.7166915"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

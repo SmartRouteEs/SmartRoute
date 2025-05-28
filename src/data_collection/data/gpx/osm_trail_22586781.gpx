@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Renard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.481767</time>
+</metadata>
+<trk>
+    <name>Route du Renard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4074763" lon="2.6540753"></trkpt>
+        <trkpt lat="48.407544" lon="2.6541554"></trkpt>
+        <trkpt lat="48.4077112" lon="2.6544766"></trkpt>
+        <trkpt lat="48.4078102" lon="2.6545356"></trkpt>
+        <trkpt lat="48.4080785" lon="2.6545863"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

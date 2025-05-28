@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Parc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.959442</time>
+</metadata>
+<trk>
+    <name>Route du Parc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4381587" lon="2.744444"></trkpt>
+        <trkpt lat="48.4384739" lon="2.7447087"></trkpt>
+        <trkpt lat="48.4434749" lon="2.7482698"></trkpt>
+        <trkpt lat="48.4445587" lon="2.7490935"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

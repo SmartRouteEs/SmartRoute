@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Lefebvre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.737075</time>
+</metadata>
+<trk>
+    <name>Route Lefebvre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.402258" lon="2.605001"></trkpt>
+        <trkpt lat="48.402099" lon="2.604918"></trkpt>
+        <trkpt lat="48.401954" lon="2.604875"></trkpt>
+        <trkpt lat="48.401696" lon="2.604822"></trkpt>
+        <trkpt lat="48.401475" lon="2.604822"></trkpt>
+        <trkpt lat="48.401399" lon="2.604795"></trkpt>
+        <trkpt lat="48.401108" lon="2.6046"></trkpt>
+        <trkpt lat="48.401005" lon="2.604569"></trkpt>
+        <trkpt lat="48.40089" lon="2.604615"></trkpt>
+        <trkpt lat="48.400744" lon="2.604738"></trkpt>
+        <trkpt lat="48.400677" lon="2.604767"></trkpt>
+        <trkpt lat="48.400562" lon="2.604768"></trkpt>
+        <trkpt lat="48.3997886" lon="2.6046362"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

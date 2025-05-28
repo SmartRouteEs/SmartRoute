@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Montmartre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.564160</time>
+</metadata>
+<trk>
+    <name>Allée de Montmartre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8042932" lon="2.6517581"></trkpt>
+        <trkpt lat="48.8037947" lon="2.6525744"></trkpt>
+        <trkpt lat="48.8033192" lon="2.6534364"></trkpt>
+        <trkpt lat="48.8028532" lon="2.6542833"></trkpt>
+        <trkpt lat="48.8024594" lon="2.6550444"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

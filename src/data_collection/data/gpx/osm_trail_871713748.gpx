@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sablières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.643859</time>
+</metadata>
+<trk>
+    <name>Chemin des Sablières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3276715" lon="3.1124803"></trkpt>
+        <trkpt lat="48.3274422" lon="3.1133097"></trkpt>
+        <trkpt lat="48.3271711" lon="3.114447"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

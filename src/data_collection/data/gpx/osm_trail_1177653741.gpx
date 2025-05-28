@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 33090</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.741846</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 33090</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9184233" lon="2.582984"></trkpt>
+        <trkpt lat="48.9183061" lon="2.5843382"></trkpt>
+        <trkpt lat="48.9182009" lon="2.5857618"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

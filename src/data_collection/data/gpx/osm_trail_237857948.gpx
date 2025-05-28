@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Griffe</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.074103</time>
+</metadata>
+<trk>
+    <name>Chemin de la Griffe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4353987" lon="2.2750866"></trkpt>
+        <trkpt lat="48.4353661" lon="2.2747453"></trkpt>
+        <trkpt lat="48.4352707" lon="2.273544"></trkpt>
+        <trkpt lat="48.4352643" lon="2.2734224"></trkpt>
+        <trkpt lat="48.435266" lon="2.273304"></trkpt>
+        <trkpt lat="48.4352785" lon="2.2731865"></trkpt>
+        <trkpt lat="48.4353" lon="2.2730707"></trkpt>
+        <trkpt lat="48.4354981" lon="2.2722041"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

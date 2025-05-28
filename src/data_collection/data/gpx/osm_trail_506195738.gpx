@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Picotois</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.804618</time>
+</metadata>
+<trk>
+    <name>Chemin du Picotois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7371841" lon="2.1990111"></trkpt>
+        <trkpt lat="48.7372054" lon="2.1988707"></trkpt>
+        <trkpt lat="48.7372592" lon="2.1982446"></trkpt>
+        <trkpt lat="48.7372814" lon="2.1975754"></trkpt>
+        <trkpt lat="48.7373571" lon="2.1963196"></trkpt>
+        <trkpt lat="48.7374096" lon="2.1956858"></trkpt>
+        <trkpt lat="48.7374358" lon="2.1955256"></trkpt>
+        <trkpt lat="48.7374428" lon="2.1954874"></trkpt>
+        <trkpt lat="48.7378634" lon="2.1939027"></trkpt>
+        <trkpt lat="48.737947" lon="2.1937025"></trkpt>
+        <trkpt lat="48.738134" lon="2.1932133"></trkpt>
+        <trkpt lat="48.7382616" lon="2.1928582"></trkpt>
+        <trkpt lat="48.7385908" lon="2.1919074"></trkpt>
+        <trkpt lat="48.7391356" lon="2.1908664"></trkpt>
+        <trkpt lat="48.739218" lon="2.1906806"></trkpt>
+        <trkpt lat="48.7392829" lon="2.1904821"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

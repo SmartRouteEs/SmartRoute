@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Foye-Dieu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.807983</time>
+</metadata>
+<trk>
+    <name>Chemin de la Foye-Dieu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4418056" lon="2.3501269"></trkpt>
+        <trkpt lat="48.4417321" lon="2.3500953"></trkpt>
+        <trkpt lat="48.4415485" lon="2.3500241"></trkpt>
+        <trkpt lat="48.4414698" lon="2.3499055"></trkpt>
+        <trkpt lat="48.4414174" lon="2.3494072"></trkpt>
+        <trkpt lat="48.4414016" lon="2.3490513"></trkpt>
+        <trkpt lat="48.4414016" lon="2.3487271"></trkpt>
+        <trkpt lat="48.4413003" lon="2.348349"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

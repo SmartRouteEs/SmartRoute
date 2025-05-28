@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Desquinemare</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.175863</time>
+</metadata>
+<trk>
+    <name>Route Desquinemare</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3440908" lon="2.7617871"></trkpt>
+        <trkpt lat="48.3462172" lon="2.7632427"></trkpt>
+        <trkpt lat="48.3475967" lon="2.7632548"></trkpt>
+        <trkpt lat="48.3478232" lon="2.7633665"></trkpt>
+        <trkpt lat="48.3479332" lon="2.7638423"></trkpt>
+        <trkpt lat="48.3486515" lon="2.7639046"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

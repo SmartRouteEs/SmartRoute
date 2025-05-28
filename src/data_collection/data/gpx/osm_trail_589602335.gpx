@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chollets aux Glaciers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.476555</time>
+</metadata>
+<trk>
+    <name>Chemin des Chollets aux Glaciers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1988101" lon="3.2273502"></trkpt>
+        <trkpt lat="48.1988596" lon="3.2274393"></trkpt>
+        <trkpt lat="48.1992503" lon="3.2274966"></trkpt>
+        <trkpt lat="48.2008604" lon="3.2277227"></trkpt>
+        <trkpt lat="48.2017785" lon="3.227838"></trkpt>
+        <trkpt lat="48.2023809" lon="3.2279132"></trkpt>
+        <trkpt lat="48.2028267" lon="3.2279718"></trkpt>
+        <trkpt lat="48.2029373" lon="3.2279706"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Ballades</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.380191</time>
+</metadata>
+<trk>
+    <name>Chemin des Ballades</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6457509" lon="2.2638211"></trkpt>
+        <trkpt lat="48.6457353" lon="2.263989"></trkpt>
+        <trkpt lat="48.6457259" lon="2.2642107"></trkpt>
+        <trkpt lat="48.6457086" lon="2.2646669"></trkpt>
+        <trkpt lat="48.6457216" lon="2.2648307"></trkpt>
+        <trkpt lat="48.6457414" lon="2.2649475"></trkpt>
+        <trkpt lat="48.6457695" lon="2.2650064"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

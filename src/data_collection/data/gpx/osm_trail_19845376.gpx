@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Défense</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route de la Défense</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4435124" lon="2.6764107"></trkpt>
+        <trkpt lat="48.4456162" lon="2.6725955"></trkpt>
+        <trkpt lat="48.4457934" lon="2.6722669"></trkpt>
+        <trkpt lat="48.4467984" lon="2.6704028"></trkpt>
+        <trkpt lat="48.4469354" lon="2.6701487"></trkpt>
+        <trkpt lat="48.4470498" lon="2.6699365"></trkpt>
+        <trkpt lat="48.4471346" lon="2.6697438"></trkpt>
+        <trkpt lat="48.4475705" lon="2.6689919"></trkpt>
+        <trkpt lat="48.448371" lon="2.6674771"></trkpt>
+        <trkpt lat="48.448478" lon="2.667309"></trkpt>
+        <trkpt lat="48.4498368" lon="2.6665812"></trkpt>
+        <trkpt lat="48.4500898" lon="2.6664277"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

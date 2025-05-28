@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Cavalière de Guise</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.262387</time>
+</metadata>
+<trk>
+    <name>Route Cavalière de Guise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3997582" lon="2.7342504"></trkpt>
+        <trkpt lat="48.3996712" lon="2.7355829"></trkpt>
+        <trkpt lat="48.3995907" lon="2.7369527"></trkpt>
+        <trkpt lat="48.3994236" lon="2.7389104"></trkpt>
+        <trkpt lat="48.399121" lon="2.7429641"></trkpt>
+        <trkpt lat="48.3990727" lon="2.7442771"></trkpt>
+        <trkpt lat="48.3990098" lon="2.7452988"></trkpt>
+        <trkpt lat="48.3989459" lon="2.746214"></trkpt>
+        <trkpt lat="48.3989117" lon="2.7465866"></trkpt>
+        <trkpt lat="48.398845" lon="2.7476398"></trkpt>
+        <trkpt lat="48.3987055" lon="2.7494901"></trkpt>
+        <trkpt lat="48.398501" lon="2.7524635"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

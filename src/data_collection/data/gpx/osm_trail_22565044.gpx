@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 351</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.458489</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 351</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7684424" lon="2.3011678"></trkpt>
+        <trkpt lat="48.7687195" lon="2.3010877"></trkpt>
+        <trkpt lat="48.768837" lon="2.3010298"></trkpt>
+        <trkpt lat="48.7690791" lon="2.3012279"></trkpt>
+        <trkpt lat="48.7692118" lon="2.3013147"></trkpt>
+        <trkpt lat="48.7692565" lon="2.3016024"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

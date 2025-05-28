@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois Saint-Pierre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.611067</time>
+</metadata>
+<trk>
+    <name>Route du Bois Saint-Pierre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4944413" lon="2.668024"></trkpt>
+        <trkpt lat="48.4942243" lon="2.668245"></trkpt>
+        <trkpt lat="48.4939645" lon="2.6684508"></trkpt>
+        <trkpt lat="48.49374" lon="2.6685577"></trkpt>
+        <trkpt lat="48.4935274" lon="2.6687068"></trkpt>
+        <trkpt lat="48.4930957" lon="2.6689791"></trkpt>
+        <trkpt lat="48.4929228" lon="2.6690698"></trkpt>
+        <trkpt lat="48.4927681" lon="2.6691265"></trkpt>
+        <trkpt lat="48.4926294" lon="2.6692028"></trkpt>
+        <trkpt lat="48.4924629" lon="2.6693055"></trkpt>
+        <trkpt lat="48.4914945" lon="2.6696305"></trkpt>
+        <trkpt lat="48.4913677" lon="2.6696791"></trkpt>
+        <trkpt lat="48.4912313" lon="2.6696921"></trkpt>
+        <trkpt lat="48.4911315" lon="2.6696969"></trkpt>
+        <trkpt lat="48.4910348" lon="2.6697473"></trkpt>
+        <trkpt lat="48.4906686" lon="2.6700243"></trkpt>
+        <trkpt lat="48.4902243" lon="2.670303"></trkpt>
+        <trkpt lat="48.4898646" lon="2.6704876"></trkpt>
+        <trkpt lat="48.4894782" lon="2.6706268"></trkpt>
+        <trkpt lat="48.4880306" lon="2.6712987"></trkpt>
+        <trkpt lat="48.4862085" lon="2.6728758"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

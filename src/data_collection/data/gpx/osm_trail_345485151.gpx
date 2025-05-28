@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Étampes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.812757</time>
+</metadata>
+<trk>
+    <name>Chemin d'Étampes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5484664" lon="2.2015765"></trkpt>
+        <trkpt lat="48.5485777" lon="2.2015169"></trkpt>
+        <trkpt lat="48.5491935" lon="2.2011018"></trkpt>
+        <trkpt lat="48.5495251" lon="2.2009391"></trkpt>
+        <trkpt lat="48.5497694" lon="2.200834"></trkpt>
+        <trkpt lat="48.549899" lon="2.2008066"></trkpt>
+        <trkpt lat="48.5499746" lon="2.2007945"></trkpt>
+        <trkpt lat="48.5501428" lon="2.2008063"></trkpt>
+        <trkpt lat="48.5502787" lon="2.2008295"></trkpt>
+        <trkpt lat="48.550327" lon="2.2008488"></trkpt>
+        <trkpt lat="48.5503787" lon="2.2008695"></trkpt>
+        <trkpt lat="48.5504764" lon="2.2009259"></trkpt>
+        <trkpt lat="48.5505815" lon="2.2010092"></trkpt>
+        <trkpt lat="48.5508138" lon="2.201248"></trkpt>
+        <trkpt lat="48.5509073" lon="2.2013895"></trkpt>
+        <trkpt lat="48.5509817" lon="2.201553"></trkpt>
+        <trkpt lat="48.5511777" lon="2.2020981"></trkpt>
+        <trkpt lat="48.5514202" lon="2.2027619"></trkpt>
+        <trkpt lat="48.5514995" lon="2.202929"></trkpt>
+        <trkpt lat="48.5515531" lon="2.2030349"></trkpt>
+        <trkpt lat="48.5516855" lon="2.2032571"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

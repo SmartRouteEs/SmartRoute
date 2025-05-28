@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Mauduys</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.053517</time>
+</metadata>
+<trk>
+    <name>Chemin des Mauduys</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3816675" lon="2.8999065"></trkpt>
+        <trkpt lat="48.3816204" lon="2.8995506"></trkpt>
+        <trkpt lat="48.3816097" lon="2.8993522"></trkpt>
+        <trkpt lat="48.3816398" lon="2.898528"></trkpt>
+        <trkpt lat="48.3816527" lon="2.8984356"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

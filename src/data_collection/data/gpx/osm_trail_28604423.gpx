@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 877</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.637681</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 877</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8518931" lon="2.6183704"></trkpt>
+        <trkpt lat="48.8520945" lon="2.6184222"></trkpt>
+        <trkpt lat="48.8522793" lon="2.6184653"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

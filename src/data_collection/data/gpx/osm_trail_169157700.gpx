@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Hautefeuille</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.928884</time>
+</metadata>
+<trk>
+    <name>Route d'Hautefeuille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7819469" lon="2.9205099"></trkpt>
+        <trkpt lat="48.7810468" lon="2.9200239"></trkpt>
+        <trkpt lat="48.7792295" lon="2.9190425"></trkpt>
+        <trkpt lat="48.7780189" lon="2.9191553"></trkpt>
+        <trkpt lat="48.7776371" lon="2.9191875"></trkpt>
+        <trkpt lat="48.7774179" lon="2.9192734"></trkpt>
+        <trkpt lat="48.7753952" lon="2.9203337"></trkpt>
+        <trkpt lat="48.7746397" lon="2.9206454"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

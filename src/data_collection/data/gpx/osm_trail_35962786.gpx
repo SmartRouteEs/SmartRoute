@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Baraque à Guinet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.039075</time>
+</metadata>
+<trk>
+    <name>Route de la Baraque à Guinet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3968673" lon="2.6112718"></trkpt>
+        <trkpt lat="48.397389" lon="2.610513"></trkpt>
+        <trkpt lat="48.39764" lon="2.610234"></trkpt>
+        <trkpt lat="48.397864" lon="2.609923"></trkpt>
+        <trkpt lat="48.398173" lon="2.609402"></trkpt>
+        <trkpt lat="48.398418" lon="2.609029"></trkpt>
+        <trkpt lat="48.398517" lon="2.608893"></trkpt>
+        <trkpt lat="48.3986558" lon="2.6086253"></trkpt>
+        <trkpt lat="48.3988231" lon="2.6084068"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

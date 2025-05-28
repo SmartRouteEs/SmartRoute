@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Chênes</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.936825</time>
+</metadata>
+<trk>
+    <name>Allée des Chênes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5516746" lon="2.6227247"></trkpt>
+        <trkpt lat="48.5522241" lon="2.6201502"></trkpt>
+        <trkpt lat="48.5524023" lon="2.6194778"></trkpt>
+        <trkpt lat="48.552785" lon="2.61804"></trkpt>
+        <trkpt lat="48.5530024" lon="2.6171629"></trkpt>
+        <trkpt lat="48.5530538" lon="2.6170294"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

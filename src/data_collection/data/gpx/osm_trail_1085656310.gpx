@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Clocher</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.983057</time>
+</metadata>
+<trk>
+    <name>Route du Clocher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4490274" lon="2.670302"></trkpt>
+        <trkpt lat="48.4489592" lon="2.6705382"></trkpt>
+        <trkpt lat="48.4476754" lon="2.6750409"></trkpt>
+        <trkpt lat="48.4473775" lon="2.6757911"></trkpt>
+        <trkpt lat="48.4472616" lon="2.676476"></trkpt>
+        <trkpt lat="48.4471314" lon="2.6773251"></trkpt>
+        <trkpt lat="48.4457776" lon="2.6790414"></trkpt>
+        <trkpt lat="48.4456868" lon="2.6791993"></trkpt>
+        <trkpt lat="48.4456665" lon="2.6792707"></trkpt>
+        <trkpt lat="48.445609" lon="2.6793509"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

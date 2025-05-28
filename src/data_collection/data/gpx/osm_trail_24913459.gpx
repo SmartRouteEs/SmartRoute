@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Noir</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.549379</time>
+</metadata>
+<trk>
+    <name>Chemin Noir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7474692" lon="2.5923788"></trkpt>
+        <trkpt lat="48.7476725" lon="2.5923166"></trkpt>
+        <trkpt lat="48.7495689" lon="2.5917367"></trkpt>
+        <trkpt lat="48.7520525" lon="2.5909921"></trkpt>
+        <trkpt lat="48.7550029" lon="2.590072"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

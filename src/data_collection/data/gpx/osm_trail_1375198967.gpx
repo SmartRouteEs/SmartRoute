@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Montpensier</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.971351</time>
+</metadata>
+<trk>
+    <name>Route de Montpensier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3917113" lon="2.6257135"></trkpt>
+        <trkpt lat="48.3916082" lon="2.6257016"></trkpt>
+        <trkpt lat="48.389258" lon="2.625239"></trkpt>
+        <trkpt lat="48.3869723" lon="2.6248183"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

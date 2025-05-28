@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Vanier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.393825</time>
+</metadata>
+<trk>
+    <name>Route Vanier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3874657" lon="2.667731"></trkpt>
+        <trkpt lat="48.3876115" lon="2.6677239"></trkpt>
+        <trkpt lat="48.3878503" lon="2.6677349"></trkpt>
+        <trkpt lat="48.3896554" lon="2.6678743"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

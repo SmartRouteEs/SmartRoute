@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Charbonniers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.746474</time>
+</metadata>
+<trk>
+    <name>Chemin des Charbonniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3712823" lon="2.5496616"></trkpt>
+        <trkpt lat="48.370683" lon="2.550557"></trkpt>
+        <trkpt lat="48.370042" lon="2.551613"></trkpt>
+        <trkpt lat="48.369893" lon="2.551826"></trkpt>
+        <trkpt lat="48.369783" lon="2.552034"></trkpt>
+        <trkpt lat="48.369715" lon="2.552267"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Garde Général</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.229281</time>
+</metadata>
+<trk>
+    <name>Route du Garde Général</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4677512" lon="2.7186177"></trkpt>
+        <trkpt lat="48.469044" lon="2.722905"></trkpt>
+        <trkpt lat="48.4697858" lon="2.7239768"></trkpt>
+        <trkpt lat="48.4710406" lon="2.725179"></trkpt>
+        <trkpt lat="48.4721147" lon="2.725722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

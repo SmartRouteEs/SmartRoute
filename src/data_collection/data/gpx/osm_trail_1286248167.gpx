@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Vidange des Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.450424</time>
+</metadata>
+<trk>
+    <name>Chemin Vidange des Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5083547" lon="2.2696385"></trkpt>
+        <trkpt lat="48.5082523" lon="2.2697391"></trkpt>
+        <trkpt lat="48.5081373" lon="2.2701023"></trkpt>
+        <trkpt lat="48.5081291" lon="2.2703698"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

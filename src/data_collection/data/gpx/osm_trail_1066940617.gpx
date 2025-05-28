@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Beauregard</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.849220</time>
+</metadata>
+<trk>
+    <name>Chemin de Beauregard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5115742" lon="2.2662383"></trkpt>
+        <trkpt lat="48.5115035" lon="2.265825"></trkpt>
+        <trkpt lat="48.5114755" lon="2.2657346"></trkpt>
+        <trkpt lat="48.511261" lon="2.2651874"></trkpt>
+        <trkpt lat="48.5108886" lon="2.2641075"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

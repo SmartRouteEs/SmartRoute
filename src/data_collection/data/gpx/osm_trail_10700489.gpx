@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Le Bel Égout</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.318757</time>
+</metadata>
+<trk>
+    <name>Le Bel Égout</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6348776" lon="2.2170533"></trkpt>
+        <trkpt lat="48.6348239" lon="2.2174514"></trkpt>
+        <trkpt lat="48.6349754" lon="2.2177421"></trkpt>
+        <trkpt lat="48.6350855" lon="2.2179115"></trkpt>
+        <trkpt lat="48.6353896" lon="2.2183189"></trkpt>
+        <trkpt lat="48.6354188" lon="2.2184443"></trkpt>
+        <trkpt lat="48.6354607" lon="2.2185881"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

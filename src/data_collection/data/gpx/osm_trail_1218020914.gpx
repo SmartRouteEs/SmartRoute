@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grande Montagne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.870786</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grande Montagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3696456" lon="2.5380075"></trkpt>
+        <trkpt lat="48.3695003" lon="2.537895"></trkpt>
+        <trkpt lat="48.3693738" lon="2.5378122"></trkpt>
+        <trkpt lat="48.3692319" lon="2.5377307"></trkpt>
+        <trkpt lat="48.3691418" lon="2.5376644"></trkpt>
+        <trkpt lat="48.3691009" lon="2.537647"></trkpt>
+        <trkpt lat="48.3690676" lon="2.5376622"></trkpt>
+        <trkpt lat="48.3690236" lon="2.5376984"></trkpt>
+        <trkpt lat="48.3689721" lon="2.5377292"></trkpt>
+        <trkpt lat="48.3687465" lon="2.5377769"></trkpt>
+        <trkpt lat="48.3686607" lon="2.5378329"></trkpt>
+        <trkpt lat="48.3685221" lon="2.5379668"></trkpt>
+        <trkpt lat="48.3683767" lon="2.5380158"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

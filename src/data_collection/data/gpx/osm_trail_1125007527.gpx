@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cèdre</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.449378</time>
+</metadata>
+<trk>
+    <name>Route du Cèdre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4103056" lon="2.673541"></trkpt>
+        <trkpt lat="48.4103095" lon="2.6734611"></trkpt>
+        <trkpt lat="48.4103064" lon="2.673379"></trkpt>
+        <trkpt lat="48.4102369" lon="2.6728512"></trkpt>
+        <trkpt lat="48.4100692" lon="2.6714312"></trkpt>
+        <trkpt lat="48.409673" lon="2.6682448"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

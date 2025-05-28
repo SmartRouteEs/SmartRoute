@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grange</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.030902</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7258528" lon="2.459695"></trkpt>
+        <trkpt lat="48.7257535" lon="2.4593157"></trkpt>
+        <trkpt lat="48.7255296" lon="2.4589101"></trkpt>
+        <trkpt lat="48.7252825" lon="2.4584665"></trkpt>
+        <trkpt lat="48.7252446" lon="2.4583528"></trkpt>
+        <trkpt lat="48.725217" lon="2.4582211"></trkpt>
+        <trkpt lat="48.7251981" lon="2.4580544"></trkpt>
+        <trkpt lat="48.7251931" lon="2.4579334"></trkpt>
+        <trkpt lat="48.7252517" lon="2.4559925"></trkpt>
+        <trkpt lat="48.7252971" lon="2.454165"></trkpt>
+        <trkpt lat="48.7254358" lon="2.4529693"></trkpt>
+        <trkpt lat="48.7255302" lon="2.4522807"></trkpt>
+        <trkpt lat="48.7255817" lon="2.4517067"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Montmorin</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.892967</time>
+</metadata>
+<trk>
+    <name>Route de Montmorin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3819178" lon="2.7535152"></trkpt>
+        <trkpt lat="48.3799877" lon="2.75307"></trkpt>
+        <trkpt lat="48.3799233" lon="2.7530794"></trkpt>
+        <trkpt lat="48.3796425" lon="2.753"></trkpt>
+        <trkpt lat="48.3793922" lon="2.7529437"></trkpt>
+        <trkpt lat="48.3793262" lon="2.752957"></trkpt>
+        <trkpt lat="48.379273" lon="2.7530042"></trkpt>
+        <trkpt lat="48.3789883" lon="2.7533611"></trkpt>
+        <trkpt lat="48.3788993" lon="2.7534074"></trkpt>
+        <trkpt lat="48.378509" lon="2.7533398"></trkpt>
+        <trkpt lat="48.3781561" lon="2.7533576"></trkpt>
+        <trkpt lat="48.3780209" lon="2.7534106"></trkpt>
+        <trkpt lat="48.3775788" lon="2.75349"></trkpt>
+        <trkpt lat="48.3751636" lon="2.7513748"></trkpt>
+        <trkpt lat="48.3741402" lon="2.7504361"></trkpt>
+        <trkpt lat="48.373016" lon="2.7493528"></trkpt>
+        <trkpt lat="48.3728435" lon="2.7491941"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

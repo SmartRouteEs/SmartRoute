@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Carrefour de la Ferrandière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.497314</time>
+</metadata>
+<trk>
+    <name>Carrefour de la Ferrandière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7971616" lon="2.6929105"></trkpt>
+        <trkpt lat="48.7971902" lon="2.6926852"></trkpt>
+        <trkpt lat="48.7971993" lon="2.6925354"></trkpt>
+        <trkpt lat="48.7971692" lon="2.6923453"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

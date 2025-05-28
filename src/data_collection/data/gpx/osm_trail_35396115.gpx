@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Prairie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.996488</time>
+</metadata>
+<trk>
+    <name>Chemin de la Prairie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3641454" lon="2.8219092"></trkpt>
+        <trkpt lat="48.3642728" lon="2.8220111"></trkpt>
+        <trkpt lat="48.3643842" lon="2.8219362"></trkpt>
+        <trkpt lat="48.3646001" lon="2.8218101"></trkpt>
+        <trkpt lat="48.3650971" lon="2.821365"></trkpt>
+        <trkpt lat="48.3655504" lon="2.8211326"></trkpt>
+        <trkpt lat="48.3656003" lon="2.8210782"></trkpt>
+        <trkpt lat="48.3656407" lon="2.8210238"></trkpt>
+        <trkpt lat="48.3656716" lon="2.8208425"></trkpt>
+        <trkpt lat="48.3657454" lon="2.8201316"></trkpt>
+        <trkpt lat="48.3657477" lon="2.8199198"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

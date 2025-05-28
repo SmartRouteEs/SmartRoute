@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Pierreries</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.688099</time>
+</metadata>
+<trk>
+    <name>Rue des Pierreries</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3399866" lon="3.1705212"></trkpt>
+        <trkpt lat="48.3400164" lon="3.1707841"></trkpt>
+        <trkpt lat="48.3401017" lon="3.171172"></trkpt>
+        <trkpt lat="48.3402039" lon="3.1714317"></trkpt>
+        <trkpt lat="48.3403616" lon="3.1716914"></trkpt>
+        <trkpt lat="48.3406301" lon="3.1720921"></trkpt>
+        <trkpt lat="48.3406834" lon="3.1722107"></trkpt>
+        <trkpt lat="48.3407026" lon="3.1724063"></trkpt>
+        <trkpt lat="48.3407154" lon="3.1726403"></trkpt>
+        <trkpt lat="48.3407708" lon="3.1728583"></trkpt>
+        <trkpt lat="48.3408539" lon="3.1730218"></trkpt>
+        <trkpt lat="48.3409839" lon="3.17315"></trkpt>
+        <trkpt lat="48.3411458" lon="3.173259"></trkpt>
+        <trkpt lat="48.3416402" lon="3.1735443"></trkpt>
+        <trkpt lat="48.3418213" lon="3.1736982"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

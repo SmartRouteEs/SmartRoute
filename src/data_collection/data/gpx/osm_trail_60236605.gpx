@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Cavalière de Poix</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.052652</time>
+</metadata>
+<trk>
+    <name>Allée Cavalière de Poix</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8060425" lon="2.2084978"></trkpt>
+        <trkpt lat="48.8040047" lon="2.2062035"></trkpt>
+        <trkpt lat="48.802855" lon="2.2049479"></trkpt>
+        <trkpt lat="48.8027411" lon="2.2048398"></trkpt>
+        <trkpt lat="48.8026931" lon="2.2047942"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

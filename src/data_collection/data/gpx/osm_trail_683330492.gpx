@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Vieux Colombier</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.121516</time>
+</metadata>
+<trk>
+    <name>Chemin du Vieux Colombier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7537592" lon="2.5572712"></trkpt>
+        <trkpt lat="48.7537688" lon="2.5574568"></trkpt>
+        <trkpt lat="48.7538461" lon="2.5594435"></trkpt>
+        <trkpt lat="48.7538991" lon="2.5608087"></trkpt>
+        <trkpt lat="48.7539003" lon="2.5608386"></trkpt>
+        <trkpt lat="48.7541952" lon="2.5689565"></trkpt>
+        <trkpt lat="48.7544884" lon="2.5767389"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

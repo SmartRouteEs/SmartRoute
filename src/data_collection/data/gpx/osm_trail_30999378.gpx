@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Barbizon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.859386</time>
+</metadata>
+<trk>
+    <name>Chemin de Barbizon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4700547" lon="2.5555721"></trkpt>
+        <trkpt lat="48.4698946" lon="2.5570581"></trkpt>
+        <trkpt lat="48.4698359" lon="2.5571591"></trkpt>
+        <trkpt lat="48.4696753" lon="2.5572774"></trkpt>
+        <trkpt lat="48.4695763" lon="2.5573683"></trkpt>
+        <trkpt lat="48.469477" lon="2.5574926"></trkpt>
+        <trkpt lat="48.4692633" lon="2.557917"></trkpt>
+        <trkpt lat="48.4691239" lon="2.5583078"></trkpt>
+        <trkpt lat="48.4689635" lon="2.5591087"></trkpt>
+        <trkpt lat="48.4687356" lon="2.5603294"></trkpt>
+        <trkpt lat="48.4684168" lon="2.5616088"></trkpt>
+        <trkpt lat="48.4667424" lon="2.5682209"></trkpt>
+        <trkpt lat="48.4661728" lon="2.5704946"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

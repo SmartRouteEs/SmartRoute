@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Vallier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.156027</time>
+</metadata>
+<trk>
+    <name>Allée Vallier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7528589" lon="2.7077214"></trkpt>
+        <trkpt lat="48.7525157" lon="2.7081074"></trkpt>
+        <trkpt lat="48.7521267" lon="2.7086867"></trkpt>
+        <trkpt lat="48.7519206" lon="2.70903"></trkpt>
+        <trkpt lat="48.7517077" lon="2.7093149"></trkpt>
+        <trkpt lat="48.7514819" lon="2.7096598"></trkpt>
+        <trkpt lat="48.751299" lon="2.7100278"></trkpt>
+        <trkpt lat="48.7509666" lon="2.7106394"></trkpt>
+        <trkpt lat="48.750726" lon="2.7109183"></trkpt>
+        <trkpt lat="48.7505633" lon="2.7110471"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

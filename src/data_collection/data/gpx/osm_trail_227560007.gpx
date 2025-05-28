@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Grand Rôle</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.600751</time>
+</metadata>
+<trk>
+    <name>Sentier du Grand Rôle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4888011" lon="2.6966567"></trkpt>
+        <trkpt lat="48.4886122" lon="2.6964737"></trkpt>
+        <trkpt lat="48.4884735" lon="2.6963242"></trkpt>
+        <trkpt lat="48.4880131" lon="2.6960692"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

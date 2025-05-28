@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Briarée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.611067</time>
+</metadata>
+<trk>
+    <name>Route du Briarée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4462464" lon="2.6219257"></trkpt>
+        <trkpt lat="48.4466515" lon="2.623141"></trkpt>
+        <trkpt lat="48.4466608" lon="2.6233402"></trkpt>
+        <trkpt lat="48.4472626" lon="2.6249739"></trkpt>
+        <trkpt lat="48.4471568" lon="2.6252103"></trkpt>
+        <trkpt lat="48.4469639" lon="2.6256673"></trkpt>
+        <trkpt lat="48.4469464" lon="2.6259372"></trkpt>
+        <trkpt lat="48.4472268" lon="2.627083"></trkpt>
+        <trkpt lat="48.4472327" lon="2.6278204"></trkpt>
+        <trkpt lat="48.4470384" lon="2.628851"></trkpt>
+        <trkpt lat="48.4469841" lon="2.6298874"></trkpt>
+        <trkpt lat="48.446805" lon="2.6301619"></trkpt>
+        <trkpt lat="48.4463374" lon="2.6304688"></trkpt>
+        <trkpt lat="48.4460756" lon="2.630925"></trkpt>
+        <trkpt lat="48.4459505" lon="2.631424"></trkpt>
+        <trkpt lat="48.4458228" lon="2.6330308"></trkpt>
+        <trkpt lat="48.4456341" lon="2.634588"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

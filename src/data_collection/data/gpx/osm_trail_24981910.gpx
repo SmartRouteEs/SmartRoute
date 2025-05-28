@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Gravilliers</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.556017</time>
+</metadata>
+<trk>
+    <name>Chemin des Gravilliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8534503" lon="2.2413941"></trkpt>
+        <trkpt lat="48.8536221" lon="2.2413622"></trkpt>
+        <trkpt lat="48.8538154" lon="2.2413301"></trkpt>
+        <trkpt lat="48.8541975" lon="2.2412994"></trkpt>
+        <trkpt lat="48.8545151" lon="2.2412512"></trkpt>
+        <trkpt lat="48.855214" lon="2.2411841"></trkpt>
+        <trkpt lat="48.8557576" lon="2.2411305"></trkpt>
+        <trkpt lat="48.8561993" lon="2.241104"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

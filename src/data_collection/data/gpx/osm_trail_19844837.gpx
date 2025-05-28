@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 217</name>
+    <desc>Sentier VTT - Type: track - Surface: unhewn_cobblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 217</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.423654" lon="2.7343112"></trkpt>
+        <trkpt lat="48.4233929" lon="2.734915"></trkpt>
+        <trkpt lat="48.4215887" lon="2.7355291"></trkpt>
+        <trkpt lat="48.4206552" lon="2.736"></trkpt>
+        <trkpt lat="48.4203176" lon="2.7362205"></trkpt>
+        <trkpt lat="48.420203" lon="2.7362156"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

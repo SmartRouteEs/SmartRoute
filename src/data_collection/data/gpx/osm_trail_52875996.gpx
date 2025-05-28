@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3706</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.936825</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3706</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5482268" lon="2.6108067"></trkpt>
+        <trkpt lat="48.5461739" lon="2.6130136"></trkpt>
+        <trkpt lat="48.5450521" lon="2.614775"></trkpt>
+        <trkpt lat="48.5416472" lon="2.620121"></trkpt>
+        <trkpt lat="48.5415296" lon="2.6203071"></trkpt>
+        <trkpt lat="48.5408025" lon="2.6214677"></trkpt>
+        <trkpt lat="48.540767" lon="2.6215074"></trkpt>
+        <trkpt lat="48.5406848" lon="2.6215293"></trkpt>
+        <trkpt lat="48.5404603" lon="2.6217728"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

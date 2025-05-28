@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grosse Roche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.259699</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grosse Roche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.296385" lon="3.1470624"></trkpt>
+        <trkpt lat="48.2962298" lon="3.1469691"></trkpt>
+        <trkpt lat="48.2961154" lon="3.1468875"></trkpt>
+        <trkpt lat="48.2959642" lon="3.1467126"></trkpt>
+        <trkpt lat="48.295811" lon="3.1465582"></trkpt>
+        <trkpt lat="48.2956752" lon="3.1464474"></trkpt>
+        <trkpt lat="48.2955589" lon="3.1463454"></trkpt>
+        <trkpt lat="48.295491" lon="3.1462958"></trkpt>
+        <trkpt lat="48.2953844" lon="3.1461442"></trkpt>
+        <trkpt lat="48.2952719" lon="3.1459868"></trkpt>
+        <trkpt lat="48.2951871" lon="3.1458857"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

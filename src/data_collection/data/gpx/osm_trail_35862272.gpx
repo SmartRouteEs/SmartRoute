@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Quai de Seine</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.022609</time>
+</metadata>
+<trk>
+    <name>Quai de Seine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9414582" lon="2.3405761"></trkpt>
+        <trkpt lat="48.9414729" lon="2.3405008"></trkpt>
+        <trkpt lat="48.9415156" lon="2.3404428"></trkpt>
+        <trkpt lat="48.9419136" lon="2.3400795"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

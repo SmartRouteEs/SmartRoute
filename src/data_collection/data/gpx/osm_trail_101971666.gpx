@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare à la Veuve Prolongé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.602704</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare à la Veuve Prolongé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8930238" lon="2.4738995"></trkpt>
+        <trkpt lat="48.8929383" lon="2.4738702"></trkpt>
+        <trkpt lat="48.8920625" lon="2.4744584"></trkpt>
+        <trkpt lat="48.8914662" lon="2.4749517"></trkpt>
+        <trkpt lat="48.8914244" lon="2.4749875"></trkpt>
+        <trkpt lat="48.8913973" lon="2.475038"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

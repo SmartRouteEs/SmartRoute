@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Nid de l'Aigle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.829370</time>
+</metadata>
+<trk>
+    <name>Route du Nid de l'Aigle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4212655" lon="2.6893302"></trkpt>
+        <trkpt lat="48.4210394" lon="2.6888011"></trkpt>
+        <trkpt lat="48.4205267" lon="2.6875672"></trkpt>
+        <trkpt lat="48.4194965" lon="2.6847703"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

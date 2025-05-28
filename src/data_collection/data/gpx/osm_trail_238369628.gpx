@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Relais</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.096038</time>
+</metadata>
+<trk>
+    <name>Chemin des Relais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4565807" lon="2.2619385"></trkpt>
+        <trkpt lat="48.4566832" lon="2.2620983"></trkpt>
+        <trkpt lat="48.4568033" lon="2.2623365"></trkpt>
+        <trkpt lat="48.4570182" lon="2.2627689"></trkpt>
+        <trkpt lat="48.4574175" lon="2.2636528"></trkpt>
+        <trkpt lat="48.4576764" lon="2.2641647"></trkpt>
+        <trkpt lat="48.4578623" lon="2.2645621"></trkpt>
+        <trkpt lat="48.4583567" lon="2.2657074"></trkpt>
+        <trkpt lat="48.4587088" lon="2.2665232"></trkpt>
+        <trkpt lat="48.459113" lon="2.26746"></trkpt>
+        <trkpt lat="48.4591465" lon="2.2674704"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

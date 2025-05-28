@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Ronds</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.374113</time>
+</metadata>
+<trk>
+    <name>Chemin des Ronds</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7727124" lon="3.0441959"></trkpt>
+        <trkpt lat="48.773828" lon="3.0424895"></trkpt>
+        <trkpt lat="48.775179" lon="3.0421877"></trkpt>
+        <trkpt lat="48.7757598" lon="3.0418992"></trkpt>
+        <trkpt lat="48.7760448" lon="3.0416408"></trkpt>
+        <trkpt lat="48.7762883" lon="3.0413707"></trkpt>
+        <trkpt lat="48.7763458" lon="3.0413501"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Bache</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.832335</time>
+</metadata>
+<trk>
+    <name>Chemin de la Bache</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5013056" lon="2.3525324"></trkpt>
+        <trkpt lat="48.5019724" lon="2.3500027"></trkpt>
+        <trkpt lat="48.5025805" lon="2.3476784"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Pelouses Marigny</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.573377</time>
+</metadata>
+<trk>
+    <name>Route des Pelouses Marigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8455566" lon="2.4436036"></trkpt>
+        <trkpt lat="48.8457382" lon="2.4440098"></trkpt>
+        <trkpt lat="48.8457726" lon="2.4440597"></trkpt>
+        <trkpt lat="48.8458061" lon="2.4440968"></trkpt>
+        <trkpt lat="48.8458462" lon="2.4441212"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

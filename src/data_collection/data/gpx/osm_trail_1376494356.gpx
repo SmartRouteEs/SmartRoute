@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Mare aux Loups</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.055465</time>
+</metadata>
+<trk>
+    <name>Sentier de la Mare aux Loups</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8728461" lon="2.5037708"></trkpt>
+        <trkpt lat="48.8729965" lon="2.5034382"></trkpt>
+        <trkpt lat="48.8730583" lon="2.5031653"></trkpt>
+        <trkpt lat="48.8730887" lon="2.5027093"></trkpt>
+        <trkpt lat="48.873049" lon="2.5021293"></trkpt>
+        <trkpt lat="48.8729952" lon="2.501454"></trkpt>
+        <trkpt lat="48.8730027" lon="2.5011315"></trkpt>
+        <trkpt lat="48.8730202" lon="2.5009144"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

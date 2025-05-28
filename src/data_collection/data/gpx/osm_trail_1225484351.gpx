@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Marais</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.213044</time>
+</metadata>
+<trk>
+    <name>Sentier du Marais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2529" lon="2.432057"></trkpt>
+        <trkpt lat="48.2541484" lon="2.4325804"></trkpt>
+        <trkpt lat="48.2542635" lon="2.432777"></trkpt>
+        <trkpt lat="48.2545495" lon="2.4327909"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

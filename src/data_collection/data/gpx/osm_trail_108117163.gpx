@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 5428</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.742151</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 5428</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6649618" lon="3.2358831"></trkpt>
+        <trkpt lat="48.664393" lon="3.2373763"></trkpt>
+        <trkpt lat="48.664365" lon="3.2374499"></trkpt>
+        <trkpt lat="48.6639692" lon="3.2384711"></trkpt>
+        <trkpt lat="48.6634269" lon="3.2393399"></trkpt>
+        <trkpt lat="48.6626586" lon="3.2402161"></trkpt>
+        <trkpt lat="48.6622803" lon="3.2407593"></trkpt>
+        <trkpt lat="48.6614823" lon="3.241465"></trkpt>
+        <trkpt lat="48.6619033" lon="3.243211"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

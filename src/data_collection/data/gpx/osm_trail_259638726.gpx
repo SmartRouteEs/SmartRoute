@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Sources</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.719790</time>
+</metadata>
+<trk>
+    <name>Allée des Sources</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7126907" lon="2.2722261"></trkpt>
+        <trkpt lat="48.712579" lon="2.2727836"></trkpt>
+        <trkpt lat="48.7124853" lon="2.2734826"></trkpt>
+        <trkpt lat="48.7124817" lon="2.2741599"></trkpt>
+        <trkpt lat="48.712579" lon="2.2745585"></trkpt>
+        <trkpt lat="48.7126413" lon="2.274718"></trkpt>
+        <trkpt lat="48.7127268" lon="2.2748589"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

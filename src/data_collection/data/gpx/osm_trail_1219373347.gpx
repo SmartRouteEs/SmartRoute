@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Nid d'Aigle</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.129509</time>
+</metadata>
+<trk>
+    <name>Chemin du Nid d'Aigle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4147321" lon="2.5082403"></trkpt>
+        <trkpt lat="48.4148629" lon="2.5083687"></trkpt>
+        <trkpt lat="48.4153006" lon="2.5083397"></trkpt>
+        <trkpt lat="48.4155507" lon="2.5081337"></trkpt>
+        <trkpt lat="48.4159761" lon="2.5071588"></trkpt>
+        <trkpt lat="48.4162411" lon="2.5064651"></trkpt>
+        <trkpt lat="48.4163629" lon="2.5063512"></trkpt>
+        <trkpt lat="48.4164591" lon="2.5063927"></trkpt>
+        <trkpt lat="48.4167316" lon="2.5065357"></trkpt>
+        <trkpt lat="48.4169681" lon="2.5064875"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

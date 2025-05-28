@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Long Boyau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.069920</time>
+</metadata>
+<trk>
+    <name>Route du Long Boyau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3952326" lon="2.671379"></trkpt>
+        <trkpt lat="48.3954586" lon="2.6695029"></trkpt>
+        <trkpt lat="48.3954691" lon="2.6691843"></trkpt>
+        <trkpt lat="48.3954475" lon="2.668879"></trkpt>
+        <trkpt lat="48.3954565" lon="2.6686914"></trkpt>
+        <trkpt lat="48.3955992" lon="2.668112"></trkpt>
+        <trkpt lat="48.395647" lon="2.6673769"></trkpt>
+        <trkpt lat="48.3957088" lon="2.6667565"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

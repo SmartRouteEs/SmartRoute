@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Dormoir</name>
+    <desc>Sentier VTT - Type: path - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.054909</time>
+</metadata>
+<trk>
+    <name>Route du Dormoir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4388913" lon="2.6278822"></trkpt>
+        <trkpt lat="48.4377486" lon="2.6272969"></trkpt>
+        <trkpt lat="48.4375766" lon="2.627029"></trkpt>
+        <trkpt lat="48.4375241" lon="2.6269898"></trkpt>
+        <trkpt lat="48.4374815" lon="2.6269304"></trkpt>
+        <trkpt lat="48.4373937" lon="2.6268582"></trkpt>
+        <trkpt lat="48.4372946" lon="2.6268351"></trkpt>
+        <trkpt lat="48.4371758" lon="2.6268629"></trkpt>
+        <trkpt lat="48.4369195" lon="2.6268213"></trkpt>
+        <trkpt lat="48.4368445" lon="2.626735"></trkpt>
+        <trkpt lat="48.4364571" lon="2.6262363"></trkpt>
+        <trkpt lat="48.4360084" lon="2.6256799"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

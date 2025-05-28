@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Bonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.338021</time>
+</metadata>
+<trk>
+    <name>Chemin de la Bonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6393071" lon="2.2098565"></trkpt>
+        <trkpt lat="48.6392555" lon="2.2097096"></trkpt>
+        <trkpt lat="48.6384864" lon="2.2079671"></trkpt>
+        <trkpt lat="48.6383436" lon="2.20778"></trkpt>
+        <trkpt lat="48.6381637" lon="2.2075415"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Gardes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.756377</time>
+</metadata>
+<trk>
+    <name>Route des Gardes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4561268" lon="2.7277908"></trkpt>
+        <trkpt lat="48.456155" lon="2.7278607"></trkpt>
+        <trkpt lat="48.4561921" lon="2.7279218"></trkpt>
+        <trkpt lat="48.457084" lon="2.729392"></trkpt>
+        <trkpt lat="48.457275" lon="2.7297068"></trkpt>
+        <trkpt lat="48.4595955" lon="2.7332756"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

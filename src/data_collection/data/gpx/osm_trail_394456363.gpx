@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Belle Croix</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.519971</time>
+</metadata>
+<trk>
+    <name>Chemin de Belle Croix</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5554885" lon="3.3139685"></trkpt>
+        <trkpt lat="48.5558891" lon="3.313236"></trkpt>
+        <trkpt lat="48.5565233" lon="3.3119676"></trkpt>
+        <trkpt lat="48.5566568" lon="3.3116132"></trkpt>
+        <trkpt lat="48.5567037" lon="3.3112861"></trkpt>
+        <trkpt lat="48.5567578" lon="3.3107409"></trkpt>
+        <trkpt lat="48.5568589" lon="3.310343"></trkpt>
+        <trkpt lat="48.5569455" lon="3.309269"></trkpt>
+        <trkpt lat="48.5569571" lon="3.3090579"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois Robert</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.120469</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois Robert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.607511" lon="2.2153331"></trkpt>
+        <trkpt lat="48.6077352" lon="2.2158884"></trkpt>
+        <trkpt lat="48.6079706" lon="2.2164399"></trkpt>
+        <trkpt lat="48.6082275" lon="2.2170815"></trkpt>
+        <trkpt lat="48.6085577" lon="2.2179003"></trkpt>
+        <trkpt lat="48.6089017" lon="2.2186618"></trkpt>
+        <trkpt lat="48.6092526" lon="2.2195706"></trkpt>
+        <trkpt lat="48.609513" lon="2.2201926"></trkpt>
+        <trkpt lat="48.6096854" lon="2.2206789"></trkpt>
+        <trkpt lat="48.6097699" lon="2.2209853"></trkpt>
+        <trkpt lat="48.6099371" lon="2.2217442"></trkpt>
+        <trkpt lat="48.6100156" lon="2.2221367"></trkpt>
+        <trkpt lat="48.6100363" lon="2.2222957"></trkpt>
+        <trkpt lat="48.6100397" lon="2.2224196"></trkpt>
+        <trkpt lat="48.6100182" lon="2.2225656"></trkpt>
+        <trkpt lat="48.609767" lon="2.2235123"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

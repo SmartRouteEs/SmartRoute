@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Trois Frères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.071910</time>
+</metadata>
+<trk>
+    <name>Route des Trois Frères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4205393" lon="2.629245"></trkpt>
+        <trkpt lat="48.4202494" lon="2.6290079"></trkpt>
+        <trkpt lat="48.4199177" lon="2.6287508"></trkpt>
+        <trkpt lat="48.4196658" lon="2.6285581"></trkpt>
+        <trkpt lat="48.4196176" lon="2.62858"></trkpt>
+        <trkpt lat="48.419577" lon="2.6286343"></trkpt>
+        <trkpt lat="48.419539" lon="2.6287508"></trkpt>
+        <trkpt lat="48.4194837" lon="2.6288739"></trkpt>
+        <trkpt lat="48.4193472" lon="2.6290479"></trkpt>
+        <trkpt lat="48.4191892" lon="2.6291506"></trkpt>
+        <trkpt lat="48.419094" lon="2.6291464"></trkpt>
+        <trkpt lat="48.419009" lon="2.6291212"></trkpt>
+        <trkpt lat="48.4187352" lon="2.6287961"></trkpt>
+        <trkpt lat="48.4179865" lon="2.6284422"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Tamaris</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.969883</time>
+</metadata>
+<trk>
+    <name>Rue des Tamaris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7163019" lon="2.4708185"></trkpt>
+        <trkpt lat="48.7163524" lon="2.470861"></trkpt>
+        <trkpt lat="48.7168978" lon="2.4713387"></trkpt>
+        <trkpt lat="48.7171214" lon="2.4715324"></trkpt>
+        <trkpt lat="48.717119" lon="2.4716661"></trkpt>
+        <trkpt lat="48.7171109" lon="2.4718597"></trkpt>
+        <trkpt lat="48.7178791" lon="2.4721062"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

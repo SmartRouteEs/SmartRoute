@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Coq</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.562282</time>
+</metadata>
+<trk>
+    <name>Route du Coq</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4059251" lon="2.6715346"></trkpt>
+        <trkpt lat="48.4061514" lon="2.6692112"></trkpt>
+        <trkpt lat="48.4062312" lon="2.6683922"></trkpt>
+        <trkpt lat="48.4065022" lon="2.6665164"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Bois de la Garenne</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.621261</time>
+</metadata>
+<trk>
+    <name>Bois de la Garenne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4485462" lon="2.7770768"></trkpt>
+        <trkpt lat="48.4486052" lon="2.7770816"></trkpt>
+        <trkpt lat="48.4489378" lon="2.777114"></trkpt>
+        <trkpt lat="48.4491325" lon="2.7771212"></trkpt>
+        <trkpt lat="48.4506458" lon="2.7770672"></trkpt>
+        <trkpt lat="48.451775" lon="2.777093"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

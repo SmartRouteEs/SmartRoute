@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Duhamel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.756377</time>
+</metadata>
+<trk>
+    <name>Route Duhamel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.45443" lon="2.723568"></trkpt>
+        <trkpt lat="48.4549418" lon="2.7234007"></trkpt>
+        <trkpt lat="48.455547" lon="2.7232188"></trkpt>
+        <trkpt lat="48.4555972" lon="2.7232025"></trkpt>
+        <trkpt lat="48.4562361" lon="2.7229953"></trkpt>
+        <trkpt lat="48.4590025" lon="2.7221364"></trkpt>
+        <trkpt lat="48.4601511" lon="2.7263538"></trkpt>
+        <trkpt lat="48.4608624" lon="2.7292081"></trkpt>
+        <trkpt lat="48.4608932" lon="2.7294095"></trkpt>
+        <trkpt lat="48.4616152" lon="2.7340924"></trkpt>
+        <trkpt lat="48.4621867" lon="2.7372005"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

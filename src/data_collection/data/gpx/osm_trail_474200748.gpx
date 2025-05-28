@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de la Corneille</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.488077</time>
+</metadata>
+<trk>
+    <name>Route Forestière de la Corneille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7612243" lon="2.2615384"></trkpt>
+        <trkpt lat="48.7612091" lon="2.2614281"></trkpt>
+        <trkpt lat="48.7611646" lon="2.2612058"></trkpt>
+        <trkpt lat="48.76118" lon="2.2610469"></trkpt>
+        <trkpt lat="48.7612003" lon="2.2608088"></trkpt>
+        <trkpt lat="48.7612317" lon="2.2605319"></trkpt>
+        <trkpt lat="48.761226" lon="2.2604023"></trkpt>
+        <trkpt lat="48.7611729" lon="2.2601537"></trkpt>
+        <trkpt lat="48.7611057" lon="2.2599703"></trkpt>
+        <trkpt lat="48.7610624" lon="2.2598389"></trkpt>
+        <trkpt lat="48.7610146" lon="2.2596826"></trkpt>
+        <trkpt lat="48.7610031" lon="2.2595861"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

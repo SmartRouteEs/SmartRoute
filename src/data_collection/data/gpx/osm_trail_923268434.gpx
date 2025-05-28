@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Écureuil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.432017</time>
+</metadata>
+<trk>
+    <name>Route de l'Écureuil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3931532" lon="2.7194353"></trkpt>
+        <trkpt lat="48.3931814" lon="2.719646"></trkpt>
+        <trkpt lat="48.393144" lon="2.7198176"></trkpt>
+        <trkpt lat="48.3930905" lon="2.7200027"></trkpt>
+        <trkpt lat="48.3930029" lon="2.7202819"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

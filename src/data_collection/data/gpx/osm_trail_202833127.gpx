@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Chardonnerie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.025013</time>
+</metadata>
+<trk>
+    <name>Chemin de la Chardonnerie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4947421" lon="3.1087823"></trkpt>
+        <trkpt lat="48.4946176" lon="3.1089773"></trkpt>
+        <trkpt lat="48.4945117" lon="3.1091999"></trkpt>
+        <trkpt lat="48.4941342" lon="3.110288"></trkpt>
+        <trkpt lat="48.4934937" lon="3.1111841"></trkpt>
+        <trkpt lat="48.4928786" lon="3.1118561"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

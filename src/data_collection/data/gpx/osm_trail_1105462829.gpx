@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Reine Amélie</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.140563</time>
+</metadata>
+<trk>
+    <name>Route de la Reine Amélie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4205024" lon="2.7197727"></trkpt>
+        <trkpt lat="48.4208362" lon="2.7189294"></trkpt>
+        <trkpt lat="48.4208455" lon="2.7188706"></trkpt>
+        <trkpt lat="48.420848" lon="2.718809"></trkpt>
+        <trkpt lat="48.420867" lon="2.7183718"></trkpt>
+        <trkpt lat="48.4208771" lon="2.718147"></trkpt>
+        <trkpt lat="48.4209057" lon="2.7180039"></trkpt>
+        <trkpt lat="48.4214038" lon="2.7165427"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

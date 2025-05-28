@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Fontaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.371859</time>
+</metadata>
+<trk>
+    <name>Sentier de la Fontaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5527035" lon="3.301479"></trkpt>
+        <trkpt lat="48.5525879" lon="3.3016412"></trkpt>
+        <trkpt lat="48.5525023" lon="3.3016946"></trkpt>
+        <trkpt lat="48.5524278" lon="3.3018014"></trkpt>
+        <trkpt lat="48.5520872" lon="3.3022096"></trkpt>
+        <trkpt lat="48.5520575" lon="3.3022653"></trkpt>
+        <trkpt lat="48.552084" lon="3.302646"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

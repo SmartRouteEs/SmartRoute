@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Alléluias</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.069837</time>
+</metadata>
+<trk>
+    <name>Rue des Alléluias</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8277483" lon="3.0417265"></trkpt>
+        <trkpt lat="48.8277193" lon="3.0417658"></trkpt>
+        <trkpt lat="48.8276561" lon="3.0417553"></trkpt>
+        <trkpt lat="48.8267513" lon="3.0415643"></trkpt>
+        <trkpt lat="48.82671" lon="3.0415612"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

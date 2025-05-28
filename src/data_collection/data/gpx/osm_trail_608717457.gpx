@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Bas de Mareuil-les-Meaux à Meaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.660969</time>
+</metadata>
+<trk>
+    <name>Chemin Bas de Mareuil-les-Meaux à Meaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9384871" lon="2.8686275"></trkpt>
+        <trkpt lat="48.938733" lon="2.8688049"></trkpt>
+        <trkpt lat="48.9392947" lon="2.8693674"></trkpt>
+        <trkpt lat="48.9402504" lon="2.8705424"></trkpt>
+        <trkpt lat="48.942438" lon="2.8731515"></trkpt>
+        <trkpt lat="48.9432501" lon="2.8739075"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Milvillette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.343962</time>
+</metadata>
+<trk>
+    <name>Chemin de la Milvillette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1814228" lon="2.2607669"></trkpt>
+        <trkpt lat="48.1813789" lon="2.2609522"></trkpt>
+        <trkpt lat="48.1816651" lon="2.2698872"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

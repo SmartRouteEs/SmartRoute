@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Paradis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.759165</time>
+</metadata>
+<trk>
+    <name>Chemin du Paradis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4194162" lon="2.3705712"></trkpt>
+        <trkpt lat="48.4195391" lon="2.3707992"></trkpt>
+        <trkpt lat="48.4195978" lon="2.3714697"></trkpt>
+        <trkpt lat="48.4197954" lon="2.3736423"></trkpt>
+        <trkpt lat="48.4197945" lon="2.3738727"></trkpt>
+        <trkpt lat="48.4199029" lon="2.3754724"></trkpt>
+        <trkpt lat="48.4200454" lon="2.3764409"></trkpt>
+        <trkpt lat="48.4200653" lon="2.3765247"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 31613</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: 0</desc>
+    <time>2025-05-28T01:16:00.881461</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 31613</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9099246" lon="2.5675532"></trkpt>
+        <trkpt lat="48.9098095" lon="2.5675579"></trkpt>
+        <trkpt lat="48.9096289" lon="2.5675922"></trkpt>
+        <trkpt lat="48.9091635" lon="2.5677036"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

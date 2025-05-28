@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Front de Taille</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.055465</time>
+</metadata>
+<trk>
+    <name>Chemin du Front de Taille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8685875" lon="2.5106844"></trkpt>
+        <trkpt lat="48.8686026" lon="2.5108413"></trkpt>
+        <trkpt lat="48.8686284" lon="2.5109698"></trkpt>
+        <trkpt lat="48.8687225" lon="2.5112641"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

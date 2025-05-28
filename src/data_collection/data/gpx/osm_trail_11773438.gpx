@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Montrichard</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.343180</time>
+</metadata>
+<trk>
+    <name>Chemin de Montrichard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3677779" lon="2.8051102"></trkpt>
+        <trkpt lat="48.3677277" lon="2.8050396"></trkpt>
+        <trkpt lat="48.3676089" lon="2.8047724"></trkpt>
+        <trkpt lat="48.3671149" lon="2.8036679"></trkpt>
+        <trkpt lat="48.3670265" lon="2.8034773"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

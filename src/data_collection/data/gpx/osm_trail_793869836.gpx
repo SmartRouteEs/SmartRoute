@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Châtelets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.147645</time>
+</metadata>
+<trk>
+    <name>Sentier des Châtelets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4114457" lon="2.7965001"></trkpt>
+        <trkpt lat="48.411395" lon="2.7965009"></trkpt>
+        <trkpt lat="48.4113319" lon="2.7965272"></trkpt>
+        <trkpt lat="48.4110287" lon="2.7966905"></trkpt>
+        <trkpt lat="48.4107931" lon="2.7967722"></trkpt>
+        <trkpt lat="48.4104375" lon="2.7967078"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

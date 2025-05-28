@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Madeleine</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.376463</time>
+</metadata>
+<trk>
+    <name>Chemin de la Madeleine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3699362" lon="2.833947"></trkpt>
+        <trkpt lat="48.3702901" lon="2.8347879"></trkpt>
+        <trkpt lat="48.3708226" lon="2.8357393"></trkpt>
+        <trkpt lat="48.3710661" lon="2.8363367"></trkpt>
+        <trkpt lat="48.3715391" lon="2.8378615"></trkpt>
+        <trkpt lat="48.3716713" lon="2.8385276"></trkpt>
+        <trkpt lat="48.3717142" lon="2.8397938"></trkpt>
+        <trkpt lat="48.3718655" lon="2.8405503"></trkpt>
+        <trkpt lat="48.3719854" lon="2.8413472"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

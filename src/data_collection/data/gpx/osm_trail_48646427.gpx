@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Amélie</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.721892</time>
+</metadata>
+<trk>
+    <name>Route d'Amélie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4277325" lon="2.663898"></trkpt>
+        <trkpt lat="48.4277566" lon="2.6640464"></trkpt>
+        <trkpt lat="48.4278216" lon="2.664396"></trkpt>
+        <trkpt lat="48.4278851" lon="2.664836"></trkpt>
+        <trkpt lat="48.4280118" lon="2.6657613"></trkpt>
+        <trkpt lat="48.4280831" lon="2.6663946"></trkpt>
+        <trkpt lat="48.4280874" lon="2.6665251"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4200</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.119265</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4200</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4147103" lon="2.4588048"></trkpt>
+        <trkpt lat="48.4147223" lon="2.4579828"></trkpt>
+        <trkpt lat="48.4146906" lon="2.4573026"></trkpt>
+        <trkpt lat="48.4147423" lon="2.4572109"></trkpt>
+        <trkpt lat="48.4147919" lon="2.4571319"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

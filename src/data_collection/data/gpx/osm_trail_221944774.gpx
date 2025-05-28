@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Parc</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.447225</time>
+</metadata>
+<trk>
+    <name>Chemin du Parc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7899767" lon="2.2421243"></trkpt>
+        <trkpt lat="48.7898245" lon="2.2419172"></trkpt>
+        <trkpt lat="48.7895978" lon="2.2414115"></trkpt>
+        <trkpt lat="48.7892244" lon="2.2407207"></trkpt>
+        <trkpt lat="48.7889629" lon="2.2401616"></trkpt>
+        <trkpt lat="48.7885052" lon="2.2395462"></trkpt>
+        <trkpt lat="48.7884347" lon="2.2393915"></trkpt>
+        <trkpt lat="48.7884002" lon="2.2392531"></trkpt>
+        <trkpt lat="48.7883757" lon="2.2390988"></trkpt>
+        <trkpt lat="48.7883777" lon="2.2386617"></trkpt>
+        <trkpt lat="48.7884353" lon="2.2380963"></trkpt>
+        <trkpt lat="48.7885914" lon="2.2372878"></trkpt>
+        <trkpt lat="48.7885946" lon="2.2371662"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

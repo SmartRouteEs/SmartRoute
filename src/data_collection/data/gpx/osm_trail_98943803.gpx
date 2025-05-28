@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Grand Chemin de Voulx</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.575554</time>
+</metadata>
+<trk>
+    <name>Grand Chemin de Voulx</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3197909" lon="2.9696528"></trkpt>
+        <trkpt lat="48.3193813" lon="2.9699383"></trkpt>
+        <trkpt lat="48.3183642" lon="2.9706135"></trkpt>
+        <trkpt lat="48.3181726" lon="2.9707131"></trkpt>
+        <trkpt lat="48.3178448" lon="2.9708833"></trkpt>
+        <trkpt lat="48.3165485" lon="2.9712044"></trkpt>
+        <trkpt lat="48.3146512" lon="2.9714007"></trkpt>
+        <trkpt lat="48.3131529" lon="2.9712947"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

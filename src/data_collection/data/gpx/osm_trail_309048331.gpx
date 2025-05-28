@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue des Tournelles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.067834</time>
+</metadata>
+<trk>
+    <name>Avenue des Tournelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8662859" lon="2.730125"></trkpt>
+        <trkpt lat="48.8660894" lon="2.7279181"></trkpt>
+        <trkpt lat="48.8659406" lon="2.7262438"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

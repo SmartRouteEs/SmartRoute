@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Perspective de Rochefort</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.575129</time>
+</metadata>
+<trk>
+    <name>Route de la Perspective de Rochefort</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.44019" lon="2.6054818"></trkpt>
+        <trkpt lat="48.4401807" lon="2.6055091"></trkpt>
+        <trkpt lat="48.440146" lon="2.6055765"></trkpt>
+        <trkpt lat="48.4401018" lon="2.6055909"></trkpt>
+        <trkpt lat="48.4395536" lon="2.6057691"></trkpt>
+        <trkpt lat="48.438911" lon="2.606026"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

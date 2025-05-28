@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Barrière Noire</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.605203</time>
+</metadata>
+<trk>
+    <name>Route de la Barrière Noire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7529017" lon="2.72044"></trkpt>
+        <trkpt lat="48.7531286" lon="2.7205892"></trkpt>
+        <trkpt lat="48.7533702" lon="2.7207493"></trkpt>
+        <trkpt lat="48.7535496" lon="2.7208353"></trkpt>
+        <trkpt lat="48.7536548" lon="2.7208806"></trkpt>
+        <trkpt lat="48.7570056" lon="2.7220844"></trkpt>
+        <trkpt lat="48.7591058" lon="2.722801"></trkpt>
+        <trkpt lat="48.7659488" lon="2.725238"></trkpt>
+        <trkpt lat="48.7661952" lon="2.7252918"></trkpt>
+        <trkpt lat="48.7710731" lon="2.7270395"></trkpt>
+        <trkpt lat="48.7714889" lon="2.7271916"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

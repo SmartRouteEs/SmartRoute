@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare Thiou</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.011047</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare Thiou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5551042" lon="2.2442778"></trkpt>
+        <trkpt lat="48.5551041" lon="2.2441649"></trkpt>
+        <trkpt lat="48.5547972" lon="2.2406636"></trkpt>
+        <trkpt lat="48.5547037" lon="2.2396122"></trkpt>
+        <trkpt lat="48.5543112" lon="2.2355134"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Jemmapes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.206912</time>
+</metadata>
+<trk>
+    <name>Route de Jemmapes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3745799" lon="2.7067133"></trkpt>
+        <trkpt lat="48.3746798" lon="2.7054557"></trkpt>
+        <trkpt lat="48.3747015" lon="2.7044658"></trkpt>
+        <trkpt lat="48.3742501" lon="2.7029913"></trkpt>
+        <trkpt lat="48.3745469" lon="2.7014127"></trkpt>
+        <trkpt lat="48.3746669" lon="2.7009196"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

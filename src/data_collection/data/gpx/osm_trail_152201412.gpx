@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Ménil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.548304</time>
+</metadata>
+<trk>
+    <name>Chemin du Ménil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7845288" lon="3.0361753"></trkpt>
+        <trkpt lat="48.7843314" lon="3.0355569"></trkpt>
+        <trkpt lat="48.7838411" lon="3.0337402"></trkpt>
+        <trkpt lat="48.7830293" lon="3.0330408"></trkpt>
+        <trkpt lat="48.7826517" lon="3.0327395"></trkpt>
+        <trkpt lat="48.7825101" lon="3.0325676"></trkpt>
+        <trkpt lat="48.7823162" lon="3.03217"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

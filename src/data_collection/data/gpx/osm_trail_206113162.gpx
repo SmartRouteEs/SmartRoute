@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Râle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.668817</time>
+</metadata>
+<trk>
+    <name>Route du Râle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3619057" lon="2.7558743"></trkpt>
+        <trkpt lat="48.3604833" lon="2.7572006"></trkpt>
+        <trkpt lat="48.3588601" lon="2.7587756"></trkpt>
+        <trkpt lat="48.3574767" lon="2.7600069"></trkpt>
+        <trkpt lat="48.3559741" lon="2.7614661"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

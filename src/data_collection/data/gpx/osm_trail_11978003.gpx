@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Raffé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.359340</time>
+</metadata>
+<trk>
+    <name>Route Raffé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3532731" lon="2.7837825"></trkpt>
+        <trkpt lat="48.3539131" lon="2.784389"></trkpt>
+        <trkpt lat="48.3557593" lon="2.7861291"></trkpt>
+        <trkpt lat="48.3580872" lon="2.7885446"></trkpt>
+        <trkpt lat="48.3598442" lon="2.7901291"></trkpt>
+        <trkpt lat="48.3615843" lon="2.7917525"></trkpt>
+        <trkpt lat="48.3619913" lon="2.7922161"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

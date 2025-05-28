@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Louis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.981682</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Louis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1740556" lon="2.8615144"></trkpt>
+        <trkpt lat="48.1741236" lon="2.8616618"></trkpt>
+        <trkpt lat="48.1747456" lon="2.8625409"></trkpt>
+        <trkpt lat="48.1755133" lon="2.863759"></trkpt>
+        <trkpt lat="48.1758108" lon="2.8641986"></trkpt>
+        <trkpt lat="48.1758603" lon="2.8643136"></trkpt>
+        <trkpt lat="48.1757744" lon="2.8648809"></trkpt>
+        <trkpt lat="48.1758013" lon="2.8649452"></trkpt>
+        <trkpt lat="48.1769558" lon="2.8654374"></trkpt>
+        <trkpt lat="48.1770908" lon="2.8654577"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

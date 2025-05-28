@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Longjumeau à Balizy</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.714053</time>
+</metadata>
+<trk>
+    <name>Chemin de Longjumeau à Balizy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6869133" lon="2.3022118"></trkpt>
+        <trkpt lat="48.6882911" lon="2.3002966"></trkpt>
+        <trkpt lat="48.6884305" lon="2.3001371"></trkpt>
+        <trkpt lat="48.6885699" lon="2.2999511"></trkpt>
+        <trkpt lat="48.6885759" lon="2.2998047"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

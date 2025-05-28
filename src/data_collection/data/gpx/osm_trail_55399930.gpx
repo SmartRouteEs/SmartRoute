@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Barbizonnière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.978448</time>
+</metadata>
+<trk>
+    <name>Chemin de la Barbizonnière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4423075" lon="2.5934461"></trkpt>
+        <trkpt lat="48.4417623" lon="2.5925527"></trkpt>
+        <trkpt lat="48.4413404" lon="2.5915822"></trkpt>
+        <trkpt lat="48.4412486" lon="2.5912242"></trkpt>
+        <trkpt lat="48.4412571" lon="2.5910368"></trkpt>
+        <trkpt lat="48.4412171" lon="2.5908577"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Belvédère</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.743306</time>
+</metadata>
+<trk>
+    <name>Chemin du Belvédère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7572527" lon="2.2159849"></trkpt>
+        <trkpt lat="48.7572571" lon="2.2160451"></trkpt>
+        <trkpt lat="48.7572601" lon="2.2160848"></trkpt>
+        <trkpt lat="48.7574325" lon="2.2160551"></trkpt>
+        <trkpt lat="48.7575257" lon="2.216142"></trkpt>
+        <trkpt lat="48.7575942" lon="2.2161887"></trkpt>
+        <trkpt lat="48.7576396" lon="2.2162552"></trkpt>
+        <trkpt lat="48.7576587" lon="2.2162917"></trkpt>
+        <trkpt lat="48.7576645" lon="2.2163997"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

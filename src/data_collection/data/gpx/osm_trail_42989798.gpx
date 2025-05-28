@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2402</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.335061</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2402</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1612405" lon="2.197894"></trkpt>
+        <trkpt lat="48.1609461" lon="2.1966876"></trkpt>
+        <trkpt lat="48.1604823" lon="2.1946019"></trkpt>
+        <trkpt lat="48.1600071" lon="2.1922501"></trkpt>
+        <trkpt lat="48.1598824" lon="2.1910396"></trkpt>
+        <trkpt lat="48.159462" lon="2.1871455"></trkpt>
+        <trkpt lat="48.1593781" lon="2.1862774"></trkpt>
+        <trkpt lat="48.1590796" lon="2.1830233"></trkpt>
+        <trkpt lat="48.1588506" lon="2.1806887"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

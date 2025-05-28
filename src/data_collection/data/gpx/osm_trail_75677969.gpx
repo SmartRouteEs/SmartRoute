@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vignobles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.141095</time>
+</metadata>
+<trk>
+    <name>Chemin des Vignobles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3303144" lon="2.7266773"></trkpt>
+        <trkpt lat="48.3292499" lon="2.7270204"></trkpt>
+        <trkpt lat="48.3278438" lon="2.728098"></trkpt>
+        <trkpt lat="48.3284351" lon="2.7295694"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Hermine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.441170</time>
+</metadata>
+<trk>
+    <name>Route de l'Hermine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.46976" lon="2.7438636"></trkpt>
+        <trkpt lat="48.4731902" lon="2.7461618"></trkpt>
+        <trkpt lat="48.4743568" lon="2.74838"></trkpt>
+        <trkpt lat="48.4759785" lon="2.7488349"></trkpt>
+        <trkpt lat="48.477226" lon="2.7491369"></trkpt>
+        <trkpt lat="48.4812297" lon="2.7472494"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle Bourgoin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.774665</time>
+</metadata>
+<trk>
+    <name>Ruelle Bourgoin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8194889" lon="2.9213102"></trkpt>
+        <trkpt lat="48.8194803" lon="2.9211781"></trkpt>
+        <trkpt lat="48.8194854" lon="2.920821"></trkpt>
+        <trkpt lat="48.819503" lon="2.9205555"></trkpt>
+        <trkpt lat="48.819503" lon="2.9203328"></trkpt>
+        <trkpt lat="48.8194836" lon="2.9201236"></trkpt>
+        <trkpt lat="48.8194465" lon="2.9198152"></trkpt>
+        <trkpt lat="48.8194077" lon="2.9195148"></trkpt>
+        <trkpt lat="48.8193635" lon="2.9191983"></trkpt>
+        <trkpt lat="48.819337" lon="2.9189837"></trkpt>
+        <trkpt lat="48.8192942" lon="2.9188311"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

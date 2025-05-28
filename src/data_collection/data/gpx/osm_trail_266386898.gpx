@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Alcyme Bourgeron</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.032046</time>
+</metadata>
+<trk>
+    <name>Allée Alcyme Bourgeron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6085141" lon="2.2935931"></trkpt>
+        <trkpt lat="48.6085269" lon="2.2935665"></trkpt>
+        <trkpt lat="48.6084175" lon="2.2934118"></trkpt>
+        <trkpt lat="48.6084073" lon="2.2933974"></trkpt>
+        <trkpt lat="48.6083866" lon="2.2933728"></trkpt>
+        <trkpt lat="48.607964" lon="2.2928693"></trkpt>
+        <trkpt lat="48.6073486" lon="2.2921318"></trkpt>
+        <trkpt lat="48.606859" lon="2.2915226"></trkpt>
+        <trkpt lat="48.6067103" lon="2.2913431"></trkpt>
+        <trkpt lat="48.6061901" lon="2.2906353"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

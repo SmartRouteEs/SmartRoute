@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bout de la Haie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.003625</time>
+</metadata>
+<trk>
+    <name>Chemin du Bout de la Haie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2785713" lon="2.7308103"></trkpt>
+        <trkpt lat="48.2793832" lon="2.7326523"></trkpt>
+        <trkpt lat="48.2800592" lon="2.7341859"></trkpt>
+        <trkpt lat="48.2763705" lon="2.7365142"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

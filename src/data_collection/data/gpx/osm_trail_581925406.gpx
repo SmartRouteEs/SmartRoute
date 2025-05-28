@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Glands</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.369419</time>
+</metadata>
+<trk>
+    <name>Chemin des Glands</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.270751" lon="3.3153815"></trkpt>
+        <trkpt lat="48.2712833" lon="3.3145336"></trkpt>
+        <trkpt lat="48.2715527" lon="3.3140794"></trkpt>
+        <trkpt lat="48.2720751" lon="3.3135414"></trkpt>
+        <trkpt lat="48.2721868" lon="3.313333"></trkpt>
+        <trkpt lat="48.2723445" lon="3.3128898"></trkpt>
+        <trkpt lat="48.272717" lon="3.311758"></trkpt>
+        <trkpt lat="48.2730535" lon="3.3106581"></trkpt>
+        <trkpt lat="48.2733216" lon="3.310055"></trkpt>
+        <trkpt lat="48.2735581" lon="3.3093886"></trkpt>
+        <trkpt lat="48.2736047" lon="3.3092228"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

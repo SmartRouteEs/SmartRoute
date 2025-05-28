@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4316</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:46.160612</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4316</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7588293" lon="2.2604468"></trkpt>
+        <trkpt lat="48.758696" lon="2.2609822"></trkpt>
+        <trkpt lat="48.7586814" lon="2.2613238"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

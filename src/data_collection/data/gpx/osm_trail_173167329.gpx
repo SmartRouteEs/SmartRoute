@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8261</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.993682</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8261</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3403107" lon="3.2131243"></trkpt>
+        <trkpt lat="48.341501" lon="3.21144"></trkpt>
+        <trkpt lat="48.341641" lon="3.21132"></trkpt>
+        <trkpt lat="48.341921" lon="3.2112"></trkpt>
+        <trkpt lat="48.342461" lon="3.21134"></trkpt>
+        <trkpt lat="48.343121" lon="3.2116"></trkpt>
+        <trkpt lat="48.343501" lon="3.2118"></trkpt>
+        <trkpt lat="48.344241" lon="3.21206"></trkpt>
+        <trkpt lat="48.344621" lon="3.21228"></trkpt>
+        <trkpt lat="48.344881" lon="3.21264"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

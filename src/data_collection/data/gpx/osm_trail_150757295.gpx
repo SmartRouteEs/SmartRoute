@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Tête de Buis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.345690</time>
+</metadata>
+<trk>
+    <name>Chemin de la Tête de Buis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7742132" lon="2.5925064"></trkpt>
+        <trkpt lat="48.7743614" lon="2.5924588"></trkpt>
+        <trkpt lat="48.7747266" lon="2.5923415"></trkpt>
+        <trkpt lat="48.7748362" lon="2.5923063"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

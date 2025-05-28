@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Gorge aux Néfliers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.812869</time>
+</metadata>
+<trk>
+    <name>Route de la Gorge aux Néfliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4336814" lon="2.6143451"></trkpt>
+        <trkpt lat="48.4335751" lon="2.6150344"></trkpt>
+        <trkpt lat="48.433426" lon="2.6160415"></trkpt>
+        <trkpt lat="48.4331825" lon="2.6172803"></trkpt>
+        <trkpt lat="48.4330836" lon="2.6179674"></trkpt>
+        <trkpt lat="48.4329903" lon="2.6194153"></trkpt>
+        <trkpt lat="48.432947" lon="2.6198286"></trkpt>
+        <trkpt lat="48.4328435" lon="2.620247"></trkpt>
+        <trkpt lat="48.4326102" lon="2.621911"></trkpt>
+        <trkpt lat="48.4325809" lon="2.6221231"></trkpt>
+        <trkpt lat="48.4323851" lon="2.6232196"></trkpt>
+        <trkpt lat="48.4324033" lon="2.6235945"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

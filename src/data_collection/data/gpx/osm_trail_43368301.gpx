@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Nicolas</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.350822</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Nicolas</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7592502" lon="2.5575762"></trkpt>
+        <trkpt lat="48.7596526" lon="2.5580999"></trkpt>
+        <trkpt lat="48.7597465" lon="2.5582044"></trkpt>
+        <trkpt lat="48.7600424" lon="2.5586052"></trkpt>
+        <trkpt lat="48.7604568" lon="2.5591433"></trkpt>
+        <trkpt lat="48.7605022" lon="2.5591961"></trkpt>
+        <trkpt lat="48.7631695" lon="2.5626345"></trkpt>
+        <trkpt lat="48.7634679" lon="2.5630246"></trkpt>
+        <trkpt lat="48.764814" lon="2.5648258"></trkpt>
+        <trkpt lat="48.7656998" lon="2.5659698"></trkpt>
+        <trkpt lat="48.76729" lon="2.5680583"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

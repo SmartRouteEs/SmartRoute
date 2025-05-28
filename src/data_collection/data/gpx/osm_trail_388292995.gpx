@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Haie de Banse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.429139</time>
+</metadata>
+<trk>
+    <name>Chemin de la Haie de Banse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1449858" lon="2.7011238"></trkpt>
+        <trkpt lat="48.1451932" lon="2.7011652"></trkpt>
+        <trkpt lat="48.1453773" lon="2.7011596"></trkpt>
+        <trkpt lat="48.1456327" lon="2.7012176"></trkpt>
+        <trkpt lat="48.1457355" lon="2.7012312"></trkpt>
+        <trkpt lat="48.1458313" lon="2.7012248"></trkpt>
+        <trkpt lat="48.1459677" lon="2.7012065"></trkpt>
+        <trkpt lat="48.1460165" lon="2.7011801"></trkpt>
+        <trkpt lat="48.1460914" lon="2.7010804"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

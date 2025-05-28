@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Roche-qui-Pleure</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.721892</time>
+</metadata>
+<trk>
+    <name>Route de la Roche-qui-Pleure</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4203357" lon="2.6413723"></trkpt>
+        <trkpt lat="48.4238967" lon="2.6442171"></trkpt>
+        <trkpt lat="48.4243205" lon="2.644538"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

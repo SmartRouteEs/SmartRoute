@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Roissy</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.564160</time>
+</metadata>
+<trk>
+    <name>Route de Roissy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7968789" lon="2.6920384"></trkpt>
+        <trkpt lat="48.7969811" lon="2.6893509"></trkpt>
+        <trkpt lat="48.7971035" lon="2.6860832"></trkpt>
+        <trkpt lat="48.7971168" lon="2.6857288"></trkpt>
+        <trkpt lat="48.7971955" lon="2.6837402"></trkpt>
+        <trkpt lat="48.7973216" lon="2.6805565"></trkpt>
+        <trkpt lat="48.7973825" lon="2.6790169"></trkpt>
+        <trkpt lat="48.7974206" lon="2.6781071"></trkpt>
+        <trkpt lat="48.7975175" lon="2.675797"></trkpt>
+        <trkpt lat="48.7975914" lon="2.6740362"></trkpt>
+        <trkpt lat="48.7976024" lon="2.6737748"></trkpt>
+        <trkpt lat="48.7976102" lon="2.6735878"></trkpt>
+        <trkpt lat="48.797664" lon="2.6723064"></trkpt>
+        <trkpt lat="48.7976752" lon="2.6717373"></trkpt>
+        <trkpt lat="48.7976757" lon="2.6715955"></trkpt>
+        <trkpt lat="48.7976822" lon="2.6712149"></trkpt>
+        <trkpt lat="48.7976469" lon="2.6704116"></trkpt>
+        <trkpt lat="48.7976353" lon="2.6698842"></trkpt>
+        <trkpt lat="48.7975012" lon="2.666683"></trkpt>
+        <trkpt lat="48.7974899" lon="2.6665371"></trkpt>
+        <trkpt lat="48.7973655" lon="2.6661766"></trkpt>
+        <trkpt lat="48.7971649" lon="2.6656163"></trkpt>
+        <trkpt lat="48.7970436" lon="2.665282"></trkpt>
+        <trkpt lat="48.797039" lon="2.6652693"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

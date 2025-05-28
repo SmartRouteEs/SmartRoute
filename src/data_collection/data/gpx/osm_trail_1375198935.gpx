@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Aiguisoirs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.962569</time>
+</metadata>
+<trk>
+    <name>Route des Aiguisoirs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3813294" lon="2.6109328"></trkpt>
+        <trkpt lat="48.3814336" lon="2.6160907"></trkpt>
+        <trkpt lat="48.3815303" lon="2.6189185"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

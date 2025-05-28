@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Notre-Dame de Paris</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.698276</time>
+</metadata>
+<trk>
+    <name>Route Notre-Dame de Paris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4179653" lon="2.6732946"></trkpt>
+        <trkpt lat="48.4174699" lon="2.6733466"></trkpt>
+        <trkpt lat="48.4168852" lon="2.673473"></trkpt>
+        <trkpt lat="48.4165807" lon="2.6735374"></trkpt>
+        <trkpt lat="48.4149195" lon="2.6735011"></trkpt>
+        <trkpt lat="48.4144469" lon="2.6737319"></trkpt>
+        <trkpt lat="48.4140125" lon="2.6744151"></trkpt>
+        <trkpt lat="48.4139284" lon="2.6745474"></trkpt>
+        <trkpt lat="48.4136564" lon="2.674981"></trkpt>
+        <trkpt lat="48.412991" lon="2.6760417"></trkpt>
+        <trkpt lat="48.4121387" lon="2.6773622"></trkpt>
+        <trkpt lat="48.4113652" lon="2.6785606"></trkpt>
+        <trkpt lat="48.41057" lon="2.6798347"></trkpt>
+        <trkpt lat="48.4093706" lon="2.6817944"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

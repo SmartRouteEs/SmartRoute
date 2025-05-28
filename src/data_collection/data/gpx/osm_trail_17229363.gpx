@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Haut Mont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.392270</time>
+</metadata>
+<trk>
+    <name>Route du Haut Mont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.368754" lon="2.7444208"></trkpt>
+        <trkpt lat="48.3690041" lon="2.7445765"></trkpt>
+        <trkpt lat="48.3692642" lon="2.7446086"></trkpt>
+        <trkpt lat="48.3697044" lon="2.7445926"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

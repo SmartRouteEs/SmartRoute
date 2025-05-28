@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Augier</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route Augier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3819595" lon="2.743298"></trkpt>
+        <trkpt lat="48.3860659" lon="2.7379963"></trkpt>
+        <trkpt lat="48.3883741" lon="2.7361563"></trkpt>
+        <trkpt lat="48.3896977" lon="2.7352224"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

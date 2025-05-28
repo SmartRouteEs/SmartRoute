@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Jacquins</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.821866</time>
+</metadata>
+<trk>
+    <name>Chemin des Jacquins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.171164" lon="3.210381"></trkpt>
+        <trkpt lat="48.1707352" lon="3.2106209"></trkpt>
+        <trkpt lat="48.1706879" lon="3.2106036"></trkpt>
+        <trkpt lat="48.1706207" lon="3.2104588"></trkpt>
+        <trkpt lat="48.1705203" lon="3.2100579"></trkpt>
+        <trkpt lat="48.1704764" lon="3.2099737"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

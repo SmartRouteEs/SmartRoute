@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Fontainebleau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.892835</time>
+</metadata>
+<trk>
+    <name>Chemin de Fontainebleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3211159" lon="2.6482982"></trkpt>
+        <trkpt lat="48.3218999" lon="2.6496366"></trkpt>
+        <trkpt lat="48.3222086" lon="2.6501193"></trkpt>
+        <trkpt lat="48.3223976" lon="2.65037"></trkpt>
+        <trkpt lat="48.3224398" lon="2.6504147"></trkpt>
+        <trkpt lat="48.3225937" lon="2.6505776"></trkpt>
+        <trkpt lat="48.3228088" lon="2.6508235"></trkpt>
+        <trkpt lat="48.3230097" lon="2.6510781"></trkpt>
+        <trkpt lat="48.3233717" lon="2.6515648"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

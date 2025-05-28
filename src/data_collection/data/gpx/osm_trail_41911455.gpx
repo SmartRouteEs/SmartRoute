@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière du Grand Veneur</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:45.302263</time>
+</metadata>
+<trk>
+    <name>Route Forestière du Grand Veneur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6688744" lon="2.5178459"></trkpt>
+        <trkpt lat="48.6688704" lon="2.5177388"></trkpt>
+        <trkpt lat="48.6681276" lon="2.5092987"></trkpt>
+        <trkpt lat="48.6681061" lon="2.5091764"></trkpt>
+        <trkpt lat="48.6680302" lon="2.508909"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

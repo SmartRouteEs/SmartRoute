@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Liers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.889532</time>
+</metadata>
+<trk>
+    <name>Chemin de Liers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6131199" lon="2.3150408"></trkpt>
+        <trkpt lat="48.6131702" lon="2.3152487"></trkpt>
+        <trkpt lat="48.6132697" lon="2.3154969"></trkpt>
+        <trkpt lat="48.6141772" lon="2.3168942"></trkpt>
+        <trkpt lat="48.6145574" lon="2.317435"></trkpt>
+        <trkpt lat="48.6149149" lon="2.3180873"></trkpt>
+        <trkpt lat="48.6151778" lon="2.3187323"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

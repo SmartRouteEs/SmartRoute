@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Gorges de Franchard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.997580</time>
+</metadata>
+<trk>
+    <name>Route des Gorges de Franchard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4076655" lon="2.6086173"></trkpt>
+        <trkpt lat="48.407754" lon="2.60743"></trkpt>
+        <trkpt lat="48.407787" lon="2.607247"></trkpt>
+        <trkpt lat="48.407796" lon="2.606942"></trkpt>
+        <trkpt lat="48.4078117" lon="2.6069082"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

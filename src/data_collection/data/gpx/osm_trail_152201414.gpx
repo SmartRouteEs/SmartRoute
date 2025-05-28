@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Ruisseau</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.550424</time>
+</metadata>
+<trk>
+    <name>Chemin du Ruisseau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7912005" lon="3.0215946"></trkpt>
+        <trkpt lat="48.7900751" lon="3.0219888"></trkpt>
+        <trkpt lat="48.7897052" lon="3.0222796"></trkpt>
+        <trkpt lat="48.7892004" lon="3.0224852"></trkpt>
+        <trkpt lat="48.7889609" lon="3.0232218"></trkpt>
+        <trkpt lat="48.7889428" lon="3.0233613"></trkpt>
+        <trkpt lat="48.7890388" lon="3.0239039"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

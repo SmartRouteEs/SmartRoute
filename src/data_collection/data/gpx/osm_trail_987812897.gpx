@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Marcelets</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.032783</time>
+</metadata>
+<trk>
+    <name>Chemin des Marcelets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7884651" lon="3.3441697"></trkpt>
+        <trkpt lat="48.7885715" lon="3.3460397"></trkpt>
+        <trkpt lat="48.7887235" lon="3.3469596"></trkpt>
+        <trkpt lat="48.7890116" lon="3.3479413"></trkpt>
+        <trkpt lat="48.7891158" lon="3.3483919"></trkpt>
+        <trkpt lat="48.7891247" lon="3.3487433"></trkpt>
+        <trkpt lat="48.7890875" lon="3.3492663"></trkpt>
+        <trkpt lat="48.7890999" lon="3.349379"></trkpt>
+        <trkpt lat="48.7891406" lon="3.349438"></trkpt>
+        <trkpt lat="48.7897626" lon="3.3499101"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

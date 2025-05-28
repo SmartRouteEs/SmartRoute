@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Retraite</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.671271</time>
+</metadata>
+<trk>
+    <name>Route de la Retraite</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3895658" lon="2.7434045"></trkpt>
+        <trkpt lat="48.3894084" lon="2.7439402"></trkpt>
+        <trkpt lat="48.3883642" lon="2.7482495"></trkpt>
+        <trkpt lat="48.3881939" lon="2.7486636"></trkpt>
+        <trkpt lat="48.3880972" lon="2.7490187"></trkpt>
+        <trkpt lat="48.3870474" lon="2.751753"></trkpt>
+        <trkpt lat="48.3869965" lon="2.7518856"></trkpt>
+        <trkpt lat="48.3869434" lon="2.7521118"></trkpt>
+        <trkpt lat="48.3866735" lon="2.753263"></trkpt>
+        <trkpt lat="48.3865057" lon="2.7544578"></trkpt>
+        <trkpt lat="48.3858658" lon="2.7577134"></trkpt>
+        <trkpt lat="48.3855613" lon="2.759447"></trkpt>
+        <trkpt lat="48.3846823" lon="2.7642822"></trkpt>
+        <trkpt lat="48.3844863" lon="2.7651431"></trkpt>
+        <trkpt lat="48.383905" lon="2.7684476"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

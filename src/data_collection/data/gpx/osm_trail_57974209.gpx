@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente du Rocher de la Bruyère</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.003131</time>
+</metadata>
+<trk>
+    <name>Sente du Rocher de la Bruyère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5289015" lon="2.2586864"></trkpt>
+        <trkpt lat="48.5287775" lon="2.2594041"></trkpt>
+        <trkpt lat="48.5285586" lon="2.2600082"></trkpt>
+        <trkpt lat="48.5283698" lon="2.2604631"></trkpt>
+        <trkpt lat="48.5282462" lon="2.2609107"></trkpt>
+        <trkpt lat="48.5283033" lon="2.2613676"></trkpt>
+        <trkpt lat="48.5281952" lon="2.261695"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

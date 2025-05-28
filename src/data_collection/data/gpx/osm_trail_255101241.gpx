@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Calvaire</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.659503</time>
+</metadata>
+<trk>
+    <name>Route du Calvaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4268424" lon="2.718171"></trkpt>
+        <trkpt lat="48.427652" lon="2.718574"></trkpt>
+        <trkpt lat="48.4277717" lon="2.718603"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Lanterne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.442237</time>
+</metadata>
+<trk>
+    <name>Allée de la Lanterne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8311196" lon="2.2123319"></trkpt>
+        <trkpt lat="48.8310416" lon="2.211041"></trkpt>
+        <trkpt lat="48.8309135" lon="2.2081582"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

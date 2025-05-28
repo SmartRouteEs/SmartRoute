@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue Jolly</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.619512</time>
+</metadata>
+<trk>
+    <name>Avenue Jolly</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8011008" lon="2.5937068"></trkpt>
+        <trkpt lat="48.80091" lon="2.5936022"></trkpt>
+        <trkpt lat="48.8003623" lon="2.5932991"></trkpt>
+        <trkpt lat="48.7999948" lon="2.593098"></trkpt>
+        <trkpt lat="48.799562" lon="2.592186"></trkpt>
+        <trkpt lat="48.7974224" lon="2.5915596"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

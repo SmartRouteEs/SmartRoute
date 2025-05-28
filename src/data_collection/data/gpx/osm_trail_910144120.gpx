@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Coude</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.217699</time>
+</metadata>
+<trk>
+    <name>Rue de Coude</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8279198" lon="2.9193579"></trkpt>
+        <trkpt lat="48.8282984" lon="2.9213036"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

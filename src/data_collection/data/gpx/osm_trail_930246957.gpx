@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Neuve de Sucy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.489129</time>
+</metadata>
+<trk>
+    <name>Route Neuve de Sucy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7489729" lon="2.5528932"></trkpt>
+        <trkpt lat="48.7490104" lon="2.5529073"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

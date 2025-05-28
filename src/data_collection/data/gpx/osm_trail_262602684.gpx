@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Bassin de l'Église</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.952327</time>
+</metadata>
+<trk>
+    <name>Allée du Bassin de l'Église</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7759112" lon="2.2974984"></trkpt>
+        <trkpt lat="48.7761256" lon="2.297411"></trkpt>
+        <trkpt lat="48.7765515" lon="2.2972373"></trkpt>
+        <trkpt lat="48.7769404" lon="2.2970847"></trkpt>
+        <trkpt lat="48.7770498" lon="2.2970407"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

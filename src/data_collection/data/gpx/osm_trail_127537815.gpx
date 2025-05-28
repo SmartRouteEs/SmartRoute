@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Montagne</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.931439</time>
+</metadata>
+<trk>
+    <name>Chemin de la Montagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3946609" lon="2.3036647"></trkpt>
+        <trkpt lat="48.3946952" lon="2.3034705"></trkpt>
+        <trkpt lat="48.3947169" lon="2.3026224"></trkpt>
+        <trkpt lat="48.3947555" lon="2.3022705"></trkpt>
+        <trkpt lat="48.3949802" lon="2.3011073"></trkpt>
+        <trkpt lat="48.3949984" lon="2.3009582"></trkpt>
+        <trkpt lat="48.3950033" lon="2.3007896"></trkpt>
+        <trkpt lat="48.3949807" lon="2.3005914"></trkpt>
+        <trkpt lat="48.3942892" lon="2.2985266"></trkpt>
+        <trkpt lat="48.3939357" lon="2.2969773"></trkpt>
+        <trkpt lat="48.3938398" lon="2.2957911"></trkpt>
+        <trkpt lat="48.3938421" lon="2.295612"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Prairie de Laval</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.435881</time>
+</metadata>
+<trk>
+    <name>Chemin de la Prairie de Laval</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4886607" lon="3.1193522"></trkpt>
+        <trkpt lat="48.4886939" lon="3.1190077"></trkpt>
+        <trkpt lat="48.4887022" lon="3.1187218"></trkpt>
+        <trkpt lat="48.4886415" lon="3.1185201"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

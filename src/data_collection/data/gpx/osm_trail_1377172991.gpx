@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Valmy</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.111312</time>
+</metadata>
+<trk>
+    <name>Route de Valmy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3787861" lon="2.6842275"></trkpt>
+        <trkpt lat="48.3788181" lon="2.6838987"></trkpt>
+        <trkpt lat="48.3789004" lon="2.6821865"></trkpt>
+        <trkpt lat="48.3798501" lon="2.6774037"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

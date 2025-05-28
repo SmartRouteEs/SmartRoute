@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Mory de Neuflieux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.119860</time>
+</metadata>
+<trk>
+    <name>Route Mory de Neuflieux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4454168" lon="2.643599"></trkpt>
+        <trkpt lat="48.4454365" lon="2.6431746"></trkpt>
+        <trkpt lat="48.4454129" lon="2.6427409"></trkpt>
+        <trkpt lat="48.4454941" lon="2.6423754"></trkpt>
+        <trkpt lat="48.4454454" lon="2.6417615"></trkpt>
+        <trkpt lat="48.4455337" lon="2.6412525"></trkpt>
+        <trkpt lat="48.4460066" lon="2.6390074"></trkpt>
+        <trkpt lat="48.4461329" lon="2.6383432"></trkpt>
+        <trkpt lat="48.4461718" lon="2.6377813"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

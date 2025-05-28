@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin Brûlé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.034575</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin Brûlé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3525842" lon="3.139154"></trkpt>
+        <trkpt lat="48.352746" lon="3.140046"></trkpt>
+        <trkpt lat="48.352906" lon="3.141506"></trkpt>
+        <trkpt lat="48.3529333" lon="3.1418029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

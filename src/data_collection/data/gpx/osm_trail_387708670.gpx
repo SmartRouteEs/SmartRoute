@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 19495</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.379940</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 19495</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2179701" lon="2.5188566"></trkpt>
+        <trkpt lat="48.2181121" lon="2.5211993"></trkpt>
+        <trkpt lat="48.2181177" lon="2.5214058"></trkpt>
+        <trkpt lat="48.2181177" lon="2.5230039"></trkpt>
+        <trkpt lat="48.2181371" lon="2.5239011"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

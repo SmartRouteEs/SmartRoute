@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Bécassières</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.045457</time>
+</metadata>
+<trk>
+    <name>Route des Bécassières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4714405" lon="2.683289"></trkpt>
+        <trkpt lat="48.4714067" lon="2.683055"></trkpt>
+        <trkpt lat="48.47094" lon="2.6805509"></trkpt>
+        <trkpt lat="48.4708569" lon="2.6801573"></trkpt>
+        <trkpt lat="48.4707883" lon="2.6798323"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

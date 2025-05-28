@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Closeau</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.234384</time>
+</metadata>
+<trk>
+    <name>Chemin du Closeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7556994" lon="3.0426281"></trkpt>
+        <trkpt lat="48.7557856" lon="3.0427596"></trkpt>
+        <trkpt lat="48.7559138" lon="3.0432022"></trkpt>
+        <trkpt lat="48.7559943" lon="3.0433336"></trkpt>
+        <trkpt lat="48.7566019" lon="3.0437989"></trkpt>
+        <trkpt lat="48.7566406" lon="3.0438285"></trkpt>
+        <trkpt lat="48.7569792" lon="3.0441074"></trkpt>
+        <trkpt lat="48.7571362" lon="3.0442639"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

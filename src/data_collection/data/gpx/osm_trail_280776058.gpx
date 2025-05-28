@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Fretay à Villiers</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 6</desc>
+    <time>2025-05-28T01:15:52.288249</time>
+</metadata>
+<trk>
+    <name>Chemin de Fretay à Villiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6695797" lon="2.2116954"></trkpt>
+        <trkpt lat="48.6690541" lon="2.2128144"></trkpt>
+        <trkpt lat="48.6687933" lon="2.2133039"></trkpt>
+        <trkpt lat="48.6684539" lon="2.2138434"></trkpt>
+        <trkpt lat="48.6678468" lon="2.2145567"></trkpt>
+        <trkpt lat="48.6672062" lon="2.2153035"></trkpt>
+        <trkpt lat="48.666526" lon="2.2162133"></trkpt>
+        <trkpt lat="48.6659685" lon="2.2169708"></trkpt>
+        <trkpt lat="48.6656757" lon="2.2174149"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

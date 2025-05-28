@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Traverse</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.058159</time>
+</metadata>
+<trk>
+    <name>Chemin de Traverse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6562464" lon="2.4924454"></trkpt>
+        <trkpt lat="48.6563044" lon="2.4925775"></trkpt>
+        <trkpt lat="48.6563634" lon="2.4926692"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

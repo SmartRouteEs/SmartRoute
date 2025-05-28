@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Faisans</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.676116</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Faisans</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7653337" lon="2.2419826"></trkpt>
+        <trkpt lat="48.7659906" lon="2.2420225"></trkpt>
+        <trkpt lat="48.7662271" lon="2.2422152"></trkpt>
+        <trkpt lat="48.7665863" lon="2.2426138"></trkpt>
+        <trkpt lat="48.7666082" lon="2.242634"></trkpt>
+        <trkpt lat="48.7670198" lon="2.2430125"></trkpt>
+        <trkpt lat="48.7681366" lon="2.2431919"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Lavoir</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.818719</time>
+</metadata>
+<trk>
+    <name>Chemin du Lavoir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6755865" lon="2.554468"></trkpt>
+        <trkpt lat="48.6758116" lon="2.5545034"></trkpt>
+        <trkpt lat="48.6760561" lon="2.5545923"></trkpt>
+        <trkpt lat="48.6764265" lon="2.5547849"></trkpt>
+        <trkpt lat="48.6766932" lon="2.5552072"></trkpt>
+        <trkpt lat="48.6769525" lon="2.5557036"></trkpt>
+        <trkpt lat="48.6772248" lon="2.5563715"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Fougères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.229604</time>
+</metadata>
+<trk>
+    <name>Chemin des Fougères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7701585" lon="2.6261385"></trkpt>
+        <trkpt lat="48.770682" lon="2.6257184"></trkpt>
+        <trkpt lat="48.7709309" lon="2.6255639"></trkpt>
+        <trkpt lat="48.7711119" lon="2.6255124"></trkpt>
+        <trkpt lat="48.7712929" lon="2.6255983"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

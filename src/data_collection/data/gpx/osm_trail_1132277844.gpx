@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Malabry</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.544635</time>
+</metadata>
+<trk>
+    <name>Chemin de Malabry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4233511" lon="2.4513065"></trkpt>
+        <trkpt lat="48.4233266" lon="2.450989"></trkpt>
+        <trkpt lat="48.4232924" lon="2.450641"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

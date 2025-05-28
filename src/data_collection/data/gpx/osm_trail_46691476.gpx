@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fontaine d'Ursine</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.465510</time>
+</metadata>
+<trk>
+    <name>Route de la Fontaine d'Ursine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7929003" lon="2.1957405"></trkpt>
+        <trkpt lat="48.7925237" lon="2.1949543"></trkpt>
+        <trkpt lat="48.7918447" lon="2.1932394"></trkpt>
+        <trkpt lat="48.7915202" lon="2.1924197"></trkpt>
+        <trkpt lat="48.7910745" lon="2.1913132"></trkpt>
+        <trkpt lat="48.7896274" lon="2.1876595"></trkpt>
+        <trkpt lat="48.7890274" lon="2.186298"></trkpt>
+        <trkpt lat="48.7888113" lon="2.1858188"></trkpt>
+        <trkpt lat="48.7886881" lon="2.1854854"></trkpt>
+        <trkpt lat="48.7877518" lon="2.1832164"></trkpt>
+        <trkpt lat="48.7876911" lon="2.1830841"></trkpt>
+        <trkpt lat="48.787669" lon="2.1830737"></trkpt>
+        <trkpt lat="48.7876127" lon="2.1830493"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

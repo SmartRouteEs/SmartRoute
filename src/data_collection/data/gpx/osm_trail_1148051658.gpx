@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Beauzet</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.611705</time>
+</metadata>
+<trk>
+    <name>Chemin du Beauzet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8879541" lon="2.5703543"></trkpt>
+        <trkpt lat="48.8879719" lon="2.5703237"></trkpt>
+        <trkpt lat="48.8882773" lon="2.5697988"></trkpt>
+        <trkpt lat="48.8884918" lon="2.5693832"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

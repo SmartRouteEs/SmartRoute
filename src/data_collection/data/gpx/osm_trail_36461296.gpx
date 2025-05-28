@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Bellevue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.057713</time>
+</metadata>
+<trk>
+    <name>Route de Bellevue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4436686" lon="2.6432414"></trkpt>
+        <trkpt lat="48.443532" lon="2.6432245"></trkpt>
+        <trkpt lat="48.4388722" lon="2.6426496"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

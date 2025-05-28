@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Orme de Montferrat</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.869373</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Orme de Montferrat</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7013438" lon="3.2688617"></trkpt>
+        <trkpt lat="48.7011915" lon="3.2685586"></trkpt>
+        <trkpt lat="48.7009933" lon="3.2682421"></trkpt>
+        <trkpt lat="48.700742" lon="3.2678526"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

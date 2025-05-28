@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Ermitage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.862030</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Ermitage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9465876" lon="2.8105355"></trkpt>
+        <trkpt lat="48.9477869" lon="2.8130869"></trkpt>
+        <trkpt lat="48.9489935" lon="2.8151589"></trkpt>
+        <trkpt lat="48.9494097" lon="2.8160705"></trkpt>
+        <trkpt lat="48.9497043" lon="2.816909"></trkpt>
+        <trkpt lat="48.950002" lon="2.8181863"></trkpt>
+        <trkpt lat="48.9505271" lon="2.8205276"></trkpt>
+        <trkpt lat="48.9508204" lon="2.8220487"></trkpt>
+        <trkpt lat="48.9511506" lon="2.8256315"></trkpt>
+        <trkpt lat="48.9511584" lon="2.8257167"></trkpt>
+        <trkpt lat="48.951495" lon="2.8273883"></trkpt>
+        <trkpt lat="48.9515964" lon="2.8285399"></trkpt>
+        <trkpt lat="48.9516103" lon="2.8297405"></trkpt>
+        <trkpt lat="48.9521066" lon="2.8339322"></trkpt>
+        <trkpt lat="48.9522466" lon="2.8356736"></trkpt>
+        <trkpt lat="48.9522373" lon="2.8380398"></trkpt>
+        <trkpt lat="48.9522287" lon="2.8385831"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

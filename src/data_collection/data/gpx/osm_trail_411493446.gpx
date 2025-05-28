@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Haut des Perriers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.840878</time>
+</metadata>
+<trk>
+    <name>Chemin du Haut des Perriers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3135575" lon="3.1314517"></trkpt>
+        <trkpt lat="48.3128912" lon="3.1314011"></trkpt>
+        <trkpt lat="48.3118127" lon="3.1314082"></trkpt>
+        <trkpt lat="48.3110495" lon="3.1313263"></trkpt>
+        <trkpt lat="48.310713" lon="3.1312051"></trkpt>
+        <trkpt lat="48.3103327" lon="3.1309421"></trkpt>
+        <trkpt lat="48.3102162" lon="3.1308616"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Promenade Maurice-Boitel</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.817206</time>
+</metadata>
+<trk>
+    <name>Promenade Maurice-Boitel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8284009" lon="2.4183352"></trkpt>
+        <trkpt lat="48.8282861" lon="2.4181141"></trkpt>
+        <trkpt lat="48.8282296" lon="2.4179175"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

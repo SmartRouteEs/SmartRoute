@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Mont Guichet</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:58.237938</time>
+</metadata>
+<trk>
+    <name>Chemin du Mont Guichet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8847531" lon="2.5622167"></trkpt>
+        <trkpt lat="48.8847178" lon="2.5622977"></trkpt>
+        <trkpt lat="48.8845017" lon="2.5626889"></trkpt>
+        <trkpt lat="48.8843441" lon="2.5629647"></trkpt>
+        <trkpt lat="48.8840834" lon="2.5633496"></trkpt>
+        <trkpt lat="48.8836752" lon="2.5639015"></trkpt>
+        <trkpt lat="48.8830237" lon="2.5647277"></trkpt>
+        <trkpt lat="48.882829" lon="2.5649341"></trkpt>
+        <trkpt lat="48.8828073" lon="2.5649829"></trkpt>
+        <trkpt lat="48.8827958" lon="2.5650086"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

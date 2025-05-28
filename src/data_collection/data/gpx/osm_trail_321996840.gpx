@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Justice</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.388342</time>
+</metadata>
+<trk>
+    <name>Chemin de la Justice</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6308629" lon="2.5422499"></trkpt>
+        <trkpt lat="48.6309171" lon="2.5420776"></trkpt>
+        <trkpt lat="48.6309081" lon="2.5418109"></trkpt>
+        <trkpt lat="48.6308877" lon="2.5412674"></trkpt>
+        <trkpt lat="48.630881" lon="2.5411101"></trkpt>
+        <trkpt lat="48.6308803" lon="2.5410876"></trkpt>
+        <trkpt lat="48.6308471" lon="2.540023"></trkpt>
+        <trkpt lat="48.6308269" lon="2.5395576"></trkpt>
+        <trkpt lat="48.630826" lon="2.5395369"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

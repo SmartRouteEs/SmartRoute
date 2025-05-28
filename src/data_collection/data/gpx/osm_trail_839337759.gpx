@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 27340</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.422417</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 27340</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3316277" lon="3.0002735"></trkpt>
+        <trkpt lat="48.3326653" lon="3.0007267"></trkpt>
+        <trkpt lat="48.3333179" lon="3.002041"></trkpt>
+        <trkpt lat="48.3334213" lon="3.0037835"></trkpt>
+        <trkpt lat="48.3336251" lon="3.0078293"></trkpt>
+        <trkpt lat="48.3336277" lon="3.0078799"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mort</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.676299</time>
+</metadata>
+<trk>
+    <name>Route de la Mort</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3568211" lon="2.7258699"></trkpt>
+        <trkpt lat="48.3566789" lon="2.7258137"></trkpt>
+        <trkpt lat="48.3558472" lon="2.7258243"></trkpt>
+        <trkpt lat="48.355487" lon="2.7260072"></trkpt>
+        <trkpt lat="48.3553848" lon="2.7263268"></trkpt>
+        <trkpt lat="48.3551483" lon="2.7264599"></trkpt>
+        <trkpt lat="48.3543409" lon="2.7273864"></trkpt>
+        <trkpt lat="48.354215" lon="2.7275796"></trkpt>
+        <trkpt lat="48.354079" lon="2.7277941"></trkpt>
+        <trkpt lat="48.3539286" lon="2.7280078"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

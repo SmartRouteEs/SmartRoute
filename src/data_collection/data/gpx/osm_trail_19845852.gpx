@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Vieux Rayons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route des Vieux Rayons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4519047" lon="2.6830197"></trkpt>
+        <trkpt lat="48.4491228" lon="2.6863768"></trkpt>
+        <trkpt lat="48.4485923" lon="2.6869796"></trkpt>
+        <trkpt lat="48.4478944" lon="2.6878079"></trkpt>
+        <trkpt lat="48.4477731" lon="2.6878804"></trkpt>
+        <trkpt lat="48.4477694" lon="2.6878836"></trkpt>
+        <trkpt lat="48.4476971" lon="2.6879218"></trkpt>
+        <trkpt lat="48.4475351" lon="2.687995"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

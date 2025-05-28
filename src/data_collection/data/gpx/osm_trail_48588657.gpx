@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Lancer</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.713398</time>
+</metadata>
+<trk>
+    <name>Route du Lancer</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4690561" lon="2.6803508"></trkpt>
+        <trkpt lat="48.4690067" lon="2.6801136"></trkpt>
+        <trkpt lat="48.4689759" lon="2.6799656"></trkpt>
+        <trkpt lat="48.4686569" lon="2.6789988"></trkpt>
+        <trkpt lat="48.4677906" lon="2.6763032"></trkpt>
+        <trkpt lat="48.4669011" lon="2.6735321"></trkpt>
+        <trkpt lat="48.4662719" lon="2.6716138"></trkpt>
+        <trkpt lat="48.465002" lon="2.6676489"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

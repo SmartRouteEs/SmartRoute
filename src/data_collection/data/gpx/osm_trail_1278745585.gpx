@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Pente de la Garenne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.434226</time>
+</metadata>
+<trk>
+    <name>Chemin de la Pente de la Garenne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3616736" lon="2.5644937"></trkpt>
+        <trkpt lat="48.3617336" lon="2.5643716"></trkpt>
+        <trkpt lat="48.3617896" lon="2.5643102"></trkpt>
+        <trkpt lat="48.3618903" lon="2.5642694"></trkpt>
+        <trkpt lat="48.3620281" lon="2.564239"></trkpt>
+        <trkpt lat="48.3621032" lon="2.5641328"></trkpt>
+        <trkpt lat="48.3621576" lon="2.5638755"></trkpt>
+        <trkpt lat="48.3621964" lon="2.5629745"></trkpt>
+        <trkpt lat="48.3622387" lon="2.5623844"></trkpt>
+        <trkpt lat="48.3622884" lon="2.5620697"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

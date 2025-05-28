@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Passereau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.506344</time>
+</metadata>
+<trk>
+    <name>Route du Passereau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3719477" lon="2.6806378"></trkpt>
+        <trkpt lat="48.3723872" lon="2.6821807"></trkpt>
+        <trkpt lat="48.3728025" lon="2.6836486"></trkpt>
+        <trkpt lat="48.3734587" lon="2.685826"></trkpt>
+        <trkpt lat="48.3752633" lon="2.68683"></trkpt>
+        <trkpt lat="48.3754405" lon="2.6868276"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

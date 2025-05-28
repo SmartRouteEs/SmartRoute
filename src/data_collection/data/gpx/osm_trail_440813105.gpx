@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Buan</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.176442</time>
+</metadata>
+<trk>
+    <name>Rue de Buan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9500409" lon="2.277208"></trkpt>
+        <trkpt lat="48.9504382" lon="2.2784944"></trkpt>
+        <trkpt lat="48.9500299" lon="2.2788909"></trkpt>
+        <trkpt lat="48.9499936" lon="2.2789699"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

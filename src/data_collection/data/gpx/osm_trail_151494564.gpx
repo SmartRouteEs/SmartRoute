@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Voie du Sud</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.365945</time>
+</metadata>
+<trk>
+    <name>Chemin de la Voie du Sud</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6898592" lon="2.283576"></trkpt>
+        <trkpt lat="48.689859" lon="2.2836058"></trkpt>
+        <trkpt lat="48.6901647" lon="2.2845908"></trkpt>
+        <trkpt lat="48.6902169" lon="2.2847589"></trkpt>
+        <trkpt lat="48.6902619" lon="2.2852728"></trkpt>
+        <trkpt lat="48.6902462" lon="2.2858228"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

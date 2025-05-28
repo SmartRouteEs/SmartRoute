@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin</name>
+    <desc>Sentier VTT - Type: footway - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.573574</time>
+</metadata>
+<trk>
+    <name>Chemin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5100044" lon="2.3678649"></trkpt>
+        <trkpt lat="48.5100813" lon="2.3675465"></trkpt>
+        <trkpt lat="48.5100766" lon="2.3662333"></trkpt>
+        <trkpt lat="48.5100528" lon="2.3661089"></trkpt>
+        <trkpt lat="48.509175" lon="2.366082"></trkpt>
+        <trkpt lat="48.5091146" lon="2.3661571"></trkpt>
+        <trkpt lat="48.5086348" lon="2.3661089"></trkpt>
+        <trkpt lat="48.5085211" lon="2.3661625"></trkpt>
+        <trkpt lat="48.5081177" lon="2.3665063"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

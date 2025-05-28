@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Saint-Claude</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.167471</time>
+</metadata>
+<trk>
+    <name>Allée Saint-Claude</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8106545" lon="2.6750538"></trkpt>
+        <trkpt lat="48.8098355" lon="2.675666"></trkpt>
+        <trkpt lat="48.8062687" lon="2.6783322"></trkpt>
+        <trkpt lat="48.8028874" lon="2.6808591"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

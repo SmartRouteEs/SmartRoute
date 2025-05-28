@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Parc Descartes</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.251645</time>
+</metadata>
+<trk>
+    <name>Parc Descartes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7358409" lon="2.3010943"></trkpt>
+        <trkpt lat="48.7357009" lon="2.3009477"></trkpt>
+        <trkpt lat="48.735465" lon="2.3003732"></trkpt>
+        <trkpt lat="48.7354272" lon="2.3002844"></trkpt>
+        <trkpt lat="48.7352961" lon="2.3000016"></trkpt>
+        <trkpt lat="48.7351474" lon="2.2992818"></trkpt>
+        <trkpt lat="48.7350576" lon="2.2990015"></trkpt>
+        <trkpt lat="48.7349703" lon="2.2988626"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

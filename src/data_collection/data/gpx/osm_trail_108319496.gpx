@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente de la Maison Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.742151</time>
+</metadata>
+<trk>
+    <name>Sente de la Maison Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.81307" lon="2.968041"></trkpt>
+        <trkpt lat="48.8125935" lon="2.9715122"></trkpt>
+        <trkpt lat="48.8125651" lon="2.9717557"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

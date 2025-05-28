@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière du Beau Chêne</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.352355</time>
+</metadata>
+<trk>
+    <name>Route Forestière du Beau Chêne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6841738" lon="2.4594225"></trkpt>
+        <trkpt lat="48.6833068" lon="2.4603568"></trkpt>
+        <trkpt lat="48.6801177" lon="2.463685"></trkpt>
+        <trkpt lat="48.6794169" lon="2.4644383"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

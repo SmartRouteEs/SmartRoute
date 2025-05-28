@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lognes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.775692</time>
+</metadata>
+<trk>
+    <name>Chemin de Lognes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.724177" lon="2.8777689"></trkpt>
+        <trkpt lat="48.7241921" lon="2.8782476"></trkpt>
+        <trkpt lat="48.7242328" lon="2.8793004"></trkpt>
+        <trkpt lat="48.7242699" lon="2.8799582"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

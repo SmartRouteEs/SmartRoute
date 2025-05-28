@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin de l'Église</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.225880</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin de l'Église</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3853759" lon="2.8541522"></trkpt>
+        <trkpt lat="48.3850949" lon="2.854524"></trkpt>
+        <trkpt lat="48.384741" lon="2.854935"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

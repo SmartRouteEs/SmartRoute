@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3751</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.961402</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3751</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8560769" lon="2.2559357"></trkpt>
+        <trkpt lat="48.8560811" lon="2.2558424"></trkpt>
+        <trkpt lat="48.8560904" lon="2.2556406"></trkpt>
+        <trkpt lat="48.8557893" lon="2.2545563"></trkpt>
+        <trkpt lat="48.8557004" lon="2.2541439"></trkpt>
+        <trkpt lat="48.8558627" lon="2.2536182"></trkpt>
+        <trkpt lat="48.8561259" lon="2.2533795"></trkpt>
+        <trkpt lat="48.8565306" lon="2.2531892"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue des Tribunes</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.613085</time>
+</metadata>
+<trk>
+    <name>Avenue des Tribunes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8293689" lon="2.4234177"></trkpt>
+        <trkpt lat="48.829365" lon="2.4235358"></trkpt>
+        <trkpt lat="48.8293479" lon="2.4238336"></trkpt>
+        <trkpt lat="48.8293242" lon="2.4245483"></trkpt>
+        <trkpt lat="48.8292622" lon="2.4251457"></trkpt>
+        <trkpt lat="48.8292016" lon="2.425652"></trkpt>
+        <trkpt lat="48.8291108" lon="2.4260816"></trkpt>
+        <trkpt lat="48.8289784" lon="2.4264917"></trkpt>
+        <trkpt lat="48.8288508" lon="2.4268473"></trkpt>
+        <trkpt lat="48.8288031" lon="2.4269619"></trkpt>
+        <trkpt lat="48.8287051" lon="2.4271566"></trkpt>
+        <trkpt lat="48.8282301" lon="2.4280872"></trkpt>
+        <trkpt lat="48.8276434" lon="2.4293557"></trkpt>
+        <trkpt lat="48.8272578" lon="2.4302289"></trkpt>
+        <trkpt lat="48.827122" lon="2.4305642"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

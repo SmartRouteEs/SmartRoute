@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Plaine du Rut</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route de la Plaine du Rut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3723367" lon="2.7543757"></trkpt>
+        <trkpt lat="48.3729003" lon="2.7548573"></trkpt>
+        <trkpt lat="48.3746221" lon="2.7561879"></trkpt>
+        <trkpt lat="48.376711" lon="2.7578028"></trkpt>
+        <trkpt lat="48.3769713" lon="2.7580088"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

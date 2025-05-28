@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de halage</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.722606</time>
+</metadata>
+<trk>
+    <name>Chemin de halage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8980194" lon="2.8021816"></trkpt>
+        <trkpt lat="48.8972226" lon="2.7967731"></trkpt>
+        <trkpt lat="48.897162" lon="2.7966978"></trkpt>
+        <trkpt lat="48.8971317" lon="2.7965528"></trkpt>
+        <trkpt lat="48.8965827" lon="2.7923917"></trkpt>
+        <trkpt lat="48.8965699" lon="2.7921983"></trkpt>
+        <trkpt lat="48.896599" lon="2.7919201"></trkpt>
+        <trkpt lat="48.8968417" lon="2.791602"></trkpt>
+        <trkpt lat="48.8969277" lon="2.7914727"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

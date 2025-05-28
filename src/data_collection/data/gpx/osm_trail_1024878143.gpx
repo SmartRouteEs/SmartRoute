@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Cordonnier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.548038</time>
+</metadata>
+<trk>
+    <name>Sentier du Cordonnier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5274548" lon="3.2625704"></trkpt>
+        <trkpt lat="48.5282537" lon="3.262336"></trkpt>
+        <trkpt lat="48.5288894" lon="3.2621116"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

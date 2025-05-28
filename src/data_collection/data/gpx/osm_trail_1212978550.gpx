@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Moulin-Vasles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.845339</time>
+</metadata>
+<trk>
+    <name>Chemin de Moulin-Vasles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1700129" lon="2.3462121"></trkpt>
+        <trkpt lat="48.1703077" lon="2.3465692"></trkpt>
+        <trkpt lat="48.1706445" lon="2.3468509"></trkpt>
+        <trkpt lat="48.1707249" lon="2.3469691"></trkpt>
+        <trkpt lat="48.1707957" lon="2.347123"></trkpt>
+        <trkpt lat="48.1707893" lon="2.3472133"></trkpt>
+        <trkpt lat="48.1707347" lon="2.3473663"></trkpt>
+        <trkpt lat="48.1706894" lon="2.3474361"></trkpt>
+        <trkpt lat="48.1706563" lon="2.3474871"></trkpt>
+        <trkpt lat="48.1703991" lon="2.3477559"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

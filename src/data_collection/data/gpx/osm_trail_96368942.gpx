@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Sorbiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.504613</time>
+</metadata>
+<trk>
+    <name>Allée des Sorbiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9108676" lon="2.5708078"></trkpt>
+        <trkpt lat="48.911265" lon="2.5691598"></trkpt>
+        <trkpt lat="48.9113324" lon="2.5688403"></trkpt>
+        <trkpt lat="48.9114014" lon="2.5684735"></trkpt>
+        <trkpt lat="48.9116351" lon="2.5676876"></trkpt>
+        <trkpt lat="48.9116452" lon="2.5669234"></trkpt>
+        <trkpt lat="48.9117195" lon="2.5664682"></trkpt>
+        <trkpt lat="48.912112" lon="2.5651968"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

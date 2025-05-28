@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Point de la Vue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.746618</time>
+</metadata>
+<trk>
+    <name>Allée du Point de la Vue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9060857" lon="2.5602401"></trkpt>
+        <trkpt lat="48.9060948" lon="2.5603463"></trkpt>
+        <trkpt lat="48.9061332" lon="2.5605435"></trkpt>
+        <trkpt lat="48.9060221" lon="2.561285"></trkpt>
+        <trkpt lat="48.9059955" lon="2.5615302"></trkpt>
+        <trkpt lat="48.9060557" lon="2.561824"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

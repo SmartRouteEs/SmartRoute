@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lunezy à Ballainvilliers</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.971686</time>
+</metadata>
+<trk>
+    <name>Chemin de Lunezy à Ballainvilliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6771086" lon="2.25009"></trkpt>
+        <trkpt lat="48.6771058" lon="2.2496387"></trkpt>
+        <trkpt lat="48.6771094" lon="2.2493522"></trkpt>
+        <trkpt lat="48.6771194" lon="2.249034"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

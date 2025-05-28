@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Quai de l'Ourcq</name>
+    <desc>Sentier VTT - Type: path - Surface: sett - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.093448</time>
+</metadata>
+<trk>
+    <name>Quai de l'Ourcq</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8955425" lon="2.3936487"></trkpt>
+        <trkpt lat="48.8955273" lon="2.3936688"></trkpt>
+        <trkpt lat="48.895525" lon="2.3936936"></trkpt>
+        <trkpt lat="48.8957009" lon="2.3941865"></trkpt>
+        <trkpt lat="48.8957652" lon="2.3942716"></trkpt>
+        <trkpt lat="48.8960906" lon="2.39532"></trkpt>
+        <trkpt lat="48.8961888" lon="2.3959972"></trkpt>
+        <trkpt lat="48.8962643" lon="2.3964208"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

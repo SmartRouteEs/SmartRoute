@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Montespan</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.481696</time>
+</metadata>
+<trk>
+    <name>Route de Montespan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3947955" lon="2.6964199"></trkpt>
+        <trkpt lat="48.3940521" lon="2.6975009"></trkpt>
+        <trkpt lat="48.3926449" lon="2.6992898"></trkpt>
+        <trkpt lat="48.3915723" lon="2.7006685"></trkpt>
+        <trkpt lat="48.3907128" lon="2.7022948"></trkpt>
+        <trkpt lat="48.3894203" lon="2.7045203"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

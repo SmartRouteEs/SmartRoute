@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Montereau</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.504613</time>
+</metadata>
+<trk>
+    <name>Chemin de Montereau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2885934" lon="2.9723345"></trkpt>
+        <trkpt lat="48.2892212" lon="2.9720739"></trkpt>
+        <trkpt lat="48.2899689" lon="2.9717587"></trkpt>
+        <trkpt lat="48.2906595" lon="2.971563"></trkpt>
+        <trkpt lat="48.2911258" lon="2.9715178"></trkpt>
+        <trkpt lat="48.2926674" lon="2.9715827"></trkpt>
+        <trkpt lat="48.2928866" lon="2.9716707"></trkpt>
+        <trkpt lat="48.29349" lon="2.9719687"></trkpt>
+        <trkpt lat="48.2940339" lon="2.9723075"></trkpt>
+        <trkpt lat="48.2944313" lon="2.9725418"></trkpt>
+        <trkpt lat="48.2952738" lon="2.9729875"></trkpt>
+        <trkpt lat="48.2957425" lon="2.9732984"></trkpt>
+        <trkpt lat="48.2961576" lon="2.9734748"></trkpt>
+        <trkpt lat="48.2967286" lon="2.9735178"></trkpt>
+        <trkpt lat="48.2974794" lon="2.9736007"></trkpt>
+        <trkpt lat="48.2983292" lon="2.9736045"></trkpt>
+        <trkpt lat="48.2999609" lon="2.9734218"></trkpt>
+        <trkpt lat="48.3003795" lon="2.9731791"></trkpt>
+        <trkpt lat="48.3007614" lon="2.9729162"></trkpt>
+        <trkpt lat="48.301211" lon="2.9724871"></trkpt>
+        <trkpt lat="48.3015801" lon="2.9723251"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

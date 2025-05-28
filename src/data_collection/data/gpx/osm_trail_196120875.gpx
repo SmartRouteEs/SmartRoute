@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Marne</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.696282</time>
+</metadata>
+<trk>
+    <name>Chemin de la Marne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8543151" lon="2.5603205"></trkpt>
+        <trkpt lat="48.8543465" lon="2.5599561"></trkpt>
+        <trkpt lat="48.8544683" lon="2.5586362"></trkpt>
+        <trkpt lat="48.8544709" lon="2.558608"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

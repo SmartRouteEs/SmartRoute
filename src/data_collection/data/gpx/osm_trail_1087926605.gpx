@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix de Basse Pleigne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.006040</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix de Basse Pleigne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2888659" lon="2.7318757"></trkpt>
+        <trkpt lat="48.2872501" lon="2.7288402"></trkpt>
+        <trkpt lat="48.2851082" lon="2.7314047"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cochons</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:47.062681</time>
+</metadata>
+<trk>
+    <name>Chemin des Cochons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7661111" lon="2.5808367"></trkpt>
+        <trkpt lat="48.7646799" lon="2.5817891"></trkpt>
+        <trkpt lat="48.7632308" lon="2.5828791"></trkpt>
+        <trkpt lat="48.7619069" lon="2.5842299"></trkpt>
+        <trkpt lat="48.7610103" lon="2.585347"></trkpt>
+        <trkpt lat="48.7604286" lon="2.5862477"></trkpt>
+        <trkpt lat="48.7598724" lon="2.5874392"></trkpt>
+        <trkpt lat="48.7594563" lon="2.5887057"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Georges Clemenceau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.944915</time>
+</metadata>
+<trk>
+    <name>Rue Georges Clemenceau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9417959" lon="2.8617146"></trkpt>
+        <trkpt lat="48.9419123" lon="2.8620287"></trkpt>
+        <trkpt lat="48.9419932" lon="2.862483"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

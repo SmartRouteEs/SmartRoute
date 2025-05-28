@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente des Roses</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.109021</time>
+</metadata>
+<trk>
+    <name>Sente des Roses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.918763" lon="2.6238716"></trkpt>
+        <trkpt lat="48.9186384" lon="2.6238455"></trkpt>
+        <trkpt lat="48.9180851" lon="2.6237374"></trkpt>
+        <trkpt lat="48.9180381" lon="2.6237859"></trkpt>
+        <trkpt lat="48.9177719" lon="2.6241712"></trkpt>
+        <trkpt lat="48.9176854" lon="2.6242527"></trkpt>
+        <trkpt lat="48.9170944" lon="2.6247272"></trkpt>
+        <trkpt lat="48.9167611" lon="2.6250437"></trkpt>
+        <trkpt lat="48.9165196" lon="2.6252416"></trkpt>
+        <trkpt lat="48.9163791" lon="2.6253309"></trkpt>
+        <trkpt lat="48.9159616" lon="2.6255727"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

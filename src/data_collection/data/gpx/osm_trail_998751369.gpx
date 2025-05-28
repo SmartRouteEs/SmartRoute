@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Hayes Guillot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.095365</time>
+</metadata>
+<trk>
+    <name>Chemin des Hayes Guillot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3117762" lon="3.0387945"></trkpt>
+        <trkpt lat="48.3117852" lon="3.0389729"></trkpt>
+        <trkpt lat="48.3118283" lon="3.039232"></trkpt>
+        <trkpt lat="48.3118929" lon="3.0394814"></trkpt>
+        <trkpt lat="48.3122042" lon="3.0403915"></trkpt>
+        <trkpt lat="48.3122731" lon="3.0405453"></trkpt>
+        <trkpt lat="48.3124239" lon="3.0407461"></trkpt>
+        <trkpt lat="48.3127674" lon="3.0411493"></trkpt>
+        <trkpt lat="48.3128934" lon="3.0412352"></trkpt>
+        <trkpt lat="48.3129795" lon="3.0412673"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de St Martin à Soucy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.369419</time>
+</metadata>
+<trk>
+    <name>Chemin de St Martin à Soucy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2814987" lon="3.3285464"></trkpt>
+        <trkpt lat="48.2809387" lon="3.3324676"></trkpt>
+        <trkpt lat="48.2808836" lon="3.3324614"></trkpt>
+        <trkpt lat="48.2807047" lon="3.3323058"></trkpt>
+        <trkpt lat="48.2803879" lon="3.3320958"></trkpt>
+        <trkpt lat="48.2801186" lon="3.3319394"></trkpt>
+        <trkpt lat="48.2791703" lon="3.3314216"></trkpt>
+        <trkpt lat="48.2785269" lon="3.3309966"></trkpt>
+        <trkpt lat="48.2782763" lon="3.330865"></trkpt>
+        <trkpt lat="48.2781416" lon="3.3308751"></trkpt>
+        <trkpt lat="48.2780231" lon="3.3309906"></trkpt>
+        <trkpt lat="48.2777508" lon="3.3316345"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

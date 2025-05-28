@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Charlemagne</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.183235</time>
+</metadata>
+<trk>
+    <name>Allée de Charlemagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5666043" lon="2.4249603"></trkpt>
+        <trkpt lat="48.566539" lon="2.4249509"></trkpt>
+        <trkpt lat="48.5649163" lon="2.4240498"></trkpt>
+        <trkpt lat="48.5644569" lon="2.4238015"></trkpt>
+        <trkpt lat="48.5620508" lon="2.4225331"></trkpt>
+        <trkpt lat="48.5606247" lon="2.4218545"></trkpt>
+        <trkpt lat="48.5591882" lon="2.4210608"></trkpt>
+        <trkpt lat="48.5568141" lon="2.4198056"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

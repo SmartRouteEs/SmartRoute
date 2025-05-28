@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ventes Chapelier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.752320</time>
+</metadata>
+<trk>
+    <name>Route des Ventes Chapelier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4564874" lon="2.6360405"></trkpt>
+        <trkpt lat="48.4553326" lon="2.6377905"></trkpt>
+        <trkpt lat="48.4552533" lon="2.6378335"></trkpt>
+        <trkpt lat="48.4550441" lon="2.6378687"></trkpt>
+        <trkpt lat="48.454998" lon="2.6379807"></trkpt>
+        <trkpt lat="48.4549318" lon="2.6383391"></trkpt>
+        <trkpt lat="48.4548417" lon="2.6384696"></trkpt>
+        <trkpt lat="48.4540061" lon="2.6408172"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

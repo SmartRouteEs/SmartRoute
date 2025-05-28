@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Gournay</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.994788</time>
+</metadata>
+<trk>
+    <name>Chemin de Gournay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7931934" lon="2.5858969"></trkpt>
+        <trkpt lat="48.7932202" lon="2.5859381"></trkpt>
+        <trkpt lat="48.7932508" lon="2.5873882"></trkpt>
+        <trkpt lat="48.7932229" lon="2.5878983"></trkpt>
+        <trkpt lat="48.7931997" lon="2.5884046"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

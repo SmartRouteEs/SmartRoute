@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 9770</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.737319</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 9770</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7988783" lon="2.8074251"></trkpt>
+        <trkpt lat="48.7992175" lon="2.8080474"></trkpt>
+        <trkpt lat="48.7996415" lon="2.8088521"></trkpt>
+        <trkpt lat="48.8000217" lon="2.8095687"></trkpt>
+        <trkpt lat="48.801216" lon="2.8117574"></trkpt>
+        <trkpt lat="48.8019863" lon="2.8131951"></trkpt>
+        <trkpt lat="48.8021287" lon="2.8134372"></trkpt>
+        <trkpt lat="48.8023694" lon="2.8138463"></trkpt>
+        <trkpt lat="48.8030584" lon="2.8151552"></trkpt>
+        <trkpt lat="48.8041312" lon="2.8171065"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

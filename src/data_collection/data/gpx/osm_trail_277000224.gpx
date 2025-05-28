@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Poste</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.201104</time>
+</metadata>
+<trk>
+    <name>Route du Poste</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4832052" lon="2.6665513"></trkpt>
+        <trkpt lat="48.4831795" lon="2.6681444"></trkpt>
+        <trkpt lat="48.4833501" lon="2.6725657"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

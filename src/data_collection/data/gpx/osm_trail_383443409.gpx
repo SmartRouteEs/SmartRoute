@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Colmeau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.290261</time>
+</metadata>
+<trk>
+    <name>Rue du Colmeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2208709" lon="3.2136839"></trkpt>
+        <trkpt lat="48.2207203" lon="3.2132326"></trkpt>
+        <trkpt lat="48.2206658" lon="3.2125039"></trkpt>
+        <trkpt lat="48.2206776" lon="3.2119616"></trkpt>
+        <trkpt lat="48.2207099" lon="3.211643"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

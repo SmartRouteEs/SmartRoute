@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Vallée Jauberton</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.650138</time>
+</metadata>
+<trk>
+    <name>Route de la Vallée Jauberton</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3487109" lon="2.6905101"></trkpt>
+        <trkpt lat="48.3489857" lon="2.6918574"></trkpt>
+        <trkpt lat="48.349203" lon="2.692769"></trkpt>
+        <trkpt lat="48.349511" lon="2.694303"></trkpt>
+        <trkpt lat="48.349739" lon="2.69526"></trkpt>
+        <trkpt lat="48.34977" lon="2.695511"></trkpt>
+        <trkpt lat="48.349811" lon="2.695672"></trkpt>
+        <trkpt lat="48.3498673" lon="2.6958286"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

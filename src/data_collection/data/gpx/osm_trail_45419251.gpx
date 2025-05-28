@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chariots</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.408104</time>
+</metadata>
+<trk>
+    <name>Chemin des Chariots</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3512683" lon="2.9306374"></trkpt>
+        <trkpt lat="48.3506376" lon="2.9297803"></trkpt>
+        <trkpt lat="48.3498523" lon="2.9288421"></trkpt>
+        <trkpt lat="48.3492158" lon="2.9281856"></trkpt>
+        <trkpt lat="48.3480218" lon="2.9266258"></trkpt>
+        <trkpt lat="48.346918" lon="2.9253097"></trkpt>
+        <trkpt lat="48.3457548" lon="2.9243292"></trkpt>
+        <trkpt lat="48.3443418" lon="2.922357"></trkpt>
+        <trkpt lat="48.3428468" lon="2.9213214"></trkpt>
+        <trkpt lat="48.3421961" lon="2.9209239"></trkpt>
+        <trkpt lat="48.3415237" lon="2.9200927"></trkpt>
+        <trkpt lat="48.3414546" lon="2.9196799"></trkpt>
+        <trkpt lat="48.3393224" lon="2.9174922"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

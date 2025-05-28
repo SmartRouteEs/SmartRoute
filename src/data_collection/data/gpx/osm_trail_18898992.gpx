@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 197</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.401194</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 197</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3597706" lon="2.8901631"></trkpt>
+        <trkpt lat="48.3587429" lon="2.8974677"></trkpt>
+        <trkpt lat="48.3584413" lon="2.8994418"></trkpt>
+        <trkpt lat="48.3577408" lon="2.9024341"></trkpt>
+        <trkpt lat="48.356571" lon="2.9076127"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

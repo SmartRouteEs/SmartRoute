@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Gros Fouteau</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.825103</time>
+</metadata>
+<trk>
+    <name>Route du Gros Fouteau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.421984" lon="2.6782947"></trkpt>
+        <trkpt lat="48.4184589" lon="2.6792231"></trkpt>
+        <trkpt lat="48.4176821" lon="2.6794207"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

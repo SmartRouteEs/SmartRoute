@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin à Vent</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.110153</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin à Vent</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4363701" lon="2.7674815"></trkpt>
+        <trkpt lat="48.4363773" lon="2.7681199"></trkpt>
+        <trkpt lat="48.4363613" lon="2.7686751"></trkpt>
+        <trkpt lat="48.436105" lon="2.7692088"></trkpt>
+        <trkpt lat="48.4357135" lon="2.769638"></trkpt>
+        <trkpt lat="48.4348688" lon="2.7707129"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

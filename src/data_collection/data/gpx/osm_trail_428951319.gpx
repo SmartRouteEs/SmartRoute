@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Aniers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.990333</time>
+</metadata>
+<trk>
+    <name>Chemin des Aniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4180174" lon="2.4001404"></trkpt>
+        <trkpt lat="48.4177706" lon="2.3999896"></trkpt>
+        <trkpt lat="48.4169517" lon="2.3997536"></trkpt>
+        <trkpt lat="48.4164818" lon="2.3996677"></trkpt>
+        <trkpt lat="48.4156913" lon="2.3994424"></trkpt>
+        <trkpt lat="48.4152997" lon="2.3993459"></trkpt>
+        <trkpt lat="48.4150096" lon="2.3991751"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

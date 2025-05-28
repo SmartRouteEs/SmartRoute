@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Bellot à Saincy</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.368741</time>
+</metadata>
+<trk>
+    <name>Chemin de Bellot à Saincy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8486686" lon="3.3351883"></trkpt>
+        <trkpt lat="48.8488663" lon="3.3348557"></trkpt>
+        <trkpt lat="48.8491628" lon="3.3345446"></trkpt>
+        <trkpt lat="48.8495017" lon="3.3344051"></trkpt>
+        <trkpt lat="48.8497206" lon="3.3343622"></trkpt>
+        <trkpt lat="48.8499959" lon="3.3341583"></trkpt>
+        <trkpt lat="48.850437" lon="3.3338562"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

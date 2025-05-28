@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Traverse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.231190</time>
+</metadata>
+<trk>
+    <name>Chemin de la Traverse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2403091" lon="2.4323658"></trkpt>
+        <trkpt lat="48.2402966" lon="2.4322985"></trkpt>
+        <trkpt lat="48.2403107" lon="2.4322429"></trkpt>
+        <trkpt lat="48.2403369" lon="2.4321799"></trkpt>
+        <trkpt lat="48.2404184" lon="2.4320338"></trkpt>
+        <trkpt lat="48.2405335" lon="2.4319383"></trkpt>
+        <trkpt lat="48.2405922" lon="2.4318858"></trkpt>
+        <trkpt lat="48.2406388" lon="2.4318498"></trkpt>
+        <trkpt lat="48.240698" lon="2.4318148"></trkpt>
+        <trkpt lat="48.240769" lon="2.4317896"></trkpt>
+        <trkpt lat="48.2409625" lon="2.4317392"></trkpt>
+        <trkpt lat="48.2410716" lon="2.4316987"></trkpt>
+        <trkpt lat="48.2411847" lon="2.4316533"></trkpt>
+        <trkpt lat="48.2413138" lon="2.4316239"></trkpt>
+        <trkpt lat="48.241694" lon="2.4315295"></trkpt>
+        <trkpt lat="48.2419342" lon="2.4315997"></trkpt>
+        <trkpt lat="48.2419835" lon="2.4316135"></trkpt>
+        <trkpt lat="48.2423442" lon="2.4317141"></trkpt>
+        <trkpt lat="48.2428526" lon="2.4318791"></trkpt>
+        <trkpt lat="48.2429116" lon="2.4318983"></trkpt>
+        <trkpt lat="48.2431984" lon="2.4320379"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

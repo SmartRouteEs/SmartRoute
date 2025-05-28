@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croquaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.865882</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croquaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9391039" lon="2.9393142"></trkpt>
+        <trkpt lat="48.9391999" lon="2.9394569"></trkpt>
+        <trkpt lat="48.9395791" lon="2.940485"></trkpt>
+        <trkpt lat="48.9397453" lon="2.9410268"></trkpt>
+        <trkpt lat="48.9398882" lon="2.9415606"></trkpt>
+        <trkpt lat="48.9400082" lon="2.9420864"></trkpt>
+        <trkpt lat="48.9400442" lon="2.942273"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

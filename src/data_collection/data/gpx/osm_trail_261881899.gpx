@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Séquoias</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.794667</time>
+</metadata>
+<trk>
+    <name>Allée des Séquoias</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5585717" lon="2.4146284"></trkpt>
+        <trkpt lat="48.5572848" lon="2.4154772"></trkpt>
+        <trkpt lat="48.5558545" lon="2.4164181"></trkpt>
+        <trkpt lat="48.5556192" lon="2.4167707"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

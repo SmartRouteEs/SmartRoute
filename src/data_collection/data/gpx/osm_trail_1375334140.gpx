@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Goulotte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.978596</time>
+</metadata>
+<trk>
+    <name>Route de la Goulotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3891466" lon="2.5972393"></trkpt>
+        <trkpt lat="48.3891468" lon="2.5969094"></trkpt>
+        <trkpt lat="48.3891273" lon="2.5967146"></trkpt>
+        <trkpt lat="48.3890962" lon="2.596492"></trkpt>
+        <trkpt lat="48.3889768" lon="2.5962218"></trkpt>
+        <trkpt lat="48.3889445" lon="2.5961116"></trkpt>
+        <trkpt lat="48.3889339" lon="2.5959303"></trkpt>
+        <trkpt lat="48.3889465" lon="2.5957001"></trkpt>
+        <trkpt lat="48.3889847" lon="2.5955033"></trkpt>
+        <trkpt lat="48.3890451" lon="2.5953236"></trkpt>
+        <trkpt lat="48.3891282" lon="2.595149"></trkpt>
+        <trkpt lat="48.3891775" lon="2.5950626"></trkpt>
+        <trkpt lat="48.3892623" lon="2.5949446"></trkpt>
+        <trkpt lat="48.3893084" lon="2.5948334"></trkpt>
+        <trkpt lat="48.3893756" lon="2.5946478"></trkpt>
+        <trkpt lat="48.3894464" lon="2.5943407"></trkpt>
+        <trkpt lat="48.3897064" lon="2.5927784"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

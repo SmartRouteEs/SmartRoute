@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Épine Foreuse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.738804</time>
+</metadata>
+<trk>
+    <name>Route de l'Épine Foreuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4723415" lon="2.6433037"></trkpt>
+        <trkpt lat="48.4727298" lon="2.6439184"></trkpt>
+        <trkpt lat="48.4754534" lon="2.64765"></trkpt>
+        <trkpt lat="48.4757173" lon="2.6480102"></trkpt>
+        <trkpt lat="48.4776724" lon="2.6506687"></trkpt>
+        <trkpt lat="48.4788516" lon="2.6522719"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

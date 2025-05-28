@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie de Contin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.739987</time>
+</metadata>
+<trk>
+    <name>Voie de Contin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7118621" lon="2.3475179"></trkpt>
+        <trkpt lat="48.7118838" lon="2.3479209"></trkpt>
+        <trkpt lat="48.7117861" lon="2.3490232"></trkpt>
+        <trkpt lat="48.7114068" lon="2.3518876"></trkpt>
+        <trkpt lat="48.7113943" lon="2.351982"></trkpt>
+        <trkpt lat="48.7114015" lon="2.3521029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

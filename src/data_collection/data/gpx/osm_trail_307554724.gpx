@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Hérisson</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.953729</time>
+</metadata>
+<trk>
+    <name>Route du Hérisson</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4757602" lon="2.7538181"></trkpt>
+        <trkpt lat="48.477226" lon="2.7491369"></trkpt>
+        <trkpt lat="48.4778277" lon="2.747144"></trkpt>
+        <trkpt lat="48.4788007" lon="2.7440198"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

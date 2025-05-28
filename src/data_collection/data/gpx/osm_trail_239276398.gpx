@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Lapin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.238910</time>
+</metadata>
+<trk>
+    <name>Route du Lapin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2881657" lon="2.6379049"></trkpt>
+        <trkpt lat="48.2865638" lon="2.6356636"></trkpt>
+        <trkpt lat="48.2859149" lon="2.6362054"></trkpt>
+        <trkpt lat="48.284834" lon="2.6370629"></trkpt>
+        <trkpt lat="48.284167" lon="2.6373509"></trkpt>
+        <trkpt lat="48.2835722" lon="2.6376831"></trkpt>
+        <trkpt lat="48.2832826" lon="2.6377227"></trkpt>
+        <trkpt lat="48.2828983" lon="2.6380233"></trkpt>
+        <trkpt lat="48.2813926" lon="2.6407625"></trkpt>
+        <trkpt lat="48.2808222" lon="2.6415647"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

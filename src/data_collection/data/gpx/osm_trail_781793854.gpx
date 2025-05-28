@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Rucherie</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.978127</time>
+</metadata>
+<trk>
+    <name>Chemin de la Rucherie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8008211" lon="2.727125"></trkpt>
+        <trkpt lat="48.797578" lon="2.7279329"></trkpt>
+        <trkpt lat="48.797379" lon="2.7279942"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

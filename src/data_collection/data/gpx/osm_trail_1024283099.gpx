@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Vacher</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.519954</time>
+</metadata>
+<trk>
+    <name>Route du Vacher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3664675" lon="2.606307"></trkpt>
+        <trkpt lat="48.3661739" lon="2.605775"></trkpt>
+        <trkpt lat="48.3660735" lon="2.6055747"></trkpt>
+        <trkpt lat="48.3659573" lon="2.6054086"></trkpt>
+        <trkpt lat="48.36572" lon="2.6052057"></trkpt>
+        <trkpt lat="48.3656144" lon="2.6051317"></trkpt>
+        <trkpt lat="48.3654234" lon="2.6049581"></trkpt>
+        <trkpt lat="48.3653396" lon="2.6048575"></trkpt>
+        <trkpt lat="48.3645746" lon="2.6042392"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

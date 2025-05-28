@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 25009</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.227918</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 25009</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2507108" lon="3.0821509"></trkpt>
+        <trkpt lat="48.2505866" lon="3.0823402"></trkpt>
+        <trkpt lat="48.2503443" lon="3.0826529"></trkpt>
+        <trkpt lat="48.2501498" lon="3.0830014"></trkpt>
+        <trkpt lat="48.2502447" lon="3.0832235"></trkpt>
+        <trkpt lat="48.2510197" lon="3.0851315"></trkpt>
+        <trkpt lat="48.2521886" lon="3.0878219"></trkpt>
+        <trkpt lat="48.2523474" lon="3.0881081"></trkpt>
+        <trkpt lat="48.2543229" lon="3.0897967"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

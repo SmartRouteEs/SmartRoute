@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Nangis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.988402</time>
+</metadata>
+<trk>
+    <name>Chemin de Nangis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5083422" lon="3.0984214"></trkpt>
+        <trkpt lat="48.5067508" lon="3.1005106"></trkpt>
+        <trkpt lat="48.505854" lon="3.101177"></trkpt>
+        <trkpt lat="48.5046816" lon="3.1017351"></trkpt>
+        <trkpt lat="48.5041765" lon="3.1021979"></trkpt>
+        <trkpt lat="48.5022825" lon="3.1041173"></trkpt>
+        <trkpt lat="48.5011009" lon="3.1045528"></trkpt>
+        <trkpt lat="48.5004291" lon="3.104914"></trkpt>
+        <trkpt lat="48.4988953" lon="3.1054691"></trkpt>
+        <trkpt lat="48.4976824" lon="3.105788"></trkpt>
+        <trkpt lat="48.4960546" lon="3.1076775"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

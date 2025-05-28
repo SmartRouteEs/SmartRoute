@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Vieux Chemin de Bray</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.812856</time>
+</metadata>
+<trk>
+    <name>Vieux Chemin de Bray</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.46197" lon="3.1642183"></trkpt>
+        <trkpt lat="48.462014" lon="3.1641253"></trkpt>
+        <trkpt lat="48.4620792" lon="3.1639875"></trkpt>
+        <trkpt lat="48.4621267" lon="3.1637923"></trkpt>
+        <trkpt lat="48.4622" lon="3.1634539"></trkpt>
+        <trkpt lat="48.4622907" lon="3.1630483"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

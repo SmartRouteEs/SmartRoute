@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Peuple la Lance</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.730311</time>
+</metadata>
+<trk>
+    <name>Chemin du Peuple la Lance</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5672937" lon="2.2466557"></trkpt>
+        <trkpt lat="48.5672005" lon="2.2466803"></trkpt>
+        <trkpt lat="48.5671416" lon="2.2467041"></trkpt>
+        <trkpt lat="48.5659387" lon="2.2471002"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

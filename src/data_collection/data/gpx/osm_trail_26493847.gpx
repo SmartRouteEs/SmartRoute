@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Passerelle Industrielle d'Ivry-Charenton</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Passerelle Industrielle d'Ivry-Charenton</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8185972" lon="2.407877"></trkpt>
+        <trkpt lat="48.8186773" lon="2.4074945"></trkpt>
+        <trkpt lat="48.8186802" lon="2.4074717"></trkpt>
+        <trkpt lat="48.8186742" lon="2.4074435"></trkpt>
+        <trkpt lat="48.8186584" lon="2.4074226"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

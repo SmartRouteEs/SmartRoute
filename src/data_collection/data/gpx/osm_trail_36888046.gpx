@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Dames</name>
+    <desc>Sentier VTT - Type: path - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.088535</time>
+</metadata>
+<trk>
+    <name>Route des Dames</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8421288" lon="2.4520926"></trkpt>
+        <trkpt lat="48.8421099" lon="2.4520915"></trkpt>
+        <trkpt lat="48.8421022" lon="2.4520915"></trkpt>
+        <trkpt lat="48.8420945" lon="2.4520936"></trkpt>
+        <trkpt lat="48.8420756" lon="2.4521021"></trkpt>
+        <trkpt lat="48.8410663" lon="2.4527313"></trkpt>
+        <trkpt lat="48.840979" lon="2.4527888"></trkpt>
+        <trkpt lat="48.840922" lon="2.452795"></trkpt>
+        <trkpt lat="48.8408508" lon="2.4528322"></trkpt>
+        <trkpt lat="48.8407858" lon="2.4528691"></trkpt>
+        <trkpt lat="48.8407238" lon="2.4529043"></trkpt>
+        <trkpt lat="48.8406623" lon="2.4529327"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Pacot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.026948</time>
+</metadata>
+<trk>
+    <name>Chemin Pacot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5822919" lon="2.2701965"></trkpt>
+        <trkpt lat="48.5825256" lon="2.2704086"></trkpt>
+        <trkpt lat="48.5826334" lon="2.270521"></trkpt>
+        <trkpt lat="48.5827119" lon="2.270613"></trkpt>
+        <trkpt lat="48.5828055" lon="2.2707344"></trkpt>
+        <trkpt lat="48.5830742" lon="2.2711703"></trkpt>
+        <trkpt lat="48.5833353" lon="2.2716401"></trkpt>
+        <trkpt lat="48.5835857" lon="2.2721227"></trkpt>
+        <trkpt lat="48.5836462" lon="2.2722041"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

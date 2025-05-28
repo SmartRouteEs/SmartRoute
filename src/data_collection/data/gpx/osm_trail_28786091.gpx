@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Villemain</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.703388</time>
+</metadata>
+<trk>
+    <name>Sentier de Villemain</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6884508" lon="2.6539937"></trkpt>
+        <trkpt lat="48.6882322" lon="2.6520205"></trkpt>
+        <trkpt lat="48.6879885" lon="2.6499176"></trkpt>
+        <trkpt lat="48.6872916" lon="2.643961"></trkpt>
+        <trkpt lat="48.6869233" lon="2.6405278"></trkpt>
+        <trkpt lat="48.6868599" lon="2.6400374"></trkpt>
+        <trkpt lat="48.6868616" lon="2.6399323"></trkpt>
+        <trkpt lat="48.6868666" lon="2.6397896"></trkpt>
+        <trkpt lat="48.6869265" lon="2.6394152"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

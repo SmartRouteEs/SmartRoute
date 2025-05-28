@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grange</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.617653</time>
+</metadata>
+<trk>
+    <name>Route de la Grange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5893619" lon="2.5443559"></trkpt>
+        <trkpt lat="48.5895009" lon="2.544487"></trkpt>
+        <trkpt lat="48.5895389" lon="2.5445437"></trkpt>
+        <trkpt lat="48.5895666" lon="2.544585"></trkpt>
+        <trkpt lat="48.5907867" lon="2.5466604"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

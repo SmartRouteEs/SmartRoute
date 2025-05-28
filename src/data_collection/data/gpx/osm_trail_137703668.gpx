@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Tour de Gisy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.128263</time>
+</metadata>
+<trk>
+    <name>Chemin de la Tour de Gisy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7633232" lon="2.2005445"></trkpt>
+        <trkpt lat="48.7634718" lon="2.2002965"></trkpt>
+        <trkpt lat="48.7636362" lon="2.2000444"></trkpt>
+        <trkpt lat="48.7638926" lon="2.1998459"></trkpt>
+        <trkpt lat="48.7642126" lon="2.1996045"></trkpt>
+        <trkpt lat="48.7643901" lon="2.1994541"></trkpt>
+        <trkpt lat="48.7645238" lon="2.1994007"></trkpt>
+        <trkpt lat="48.7647036" lon="2.1993079"></trkpt>
+        <trkpt lat="48.7649317" lon="2.1990214"></trkpt>
+        <trkpt lat="48.765002" lon="2.1987517"></trkpt>
+        <trkpt lat="48.7649795" lon="2.1986128"></trkpt>
+        <trkpt lat="48.7649092" lon="2.1984565"></trkpt>
+        <trkpt lat="48.7648402" lon="2.1981642"></trkpt>
+        <trkpt lat="48.7647872" lon="2.1977591"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Ormes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.089137</time>
+</metadata>
+<trk>
+    <name>Chemin des Ormes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4588933" lon="3.1663054"></trkpt>
+        <trkpt lat="48.4588302" lon="3.1668423"></trkpt>
+        <trkpt lat="48.4587468" lon="3.1674681"></trkpt>
+        <trkpt lat="48.4586207" lon="3.1684989"></trkpt>
+        <trkpt lat="48.4584803" lon="3.1696248"></trkpt>
+        <trkpt lat="48.4583826" lon="3.1704132"></trkpt>
+        <trkpt lat="48.4582423" lon="3.1714746"></trkpt>
+        <trkpt lat="48.458165" lon="3.1720147"></trkpt>
+        <trkpt lat="48.457212" lon="3.172565"></trkpt>
+        <trkpt lat="48.4562193" lon="3.1731554"></trkpt>
+        <trkpt lat="48.4549849" lon="3.1738929"></trkpt>
+        <trkpt lat="48.4535721" lon="3.1747433"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Fossés</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.627667</time>
+</metadata>
+<trk>
+    <name>Chemin des Fossés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5125839" lon="3.1686337"></trkpt>
+        <trkpt lat="48.5123912" lon="3.1690333"></trkpt>
+        <trkpt lat="48.5120784" lon="3.1696932"></trkpt>
+        <trkpt lat="48.5118669" lon="3.1701311"></trkpt>
+        <trkpt lat="48.5118297" lon="3.1702082"></trkpt>
+        <trkpt lat="48.5116129" lon="3.1707446"></trkpt>
+        <trkpt lat="48.5113961" lon="3.1713722"></trkpt>
+        <trkpt lat="48.5113286" lon="3.171796"></trkpt>
+        <trkpt lat="48.5113428" lon="3.1723432"></trkpt>
+        <trkpt lat="48.5113467" lon="3.1726688"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 12841</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.640722</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 12841</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8306217" lon="2.1915165"></trkpt>
+        <trkpt lat="48.8306625" lon="2.1913685"></trkpt>
+        <trkpt lat="48.8307553" lon="2.1911013"></trkpt>
+        <trkpt lat="48.8307977" lon="2.1908854"></trkpt>
+        <trkpt lat="48.8307659" lon="2.1905777"></trkpt>
+        <trkpt lat="48.8307357" lon="2.1903995"></trkpt>
+        <trkpt lat="48.8306208" lon="2.190183"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

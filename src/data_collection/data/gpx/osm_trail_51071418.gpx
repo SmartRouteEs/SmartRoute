@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3590</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.862514</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3590</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6651983" lon="2.3478834"></trkpt>
+        <trkpt lat="48.6652334" lon="2.3479018"></trkpt>
+        <trkpt lat="48.6653505" lon="2.3479624"></trkpt>
+        <trkpt lat="48.6654342" lon="2.348034"></trkpt>
+        <trkpt lat="48.6655287" lon="2.3480705"></trkpt>
+        <trkpt lat="48.6656143" lon="2.3480876"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

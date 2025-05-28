@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Belvédère</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.663923</time>
+</metadata>
+<trk>
+    <name>Route du Belvédère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3601025" lon="2.7144396"></trkpt>
+        <trkpt lat="48.3601095" lon="2.714322"></trkpt>
+        <trkpt lat="48.3602006" lon="2.7130617"></trkpt>
+        <trkpt lat="48.3603528" lon="2.7120911"></trkpt>
+        <trkpt lat="48.3606588" lon="2.7105788"></trkpt>
+        <trkpt lat="48.3607992" lon="2.709485"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

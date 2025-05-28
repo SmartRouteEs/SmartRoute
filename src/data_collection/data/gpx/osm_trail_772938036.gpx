@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Seine à la Butte Mortemart</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.946098</time>
+</metadata>
+<trk>
+    <name>Route de la Seine à la Butte Mortemart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8518831" lon="2.238956"></trkpt>
+        <trkpt lat="48.8520236" lon="2.2390578"></trkpt>
+        <trkpt lat="48.852056" lon="2.2390989"></trkpt>
+        <trkpt lat="48.8520757" lon="2.239142"></trkpt>
+        <trkpt lat="48.8521053" lon="2.2392175"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

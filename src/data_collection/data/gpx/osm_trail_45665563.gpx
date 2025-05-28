@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Graville</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.465510</time>
+</metadata>
+<trk>
+    <name>Chemin de Graville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3986536" lon="2.8087323"></trkpt>
+        <trkpt lat="48.3987876" lon="2.8104627"></trkpt>
+        <trkpt lat="48.3988215" lon="2.8112926"></trkpt>
+        <trkpt lat="48.3989849" lon="2.8139572"></trkpt>
+        <trkpt lat="48.3992218" lon="2.8173929"></trkpt>
+        <trkpt lat="48.399246" lon="2.8178634"></trkpt>
+        <trkpt lat="48.3994131" lon="2.8210081"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

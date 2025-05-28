@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Quatre Chênes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:53.263687</time>
+</metadata>
+<trk>
+    <name>Chemin des Quatre Chênes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7734075" lon="2.5869803"></trkpt>
+        <trkpt lat="48.7732423" lon="2.5871289"></trkpt>
+        <trkpt lat="48.7729262" lon="2.5874816"></trkpt>
+        <trkpt lat="48.7726797" lon="2.5877926"></trkpt>
+        <trkpt lat="48.7726304" lon="2.5878547"></trkpt>
+        <trkpt lat="48.7721646" lon="2.5884479"></trkpt>
+        <trkpt lat="48.7719321" lon="2.588719"></trkpt>
+        <trkpt lat="48.7715956" lon="2.5890423"></trkpt>
+        <trkpt lat="48.7712016" lon="2.589364"></trkpt>
+        <trkpt lat="48.771035" lon="2.589502"></trkpt>
+        <trkpt lat="48.7709611" lon="2.5895632"></trkpt>
+        <trkpt lat="48.7704208" lon="2.5899115"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

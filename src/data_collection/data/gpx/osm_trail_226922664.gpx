@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Brignole Galliera</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:50.582783</time>
+</metadata>
+<trk>
+    <name>Rue Brignole Galliera</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8075006" lon="2.2484811"></trkpt>
+        <trkpt lat="48.807435" lon="2.2485391"></trkpt>
+        <trkpt lat="48.8067128" lon="2.2489758"></trkpt>
+        <trkpt lat="48.8063885" lon="2.2491766"></trkpt>
+        <trkpt lat="48.8060323" lon="2.2495156"></trkpt>
+        <trkpt lat="48.8057709" lon="2.2497817"></trkpt>
+        <trkpt lat="48.8054971" lon="2.250049"></trkpt>
+        <trkpt lat="48.8054536" lon="2.2500859"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

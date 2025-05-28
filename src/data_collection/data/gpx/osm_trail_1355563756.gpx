@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Bas Mocquets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.714053</time>
+</metadata>
+<trk>
+    <name>Sentier des Bas Mocquets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6357607" lon="2.2243168"></trkpt>
+        <trkpt lat="48.6357331" lon="2.2239311"></trkpt>
+        <trkpt lat="48.6357783" lon="2.2235128"></trkpt>
+        <trkpt lat="48.6357712" lon="2.2232289"></trkpt>
+        <trkpt lat="48.6356475" lon="2.2227286"></trkpt>
+        <trkpt lat="48.6353413" lon="2.2220708"></trkpt>
+        <trkpt lat="48.6352829" lon="2.2217104"></trkpt>
+        <trkpt lat="48.6351385" lon="2.2212173"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

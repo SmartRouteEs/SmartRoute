@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse de la Boulangerie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Impasse de la Boulangerie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6548375" lon="2.6985373"></trkpt>
+        <trkpt lat="48.6546355" lon="2.6986178"></trkpt>
+        <trkpt lat="48.6545895" lon="2.6985883"></trkpt>
+        <trkpt lat="48.6545593" lon="2.6983978"></trkpt>
+        <trkpt lat="48.6545274" lon="2.6983281"></trkpt>
+        <trkpt lat="48.6545026" lon="2.6981967"></trkpt>
+        <trkpt lat="48.6544658" lon="2.6981816"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

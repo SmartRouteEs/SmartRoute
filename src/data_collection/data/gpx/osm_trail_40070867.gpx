@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2114</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.222696</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2114</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6844293" lon="2.3744735"></trkpt>
+        <trkpt lat="48.6844544" lon="2.3744606"></trkpt>
+        <trkpt lat="48.6844738" lon="2.3744608"></trkpt>
+        <trkpt lat="48.6845481" lon="2.3744071"></trkpt>
+        <trkpt lat="48.684636" lon="2.3743662"></trkpt>
+        <trkpt lat="48.6847132" lon="2.3743029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

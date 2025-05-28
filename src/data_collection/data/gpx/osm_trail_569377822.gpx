@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Côte Marin</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.292498</time>
+</metadata>
+<trk>
+    <name>Chemin de la Côte Marin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1641077" lon="3.3005139"></trkpt>
+        <trkpt lat="48.1643252" lon="3.3024469"></trkpt>
+        <trkpt lat="48.1643356" lon="3.3025389"></trkpt>
+        <trkpt lat="48.1654791" lon="3.3103682"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

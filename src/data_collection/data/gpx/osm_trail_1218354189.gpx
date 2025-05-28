@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rocher Fin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.022456</time>
+</metadata>
+<trk>
+    <name>Chemin du Rocher Fin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3765511" lon="2.5380902"></trkpt>
+        <trkpt lat="48.3765608" lon="2.5383288"></trkpt>
+        <trkpt lat="48.3764907" lon="2.5385422"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

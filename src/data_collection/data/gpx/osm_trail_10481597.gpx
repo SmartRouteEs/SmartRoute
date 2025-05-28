@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois des Petis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.318757</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois des Petis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6345064" lon="2.2348727"></trkpt>
+        <trkpt lat="48.6345869" lon="2.2346922"></trkpt>
+        <trkpt lat="48.6347097" lon="2.2340327"></trkpt>
+        <trkpt lat="48.6347474" lon="2.2338324"></trkpt>
+        <trkpt lat="48.6348933" lon="2.2335303"></trkpt>
+        <trkpt lat="48.6349704" lon="2.2333327"></trkpt>
+        <trkpt lat="48.6349955" lon="2.2331385"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

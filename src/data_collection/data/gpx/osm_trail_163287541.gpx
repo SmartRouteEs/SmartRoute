@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Loge Verte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.829938</time>
+</metadata>
+<trk>
+    <name>Chemin de la Loge Verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5246626" lon="2.2083941"></trkpt>
+        <trkpt lat="48.5246754" lon="2.2085161"></trkpt>
+        <trkpt lat="48.5228059" lon="2.214017"></trkpt>
+        <trkpt lat="48.522253" lon="2.2156624"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Terrasses</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.131259</time>
+</metadata>
+<trk>
+    <name>Allée des Terrasses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5999199" lon="2.4925807"></trkpt>
+        <trkpt lat="48.5999754" lon="2.4925674"></trkpt>
+        <trkpt lat="48.6001798" lon="2.4924"></trkpt>
+        <trkpt lat="48.600296" lon="2.4923482"></trkpt>
+        <trkpt lat="48.6004867" lon="2.4922856"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

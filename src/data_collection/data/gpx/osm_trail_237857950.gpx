@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.074103</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4303043" lon="2.2640178"></trkpt>
+        <trkpt lat="48.4301734" lon="2.2641114"></trkpt>
+        <trkpt lat="48.4301743" lon="2.2642166"></trkpt>
+        <trkpt lat="48.4301829" lon="2.2643573"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

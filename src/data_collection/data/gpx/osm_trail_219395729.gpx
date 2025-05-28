@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pont Jeanne d'Arc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.220632</time>
+</metadata>
+<trk>
+    <name>Chemin du Pont Jeanne d'Arc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8771535" lon="2.7339717"></trkpt>
+        <trkpt lat="48.8770129" lon="2.7348076"></trkpt>
+        <trkpt lat="48.8769739" lon="2.7349488"></trkpt>
+        <trkpt lat="48.8769218" lon="2.7351787"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

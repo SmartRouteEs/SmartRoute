@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Chevaux des Coches</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.758059</time>
+</metadata>
+<trk>
+    <name>Route des Chevaux des Coches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4143529" lon="2.8089097"></trkpt>
+        <trkpt lat="48.4139936" lon="2.8116459"></trkpt>
+        <trkpt lat="48.4137944" lon="2.8131626"></trkpt>
+        <trkpt lat="48.4133921" lon="2.8164932"></trkpt>
+        <trkpt lat="48.4122828" lon="2.8256759"></trkpt>
+        <trkpt lat="48.4118361" lon="2.8293739"></trkpt>
+        <trkpt lat="48.4117577" lon="2.8298996"></trkpt>
+        <trkpt lat="48.4116224" lon="2.8303502"></trkpt>
+        <trkpt lat="48.4113874" lon="2.8308223"></trkpt>
+        <trkpt lat="48.4112814" lon="2.8309489"></trkpt>
+        <trkpt lat="48.4082268" lon="2.8366996"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

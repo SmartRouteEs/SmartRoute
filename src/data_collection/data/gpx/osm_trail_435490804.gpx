@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Port aux Sablons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.071043</time>
+</metadata>
+<trk>
+    <name>Chemin du Port aux Sablons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5952854" lon="2.5225543"></trkpt>
+        <trkpt lat="48.5952093" lon="2.5219599"></trkpt>
+        <trkpt lat="48.5947526" lon="2.51829"></trkpt>
+        <trkpt lat="48.59474" lon="2.5182578"></trkpt>
+        <trkpt lat="48.5947148" lon="2.5181931"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Laborieux</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.533026</time>
+</metadata>
+<trk>
+    <name>Rue des Laborieux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.87254" lon="2.4376495"></trkpt>
+        <trkpt lat="48.8733154" lon="2.4396838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

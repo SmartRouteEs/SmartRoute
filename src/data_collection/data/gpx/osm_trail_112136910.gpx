@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Jallot</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.783079</time>
+</metadata>
+<trk>
+    <name>Chemin Jallot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.701429" lon="2.1979591"></trkpt>
+        <trkpt lat="48.7014123" lon="2.1979276"></trkpt>
+        <trkpt lat="48.7013027" lon="2.1976161"></trkpt>
+        <trkpt lat="48.7011951" lon="2.1970393"></trkpt>
+        <trkpt lat="48.701194" lon="2.1970071"></trkpt>
+        <trkpt lat="48.7011995" lon="2.1969471"></trkpt>
+        <trkpt lat="48.7011831" lon="2.1967781"></trkpt>
+        <trkpt lat="48.7011132" lon="2.196634"></trkpt>
+        <trkpt lat="48.701116" lon="2.1965799"></trkpt>
+        <trkpt lat="48.701114" lon="2.1965104"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

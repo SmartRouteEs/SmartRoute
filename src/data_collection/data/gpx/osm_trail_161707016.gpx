@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 7718</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.785369</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 7718</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7760625" lon="2.3010632"></trkpt>
+        <trkpt lat="48.7759826" lon="2.3014303"></trkpt>
+        <trkpt lat="48.7759519" lon="2.3015091"></trkpt>
+        <trkpt lat="48.7759855" lon="2.3016045"></trkpt>
+        <trkpt lat="48.776012" lon="2.3017659"></trkpt>
+        <trkpt lat="48.7760418" lon="2.3019524"></trkpt>
+        <trkpt lat="48.7761809" lon="2.3028114"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

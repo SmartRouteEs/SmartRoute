@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Gaudray</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.018158</time>
+</metadata>
+<trk>
+    <name>Route de Gaudray</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5741595" lon="2.5182905"></trkpt>
+        <trkpt lat="48.5747949" lon="2.5184837"></trkpt>
+        <trkpt lat="48.5753998" lon="2.5186727"></trkpt>
+        <trkpt lat="48.5761648" lon="2.5189118"></trkpt>
+        <trkpt lat="48.5763498" lon="2.5189697"></trkpt>
+        <trkpt lat="48.5770918" lon="2.5192199"></trkpt>
+        <trkpt lat="48.5780699" lon="2.5195317"></trkpt>
+        <trkpt lat="48.5786878" lon="2.519726"></trkpt>
+        <trkpt lat="48.5789172" lon="2.519739"></trkpt>
+        <trkpt lat="48.5808486" lon="2.5203632"></trkpt>
+        <trkpt lat="48.5849772" lon="2.5216497"></trkpt>
+        <trkpt lat="48.5863541" lon="2.5220787"></trkpt>
+        <trkpt lat="48.5864818" lon="2.5219929"></trkpt>
+        <trkpt lat="48.5866238" lon="2.5219929"></trkpt>
+        <trkpt lat="48.5868225" lon="2.5222504"></trkpt>
+        <trkpt lat="48.5887162" lon="2.5228357"></trkpt>
+        <trkpt lat="48.5889608" lon="2.5229113"></trkpt>
+        <trkpt lat="48.5909703" lon="2.5238538"></trkpt>
+        <trkpt lat="48.5915839" lon="2.5234852"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

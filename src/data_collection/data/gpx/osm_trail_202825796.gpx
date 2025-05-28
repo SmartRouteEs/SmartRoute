@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Clavoise</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.008613</time>
+</metadata>
+<trk>
+    <name>Chemin de la Clavoise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5277455" lon="3.2296912"></trkpt>
+        <trkpt lat="48.5273774" lon="3.2303179"></trkpt>
+        <trkpt lat="48.526974" lon="3.2308703"></trkpt>
+        <trkpt lat="48.5266674" lon="3.2315267"></trkpt>
+        <trkpt lat="48.5264393" lon="3.2320722"></trkpt>
+        <trkpt lat="48.5261794" lon="3.2328474"></trkpt>
+        <trkpt lat="48.5257712" lon="3.233726"></trkpt>
+        <trkpt lat="48.5253209" lon="3.2344781"></trkpt>
+        <trkpt lat="48.5238429" lon="3.2360691"></trkpt>
+        <trkpt lat="48.5233277" lon="3.2368719"></trkpt>
+        <trkpt lat="48.52328" lon="3.2370655"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

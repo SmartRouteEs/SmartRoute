@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Plaine de Jean de Vignes</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.556017</time>
+</metadata>
+<trk>
+    <name>Chemin de la Plaine de Jean de Vignes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3809389" lon="2.5209892"></trkpt>
+        <trkpt lat="48.380625" lon="2.520538"></trkpt>
+        <trkpt lat="48.38027" lon="2.519991"></trkpt>
+        <trkpt lat="48.37993" lon="2.519528"></trkpt>
+        <trkpt lat="48.379567" lon="2.518962"></trkpt>
+        <trkpt lat="48.379438" lon="2.518798"></trkpt>
+        <trkpt lat="48.377979" lon="2.516639"></trkpt>
+        <trkpt lat="48.3778785" lon="2.516466"></trkpt>
+        <trkpt lat="48.377461" lon="2.515747"></trkpt>
+        <trkpt lat="48.377163" lon="2.515289"></trkpt>
+        <trkpt lat="48.37701" lon="2.515084"></trkpt>
+        <trkpt lat="48.3769753" lon="2.5150226"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

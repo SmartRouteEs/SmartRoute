@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Pompadour</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.506344</time>
+</metadata>
+<trk>
+    <name>Route de Pompadour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3832472" lon="2.6978873"></trkpt>
+        <trkpt lat="48.3819007" lon="2.6938896"></trkpt>
+        <trkpt lat="48.381262" lon="2.692804"></trkpt>
+        <trkpt lat="48.3810953" lon="2.6923794"></trkpt>
+        <trkpt lat="48.3805729" lon="2.6924658"></trkpt>
+        <trkpt lat="48.3803079" lon="2.6924025"></trkpt>
+        <trkpt lat="48.3784316" lon="2.6919009"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

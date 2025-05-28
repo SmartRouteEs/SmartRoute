@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Léopold</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.259455</time>
+</metadata>
+<trk>
+    <name>Route Léopold</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4124239" lon="2.692219"></trkpt>
+        <trkpt lat="48.4122708" lon="2.6920628"></trkpt>
+        <trkpt lat="48.4116985" lon="2.6915683"></trkpt>
+        <trkpt lat="48.410711" lon="2.690696"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

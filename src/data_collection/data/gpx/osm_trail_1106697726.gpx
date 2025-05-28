@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Gué de la Folie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.149899</time>
+</metadata>
+<trk>
+    <name>Chemin du Gué de la Folie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4654148" lon="3.3039209"></trkpt>
+        <trkpt lat="48.4660782" lon="3.3041999"></trkpt>
+        <trkpt lat="48.4668511" lon="3.3046464"></trkpt>
+        <trkpt lat="48.4675863" lon="3.3051655"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

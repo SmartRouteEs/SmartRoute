@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Milan</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.283582</time>
+</metadata>
+<trk>
+    <name>Route du Milan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4309247" lon="2.6486534"></trkpt>
+        <trkpt lat="48.4307579" lon="2.6491206"></trkpt>
+        <trkpt lat="48.4300585" lon="2.6509987"></trkpt>
+        <trkpt lat="48.4299321" lon="2.6514538"></trkpt>
+        <trkpt lat="48.4298687" lon="2.651942"></trkpt>
+        <trkpt lat="48.4298616" lon="2.6524444"></trkpt>
+        <trkpt lat="48.4298729" lon="2.6529463"></trkpt>
+        <trkpt lat="48.4299452" lon="2.6533844"></trkpt>
+        <trkpt lat="48.4301176" lon="2.6540176"></trkpt>
+        <trkpt lat="48.4303079" lon="2.6546652"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

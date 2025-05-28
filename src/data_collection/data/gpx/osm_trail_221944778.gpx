@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte de Clamart</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.454469</time>
+</metadata>
+<trk>
+    <name>Route de la Porte de Clamart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7960717" lon="2.2490045"></trkpt>
+        <trkpt lat="48.7963832" lon="2.2497633"></trkpt>
+        <trkpt lat="48.7970095" lon="2.2510133"></trkpt>
+        <trkpt lat="48.7971732" lon="2.2513108"></trkpt>
+        <trkpt lat="48.7973005" lon="2.251548"></trkpt>
+        <trkpt lat="48.7978949" lon="2.2521745"></trkpt>
+        <trkpt lat="48.7985778" lon="2.2529024"></trkpt>
+        <trkpt lat="48.7986885" lon="2.2529957"></trkpt>
+        <trkpt lat="48.798935" lon="2.2530243"></trkpt>
+        <trkpt lat="48.7992658" lon="2.2531845"></trkpt>
+        <trkpt lat="48.799488" lon="2.253193"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

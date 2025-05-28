@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Ballancourt à Champcueil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.630867</time>
+</metadata>
+<trk>
+    <name>Chemin de Ballancourt à Champcueil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.524636" lon="2.4061859"></trkpt>
+        <trkpt lat="48.5245635" lon="2.4057946"></trkpt>
+        <trkpt lat="48.5245257" lon="2.4055846"></trkpt>
+        <trkpt lat="48.524519" lon="2.4049547"></trkpt>
+        <trkpt lat="48.5246242" lon="2.4046347"></trkpt>
+        <trkpt lat="48.5250181" lon="2.4036388"></trkpt>
+        <trkpt lat="48.5252668" lon="2.4030286"></trkpt>
+        <trkpt lat="48.5257645" lon="2.4019748"></trkpt>
+        <trkpt lat="48.5262758" lon="2.4008678"></trkpt>
+        <trkpt lat="48.5265114" lon="2.4003401"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

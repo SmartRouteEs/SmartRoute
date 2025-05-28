@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.224599</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.821925" lon="3.013893"></trkpt>
+        <trkpt lat="48.8218194" lon="3.0139101"></trkpt>
+        <trkpt lat="48.8216692" lon="3.0140281"></trkpt>
+        <trkpt lat="48.8215333" lon="3.014232"></trkpt>
+        <trkpt lat="48.8213832" lon="3.0144063"></trkpt>
+        <trkpt lat="48.8211024" lon="3.014747"></trkpt>
+        <trkpt lat="48.8208057" lon="3.0149294"></trkpt>
+        <trkpt lat="48.8205514" lon="3.0149937"></trkpt>
+        <trkpt lat="48.8203465" lon="3.0150366"></trkpt>
+        <trkpt lat="48.8200538" lon="3.015173"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

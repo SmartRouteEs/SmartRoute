@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Fourneau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.780831</time>
+</metadata>
+<trk>
+    <name>Route du Fourneau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.401995" lon="2.7571067"></trkpt>
+        <trkpt lat="48.4016616" lon="2.7609195"></trkpt>
+        <trkpt lat="48.4011563" lon="2.7642561"></trkpt>
+        <trkpt lat="48.401148" lon="2.7691895"></trkpt>
+        <trkpt lat="48.39993" lon="2.7736058"></trkpt>
+        <trkpt lat="48.3997377" lon="2.7742579"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

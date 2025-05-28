@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Sainte-Sophie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.167764</time>
+</metadata>
+<trk>
+    <name>Allée Sainte-Sophie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8110687" lon="2.6803043"></trkpt>
+        <trkpt lat="48.8110326" lon="2.6802895"></trkpt>
+        <trkpt lat="48.8103267" lon="2.6799994"></trkpt>
+        <trkpt lat="48.8062687" lon="2.6783322"></trkpt>
+        <trkpt lat="48.8016529" lon="2.6762626"></trkpt>
+        <trkpt lat="48.8013012" lon="2.6760948"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

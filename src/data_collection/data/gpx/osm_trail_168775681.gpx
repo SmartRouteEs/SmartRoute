@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de l'Hyvert</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.921768</time>
+</metadata>
+<trk>
+    <name>Allée de l'Hyvert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5568141" lon="2.4198056"></trkpt>
+        <trkpt lat="48.5589247" lon="2.4230791"></trkpt>
+        <trkpt lat="48.5592786" lon="2.4236279"></trkpt>
+        <trkpt lat="48.559911" lon="2.4247276"></trkpt>
+        <trkpt lat="48.5612169" lon="2.4267726"></trkpt>
+        <trkpt lat="48.5620177" lon="2.4280774"></trkpt>
+        <trkpt lat="48.5621618" lon="2.4281572"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

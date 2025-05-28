@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Arpajon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.318757</time>
+</metadata>
+<trk>
+    <name>Chemin d'Arpajon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6325049" lon="2.2287268"></trkpt>
+        <trkpt lat="48.6322388" lon="2.2289932"></trkpt>
+        <trkpt lat="48.6319641" lon="2.2293425"></trkpt>
+        <trkpt lat="48.6318661" lon="2.2294315"></trkpt>
+        <trkpt lat="48.6317727" lon="2.2294643"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

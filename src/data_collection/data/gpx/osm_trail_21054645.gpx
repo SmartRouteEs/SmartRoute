@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Calmar</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.436159</time>
+</metadata>
+<trk>
+    <name>Route de Calmar</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4377063" lon="2.6552794"></trkpt>
+        <trkpt lat="48.4388319" lon="2.656318"></trkpt>
+        <trkpt lat="48.4395114" lon="2.6568469"></trkpt>
+        <trkpt lat="48.4409834" lon="2.6587233"></trkpt>
+        <trkpt lat="48.4411091" lon="2.6588665"></trkpt>
+        <trkpt lat="48.4414687" lon="2.6593378"></trkpt>
+        <trkpt lat="48.4416548" lon="2.6593362"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

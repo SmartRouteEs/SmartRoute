@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 1542</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.944723</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 1542</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8177875" lon="2.2087244"></trkpt>
+        <trkpt lat="48.8177761" lon="2.2103389"></trkpt>
+        <trkpt lat="48.8177355" lon="2.2106562"></trkpt>
+        <trkpt lat="48.817675" lon="2.2111285"></trkpt>
+        <trkpt lat="48.817212" lon="2.2124381"></trkpt>
+        <trkpt lat="48.817181" lon="2.2127103"></trkpt>
+        <trkpt lat="48.8171887" lon="2.2130752"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

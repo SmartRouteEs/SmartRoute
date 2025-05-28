@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Cour des Bleuets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.649081</time>
+</metadata>
+<trk>
+    <name>Cour des Bleuets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8217549" lon="2.7067315"></trkpt>
+        <trkpt lat="48.8217827" lon="2.7067757"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Diane</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.258807</time>
+</metadata>
+<trk>
+    <name>Route de Diane</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4046787" lon="2.7312376"></trkpt>
+        <trkpt lat="48.4048775" lon="2.7312799"></trkpt>
+        <trkpt lat="48.406152" lon="2.7316588"></trkpt>
+        <trkpt lat="48.407708" lon="2.7320755"></trkpt>
+        <trkpt lat="48.4090021" lon="2.7322429"></trkpt>
+        <trkpt lat="48.4091306" lon="2.7322268"></trkpt>
+        <trkpt lat="48.4093484" lon="2.7321996"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

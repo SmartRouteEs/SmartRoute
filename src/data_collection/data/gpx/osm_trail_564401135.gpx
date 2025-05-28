@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Grand Duc</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.267617</time>
+</metadata>
+<trk>
+    <name>Route du Grand Duc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4077732" lon="2.6645224"></trkpt>
+        <trkpt lat="48.4080259" lon="2.6638514"></trkpt>
+        <trkpt lat="48.4089247" lon="2.6621836"></trkpt>
+        <trkpt lat="48.409079" lon="2.6619822"></trkpt>
+        <trkpt lat="48.409139" lon="2.6618124"></trkpt>
+        <trkpt lat="48.4103693" lon="2.6594257"></trkpt>
+        <trkpt lat="48.4115796" lon="2.6570777"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Vallée aux Moines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.180747</time>
+</metadata>
+<trk>
+    <name>Vallée aux Moines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1579118" lon="2.7237506"></trkpt>
+        <trkpt lat="48.157798" lon="2.7238156"></trkpt>
+        <trkpt lat="48.1576339" lon="2.7237935"></trkpt>
+        <trkpt lat="48.1574534" lon="2.7238377"></trkpt>
+        <trkpt lat="48.1568636" lon="2.7243868"></trkpt>
+        <trkpt lat="48.1564227" lon="2.724812"></trkpt>
+        <trkpt lat="48.1558581" lon="2.7251416"></trkpt>
+        <trkpt lat="48.1554571" lon="2.7254793"></trkpt>
+        <trkpt lat="48.1551754" lon="2.7254811"></trkpt>
+        <trkpt lat="48.1548193" lon="2.7254098"></trkpt>
+        <trkpt lat="48.1544664" lon="2.7253754"></trkpt>
+        <trkpt lat="48.1541413" lon="2.7254646"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

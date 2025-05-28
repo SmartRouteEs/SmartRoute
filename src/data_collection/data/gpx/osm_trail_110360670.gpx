@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Languedoc</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.774665</time>
+</metadata>
+<trk>
+    <name>Route du Languedoc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.354215" lon="2.7275796"></trkpt>
+        <trkpt lat="48.3543168" lon="2.7277732"></trkpt>
+        <trkpt lat="48.3546622" lon="2.7284567"></trkpt>
+        <trkpt lat="48.3549055" lon="2.7288217"></trkpt>
+        <trkpt lat="48.3550054" lon="2.7290642"></trkpt>
+        <trkpt lat="48.3553868" lon="2.7295039"></trkpt>
+        <trkpt lat="48.3556016" lon="2.7296734"></trkpt>
+        <trkpt lat="48.3557487" lon="2.7296983"></trkpt>
+        <trkpt lat="48.3559184" lon="2.729731"></trkpt>
+        <trkpt lat="48.3560765" lon="2.7296995"></trkpt>
+        <trkpt lat="48.356184" lon="2.7296764"></trkpt>
+        <trkpt lat="48.3563355" lon="2.7298483"></trkpt>
+        <trkpt lat="48.3564673" lon="2.7298937"></trkpt>
+        <trkpt lat="48.3565573" lon="2.7300446"></trkpt>
+        <trkpt lat="48.3567495" lon="2.7302369"></trkpt>
+        <trkpt lat="48.3568608" lon="2.7303081"></trkpt>
+        <trkpt lat="48.3569353" lon="2.7303719"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

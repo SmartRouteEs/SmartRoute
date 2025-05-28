@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Près de l'Yerres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.985952</time>
+</metadata>
+<trk>
+    <name>Chemin des Près de l'Yerres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6535054" lon="2.7243074"></trkpt>
+        <trkpt lat="48.6538888" lon="2.7237324"></trkpt>
+        <trkpt lat="48.6548924" lon="2.7220002"></trkpt>
+        <trkpt lat="48.6549639" lon="2.7217942"></trkpt>
+        <trkpt lat="48.6549962" lon="2.72134"></trkpt>
+        <trkpt lat="48.6552703" lon="2.7210543"></trkpt>
+        <trkpt lat="48.6549781" lon="2.7202691"></trkpt>
+        <trkpt lat="48.6549106" lon="2.719963"></trkpt>
+        <trkpt lat="48.6543808" lon="2.7188445"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

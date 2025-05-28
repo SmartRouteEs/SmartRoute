@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin du Fourchu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.719031</time>
+</metadata>
+<trk>
+    <name>chemin du Fourchu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9048827" lon="3.1654229"></trkpt>
+        <trkpt lat="48.9038101" lon="3.1653731"></trkpt>
+        <trkpt lat="48.9032899" lon="3.1660168"></trkpt>
+        <trkpt lat="48.9031383" lon="3.1660509"></trkpt>
+        <trkpt lat="48.903029" lon="3.1660672"></trkpt>
+        <trkpt lat="48.9028813" lon="3.1661923"></trkpt>
+        <trkpt lat="48.9027449" lon="3.1663886"></trkpt>
+        <trkpt lat="48.9026845" lon="3.1664545"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

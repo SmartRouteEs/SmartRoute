@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Amitié</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.791090</time>
+</metadata>
+<trk>
+    <name>Route de l'Amitié</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4319888" lon="2.6756424"></trkpt>
+        <trkpt lat="48.4331974" lon="2.6772724"></trkpt>
+        <trkpt lat="48.4335075" lon="2.6776919"></trkpt>
+        <trkpt lat="48.4337259" lon="2.677949"></trkpt>
+        <trkpt lat="48.4341645" lon="2.6786522"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vignée</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.422943</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vignée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.834395" lon="3.1702322"></trkpt>
+        <trkpt lat="48.8342933" lon="3.1701935"></trkpt>
+        <trkpt lat="48.8331579" lon="3.1693569"></trkpt>
+        <trkpt lat="48.8322437" lon="3.1687024"></trkpt>
+        <trkpt lat="48.8314778" lon="3.1683667"></trkpt>
+        <trkpt lat="48.8300575" lon="3.1677742"></trkpt>
+        <trkpt lat="48.8296568" lon="3.1675353"></trkpt>
+        <trkpt lat="48.8294594" lon="3.1673599"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

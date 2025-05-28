@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cuvier Chatillon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.119860</time>
+</metadata>
+<trk>
+    <name>Route du Cuvier Chatillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4473266" lon="2.6544746"></trkpt>
+        <trkpt lat="48.4470582" lon="2.6541001"></trkpt>
+        <trkpt lat="48.4469362" lon="2.6539826"></trkpt>
+        <trkpt lat="48.4467317" lon="2.6537855"></trkpt>
+        <trkpt lat="48.4460964" lon="2.6532295"></trkpt>
+        <trkpt lat="48.4457658" lon="2.6530213"></trkpt>
+        <trkpt lat="48.4456096" lon="2.6530501"></trkpt>
+        <trkpt lat="48.445439" lon="2.6529665"></trkpt>
+        <trkpt lat="48.4452066" lon="2.6529888"></trkpt>
+        <trkpt lat="48.444933" lon="2.6530662"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Bru</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.789967</time>
+</metadata>
+<trk>
+    <name>Chemin de Bru</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4303964" lon="3.0213257"></trkpt>
+        <trkpt lat="48.4291506" lon="3.0222699"></trkpt>
+        <trkpt lat="48.4282308" lon="3.0228943"></trkpt>
+        <trkpt lat="48.4278692" lon="3.0230316"></trkpt>
+        <trkpt lat="48.4276485" lon="3.0230745"></trkpt>
+        <trkpt lat="48.4266664" lon="3.0231389"></trkpt>
+        <trkpt lat="48.4264048" lon="3.0230942"></trkpt>
+        <trkpt lat="48.4261253" lon="3.0229029"></trkpt>
+        <trkpt lat="48.4247993" lon="3.0216927"></trkpt>
+        <trkpt lat="48.4242083" lon="3.0213171"></trkpt>
+        <trkpt lat="48.4239022" lon="3.0211669"></trkpt>
+        <trkpt lat="48.4236886" lon="3.0210918"></trkpt>
+        <trkpt lat="48.4234753" lon="3.021065"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

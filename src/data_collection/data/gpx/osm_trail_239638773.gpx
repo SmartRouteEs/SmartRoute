@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vallée de Boisseau</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.313318</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vallée de Boisseau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4042418" lon="2.2994666"></trkpt>
+        <trkpt lat="48.4039905" lon="2.2982449"></trkpt>
+        <trkpt lat="48.403951" lon="2.2980893"></trkpt>
+        <trkpt lat="48.403843" lon="2.2977715"></trkpt>
+        <trkpt lat="48.4035238" lon="2.2968338"></trkpt>
+        <trkpt lat="48.4030081" lon="2.2953574"></trkpt>
+        <trkpt lat="48.402805" lon="2.2948028"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

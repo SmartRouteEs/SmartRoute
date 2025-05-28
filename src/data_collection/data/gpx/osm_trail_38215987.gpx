@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Prés</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.105487</time>
+</metadata>
+<trk>
+    <name>Allée des Prés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2527054" lon="3.0478713"></trkpt>
+        <trkpt lat="48.2527365" lon="3.0480167"></trkpt>
+        <trkpt lat="48.2528295" lon="3.0482425"></trkpt>
+        <trkpt lat="48.2531242" lon="3.0486571"></trkpt>
+        <trkpt lat="48.2535854" lon="3.0493059"></trkpt>
+        <trkpt lat="48.2536026" lon="3.0496235"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

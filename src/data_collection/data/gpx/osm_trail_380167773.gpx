@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie de la Micheronne</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.193458</time>
+</metadata>
+<trk>
+    <name>Voie de la Micheronne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7742324" lon="2.2637599"></trkpt>
+        <trkpt lat="48.7743002" lon="2.2637631"></trkpt>
+        <trkpt lat="48.7745804" lon="2.2637762"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2140</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.236562</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2140</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6953589" lon="2.2041464"></trkpt>
+        <trkpt lat="48.6952805" lon="2.2040393"></trkpt>
+        <trkpt lat="48.6952021" lon="2.2039322"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

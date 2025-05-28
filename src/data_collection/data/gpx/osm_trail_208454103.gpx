@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Charnoy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.800000</time>
+</metadata>
+<trk>
+    <name>Chemin du Charnoy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.889947" lon="3.2081922"></trkpt>
+        <trkpt lat="48.8900217" lon="3.2083213"></trkpt>
+        <trkpt lat="48.89037" lon="3.2086978"></trkpt>
+        <trkpt lat="48.8910359" lon="3.2095312"></trkpt>
+        <trkpt lat="48.8912756" lon="3.2100226"></trkpt>
+        <trkpt lat="48.8919674" lon="3.2098191"></trkpt>
+        <trkpt lat="48.893098" lon="3.2121631"></trkpt>
+        <trkpt lat="48.8933331" lon="3.2125651"></trkpt>
+        <trkpt lat="48.8934505" lon="3.2128332"></trkpt>
+        <trkpt lat="48.893694" lon="3.2147805"></trkpt>
+        <trkpt lat="48.8938136" lon="3.2151183"></trkpt>
+        <trkpt lat="48.8942574" lon="3.2156714"></trkpt>
+        <trkpt lat="48.8948176" lon="3.2164713"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

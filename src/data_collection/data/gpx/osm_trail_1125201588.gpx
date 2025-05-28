@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Grands Jardins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.457485</time>
+</metadata>
+<trk>
+    <name>Sentier des Grands Jardins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5491699" lon="2.7095634"></trkpt>
+        <trkpt lat="48.5489194" lon="2.7082881"></trkpt>
+        <trkpt lat="48.5487622" lon="2.7076377"></trkpt>
+        <trkpt lat="48.5486184" lon="2.7072622"></trkpt>
+        <trkpt lat="48.5483565" lon="2.7067633"></trkpt>
+        <trkpt lat="48.5482455" lon="2.7061678"></trkpt>
+        <trkpt lat="48.5482056" lon="2.7059251"></trkpt>
+        <trkpt lat="48.5481295" lon="2.7050033"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

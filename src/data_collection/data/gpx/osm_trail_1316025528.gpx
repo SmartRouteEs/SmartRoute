@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Roses</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.534014</time>
+</metadata>
+<trk>
+    <name>Chemin des Roses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.712879" lon="2.5826813"></trkpt>
+        <trkpt lat="48.7128374" lon="2.5826387"></trkpt>
+        <trkpt lat="48.7128257" lon="2.582602"></trkpt>
+        <trkpt lat="48.7128396" lon="2.5825524"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

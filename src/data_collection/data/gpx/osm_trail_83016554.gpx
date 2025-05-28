@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Sablonneuse</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.431088</time>
+</metadata>
+<trk>
+    <name>Route Sablonneuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8688514" lon="2.2668944"></trkpt>
+        <trkpt lat="48.8687582" lon="2.2669062"></trkpt>
+        <trkpt lat="48.8686364" lon="2.2669216"></trkpt>
+        <trkpt lat="48.8685561" lon="2.2669478"></trkpt>
+        <trkpt lat="48.8682626" lon="2.2670371"></trkpt>
+        <trkpt lat="48.868103" lon="2.267075"></trkpt>
+        <trkpt lat="48.8679414" lon="2.2671606"></trkpt>
+        <trkpt lat="48.8676452" lon="2.2673026"></trkpt>
+        <trkpt lat="48.8674137" lon="2.2673824"></trkpt>
+        <trkpt lat="48.8673099" lon="2.2674182"></trkpt>
+        <trkpt lat="48.8670569" lon="2.2674862"></trkpt>
+        <trkpt lat="48.8668231" lon="2.2675632"></trkpt>
+        <trkpt lat="48.866574" lon="2.2675792"></trkpt>
+        <trkpt lat="48.8662268" lon="2.2676015"></trkpt>
+        <trkpt lat="48.8659889" lon="2.2676282"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

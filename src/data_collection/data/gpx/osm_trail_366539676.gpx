@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Courcelles à Vanry</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.029062</time>
+</metadata>
+<trk>
+    <name>Chemin de Courcelles à Vanry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9311069" lon="3.150629"></trkpt>
+        <trkpt lat="48.9311061" lon="3.1506949"></trkpt>
+        <trkpt lat="48.9313069" lon="3.1508073"></trkpt>
+        <trkpt lat="48.9322233" lon="3.1511671"></trkpt>
+        <trkpt lat="48.9323136" lon="3.1511874"></trkpt>
+        <trkpt lat="48.9327199" lon="3.1511449"></trkpt>
+        <trkpt lat="48.9328952" lon="3.1511914"></trkpt>
+        <trkpt lat="48.9335406" lon="3.151626"></trkpt>
+        <trkpt lat="48.9336827" lon="3.1517049"></trkpt>
+        <trkpt lat="48.9341117" lon="3.1516927"></trkpt>
+        <trkpt lat="48.9345247" lon="3.1516038"></trkpt>
+        <trkpt lat="48.9352564" lon="3.1515957"></trkpt>
+        <trkpt lat="48.9353268" lon="3.1515735"></trkpt>
+        <trkpt lat="48.935429" lon="3.1515027"></trkpt>
+        <trkpt lat="48.9363039" lon="3.1506924"></trkpt>
+        <trkpt lat="48.9367577" lon="3.1503983"></trkpt>
+        <trkpt lat="48.9370075" lon="3.1501201"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

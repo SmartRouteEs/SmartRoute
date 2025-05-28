@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rendez-Vous</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.498214</time>
+</metadata>
+<trk>
+    <name>Route du Rendez-Vous</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3763936" lon="2.6861355"></trkpt>
+        <trkpt lat="48.3764057" lon="2.685902"></trkpt>
+        <trkpt lat="48.3765975" lon="2.6827452"></trkpt>
+        <trkpt lat="48.3767277" lon="2.6804628"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

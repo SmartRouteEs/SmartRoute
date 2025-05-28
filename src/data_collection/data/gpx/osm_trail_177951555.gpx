@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue K</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.202282</time>
+</metadata>
+<trk>
+    <name>Avenue K</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7544799" lon="2.3756692"></trkpt>
+        <trkpt lat="48.7547889" lon="2.3767024"></trkpt>
+        <trkpt lat="48.7550955" lon="2.3777737"></trkpt>
+        <trkpt lat="48.7554089" lon="2.3788689"></trkpt>
+        <trkpt lat="48.7557358" lon="2.380011"></trkpt>
+        <trkpt lat="48.7560588" lon="2.3811359"></trkpt>
+        <trkpt lat="48.7563663" lon="2.3822066"></trkpt>
+        <trkpt lat="48.7566542" lon="2.3832"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

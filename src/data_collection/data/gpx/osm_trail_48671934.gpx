@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Garde Général Moisant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.738804</time>
+</metadata>
+<trk>
+    <name>Route du Garde Général Moisant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4859421" lon="2.6438771"></trkpt>
+        <trkpt lat="48.4841574" lon="2.6424656"></trkpt>
+        <trkpt lat="48.4815903" lon="2.6401009"></trkpt>
+        <trkpt lat="48.480544" lon="2.6386886"></trkpt>
+        <trkpt lat="48.4791325" lon="2.6367641"></trkpt>
+        <trkpt lat="48.4789615" lon="2.6367301"></trkpt>
+        <trkpt lat="48.4776509" lon="2.6359746"></trkpt>
+        <trkpt lat="48.4765413" lon="2.6354566"></trkpt>
+        <trkpt lat="48.4725803" lon="2.6342953"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

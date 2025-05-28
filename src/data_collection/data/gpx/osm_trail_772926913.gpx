@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte Dauphine à la Porte des Sablons</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.946098</time>
+</metadata>
+<trk>
+    <name>Route de la Porte Dauphine à la Porte des Sablons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8726723" lon="2.2736715"></trkpt>
+        <trkpt lat="48.8727107" lon="2.2735584"></trkpt>
+        <trkpt lat="48.872731" lon="2.2735074"></trkpt>
+        <trkpt lat="48.8729215" lon="2.2731735"></trkpt>
+        <trkpt lat="48.8730928" lon="2.2728731"></trkpt>
+        <trkpt lat="48.873153" lon="2.2727618"></trkpt>
+        <trkpt lat="48.8732756" lon="2.2725968"></trkpt>
+        <trkpt lat="48.8734732" lon="2.27234"></trkpt>
+        <trkpt lat="48.8736889" lon="2.2720879"></trkpt>
+        <trkpt lat="48.87389" lon="2.2718807"></trkpt>
+        <trkpt lat="48.8739725" lon="2.2718061"></trkpt>
+        <trkpt lat="48.8742353" lon="2.2716104"></trkpt>
+        <trkpt lat="48.8743582" lon="2.2715266"></trkpt>
+        <trkpt lat="48.8744633" lon="2.2714636"></trkpt>
+        <trkpt lat="48.8746258" lon="2.2713852"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

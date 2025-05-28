@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Île de Brunoy</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.302263</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Île de Brunoy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6962122" lon="2.5092763"></trkpt>
+        <trkpt lat="48.6962956" lon="2.5096673"></trkpt>
+        <trkpt lat="48.6966472" lon="2.5112561"></trkpt>
+        <trkpt lat="48.6966492" lon="2.5113351"></trkpt>
+        <trkpt lat="48.6966135" lon="2.5114525"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

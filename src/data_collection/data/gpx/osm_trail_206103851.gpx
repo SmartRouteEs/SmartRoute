@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Marrier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.647649</time>
+</metadata>
+<trk>
+    <name>Route Marrier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4566702" lon="2.7181383"></trkpt>
+        <trkpt lat="48.4559306" lon="2.7168583"></trkpt>
+        <trkpt lat="48.4546975" lon="2.714788"></trkpt>
+        <trkpt lat="48.4536444" lon="2.71302"></trkpt>
+        <trkpt lat="48.4513392" lon="2.709033"></trkpt>
+        <trkpt lat="48.4495359" lon="2.7061599"></trkpt>
+        <trkpt lat="48.448515" lon="2.7043417"></trkpt>
+        <trkpt lat="48.4468348" lon="2.7014712"></trkpt>
+        <trkpt lat="48.4446422" lon="2.6978909"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

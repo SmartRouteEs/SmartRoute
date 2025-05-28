@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3815</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.978448</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3815</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6387918" lon="2.2418539"></trkpt>
+        <trkpt lat="48.6385223" lon="2.2418155"></trkpt>
+        <trkpt lat="48.6384585" lon="2.2415401"></trkpt>
+        <trkpt lat="48.6384315" lon="2.2414806"></trkpt>
+        <trkpt lat="48.6384627" lon="2.2413167"></trkpt>
+        <trkpt lat="48.6384289" lon="2.2411409"></trkpt>
+        <trkpt lat="48.6384477" lon="2.2410051"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

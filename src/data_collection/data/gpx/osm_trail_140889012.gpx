@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grande Vente</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:47.152552</time>
+</metadata>
+<trk>
+    <name>Route de la Grande Vente</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2796738" lon="2.6553931"></trkpt>
+        <trkpt lat="48.2791432" lon="2.6587281"></trkpt>
+        <trkpt lat="48.2790535" lon="2.6591503"></trkpt>
+        <trkpt lat="48.2790535" lon="2.6596201"></trkpt>
+        <trkpt lat="48.2791253" lon="2.660377"></trkpt>
+        <trkpt lat="48.2793769" lon="2.6615777"></trkpt>
+        <trkpt lat="48.2797182" lon="2.6634569"></trkpt>
+        <trkpt lat="48.2799877" lon="2.6646314"></trkpt>
+        <trkpt lat="48.2802213" lon="2.66531"></trkpt>
+        <trkpt lat="48.2803515" lon="2.6657042"></trkpt>
+        <trkpt lat="48.2806525" lon="2.666615"></trkpt>
+        <trkpt lat="48.2809938" lon="2.6683638"></trkpt>
+        <trkpt lat="48.2812993" lon="2.6702691"></trkpt>
+        <trkpt lat="48.2815688" lon="2.6723571"></trkpt>
+        <trkpt lat="48.2816945" lon="2.6730618"></trkpt>
+        <trkpt lat="48.2817728" lon="2.6737569"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

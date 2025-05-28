@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chapelle-la Reine à Nemours</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.508144</time>
+</metadata>
+<trk>
+    <name>Chemin de Chapelle-la Reine à Nemours</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3019423" lon="2.6028499"></trkpt>
+        <trkpt lat="48.3018186" lon="2.6033201"></trkpt>
+        <trkpt lat="48.30156" lon="2.6041654"></trkpt>
+        <trkpt lat="48.3015317" lon="2.6042806"></trkpt>
+        <trkpt lat="48.3014581" lon="2.6046803"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

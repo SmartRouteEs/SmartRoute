@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Sablière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.509267</time>
+</metadata>
+<trk>
+    <name>Sentier de la Sablière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2607079" lon="2.7089906"></trkpt>
+        <trkpt lat="48.2610521" lon="2.7089846"></trkpt>
+        <trkpt lat="48.2615021" lon="2.7090204"></trkpt>
+        <trkpt lat="48.2617855" lon="2.7088862"></trkpt>
+        <trkpt lat="48.2619025" lon="2.708796"></trkpt>
+        <trkpt lat="48.2625033" lon="2.708648"></trkpt>
+        <trkpt lat="48.2630952" lon="2.7085919"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

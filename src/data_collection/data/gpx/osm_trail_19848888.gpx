@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Monts de Faÿ</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.416848</time>
+</metadata>
+<trk>
+    <name>Route des Monts de Faÿ</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4665738" lon="2.6622449"></trkpt>
+        <trkpt lat="48.4661096" lon="2.6619204"></trkpt>
+        <trkpt lat="48.4647913" lon="2.6610116"></trkpt>
+        <trkpt lat="48.4644588" lon="2.6607817"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

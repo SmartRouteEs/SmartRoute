@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Penthièvre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.352795</time>
+</metadata>
+<trk>
+    <name>Route de Penthièvre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4085862" lon="2.7568307"></trkpt>
+        <trkpt lat="48.408083" lon="2.7576929"></trkpt>
+        <trkpt lat="48.407759" lon="2.7589931"></trkpt>
+        <trkpt lat="48.4074442" lon="2.7601432"></trkpt>
+        <trkpt lat="48.4071492" lon="2.7608007"></trkpt>
+        <trkpt lat="48.4068148" lon="2.7611741"></trkpt>
+        <trkpt lat="48.4064999" lon="2.7615257"></trkpt>
+        <trkpt lat="48.4048009" lon="2.7638595"></trkpt>
+        <trkpt lat="48.4046753" lon="2.7641158"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

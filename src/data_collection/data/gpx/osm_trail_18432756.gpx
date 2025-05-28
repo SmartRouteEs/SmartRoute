@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Poule</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.392270</time>
+</metadata>
+<trk>
+    <name>Route de la Poule</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4059251" lon="2.6715346"></trkpt>
+        <trkpt lat="48.4053526" lon="2.6710487"></trkpt>
+        <trkpt lat="48.404985" lon="2.6707605"></trkpt>
+        <trkpt lat="48.4040138" lon="2.6700676"></trkpt>
+        <trkpt lat="48.4031442" lon="2.6694021"></trkpt>
+        <trkpt lat="48.4004243" lon="2.6673359"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

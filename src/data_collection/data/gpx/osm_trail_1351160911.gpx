@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix de Voisines</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.698317</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix de Voisines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2316321" lon="3.3962819"></trkpt>
+        <trkpt lat="48.2315643" lon="3.396083"></trkpt>
+        <trkpt lat="48.2309648" lon="3.3939858"></trkpt>
+        <trkpt lat="48.2306882" lon="3.3930695"></trkpt>
+        <trkpt lat="48.2305899" lon="3.39274"></trkpt>
+        <trkpt lat="48.2305213" lon="3.392426"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle Cantris</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.588423</time>
+</metadata>
+<trk>
+    <name>Ruelle Cantris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5113858" lon="2.9707402"></trkpt>
+        <trkpt lat="48.5113675" lon="2.9704469"></trkpt>
+        <trkpt lat="48.5112485" lon="2.9703516"></trkpt>
+        <trkpt lat="48.5110725" lon="2.9702439"></trkpt>
+        <trkpt lat="48.5110097" lon="2.9689451"></trkpt>
+        <trkpt lat="48.5103353" lon="2.9690836"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

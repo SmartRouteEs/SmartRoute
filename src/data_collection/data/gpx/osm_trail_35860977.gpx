@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Étroitures</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.016563</time>
+</metadata>
+<trk>
+    <name>Route des Étroitures</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.35688" lon="2.7256851"></trkpt>
+        <trkpt lat="48.3566239" lon="2.7252597"></trkpt>
+        <trkpt lat="48.3565722" lon="2.725014"></trkpt>
+        <trkpt lat="48.3565134" lon="2.7249079"></trkpt>
+        <trkpt lat="48.3563751" lon="2.7248186"></trkpt>
+        <trkpt lat="48.3560564" lon="2.724731"></trkpt>
+        <trkpt lat="48.3559302" lon="2.7246326"></trkpt>
+        <trkpt lat="48.3557551" lon="2.7240738"></trkpt>
+        <trkpt lat="48.3557319" lon="2.7235557"></trkpt>
+        <trkpt lat="48.3557419" lon="2.7231492"></trkpt>
+        <trkpt lat="48.3556555" lon="2.7226939"></trkpt>
+        <trkpt lat="48.3552195" lon="2.7207676"></trkpt>
+        <trkpt lat="48.3550014" lon="2.7204788"></trkpt>
+        <trkpt lat="48.3546451" lon="2.7202956"></trkpt>
+        <trkpt lat="48.3531808" lon="2.7202527"></trkpt>
+        <trkpt lat="48.3530228" lon="2.7202488"></trkpt>
+        <trkpt lat="48.352876" lon="2.720254"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

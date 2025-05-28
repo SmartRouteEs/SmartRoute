@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Cornebiche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.629456</time>
+</metadata>
+<trk>
+    <name>Chemin de Cornebiche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4027052" lon="2.5753994"></trkpt>
+        <trkpt lat="48.402765" lon="2.576062"></trkpt>
+        <trkpt lat="48.402857" lon="2.577015"></trkpt>
+        <trkpt lat="48.403042" lon="2.579271"></trkpt>
+        <trkpt lat="48.403079" lon="2.579568"></trkpt>
+        <trkpt lat="48.403085" lon="2.579983"></trkpt>
+        <trkpt lat="48.403" lon="2.580939"></trkpt>
+        <trkpt lat="48.402936" lon="2.581273"></trkpt>
+        <trkpt lat="48.402799" lon="2.582282"></trkpt>
+        <trkpt lat="48.402674" lon="2.583084"></trkpt>
+        <trkpt lat="48.402598" lon="2.583772"></trkpt>
+        <trkpt lat="48.4026016" lon="2.5839966"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

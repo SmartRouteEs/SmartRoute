@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare Michon</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.088509</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare Michon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3822891" lon="2.2278387"></trkpt>
+        <trkpt lat="48.3806576" lon="2.2259635"></trkpt>
+        <trkpt lat="48.3828479" lon="2.221136"></trkpt>
+        <trkpt lat="48.3828623" lon="2.2211226"></trkpt>
+        <trkpt lat="48.3828886" lon="2.2211284"></trkpt>
+        <trkpt lat="48.3829124" lon="2.221152"></trkpt>
+        <trkpt lat="48.3836753" lon="2.2221685"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

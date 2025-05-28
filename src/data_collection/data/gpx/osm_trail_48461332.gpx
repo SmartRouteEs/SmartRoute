@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de Palaiseau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.632118</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de Palaiseau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7963159" lon="2.7014951"></trkpt>
+        <trkpt lat="48.7961546" lon="2.7014535"></trkpt>
+        <trkpt lat="48.7960932" lon="2.7014025"></trkpt>
+        <trkpt lat="48.7960564" lon="2.7013363"></trkpt>
+        <trkpt lat="48.7959959" lon="2.7009888"></trkpt>
+        <trkpt lat="48.7952895" lon="2.7012746"></trkpt>
+        <trkpt lat="48.7951624" lon="2.7013517"></trkpt>
+        <trkpt lat="48.7951122" lon="2.7013576"></trkpt>
+        <trkpt lat="48.7950306" lon="2.7011939"></trkpt>
+        <trkpt lat="48.7949293" lon="2.7010383"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

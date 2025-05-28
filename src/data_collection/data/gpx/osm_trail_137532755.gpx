@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chardonneret</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.128263</time>
+</metadata>
+<trk>
+    <name>Route du Chardonneret</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3675413" lon="2.6552584"></trkpt>
+        <trkpt lat="48.3675923" lon="2.6552095"></trkpt>
+        <trkpt lat="48.3676612" lon="2.6551342"></trkpt>
+        <trkpt lat="48.3677107" lon="2.6550685"></trkpt>
+        <trkpt lat="48.3717427" lon="2.655405"></trkpt>
+        <trkpt lat="48.3718241" lon="2.6556172"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

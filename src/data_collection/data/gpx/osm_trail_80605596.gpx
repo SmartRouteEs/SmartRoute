@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Gros Buisson</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.399189</time>
+</metadata>
+<trk>
+    <name>Route du Gros Buisson</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3813294" lon="2.6109328"></trkpt>
+        <trkpt lat="48.3855203" lon="2.6160258"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

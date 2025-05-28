@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Brosses</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.245033</time>
+</metadata>
+<trk>
+    <name>Chemin des Brosses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2501058" lon="3.1984472"></trkpt>
+        <trkpt lat="48.2500212" lon="3.1985336"></trkpt>
+        <trkpt lat="48.24868" lon="3.1994051"></trkpt>
+        <trkpt lat="48.2479878" lon="3.1998854"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

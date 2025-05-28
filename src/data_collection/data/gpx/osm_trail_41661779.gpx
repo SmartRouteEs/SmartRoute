@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vieux Chênes</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.294957</time>
+</metadata>
+<trk>
+    <name>Chemin des Vieux Chênes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8517662" lon="2.2518852"></trkpt>
+        <trkpt lat="48.8519204" lon="2.2518814"></trkpt>
+        <trkpt lat="48.8520796" lon="2.2519204"></trkpt>
+        <trkpt lat="48.852182" lon="2.2518957"></trkpt>
+        <trkpt lat="48.8522768" lon="2.2518374"></trkpt>
+        <trkpt lat="48.8523782" lon="2.2517583"></trkpt>
+        <trkpt lat="48.8524277" lon="2.2516837"></trkpt>
+        <trkpt lat="48.8527" lon="2.2511756"></trkpt>
+        <trkpt lat="48.8530373" lon="2.2506608"></trkpt>
+        <trkpt lat="48.8531919" lon="2.2503432"></trkpt>
+        <trkpt lat="48.8532352" lon="2.2502104"></trkpt>
+        <trkpt lat="48.8532654" lon="2.2500926"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Suède</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.436159</time>
+</metadata>
+<trk>
+    <name>Route de Suède</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4353428" lon="2.6580166"></trkpt>
+        <trkpt lat="48.4357798" lon="2.6591418"></trkpt>
+        <trkpt lat="48.4361955" lon="2.6600688"></trkpt>
+        <trkpt lat="48.4367991" lon="2.6615623"></trkpt>
+        <trkpt lat="48.4372831" lon="2.6626437"></trkpt>
+        <trkpt lat="48.4379753" lon="2.664223"></trkpt>
+        <trkpt lat="48.4382428" lon="2.6649162"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

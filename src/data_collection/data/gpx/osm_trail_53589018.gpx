@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Vieux Pavé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.961402</time>
+</metadata>
+<trk>
+    <name>Chemin de Vieux Pavé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6101385" lon="2.2224787"></trkpt>
+        <trkpt lat="48.6100652" lon="2.2219132"></trkpt>
+        <trkpt lat="48.6098088" lon="2.2206975"></trkpt>
+        <trkpt lat="48.6096326" lon="2.2201534"></trkpt>
+        <trkpt lat="48.6091509" lon="2.2189292"></trkpt>
+        <trkpt lat="48.6079029" lon="2.2159552"></trkpt>
+        <trkpt lat="48.6077987" lon="2.2156399"></trkpt>
+        <trkpt lat="48.6078316" lon="2.2154803"></trkpt>
+        <trkpt lat="48.6079829" lon="2.2154456"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

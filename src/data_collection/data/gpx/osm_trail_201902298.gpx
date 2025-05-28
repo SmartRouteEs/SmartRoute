@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Postillons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.847166</time>
+</metadata>
+<trk>
+    <name>Route des Postillons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8122794" lon="2.2011033"></trkpt>
+        <trkpt lat="48.8112872" lon="2.1977206"></trkpt>
+        <trkpt lat="48.8107067" lon="2.195807"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

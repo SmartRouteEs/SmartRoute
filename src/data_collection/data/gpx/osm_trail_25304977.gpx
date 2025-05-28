@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Long Boyau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.564160</time>
+</metadata>
+<trk>
+    <name>Allée du Long Boyau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.808305" lon="2.6708184"></trkpt>
+        <trkpt lat="48.8089886" lon="2.6682623"></trkpt>
+        <trkpt lat="48.8091536" lon="2.6676546"></trkpt>
+        <trkpt lat="48.8095716" lon="2.6661154"></trkpt>
+        <trkpt lat="48.810266" lon="2.6635588"></trkpt>
+        <trkpt lat="48.8111591" lon="2.6603144"></trkpt>
+        <trkpt lat="48.8116" lon="2.6585463"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

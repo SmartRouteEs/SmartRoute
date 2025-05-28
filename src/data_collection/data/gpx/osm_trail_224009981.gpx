@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Violettes</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:50.514710</time>
+</metadata>
+<trk>
+    <name>Chemin des Violettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7569497" lon="2.2591134"></trkpt>
+        <trkpt lat="48.7568285" lon="2.2590467"></trkpt>
+        <trkpt lat="48.7568034" lon="2.2590329"></trkpt>
+        <trkpt lat="48.7552342" lon="2.2581692"></trkpt>
+        <trkpt lat="48.7550504" lon="2.2580923"></trkpt>
+        <trkpt lat="48.7549746" lon="2.2580666"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Promenade des Poètes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.236031</time>
+</metadata>
+<trk>
+    <name>Promenade des Poètes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9078371" lon="2.7824169"></trkpt>
+        <trkpt lat="48.9078944" lon="2.782445"></trkpt>
+        <trkpt lat="48.9081068" lon="2.782635"></trkpt>
+        <trkpt lat="48.9081465" lon="2.7826853"></trkpt>
+        <trkpt lat="48.9081778" lon="2.7827398"></trkpt>
+        <trkpt lat="48.9082123" lon="2.7828531"></trkpt>
+        <trkpt lat="48.9084203" lon="2.7830748"></trkpt>
+        <trkpt lat="48.9087138" lon="2.783327"></trkpt>
+        <trkpt lat="48.9101929" lon="2.784702"></trkpt>
+        <trkpt lat="48.9102636" lon="2.7846852"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

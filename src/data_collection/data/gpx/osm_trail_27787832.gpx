@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Marie-Thérèse</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.629456</time>
+</metadata>
+<trk>
+    <name>Route Marie-Thérèse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.444338" lon="2.6254038"></trkpt>
+        <trkpt lat="48.4441899" lon="2.6252972"></trkpt>
+        <trkpt lat="48.44349" lon="2.6249179"></trkpt>
+        <trkpt lat="48.4424166" lon="2.6242473"></trkpt>
+        <trkpt lat="48.4421769" lon="2.6241735"></trkpt>
+        <trkpt lat="48.4411155" lon="2.6243087"></trkpt>
+        <trkpt lat="48.4409885" lon="2.6243025"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

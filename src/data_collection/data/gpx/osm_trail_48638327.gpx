@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Ruelle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.713398</time>
+</metadata>
+<trk>
+    <name>Route de la Ruelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4833264" lon="2.666436"></trkpt>
+        <trkpt lat="48.4852751" lon="2.6709178"></trkpt>
+        <trkpt lat="48.4862085" lon="2.6728758"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

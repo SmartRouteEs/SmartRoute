@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Granges</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.533514</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Granges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6753937" lon="2.4370261"></trkpt>
+        <trkpt lat="48.6748765" lon="2.4376439"></trkpt>
+        <trkpt lat="48.6743454" lon="2.438274"></trkpt>
+        <trkpt lat="48.6739777" lon="2.4386953"></trkpt>
+        <trkpt lat="48.6736031" lon="2.439111"></trkpt>
+        <trkpt lat="48.6728665" lon="2.4399751"></trkpt>
+        <trkpt lat="48.6719296" lon="2.441076"></trkpt>
+        <trkpt lat="48.6718999" lon="2.4411058"></trkpt>
+        <trkpt lat="48.6718665" lon="2.4411418"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

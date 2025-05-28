@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Terre Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.518209</time>
+</metadata>
+<trk>
+    <name>Chemin de la Terre Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3649654" lon="2.509411"></trkpt>
+        <trkpt lat="48.3641945" lon="2.507591"></trkpt>
+        <trkpt lat="48.3638985" lon="2.5071527"></trkpt>
+        <trkpt lat="48.3635854" lon="2.5065446"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

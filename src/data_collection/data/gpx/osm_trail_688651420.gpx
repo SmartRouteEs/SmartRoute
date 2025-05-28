@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Plateau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.270151</time>
+</metadata>
+<trk>
+    <name>Chemin du Plateau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3925654" lon="2.5405829"></trkpt>
+        <trkpt lat="48.393235" lon="2.540842"></trkpt>
+        <trkpt lat="48.393424" lon="2.540961"></trkpt>
+        <trkpt lat="48.393822" lon="2.541097"></trkpt>
+        <trkpt lat="48.3941488" lon="2.5412532"></trkpt>
+        <trkpt lat="48.394184" lon="2.541253"></trkpt>
+        <trkpt lat="48.394269" lon="2.541181"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

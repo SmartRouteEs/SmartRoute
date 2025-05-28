@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Grimpet</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.045457</time>
+</metadata>
+<trk>
+    <name>Chemin du Grimpet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.953379" lon="3.287221"></trkpt>
+        <trkpt lat="48.9533825" lon="3.2875131"></trkpt>
+        <trkpt lat="48.9532349" lon="3.2878491"></trkpt>
+        <trkpt lat="48.9530364" lon="3.2881807"></trkpt>
+        <trkpt lat="48.952864" lon="3.2886997"></trkpt>
+        <trkpt lat="48.9530092" lon="3.2893502"></trkpt>
+        <trkpt lat="48.9530959" lon="3.289675"></trkpt>
+        <trkpt lat="48.9532559" lon="3.2899339"></trkpt>
+        <trkpt lat="48.9533325" lon="3.2903855"></trkpt>
+        <trkpt lat="48.9533825" lon="3.2906291"></trkpt>
+        <trkpt lat="48.9533592" lon="3.2909133"></trkpt>
+        <trkpt lat="48.9533179" lon="3.2910378"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie de l'Étoile du Mesnil</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.730480</time>
+</metadata>
+<trk>
+    <name>Voie de l'Étoile du Mesnil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6420819" lon="2.2779688"></trkpt>
+        <trkpt lat="48.6421788" lon="2.2780124"></trkpt>
+        <trkpt lat="48.642254" lon="2.2780429"></trkpt>
+        <trkpt lat="48.6422807" lon="2.2780551"></trkpt>
+        <trkpt lat="48.6423023" lon="2.278065"></trkpt>
+        <trkpt lat="48.6423514" lon="2.2781013"></trkpt>
+        <trkpt lat="48.6424533" lon="2.2781851"></trkpt>
+        <trkpt lat="48.642535" lon="2.2782423"></trkpt>
+        <trkpt lat="48.6426088" lon="2.2782929"></trkpt>
+        <trkpt lat="48.6426845" lon="2.2783354"></trkpt>
+        <trkpt lat="48.6427725" lon="2.2783692"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

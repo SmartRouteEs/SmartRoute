@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Collemiers à Paron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.629087</time>
+</metadata>
+<trk>
+    <name>Chemin de Collemiers à Paron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.162464" lon="3.2376067"></trkpt>
+        <trkpt lat="48.1625977" lon="3.2377727"></trkpt>
+        <trkpt lat="48.1628007" lon="3.2381073"></trkpt>
+        <trkpt lat="48.1630955" lon="3.2386261"></trkpt>
+        <trkpt lat="48.1633208" lon="3.2390979"></trkpt>
+        <trkpt lat="48.1635713" lon="3.2397354"></trkpt>
+        <trkpt lat="48.1637992" lon="3.2400545"></trkpt>
+        <trkpt lat="48.1640034" lon="3.2402814"></trkpt>
+        <trkpt lat="48.1643834" lon="3.2407341"></trkpt>
+        <trkpt lat="48.1647239" lon="3.2413626"></trkpt>
+        <trkpt lat="48.1648269" lon="3.2415578"></trkpt>
+        <trkpt lat="48.1655138" lon="3.2427197"></trkpt>
+        <trkpt lat="48.1661051" lon="3.2436483"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

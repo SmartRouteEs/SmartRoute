@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Hallali</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.763412</time>
+</metadata>
+<trk>
+    <name>Route de l'Hallali</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3689456" lon="2.7603468"></trkpt>
+        <trkpt lat="48.3692888" lon="2.760169"></trkpt>
+        <trkpt lat="48.3695692" lon="2.7601043"></trkpt>
+        <trkpt lat="48.3697129" lon="2.7601403"></trkpt>
+        <trkpt lat="48.3697992" lon="2.7602122"></trkpt>
+        <trkpt lat="48.3702018" lon="2.7605069"></trkpt>
+        <trkpt lat="48.3709136" lon="2.7610102"></trkpt>
+        <trkpt lat="48.3716613" lon="2.7614128"></trkpt>
+        <trkpt lat="48.3717116" lon="2.7614631"></trkpt>
+        <trkpt lat="48.3722581" lon="2.7615782"></trkpt>
+        <trkpt lat="48.3739292" lon="2.7620928"></trkpt>
+        <trkpt lat="48.3762588" lon="2.7628007"></trkpt>
+        <trkpt lat="48.3766072" lon="2.7629079"></trkpt>
+        <trkpt lat="48.3783826" lon="2.7633739"></trkpt>
+        <trkpt lat="48.3789718" lon="2.7635037"></trkpt>
+        <trkpt lat="48.379568" lon="2.7636314"></trkpt>
+        <trkpt lat="48.3798022" lon="2.7638018"></trkpt>
+        <trkpt lat="48.3804678" lon="2.7639978"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

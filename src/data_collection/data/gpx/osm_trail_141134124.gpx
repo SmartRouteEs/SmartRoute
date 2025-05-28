@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Marnière</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.152552</time>
+</metadata>
+<trk>
+    <name>Chemin de la Marnière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.667752" lon="2.6257094"></trkpt>
+        <trkpt lat="48.6683969" lon="2.6268193"></trkpt>
+        <trkpt lat="48.6687614" lon="2.6275047"></trkpt>
+        <trkpt lat="48.6689937" lon="2.6280142"></trkpt>
+        <trkpt lat="48.6693222" lon="2.628366"></trkpt>
+        <trkpt lat="48.6697468" lon="2.6286329"></trkpt>
+        <trkpt lat="48.6701438" lon="2.6287531"></trkpt>
+        <trkpt lat="48.6703723" lon="2.6288844"></trkpt>
+        <trkpt lat="48.6705319" lon="2.6290817"></trkpt>
+        <trkpt lat="48.6707161" lon="2.6294699"></trkpt>
+        <trkpt lat="48.6710365" lon="2.6298278"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

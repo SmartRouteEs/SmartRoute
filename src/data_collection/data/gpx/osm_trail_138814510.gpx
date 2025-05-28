@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 6507</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.144528</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 6507</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.670109" lon="3.0426564"></trkpt>
+        <trkpt lat="48.6700648" lon="3.0443275"></trkpt>
+        <trkpt lat="48.6700866" lon="3.0453585"></trkpt>
+        <trkpt lat="48.6701164" lon="3.0461449"></trkpt>
+        <trkpt lat="48.6702265" lon="3.0495299"></trkpt>
+        <trkpt lat="48.6704739" lon="3.0509332"></trkpt>
+        <trkpt lat="48.6707593" lon="3.0522271"></trkpt>
+        <trkpt lat="48.6720496" lon="3.0567081"></trkpt>
+        <trkpt lat="48.673638" lon="3.0617173"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

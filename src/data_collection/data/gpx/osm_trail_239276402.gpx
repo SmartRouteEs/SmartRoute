@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Trémainville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.241188</time>
+</metadata>
+<trk>
+    <name>Chemin de Trémainville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2965047" lon="2.6605875"></trkpt>
+        <trkpt lat="48.2950485" lon="2.6587614"></trkpt>
+        <trkpt lat="48.2930133" lon="2.6560285"></trkpt>
+        <trkpt lat="48.292551" lon="2.6554496"></trkpt>
+        <trkpt lat="48.2900622" lon="2.6519262"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

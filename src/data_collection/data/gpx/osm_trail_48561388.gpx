@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Attraction</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.684307</time>
+</metadata>
+<trk>
+    <name>Route de l'Attraction</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3879206" lon="2.6798438"></trkpt>
+        <trkpt lat="48.386974" lon="2.6795952"></trkpt>
+        <trkpt lat="48.3861682" lon="2.679137"></trkpt>
+        <trkpt lat="48.3860064" lon="2.6788202"></trkpt>
+        <trkpt lat="48.3855403" lon="2.678811"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

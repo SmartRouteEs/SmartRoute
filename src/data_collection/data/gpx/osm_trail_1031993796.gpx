@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Croix Saint-Jacques</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.611479</time>
+</metadata>
+<trk>
+    <name>Route de la Croix Saint-Jacques</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3938258" lon="2.688109"></trkpt>
+        <trkpt lat="48.3938039" lon="2.6880813"></trkpt>
+        <trkpt lat="48.3933299" lon="2.6874798"></trkpt>
+        <trkpt lat="48.3929296" lon="2.686972"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Agaric</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.511736</time>
+</metadata>
+<trk>
+    <name>Route de l'Agaric</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4444418" lon="2.7391659"></trkpt>
+        <trkpt lat="48.4439776" lon="2.7399423"></trkpt>
+        <trkpt lat="48.4423981" lon="2.7427159"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

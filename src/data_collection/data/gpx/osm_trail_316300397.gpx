@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Carreaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.306429</time>
+</metadata>
+<trk>
+    <name>Chemin des Carreaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8655891" lon="2.8622351"></trkpt>
+        <trkpt lat="48.8658811" lon="2.8617563"></trkpt>
+        <trkpt lat="48.8660632" lon="2.8614765"></trkpt>
+        <trkpt lat="48.8662473" lon="2.8612071"></trkpt>
+        <trkpt lat="48.8665466" lon="2.8607506"></trkpt>
+        <trkpt lat="48.8667602" lon="2.8604513"></trkpt>
+        <trkpt lat="48.866901" lon="2.8602358"></trkpt>
+        <trkpt lat="48.8672928" lon="2.8596087"></trkpt>
+        <trkpt lat="48.867538" lon="2.8592391"></trkpt>
+        <trkpt lat="48.8677289" lon="2.8589188"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

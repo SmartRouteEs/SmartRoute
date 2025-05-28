@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Carriers</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.067436</time>
+</metadata>
+<trk>
+    <name>Route des Carriers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7522166" lon="2.2523279"></trkpt>
+        <trkpt lat="48.7522185" lon="2.2523589"></trkpt>
+        <trkpt lat="48.7523197" lon="2.2534998"></trkpt>
+        <trkpt lat="48.7523503" lon="2.2538447"></trkpt>
+        <trkpt lat="48.7524402" lon="2.2547281"></trkpt>
+        <trkpt lat="48.7524701" lon="2.255128"></trkpt>
+        <trkpt lat="48.7524461" lon="2.2553547"></trkpt>
+        <trkpt lat="48.7524251" lon="2.25548"></trkpt>
+        <trkpt lat="48.7523955" lon="2.2557368"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

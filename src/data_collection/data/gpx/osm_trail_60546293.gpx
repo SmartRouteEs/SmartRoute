@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4002</name>
+    <desc>Sentier VTT - Type: footway - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.052652</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4002</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9376798" lon="2.560408"></trkpt>
+        <trkpt lat="48.9374418" lon="2.5605341"></trkpt>
+        <trkpt lat="48.9373831" lon="2.5605721"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

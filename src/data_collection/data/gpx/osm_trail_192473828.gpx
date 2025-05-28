@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Rue du Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.662925</time>
+</metadata>
+<trk>
+    <name>Chemin de la Rue du Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4871181" lon="2.2178527"></trkpt>
+        <trkpt lat="48.4868887" lon="2.2183761"></trkpt>
+        <trkpt lat="48.4867469" lon="2.2188114"></trkpt>
+        <trkpt lat="48.4865878" lon="2.2195432"></trkpt>
+        <trkpt lat="48.4863234" lon="2.2204547"></trkpt>
+        <trkpt lat="48.4861493" lon="2.2212023"></trkpt>
+        <trkpt lat="48.4860699" lon="2.2215579"></trkpt>
+        <trkpt lat="48.485998" lon="2.2219129"></trkpt>
+        <trkpt lat="48.4856967" lon="2.2235806"></trkpt>
+        <trkpt lat="48.4856492" lon="2.2238731"></trkpt>
+        <trkpt lat="48.4856479" lon="2.2242392"></trkpt>
+        <trkpt lat="48.4856793" lon="2.2249204"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

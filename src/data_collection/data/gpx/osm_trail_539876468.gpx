@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Dessus de la Rue Neuve</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.956596</time>
+</metadata>
+<trk>
+    <name>Chemin du Dessus de la Rue Neuve</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7291514" lon="2.3330071"></trkpt>
+        <trkpt lat="48.7291447" lon="2.3330347"></trkpt>
+        <trkpt lat="48.7287652" lon="2.3345905"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

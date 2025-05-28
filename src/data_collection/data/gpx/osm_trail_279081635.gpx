@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Parc Ampère</name>
+    <desc>Sentier VTT - Type: path - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.236028</time>
+</metadata>
+<trk>
+    <name>Parc Ampère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7204832" lon="2.2648793"></trkpt>
+        <trkpt lat="48.7206699" lon="2.265256"></trkpt>
+        <trkpt lat="48.7207671" lon="2.2654523"></trkpt>
+        <trkpt lat="48.7209685" lon="2.2658589"></trkpt>
+        <trkpt lat="48.7212602" lon="2.2664389"></trkpt>
+        <trkpt lat="48.7213275" lon="2.2665769"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

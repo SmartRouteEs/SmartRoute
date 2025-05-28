@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente de Gondelot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Sente de Gondelot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6713106" lon="3.351046"></trkpt>
+        <trkpt lat="48.6719882" lon="3.3517883"></trkpt>
+        <trkpt lat="48.6742947" lon="3.3538296"></trkpt>
+        <trkpt lat="48.6767821" lon="3.3550225"></trkpt>
+        <trkpt lat="48.6778747" lon="3.3555393"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

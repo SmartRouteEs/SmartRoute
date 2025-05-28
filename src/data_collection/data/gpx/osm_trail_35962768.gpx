@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Ermitage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.030805</time>
+</metadata>
+<trk>
+    <name>Route de l'Ermitage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4086236" lon="2.6392253"></trkpt>
+        <trkpt lat="48.4085964" lon="2.6393621"></trkpt>
+        <trkpt lat="48.4083174" lon="2.6407651"></trkpt>
+        <trkpt lat="48.4079963" lon="2.642709"></trkpt>
+        <trkpt lat="48.4075973" lon="2.6445639"></trkpt>
+        <trkpt lat="48.407399" lon="2.6462408"></trkpt>
+        <trkpt lat="48.4071806" lon="2.6481033"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

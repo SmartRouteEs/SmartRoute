@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Oiseaux de Proie</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.690188</time>
+</metadata>
+<trk>
+    <name>Route des Oiseaux de Proie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4071806" lon="2.6481033"></trkpt>
+        <trkpt lat="48.4066047" lon="2.6493771"></trkpt>
+        <trkpt lat="48.4064482" lon="2.6495177"></trkpt>
+        <trkpt lat="48.4056483" lon="2.6494765"></trkpt>
+        <trkpt lat="48.4052057" lon="2.6496611"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

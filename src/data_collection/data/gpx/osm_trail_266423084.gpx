@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Plan</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.034112</time>
+</metadata>
+<trk>
+    <name>Rue du Plan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6150993" lon="2.2994499"></trkpt>
+        <trkpt lat="48.615135" lon="2.2994312"></trkpt>
+        <trkpt lat="48.6151734" lon="2.2994096"></trkpt>
+        <trkpt lat="48.615197" lon="2.2993953"></trkpt>
+        <trkpt lat="48.6152176" lon="2.299379"></trkpt>
+        <trkpt lat="48.6152786" lon="2.2993194"></trkpt>
+        <trkpt lat="48.6153504" lon="2.2992239"></trkpt>
+        <trkpt lat="48.6154322" lon="2.2991034"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

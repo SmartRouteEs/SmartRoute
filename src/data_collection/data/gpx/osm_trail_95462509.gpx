@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Gros Hêtre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.496501</time>
+</metadata>
+<trk>
+    <name>Allée du Gros Hêtre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9069775" lon="2.5568209"></trkpt>
+        <trkpt lat="48.9070172" lon="2.5569218"></trkpt>
+        <trkpt lat="48.90705" lon="2.5570379"></trkpt>
+        <trkpt lat="48.9070607" lon="2.5574624"></trkpt>
+        <trkpt lat="48.9075459" lon="2.5584381"></trkpt>
+        <trkpt lat="48.9079775" lon="2.5592759"></trkpt>
+        <trkpt lat="48.9084425" lon="2.5601761"></trkpt>
+        <trkpt lat="48.9085376" lon="2.5603381"></trkpt>
+        <trkpt lat="48.9086743" lon="2.560571"></trkpt>
+        <trkpt lat="48.9092078" lon="2.561636"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

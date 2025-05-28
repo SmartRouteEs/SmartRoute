@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Gorge aux Chats</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.005220</time>
+</metadata>
+<trk>
+    <name>Chemin de la Gorge aux Chats</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3948268" lon="2.5380082"></trkpt>
+        <trkpt lat="48.394859" lon="2.537639"></trkpt>
+        <trkpt lat="48.39501" lon="2.537258"></trkpt>
+        <trkpt lat="48.395076" lon="2.537021"></trkpt>
+        <trkpt lat="48.395191" lon="2.536286"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

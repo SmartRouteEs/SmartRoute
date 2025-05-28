@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 1994</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.168072</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 1994</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3239971" lon="2.752318"></trkpt>
+        <trkpt lat="48.3249365" lon="2.7514122"></trkpt>
+        <trkpt lat="48.3250835" lon="2.7514276"></trkpt>
+        <trkpt lat="48.3261545" lon="2.7519422"></trkpt>
+        <trkpt lat="48.3266496" lon="2.7539638"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Basses Godernes</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.457374</time>
+</metadata>
+<trk>
+    <name>Chemin des Basses Godernes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.388784" lon="2.7965929"></trkpt>
+        <trkpt lat="48.3889054" lon="2.7964311"></trkpt>
+        <trkpt lat="48.3890023" lon="2.7959768"></trkpt>
+        <trkpt lat="48.3891789" lon="2.7951492"></trkpt>
+        <trkpt lat="48.3892938" lon="2.7946118"></trkpt>
+        <trkpt lat="48.3894967" lon="2.7937757"></trkpt>
+        <trkpt lat="48.3898474" lon="2.7925194"></trkpt>
+        <trkpt lat="48.3902328" lon="2.7915072"></trkpt>
+        <trkpt lat="48.3904832" lon="2.791052"></trkpt>
+        <trkpt lat="48.3907638" lon="2.790539"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ancien Chemin du Châtelet</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.596855</time>
+</metadata>
+<trk>
+    <name>Ancien Chemin du Châtelet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5285826" lon="2.7048289"></trkpt>
+        <trkpt lat="48.5286112" lon="2.7046953"></trkpt>
+        <trkpt lat="48.5286232" lon="2.70458"></trkpt>
+        <trkpt lat="48.5286374" lon="2.7044184"></trkpt>
+        <trkpt lat="48.5286396" lon="2.7041602"></trkpt>
+        <trkpt lat="48.5286427" lon="2.7031551"></trkpt>
+        <trkpt lat="48.5286747" lon="2.7023095"></trkpt>
+        <trkpt lat="48.5287058" lon="2.7014109"></trkpt>
+        <trkpt lat="48.5287422" lon="2.7010167"></trkpt>
+        <trkpt lat="48.5287666" lon="2.7008866"></trkpt>
+        <trkpt lat="48.5288026" lon="2.7007538"></trkpt>
+        <trkpt lat="48.5288106" lon="2.700676"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

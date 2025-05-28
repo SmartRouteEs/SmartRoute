@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Femme</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.746828</time>
+</metadata>
+<trk>
+    <name>Route de la Femme</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.466896" lon="2.6524197"></trkpt>
+        <trkpt lat="48.4660568" lon="2.6527247"></trkpt>
+        <trkpt lat="48.4658644" lon="2.6527897"></trkpt>
+        <trkpt lat="48.4653274" lon="2.6526768"></trkpt>
+        <trkpt lat="48.4649143" lon="2.6525203"></trkpt>
+        <trkpt lat="48.4637735" lon="2.6520551"></trkpt>
+        <trkpt lat="48.46296" lon="2.6513661"></trkpt>
+        <trkpt lat="48.4623781" lon="2.6508594"></trkpt>
+        <trkpt lat="48.4619757" lon="2.6508798"></trkpt>
+        <trkpt lat="48.4616169" lon="2.6507159"></trkpt>
+        <trkpt lat="48.4613784" lon="2.6506016"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

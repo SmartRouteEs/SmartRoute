@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ligueurs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.701669</time>
+</metadata>
+<trk>
+    <name>Route des Ligueurs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4280874" lon="2.6665251"></trkpt>
+        <trkpt lat="48.4305226" lon="2.6649549"></trkpt>
+        <trkpt lat="48.4350699" lon="2.66602"></trkpt>
+        <trkpt lat="48.436816" lon="2.666464"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

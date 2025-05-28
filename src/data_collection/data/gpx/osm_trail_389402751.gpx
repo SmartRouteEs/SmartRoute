@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Charretière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.429139</time>
+</metadata>
+<trk>
+    <name>Chemin de la Charretière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1558181" lon="2.3267448"></trkpt>
+        <trkpt lat="48.1557737" lon="2.3267291"></trkpt>
+        <trkpt lat="48.1556774" lon="2.3266785"></trkpt>
+        <trkpt lat="48.1525613" lon="2.3248076"></trkpt>
+        <trkpt lat="48.1489877" lon="2.3226781"></trkpt>
+        <trkpt lat="48.1479449" lon="2.3220528"></trkpt>
+        <trkpt lat="48.147064" lon="2.3215355"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

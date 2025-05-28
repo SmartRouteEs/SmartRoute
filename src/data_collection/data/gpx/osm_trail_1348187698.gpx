@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villiers aux Neullis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.681111</time>
+</metadata>
+<trk>
+    <name>Chemin de Villiers aux Neullis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8913329" lon="3.1998091"></trkpt>
+        <trkpt lat="48.8909373" lon="3.199726"></trkpt>
+        <trkpt lat="48.8903131" lon="3.1996063"></trkpt>
+        <trkpt lat="48.8882531" lon="3.1994874"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

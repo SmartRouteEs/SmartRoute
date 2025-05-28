@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Félicité</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.649369</time>
+</metadata>
+<trk>
+    <name>Allée de la Félicité</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8316407" lon="2.2129499"></trkpt>
+        <trkpt lat="48.8341566" lon="2.2124879"></trkpt>
+        <trkpt lat="48.8341966" lon="2.2124805"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

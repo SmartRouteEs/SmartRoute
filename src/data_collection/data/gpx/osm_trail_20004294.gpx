@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Coulants</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.424845</time>
+</metadata>
+<trk>
+    <name>Route des Coulants</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.50727" lon="2.6384975"></trkpt>
+        <trkpt lat="48.5071488" lon="2.6387311"></trkpt>
+        <trkpt lat="48.5066632" lon="2.639603"></trkpt>
+        <trkpt lat="48.506245" lon="2.6403649"></trkpt>
+        <trkpt lat="48.505763" lon="2.6416647"></trkpt>
+        <trkpt lat="48.5044512" lon="2.6452022"></trkpt>
+        <trkpt lat="48.5034916" lon="2.6477897"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

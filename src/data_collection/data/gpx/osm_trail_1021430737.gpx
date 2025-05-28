@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin du Choisel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.411383</time>
+</metadata>
+<trk>
+    <name>chemin du Choisel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9053879" lon="3.1496876"></trkpt>
+        <trkpt lat="48.9049336" lon="3.1502169"></trkpt>
+        <trkpt lat="48.9046163" lon="3.1505173"></trkpt>
+        <trkpt lat="48.904172" lon="3.1506085"></trkpt>
+        <trkpt lat="48.9039469" lon="3.1505587"></trkpt>
+        <trkpt lat="48.9040075" lon="3.1506759"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

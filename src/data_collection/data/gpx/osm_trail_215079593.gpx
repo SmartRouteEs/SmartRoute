@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Languedoc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.997045</time>
+</metadata>
+<trk>
+    <name>Route du Languedoc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3559993" lon="2.7388567"></trkpt>
+        <trkpt lat="48.3559568" lon="2.7391463"></trkpt>
+        <trkpt lat="48.3558293" lon="2.7394413"></trkpt>
+        <trkpt lat="48.3558121" lon="2.7396345"></trkpt>
+        <trkpt lat="48.3558783" lon="2.74001"></trkpt>
+        <trkpt lat="48.3558548" lon="2.7402925"></trkpt>
+        <trkpt lat="48.3554584" lon="2.7412"></trkpt>
+        <trkpt lat="48.3553228" lon="2.7414182"></trkpt>
+        <trkpt lat="48.3548712" lon="2.7420049"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

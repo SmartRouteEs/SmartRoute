@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Louchette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.086475</time>
+</metadata>
+<trk>
+    <name>Sentier de la Louchette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8196365" lon="3.155619"></trkpt>
+        <trkpt lat="48.8197625" lon="3.1562486"></trkpt>
+        <trkpt lat="48.8199409" lon="3.1567712"></trkpt>
+        <trkpt lat="48.8199765" lon="3.1577834"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

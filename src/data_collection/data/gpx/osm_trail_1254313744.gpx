@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tour Denecourt</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.386007</time>
+</metadata>
+<trk>
+    <name>Route de la Tour Denecourt</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4282982" lon="2.7261188"></trkpt>
+        <trkpt lat="48.4315447" lon="2.7258835"></trkpt>
+        <trkpt lat="48.4318181" lon="2.7257097"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

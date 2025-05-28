@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pellerot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Chemin du Pellerot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6856402" lon="3.3576514"></trkpt>
+        <trkpt lat="48.6833028" lon="3.3578018"></trkpt>
+        <trkpt lat="48.6831926" lon="3.3577846"></trkpt>
+        <trkpt lat="48.6824" lon="3.3576321"></trkpt>
+        <trkpt lat="48.6817272" lon="3.3574698"></trkpt>
+        <trkpt lat="48.6813545" lon="3.3573571"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Ambroise Dubois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.975959</time>
+</metadata>
+<trk>
+    <name>Route Ambroise Dubois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3965592" lon="2.6318652"></trkpt>
+        <trkpt lat="48.3987106" lon="2.6308769"></trkpt>
+        <trkpt lat="48.3993743" lon="2.6305272"></trkpt>
+        <trkpt lat="48.3998182" lon="2.6303664"></trkpt>
+        <trkpt lat="48.400201" lon="2.6302277"></trkpt>
+        <trkpt lat="48.4027868" lon="2.6290028"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

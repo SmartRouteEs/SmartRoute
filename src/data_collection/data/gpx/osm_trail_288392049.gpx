@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bas de la Plaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.525667</time>
+</metadata>
+<trk>
+    <name>Chemin du Bas de la Plaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.665341" lon="2.2924024"></trkpt>
+        <trkpt lat="48.6644363" lon="2.2914224"></trkpt>
+        <trkpt lat="48.6634817" lon="2.2903998"></trkpt>
+        <trkpt lat="48.6625376" lon="2.2894885"></trkpt>
+        <trkpt lat="48.6617315" lon="2.2887817"></trkpt>
+        <trkpt lat="48.660963" lon="2.2880772"></trkpt>
+        <trkpt lat="48.660641" lon="2.287817"></trkpt>
+        <trkpt lat="48.6605557" lon="2.287761"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

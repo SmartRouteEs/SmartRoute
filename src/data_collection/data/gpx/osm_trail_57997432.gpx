@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grande Ruelle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.003131</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grande Ruelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5227614" lon="2.2516568"></trkpt>
+        <trkpt lat="48.5225701" lon="2.2519509"></trkpt>
+        <trkpt lat="48.5225177" lon="2.2526519"></trkpt>
+        <trkpt lat="48.5225119" lon="2.2529664"></trkpt>
+        <trkpt lat="48.5224936" lon="2.2530762"></trkpt>
+        <trkpt lat="48.5224249" lon="2.2532202"></trkpt>
+        <trkpt lat="48.5222744" lon="2.2534272"></trkpt>
+        <trkpt lat="48.5220905" lon="2.2536109"></trkpt>
+        <trkpt lat="48.5219051" lon="2.253905"></trkpt>
+        <trkpt lat="48.5218578" lon="2.2539799"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villouvette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.405904</time>
+</metadata>
+<trk>
+    <name>Chemin de Villouvette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6303314" lon="2.4841676"></trkpt>
+        <trkpt lat="48.6315893" lon="2.483214"></trkpt>
+        <trkpt lat="48.6327544" lon="2.4823308"></trkpt>
+        <trkpt lat="48.6329901" lon="2.4821779"></trkpt>
+        <trkpt lat="48.6333251" lon="2.4818909"></trkpt>
+        <trkpt lat="48.6335698" lon="2.4816522"></trkpt>
+        <trkpt lat="48.6339016" lon="2.4812107"></trkpt>
+        <trkpt lat="48.6339428" lon="2.4811559"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

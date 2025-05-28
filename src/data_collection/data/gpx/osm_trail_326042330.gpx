@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée d'Avon</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.543312</time>
+</metadata>
+<trk>
+    <name>Allée d'Avon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4083372" lon="2.7192562"></trkpt>
+        <trkpt lat="48.4083019" lon="2.7190918"></trkpt>
+        <trkpt lat="48.4082546" lon="2.7189349"></trkpt>
+        <trkpt lat="48.4076816" lon="2.7172016"></trkpt>
+        <trkpt lat="48.4066021" lon="2.7139803"></trkpt>
+        <trkpt lat="48.4062527" lon="2.7129329"></trkpt>
+        <trkpt lat="48.4055387" lon="2.7108332"></trkpt>
+        <trkpt lat="48.405157" lon="2.7097089"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

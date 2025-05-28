@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Clos Langlet</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.302263</time>
+</metadata>
+<trk>
+    <name>Chemin du Clos Langlet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6462638" lon="2.3984002"></trkpt>
+        <trkpt lat="48.6460859" lon="2.3981524"></trkpt>
+        <trkpt lat="48.6460743" lon="2.3981289"></trkpt>
+        <trkpt lat="48.6460327" lon="2.3980612"></trkpt>
+        <trkpt lat="48.6459578" lon="2.397974"></trkpt>
+        <trkpt lat="48.6455812" lon="2.3976045"></trkpt>
+        <trkpt lat="48.6450389" lon="2.3971787"></trkpt>
+        <trkpt lat="48.6447465" lon="2.3969226"></trkpt>
+        <trkpt lat="48.6444681" lon="2.3967255"></trkpt>
+        <trkpt lat="48.6444002" lon="2.3966732"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

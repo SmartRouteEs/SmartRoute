@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Fontaine du Mai</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.898279</time>
+</metadata>
+<trk>
+    <name>Rue de la Fontaine du Mai</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7166318" lon="2.5211029"></trkpt>
+        <trkpt lat="48.7167037" lon="2.5217086"></trkpt>
+        <trkpt lat="48.7167675" lon="2.521722"></trkpt>
+        <trkpt lat="48.716909" lon="2.5225347"></trkpt>
+        <trkpt lat="48.7169373" lon="2.5229987"></trkpt>
+        <trkpt lat="48.7168913" lon="2.5231248"></trkpt>
+        <trkpt lat="48.7165113" lon="2.523282"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

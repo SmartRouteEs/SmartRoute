@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural des Coudrays</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.297312</time>
+</metadata>
+<trk>
+    <name>Chemin rural des Coudrays</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5491775" lon="2.6914524"></trkpt>
+        <trkpt lat="48.549814" lon="2.6924647"></trkpt>
+        <trkpt lat="48.5502116" lon="2.6929923"></trkpt>
+        <trkpt lat="48.5502289" lon="2.6940572"></trkpt>
+        <trkpt lat="48.5502157" lon="2.6945218"></trkpt>
+        <trkpt lat="48.5498647" lon="2.6945162"></trkpt>
+        <trkpt lat="48.5492046" lon="2.6944432"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

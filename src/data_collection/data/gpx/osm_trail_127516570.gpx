@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Villiers à Combault - Promenade Albert Robin</name>
+    <desc>Sentier VTT - Type: footway - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.931439</time>
+</metadata>
+<trk>
+    <name>Chemin Villiers à Combault - Promenade Albert Robin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8141865" lon="2.5718762"></trkpt>
+        <trkpt lat="48.8142046" lon="2.5717716"></trkpt>
+        <trkpt lat="48.8142516" lon="2.5715911"></trkpt>
+        <trkpt lat="48.8143196" lon="2.5713985"></trkpt>
+        <trkpt lat="48.8147577" lon="2.5704802"></trkpt>
+        <trkpt lat="48.8148663" lon="2.5702717"></trkpt>
+        <trkpt lat="48.8148953" lon="2.5702178"></trkpt>
+        <trkpt lat="48.8149374" lon="2.57011"></trkpt>
+        <trkpt lat="48.8148582" lon="2.5700243"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cents Marches</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.660495</time>
+</metadata>
+<trk>
+    <name>Chemin des Cents Marches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4090618" lon="2.5257682"></trkpt>
+        <trkpt lat="48.4095107" lon="2.5230333"></trkpt>
+        <trkpt lat="48.4099721" lon="2.5206818"></trkpt>
+        <trkpt lat="48.4099868" lon="2.5205787"></trkpt>
+        <trkpt lat="48.410153" lon="2.5194139"></trkpt>
+        <trkpt lat="48.4103538" lon="2.5180058"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

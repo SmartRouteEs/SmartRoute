@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 22886</name>
+    <desc>Sentier VTT - Type: footway - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.184510</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 22886</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6553384" lon="2.3041258"></trkpt>
+        <trkpt lat="48.6553572" lon="2.3041096"></trkpt>
+        <trkpt lat="48.6553946" lon="2.3035508"></trkpt>
+        <trkpt lat="48.655374" lon="2.3032374"></trkpt>
+        <trkpt lat="48.6553349" lon="2.3030723"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier Droit</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.455758</time>
+</metadata>
+<trk>
+    <name>Sentier Droit</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.695247" lon="3.3929167"></trkpt>
+        <trkpt lat="48.6952273" lon="3.3932948"></trkpt>
+        <trkpt lat="48.6951759" lon="3.3941388"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

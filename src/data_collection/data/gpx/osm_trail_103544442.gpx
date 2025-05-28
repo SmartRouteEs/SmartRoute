@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Châtaigniers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.628830</time>
+</metadata>
+<trk>
+    <name>Chemin des Châtaigniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3945022" lon="2.5275415"></trkpt>
+        <trkpt lat="48.394412" lon="2.527605"></trkpt>
+        <trkpt lat="48.393953" lon="2.528507"></trkpt>
+        <trkpt lat="48.393627" lon="2.529051"></trkpt>
+        <trkpt lat="48.393428" lon="2.529165"></trkpt>
+        <trkpt lat="48.393222" lon="2.529227"></trkpt>
+        <trkpt lat="48.3931577" lon="2.529238"></trkpt>
+        <trkpt lat="48.3930009" lon="2.5293281"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

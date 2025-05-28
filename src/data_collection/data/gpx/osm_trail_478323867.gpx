@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Vallée aux Cerfs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.504977</time>
+</metadata>
+<trk>
+    <name>Route de la Vallée aux Cerfs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3614049" lon="2.6945568"></trkpt>
+        <trkpt lat="48.3615282" lon="2.6946104"></trkpt>
+        <trkpt lat="48.3624223" lon="2.6946322"></trkpt>
+        <trkpt lat="48.3632768" lon="2.6946751"></trkpt>
+        <trkpt lat="48.3633359" lon="2.6946658"></trkpt>
+        <trkpt lat="48.3634382" lon="2.6946498"></trkpt>
+        <trkpt lat="48.3634872" lon="2.6946828"></trkpt>
+        <trkpt lat="48.3636609" lon="2.6946698"></trkpt>
+        <trkpt lat="48.3645827" lon="2.6946069"></trkpt>
+        <trkpt lat="48.3658918" lon="2.6945418"></trkpt>
+        <trkpt lat="48.3675594" lon="2.6944296"></trkpt>
+        <trkpt lat="48.3681226" lon="2.6944364"></trkpt>
+        <trkpt lat="48.3684614" lon="2.6943709"></trkpt>
+        <trkpt lat="48.3685737" lon="2.6943203"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

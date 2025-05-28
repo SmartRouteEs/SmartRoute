@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Fief</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.830281</time>
+</metadata>
+<trk>
+    <name>Chemin du Fief</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2553171" lon="2.6683591"></trkpt>
+        <trkpt lat="48.2529042" lon="2.671236"></trkpt>
+        <trkpt lat="48.2528739" lon="2.6712721"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

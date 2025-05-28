@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Louis Pinot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.314156</time>
+</metadata>
+<trk>
+    <name>Allée Louis Pinot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9274096" lon="2.7759352"></trkpt>
+        <trkpt lat="48.9275879" lon="2.7764883"></trkpt>
+        <trkpt lat="48.9278416" lon="2.7768829"></trkpt>
+        <trkpt lat="48.9281104" lon="2.7771451"></trkpt>
+        <trkpt lat="48.9283614" lon="2.7775226"></trkpt>
+        <trkpt lat="48.9285382" lon="2.7777103"></trkpt>
+        <trkpt lat="48.9287238" lon="2.7778391"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

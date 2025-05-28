@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Amiral</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.755519</time>
+</metadata>
+<trk>
+    <name>Route de l'Amiral</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4443538" lon="2.7182618"></trkpt>
+        <trkpt lat="48.4444222" lon="2.7182396"></trkpt>
+        <trkpt lat="48.4475761" lon="2.7172027"></trkpt>
+        <trkpt lat="48.4483521" lon="2.7170137"></trkpt>
+        <trkpt lat="48.4497959" lon="2.7164425"></trkpt>
+        <trkpt lat="48.4500432" lon="2.7166309"></trkpt>
+        <trkpt lat="48.4501493" lon="2.7163836"></trkpt>
+        <trkpt lat="48.4505792" lon="2.7162658"></trkpt>
+        <trkpt lat="48.450789" lon="2.7155785"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

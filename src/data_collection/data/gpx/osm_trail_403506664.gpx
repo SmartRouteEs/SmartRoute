@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Marc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.760024</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Marc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6651547" lon="2.2846477"></trkpt>
+        <trkpt lat="48.6649644" lon="2.2850243"></trkpt>
+        <trkpt lat="48.6649477" lon="2.2850818"></trkpt>
+        <trkpt lat="48.6649494" lon="2.2851371"></trkpt>
+        <trkpt lat="48.6649759" lon="2.285192"></trkpt>
+        <trkpt lat="48.6652884" lon="2.2855983"></trkpt>
+        <trkpt lat="48.6650882" lon="2.2860119"></trkpt>
+        <trkpt lat="48.664887" lon="2.2864729"></trkpt>
+        <trkpt lat="48.6644433" lon="2.2874804"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

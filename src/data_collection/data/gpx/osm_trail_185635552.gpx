@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Noue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.556744</time>
+</metadata>
+<trk>
+    <name>Chemin de la Noue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9479055" lon="3.1436387"></trkpt>
+        <trkpt lat="48.9468138" lon="3.1439145"></trkpt>
+        <trkpt lat="48.9466447" lon="3.1438608"></trkpt>
+        <trkpt lat="48.9461374" lon="3.1434531"></trkpt>
+        <trkpt lat="48.9458555" lon="3.1432922"></trkpt>
+        <trkpt lat="48.9453059" lon="3.1432922"></trkpt>
+        <trkpt lat="48.9448268" lon="3.1431849"></trkpt>
+        <trkpt lat="48.9443076" lon="3.1433549"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8531</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.195205</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8531</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8739557" lon="2.8422581"></trkpt>
+        <trkpt lat="48.8748138" lon="2.8427054"></trkpt>
+        <trkpt lat="48.8753109" lon="2.8429242"></trkpt>
+        <trkpt lat="48.8753281" lon="2.8429369"></trkpt>
+        <trkpt lat="48.8770892" lon="2.8442357"></trkpt>
+        <trkpt lat="48.8782252" lon="2.845035"></trkpt>
+        <trkpt lat="48.8783282" lon="2.8451291"></trkpt>
+        <trkpt lat="48.8783469" lon="2.8451653"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

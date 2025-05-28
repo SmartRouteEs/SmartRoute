@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue du Bras Saint-Père</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.463686</time>
+</metadata>
+<trk>
+    <name>Avenue du Bras Saint-Père</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8819875" lon="2.7183714"></trkpt>
+        <trkpt lat="48.8809998" lon="2.7184368"></trkpt>
+        <trkpt lat="48.8802012" lon="2.718481"></trkpt>
+        <trkpt lat="48.8801445" lon="2.7184806"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

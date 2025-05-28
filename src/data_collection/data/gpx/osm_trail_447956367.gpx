@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Bois Richou</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.317496</time>
+</metadata>
+<trk>
+    <name>Route des Bois Richou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4187651" lon="2.7168201"></trkpt>
+        <trkpt lat="48.4183436" lon="2.7164761"></trkpt>
+        <trkpt lat="48.4180019" lon="2.7157938"></trkpt>
+        <trkpt lat="48.4178653" lon="2.7156013"></trkpt>
+        <trkpt lat="48.4175553" lon="2.7153024"></trkpt>
+        <trkpt lat="48.4175214" lon="2.7152791"></trkpt>
+        <trkpt lat="48.4174236" lon="2.715204"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

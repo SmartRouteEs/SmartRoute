@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mare aux Faisans</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.840680</time>
+</metadata>
+<trk>
+    <name>Route de la Mare aux Faisans</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7983248" lon="2.2108308"></trkpt>
+        <trkpt lat="48.7982337" lon="2.2109307"></trkpt>
+        <trkpt lat="48.7979063" lon="2.2112846"></trkpt>
+        <trkpt lat="48.7977456" lon="2.2113822"></trkpt>
+        <trkpt lat="48.7975711" lon="2.2114563"></trkpt>
+        <trkpt lat="48.7969608" lon="2.2119369"></trkpt>
+        <trkpt lat="48.7965091" lon="2.2123227"></trkpt>
+        <trkpt lat="48.7964261" lon="2.2124043"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

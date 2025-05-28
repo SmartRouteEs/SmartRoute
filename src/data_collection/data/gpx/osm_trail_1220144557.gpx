@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois Rond</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.187712</time>
+</metadata>
+<trk>
+    <name>Route du Bois Rond</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3864721" lon="2.576925"></trkpt>
+        <trkpt lat="48.3864191" lon="2.577371"></trkpt>
+        <trkpt lat="48.386294" lon="2.577726"></trkpt>
+        <trkpt lat="48.386268" lon="2.577853"></trkpt>
+        <trkpt lat="48.386116" lon="2.579231"></trkpt>
+        <trkpt lat="48.386075" lon="2.579504"></trkpt>
+        <trkpt lat="48.385984" lon="2.580083"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Hommeries</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.909568</time>
+</metadata>
+<trk>
+    <name>Chemin des Hommeries</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7536035" lon="2.2021171"></trkpt>
+        <trkpt lat="48.7536524" lon="2.2018539"></trkpt>
+        <trkpt lat="48.7536656" lon="2.2017302"></trkpt>
+        <trkpt lat="48.7536668" lon="2.2016309"></trkpt>
+        <trkpt lat="48.753651" lon="2.2015176"></trkpt>
+        <trkpt lat="48.7536039" lon="2.2014438"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

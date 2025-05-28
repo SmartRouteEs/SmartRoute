@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière d'Antin</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:59.277915</time>
+</metadata>
+<trk>
+    <name>Route Forestière d'Antin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.685543" lon="2.5216283"></trkpt>
+        <trkpt lat="48.685385" lon="2.5215382"></trkpt>
+        <trkpt lat="48.6851216" lon="2.5213649"></trkpt>
+        <trkpt lat="48.6849388" lon="2.5212446"></trkpt>
+        <trkpt lat="48.6834388" lon="2.5203581"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

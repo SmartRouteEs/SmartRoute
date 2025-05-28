@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Ormes</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.183235</time>
+</metadata>
+<trk>
+    <name>Allée des Ormes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5666043" lon="2.4249603"></trkpt>
+        <trkpt lat="48.56653" lon="2.4251042"></trkpt>
+        <trkpt lat="48.566444" lon="2.4252944"></trkpt>
+        <trkpt lat="48.5658379" lon="2.4262019"></trkpt>
+        <trkpt lat="48.5654064" lon="2.4269727"></trkpt>
+        <trkpt lat="48.5651313" lon="2.4273643"></trkpt>
+        <trkpt lat="48.5648881" lon="2.4276647"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

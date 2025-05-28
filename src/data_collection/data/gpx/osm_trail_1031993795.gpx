@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Faisanderie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.611479</time>
+</metadata>
+<trk>
+    <name>Route de la Faisanderie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3948545" lon="2.686043"></trkpt>
+        <trkpt lat="48.3948334" lon="2.6860848"></trkpt>
+        <trkpt lat="48.3948279" lon="2.6860958"></trkpt>
+        <trkpt lat="48.3947927" lon="2.6861657"></trkpt>
+        <trkpt lat="48.3941742" lon="2.6874086"></trkpt>
+        <trkpt lat="48.3938258" lon="2.688109"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

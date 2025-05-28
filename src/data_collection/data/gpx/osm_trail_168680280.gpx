@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Noyers</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.913631</time>
+</metadata>
+<trk>
+    <name>Allée des Noyers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5660791" lon="2.4267519"></trkpt>
+        <trkpt lat="48.5658379" lon="2.4262019"></trkpt>
+        <trkpt lat="48.5655556" lon="2.4255519"></trkpt>
+        <trkpt lat="48.5649163" lon="2.4240498"></trkpt>
+        <trkpt lat="48.5646064" lon="2.4234335"></trkpt>
+        <trkpt lat="48.564589" lon="2.4233988"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

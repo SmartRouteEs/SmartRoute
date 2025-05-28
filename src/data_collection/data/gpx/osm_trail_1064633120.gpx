@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Charnois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.809716</time>
+</metadata>
+<trk>
+    <name>Sentier du Charnois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7528299" lon="3.0870253"></trkpt>
+        <trkpt lat="48.7529598" lon="3.087346"></trkpt>
+        <trkpt lat="48.7530075" lon="3.0879414"></trkpt>
+        <trkpt lat="48.7530783" lon="3.0881104"></trkpt>
+        <trkpt lat="48.7535204" lon="3.0884162"></trkpt>
+        <trkpt lat="48.7536369" lon="3.0886155"></trkpt>
+        <trkpt lat="48.7537768" lon="3.088915"></trkpt>
+        <trkpt lat="48.753867" lon="3.0891082"></trkpt>
+        <trkpt lat="48.7545036" lon="3.089717"></trkpt>
+        <trkpt lat="48.7548033" lon="3.0899657"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

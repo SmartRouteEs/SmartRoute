@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mare aux Pigeons</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.689339</time>
+</metadata>
+<trk>
+    <name>Route de la Mare aux Pigeons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4057093" lon="2.638101"></trkpt>
+        <trkpt lat="48.4057241" lon="2.6382362"></trkpt>
+        <trkpt lat="48.4058066" lon="2.6384514"></trkpt>
+        <trkpt lat="48.4058353" lon="2.6387045"></trkpt>
+        <trkpt lat="48.4059067" lon="2.6389441"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

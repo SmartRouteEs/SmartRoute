@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Plaine de Baudelut</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.160000</time>
+</metadata>
+<trk>
+    <name>Chemin de la Plaine de Baudelut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4193336" lon="2.5351009"></trkpt>
+        <trkpt lat="48.4188996" lon="2.5357518"></trkpt>
+        <trkpt lat="48.4184164" lon="2.5361097"></trkpt>
+        <trkpt lat="48.4178441" lon="2.5368036"></trkpt>
+        <trkpt lat="48.4174194" lon="2.5372568"></trkpt>
+        <trkpt lat="48.4170098" lon="2.5378154"></trkpt>
+        <trkpt lat="48.4163266" lon="2.5385173"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

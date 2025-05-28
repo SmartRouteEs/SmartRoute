@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Hautes Bornes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.393415</time>
+</metadata>
+<trk>
+    <name>Chemin des Hautes Bornes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2368262" lon="2.6509752"></trkpt>
+        <trkpt lat="48.2338441" lon="2.6546749"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

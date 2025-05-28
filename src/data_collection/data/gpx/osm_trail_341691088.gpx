@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Chaussée</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.789482</time>
+</metadata>
+<trk>
+    <name>Chemin de la Chaussée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3626609" lon="2.5203784"></trkpt>
+        <trkpt lat="48.3626449" lon="2.5206246"></trkpt>
+        <trkpt lat="48.3626062" lon="2.52096"></trkpt>
+        <trkpt lat="48.3623598" lon="2.5223536"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

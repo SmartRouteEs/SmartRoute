@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée d'Alincourt</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.913631</time>
+</metadata>
+<trk>
+    <name>Allée d'Alincourt</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5597031" lon="2.4171152"></trkpt>
+        <trkpt lat="48.5591882" lon="2.4210608"></trkpt>
+        <trkpt lat="48.5589247" lon="2.4230791"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

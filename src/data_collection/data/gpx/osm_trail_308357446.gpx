@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Reine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.005436</time>
+</metadata>
+<trk>
+    <name>Rue de la Reine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2792853" lon="3.2402986"></trkpt>
+        <trkpt lat="48.2790724" lon="3.240327"></trkpt>
+        <trkpt lat="48.2788211" lon="3.2403407"></trkpt>
+        <trkpt lat="48.2786244" lon="3.2403183"></trkpt>
+        <trkpt lat="48.2783602" lon="3.240282"></trkpt>
+        <trkpt lat="48.2779281" lon="3.2402122"></trkpt>
+        <trkpt lat="48.2776611" lon="3.2401734"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente de la Côte de Jarcy</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.618873</time>
+</metadata>
+<trk>
+    <name>Sente de la Côte de Jarcy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6876031" lon="2.551727"></trkpt>
+        <trkpt lat="48.6874545" lon="2.5517098"></trkpt>
+        <trkpt lat="48.6874325" lon="2.5517072"></trkpt>
+        <trkpt lat="48.6865743" lon="2.5515223"></trkpt>
+        <trkpt lat="48.6861003" lon="2.5513505"></trkpt>
+        <trkpt lat="48.6853507" lon="2.5510374"></trkpt>
+        <trkpt lat="48.6848115" lon="2.5507717"></trkpt>
+        <trkpt lat="48.6843139" lon="2.5506593"></trkpt>
+        <trkpt lat="48.6838407" lon="2.5505732"></trkpt>
+        <trkpt lat="48.6832457" lon="2.5504937"></trkpt>
+        <trkpt lat="48.6825804" lon="2.550249"></trkpt>
+        <trkpt lat="48.6824794" lon="2.5502576"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

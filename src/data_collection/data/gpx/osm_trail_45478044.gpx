@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Rue Brette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.432506</time>
+</metadata>
+<trk>
+    <name>Chemin de la Rue Brette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3418536" lon="2.9435875"></trkpt>
+        <trkpt lat="48.3405918" lon="2.9491617"></trkpt>
+        <trkpt lat="48.3404594" lon="2.949853"></trkpt>
+        <trkpt lat="48.3411553" lon="2.9521142"></trkpt>
+        <trkpt lat="48.3418356" lon="2.9529814"></trkpt>
+        <trkpt lat="48.3420741" lon="2.9534128"></trkpt>
+        <trkpt lat="48.3426701" lon="2.9560086"></trkpt>
+        <trkpt lat="48.3433365" lon="2.9576301"></trkpt>
+        <trkpt lat="48.3433627" lon="2.9577228"></trkpt>
+        <trkpt lat="48.3434357" lon="2.9578068"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Terres Blanches</name>
+    <desc>Sentier VTT - Type: unclassified - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.626106</time>
+</metadata>
+<trk>
+    <name>Chemin des Terres Blanches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.890487" lon="2.8463603"></trkpt>
+        <trkpt lat="48.8907568" lon="2.8451576"></trkpt>
+        <trkpt lat="48.8908493" lon="2.8449141"></trkpt>
+        <trkpt lat="48.8913605" lon="2.8435677"></trkpt>
+        <trkpt lat="48.8917089" lon="2.8427913"></trkpt>
+        <trkpt lat="48.8919115" lon="2.8424771"></trkpt>
+        <trkpt lat="48.8920413" lon="2.8420762"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

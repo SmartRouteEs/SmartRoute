@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle aux Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.116463</time>
+</metadata>
+<trk>
+    <name>Ruelle aux Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4414178" lon="2.7705137"></trkpt>
+        <trkpt lat="48.4421161" lon="2.770862"></trkpt>
+        <trkpt lat="48.4426249" lon="2.7710283"></trkpt>
+        <trkpt lat="48.4436854" lon="2.7715594"></trkpt>
+        <trkpt lat="48.4439232" lon="2.7718055"></trkpt>
+        <trkpt lat="48.4439982" lon="2.7720296"></trkpt>
+        <trkpt lat="48.4441458" lon="2.7722604"></trkpt>
+        <trkpt lat="48.4444067" lon="2.7726194"></trkpt>
+        <trkpt lat="48.4445369" lon="2.7729748"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

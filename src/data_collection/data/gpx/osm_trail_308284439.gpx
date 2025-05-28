@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bas des Bordes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.977832</time>
+</metadata>
+<trk>
+    <name>Chemin du Bas des Bordes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.657607" lon="2.6624704"></trkpt>
+        <trkpt lat="48.6580086" lon="2.6620951"></trkpt>
+        <trkpt lat="48.6581957" lon="2.6619564"></trkpt>
+        <trkpt lat="48.6583439" lon="2.6618867"></trkpt>
+        <trkpt lat="48.6584964" lon="2.6617647"></trkpt>
+        <trkpt lat="48.6586119" lon="2.6616151"></trkpt>
+        <trkpt lat="48.6588007" lon="2.6613455"></trkpt>
+        <trkpt lat="48.6589746" lon="2.6611677"></trkpt>
+        <trkpt lat="48.6594353" lon="2.660844"></trkpt>
+        <trkpt lat="48.6595208" lon="2.6608075"></trkpt>
+        <trkpt lat="48.6597255" lon="2.6609316"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

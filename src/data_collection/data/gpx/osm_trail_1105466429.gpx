@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante des Points de Vues du Rocher Cassepot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.140563</time>
+</metadata>
+<trk>
+    <name>Route Tournante des Points de Vues du Rocher Cassepot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4371132" lon="2.703101"></trkpt>
+        <trkpt lat="48.4370974" lon="2.7032207"></trkpt>
+        <trkpt lat="48.4370497" lon="2.7034122"></trkpt>
+        <trkpt lat="48.4369243" lon="2.703698"></trkpt>
+        <trkpt lat="48.4368657" lon="2.7039903"></trkpt>
+        <trkpt lat="48.4369487" lon="2.7041961"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

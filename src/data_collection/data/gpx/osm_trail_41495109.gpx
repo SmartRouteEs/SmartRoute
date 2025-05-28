@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle de Nanteuil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.286372</time>
+</metadata>
+<trk>
+    <name>Ruelle de Nanteuil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9296984" lon="2.8667824"></trkpt>
+        <trkpt lat="48.9285313" lon="2.8698497"></trkpt>
+        <trkpt lat="48.9282106" lon="2.8706924"></trkpt>
+        <trkpt lat="48.9280075" lon="2.871214"></trkpt>
+        <trkpt lat="48.9273502" lon="2.8727971"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

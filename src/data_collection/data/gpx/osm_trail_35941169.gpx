@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Châtelain</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.030805</time>
+</metadata>
+<trk>
+    <name>Route du Châtelain</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4161868" lon="2.6076099"></trkpt>
+        <trkpt lat="48.4155255" lon="2.6090789"></trkpt>
+        <trkpt lat="48.414715" lon="2.61095"></trkpt>
+        <trkpt lat="48.41445" lon="2.611537"></trkpt>
+        <trkpt lat="48.414242" lon="2.612152"></trkpt>
+        <trkpt lat="48.4140495" lon="2.6127745"></trkpt>
+        <trkpt lat="48.414001" lon="2.612929"></trkpt>
+        <trkpt lat="48.41372" lon="2.613747"></trkpt>
+        <trkpt lat="48.412979" lon="2.616065"></trkpt>
+        <trkpt lat="48.4129234" lon="2.6162667"></trkpt>
+        <trkpt lat="48.4128002" lon="2.6166146"></trkpt>
+        <trkpt lat="48.412712" lon="2.6167551"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

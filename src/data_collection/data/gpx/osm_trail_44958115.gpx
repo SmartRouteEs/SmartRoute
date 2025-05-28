@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue Maurice Prolongée</name>
+    <desc>Sentier VTT - Type: track - Surface: unhewn_cobblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.379185</time>
+</metadata>
+<trk>
+    <name>Avenue Maurice Prolongée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8920327" lon="2.522084"></trkpt>
+        <trkpt lat="48.8924793" lon="2.522658"></trkpt>
+        <trkpt lat="48.8928637" lon="2.5230943"></trkpt>
+        <trkpt lat="48.8929236" lon="2.5231623"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

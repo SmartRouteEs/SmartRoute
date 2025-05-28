@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Couvée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.498214</time>
+</metadata>
+<trk>
+    <name>Route de la Couvée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3699603" lon="2.6752543"></trkpt>
+        <trkpt lat="48.3703086" lon="2.6755521"></trkpt>
+        <trkpt lat="48.3706739" lon="2.6758516"></trkpt>
+        <trkpt lat="48.3708918" lon="2.6761635"></trkpt>
+        <trkpt lat="48.3710892" lon="2.6765616"></trkpt>
+        <trkpt lat="48.3715241" lon="2.6769597"></trkpt>
+        <trkpt lat="48.3717314" lon="2.6771624"></trkpt>
+        <trkpt lat="48.3721375" lon="2.6773294"></trkpt>
+        <trkpt lat="48.3723108" lon="2.6773152"></trkpt>
+        <trkpt lat="48.3727541" lon="2.6771107"></trkpt>
+        <trkpt lat="48.3731414" lon="2.6769448"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

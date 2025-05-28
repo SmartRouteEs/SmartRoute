@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois des Sept</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.335061</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois des Sept</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1711833" lon="2.1852823"></trkpt>
+        <trkpt lat="48.1712197" lon="2.1853263"></trkpt>
+        <trkpt lat="48.1718887" lon="2.1861351"></trkpt>
+        <trkpt lat="48.1723411" lon="2.1867333"></trkpt>
+        <trkpt lat="48.1728734" lon="2.1875573"></trkpt>
+        <trkpt lat="48.1734057" lon="2.1882954"></trkpt>
+        <trkpt lat="48.1741098" lon="2.1892633"></trkpt>
+        <trkpt lat="48.174768" lon="2.1899691"></trkpt>
+        <trkpt lat="48.1753003" lon="2.1905184"></trkpt>
+        <trkpt lat="48.1759642" lon="2.1911622"></trkpt>
+        <trkpt lat="48.1763248" lon="2.1916257"></trkpt>
+        <trkpt lat="48.1767312" lon="2.1919604"></trkpt>
+        <trkpt lat="48.1773221" lon="2.1923623"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

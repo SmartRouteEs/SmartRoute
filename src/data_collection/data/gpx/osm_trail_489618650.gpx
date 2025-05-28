@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 22068</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.571736</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 22068</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8086244" lon="2.9239702"></trkpt>
+        <trkpt lat="48.8086969" lon="2.9239622"></trkpt>
+        <trkpt lat="48.808767" lon="2.9239788"></trkpt>
+        <trkpt lat="48.809016" lon="2.924183"></trkpt>
+        <trkpt lat="48.809536" lon="2.924645"></trkpt>
+        <trkpt lat="48.809655" lon="2.924766"></trkpt>
+        <trkpt lat="48.8104244" lon="2.9257705"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

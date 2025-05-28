@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Adam</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.940168</time>
+</metadata>
+<trk>
+    <name>Route Adam</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3882813" lon="2.657517"></trkpt>
+        <trkpt lat="48.3878653" lon="2.6576393"></trkpt>
+        <trkpt lat="48.3874607" lon="2.6576586"></trkpt>
+        <trkpt lat="48.3872178" lon="2.6578672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

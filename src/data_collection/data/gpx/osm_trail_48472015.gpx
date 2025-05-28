@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ventes Rigaud</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.659744</time>
+</metadata>
+<trk>
+    <name>Route des Ventes Rigaud</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3523466" lon="2.6819352"></trkpt>
+        <trkpt lat="48.3530642" lon="2.6862264"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

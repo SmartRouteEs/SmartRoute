@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée d'Orléans</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.442237</time>
+</metadata>
+<trk>
+    <name>Allée d'Orléans</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8341401" lon="2.2079019"></trkpt>
+        <trkpt lat="48.8339757" lon="2.2079172"></trkpt>
+        <trkpt lat="48.8334535" lon="2.2079754"></trkpt>
+        <trkpt lat="48.8332904" lon="2.2079913"></trkpt>
+        <trkpt lat="48.833162" lon="2.2080002"></trkpt>
+        <trkpt lat="48.8331356" lon="2.2080046"></trkpt>
+        <trkpt lat="48.833083" lon="2.2080072"></trkpt>
+        <trkpt lat="48.8330056" lon="2.2080152"></trkpt>
+        <trkpt lat="48.8327136" lon="2.2079783"></trkpt>
+        <trkpt lat="48.8311932" lon="2.20814"></trkpt>
+        <trkpt lat="48.8309135" lon="2.2081582"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

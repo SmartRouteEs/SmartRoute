@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Maisse</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.078023</time>
+</metadata>
+<trk>
+    <name>Chemin de Maisse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4409627" lon="2.3054403"></trkpt>
+        <trkpt lat="48.4426209" lon="2.3014997"></trkpt>
+        <trkpt lat="48.4429188" lon="2.3006887"></trkpt>
+        <trkpt lat="48.4432967" lon="2.2999229"></trkpt>
+        <trkpt lat="48.4437476" lon="2.2989856"></trkpt>
+        <trkpt lat="48.4437813" lon="2.2989094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

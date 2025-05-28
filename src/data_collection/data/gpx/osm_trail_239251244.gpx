@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vieilles Vignes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.212974</time>
+</metadata>
+<trk>
+    <name>Chemin des Vieilles Vignes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3820132" lon="2.2986631"></trkpt>
+        <trkpt lat="48.3819355" lon="2.2990963"></trkpt>
+        <trkpt lat="48.3818868" lon="2.2993778"></trkpt>
+        <trkpt lat="48.3818705" lon="2.2995879"></trkpt>
+        <trkpt lat="48.3818626" lon="2.3001488"></trkpt>
+        <trkpt lat="48.3818863" lon="2.3010488"></trkpt>
+        <trkpt lat="48.3819017" lon="2.3025388"></trkpt>
+        <trkpt lat="48.3819085" lon="2.3030323"></trkpt>
+        <trkpt lat="48.3819" lon="2.3034919"></trkpt>
+        <trkpt lat="48.3819373" lon="2.3040323"></trkpt>
+        <trkpt lat="48.3819645" lon="2.3045556"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

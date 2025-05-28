@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Fontaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.684050</time>
+</metadata>
+<trk>
+    <name>Route de Fontaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4613763" lon="2.7437857"></trkpt>
+        <trkpt lat="48.4617684" lon="2.7440539"></trkpt>
+        <trkpt lat="48.4621303" lon="2.7443428"></trkpt>
+        <trkpt lat="48.4636248" lon="2.7453551"></trkpt>
+        <trkpt lat="48.4638968" lon="2.7455393"></trkpt>
+        <trkpt lat="48.4643889" lon="2.745898"></trkpt>
+        <trkpt lat="48.4645985" lon="2.7460117"></trkpt>
+        <trkpt lat="48.4646692" lon="2.7460501"></trkpt>
+        <trkpt lat="48.4651226" lon="2.7463898"></trkpt>
+        <trkpt lat="48.4667641" lon="2.7475029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

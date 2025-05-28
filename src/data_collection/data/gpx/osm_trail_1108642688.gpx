@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Plessis Piquet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.164978</time>
+</metadata>
+<trk>
+    <name>Route du Plessis Piquet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7639949" lon="2.2457551"></trkpt>
+        <trkpt lat="48.7641026" lon="2.2457137"></trkpt>
+        <trkpt lat="48.7642248" lon="2.2458481"></trkpt>
+        <trkpt lat="48.7642977" lon="2.2458838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

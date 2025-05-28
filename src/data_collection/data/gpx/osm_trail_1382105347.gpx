@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Courances à Coquibus</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.217350</time>
+</metadata>
+<trk>
+    <name>Chemin de Courances à Coquibus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.424902" lon="2.4901843"></trkpt>
+        <trkpt lat="48.4244411" lon="2.4904563"></trkpt>
+        <trkpt lat="48.4240701" lon="2.4908217"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

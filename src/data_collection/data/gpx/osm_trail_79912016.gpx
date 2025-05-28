@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Éléonore</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route Éléonore</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3882206" lon="2.7772756"></trkpt>
+        <trkpt lat="48.3864126" lon="2.7755771"></trkpt>
+        <trkpt lat="48.3849673" lon="2.7743397"></trkpt>
+        <trkpt lat="48.3830448" lon="2.7725076"></trkpt>
+        <trkpt lat="48.382673" lon="2.7721885"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

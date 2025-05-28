@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Long Rocher</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.211227</time>
+</metadata>
+<trk>
+    <name>Route du Long Rocher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.359773" lon="2.7202311"></trkpt>
+        <trkpt lat="48.3594778" lon="2.7217466"></trkpt>
+        <trkpt lat="48.3593581" lon="2.7223985"></trkpt>
+        <trkpt lat="48.3591737" lon="2.7230337"></trkpt>
+        <trkpt lat="48.3584961" lon="2.725149"></trkpt>
+        <trkpt lat="48.3582178" lon="2.7263241"></trkpt>
+        <trkpt lat="48.3585065" lon="2.7298296"></trkpt>
+        <trkpt lat="48.3585203" lon="2.7299973"></trkpt>
+        <trkpt lat="48.3586966" lon="2.7314402"></trkpt>
+        <trkpt lat="48.3587775" lon="2.7324533"></trkpt>
+        <trkpt lat="48.3588739" lon="2.7338809"></trkpt>
+        <trkpt lat="48.3589134" lon="2.7352158"></trkpt>
+        <trkpt lat="48.3589522" lon="2.7370482"></trkpt>
+        <trkpt lat="48.3587261" lon="2.7386824"></trkpt>
+        <trkpt lat="48.3586824" lon="2.7394489"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

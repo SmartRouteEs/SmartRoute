@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 14314</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.472922</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 14314</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3501212" lon="2.5303082"></trkpt>
+        <trkpt lat="48.3501482" lon="2.5300767"></trkpt>
+        <trkpt lat="48.3501482" lon="2.5298702"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

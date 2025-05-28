@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Graville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.589185</time>
+</metadata>
+<trk>
+    <name>Route de Graville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4349735" lon="2.8170252"></trkpt>
+        <trkpt lat="48.4311827" lon="2.8181575"></trkpt>
+        <trkpt lat="48.4259182" lon="2.8203619"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

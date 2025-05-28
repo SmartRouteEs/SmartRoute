@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural dit de la Boucharderie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.668817</time>
+</metadata>
+<trk>
+    <name>Chemin rural dit de la Boucharderie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3304883" lon="2.6531574"></trkpt>
+        <trkpt lat="48.3304355" lon="2.6532434"></trkpt>
+        <trkpt lat="48.3303862" lon="2.6532953"></trkpt>
+        <trkpt lat="48.3303269" lon="2.6533281"></trkpt>
+        <trkpt lat="48.3293942" lon="2.6534209"></trkpt>
+        <trkpt lat="48.3280129" lon="2.6520166"></trkpt>
+        <trkpt lat="48.3275286" lon="2.6522151"></trkpt>
+        <trkpt lat="48.3263879" lon="2.6526908"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

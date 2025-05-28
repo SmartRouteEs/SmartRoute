@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Trotton</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.985952</time>
+</metadata>
+<trk>
+    <name>Chemin de Trotton</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6650469" lon="2.7063271"></trkpt>
+        <trkpt lat="48.6656736" lon="2.7066324"></trkpt>
+        <trkpt lat="48.6660667" lon="2.7067301"></trkpt>
+        <trkpt lat="48.66617" lon="2.7067128"></trkpt>
+        <trkpt lat="48.6669174" lon="2.7068976"></trkpt>
+        <trkpt lat="48.6674587" lon="2.7068793"></trkpt>
+        <trkpt lat="48.6713054" lon="2.7056535"></trkpt>
+        <trkpt lat="48.6715455" lon="2.705478"></trkpt>
+        <trkpt lat="48.6716853" lon="2.7052426"></trkpt>
+        <trkpt lat="48.672056" lon="2.7051647"></trkpt>
+        <trkpt lat="48.672357" lon="2.7052462"></trkpt>
+        <trkpt lat="48.6725984" lon="2.7055702"></trkpt>
+        <trkpt lat="48.6733002" lon="2.7075264"></trkpt>
+        <trkpt lat="48.6737435" lon="2.708364"></trkpt>
+        <trkpt lat="48.6738636" lon="2.7084689"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Monthièves</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.988003</time>
+</metadata>
+<trk>
+    <name>Sentier des Monthièves</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.343315" lon="2.7329731"></trkpt>
+        <trkpt lat="48.3433906" lon="2.7329338"></trkpt>
+        <trkpt lat="48.3433612" lon="2.732279"></trkpt>
+        <trkpt lat="48.3433047" lon="2.7314314"></trkpt>
+        <trkpt lat="48.34328" lon="2.7310474"></trkpt>
+        <trkpt lat="48.343279" lon="2.7304981"></trkpt>
+        <trkpt lat="48.3432788" lon="2.7299697"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

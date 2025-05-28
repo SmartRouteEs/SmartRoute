@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Passage Grillot</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.771988</time>
+</metadata>
+<trk>
+    <name>Passage Grillot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7584091" lon="2.2929581"></trkpt>
+        <trkpt lat="48.7583183" lon="2.292636"></trkpt>
+        <trkpt lat="48.7581276" lon="2.2919686"></trkpt>
+        <trkpt lat="48.7581154" lon="2.2919258"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

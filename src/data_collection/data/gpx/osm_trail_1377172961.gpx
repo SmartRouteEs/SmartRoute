@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Dryades</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.104418</time>
+</metadata>
+<trk>
+    <name>Route des Dryades</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3804063" lon="2.6545245"></trkpt>
+        <trkpt lat="48.3802002" lon="2.6545594"></trkpt>
+        <trkpt lat="48.3801406" lon="2.6545412"></trkpt>
+        <trkpt lat="48.3801016" lon="2.6546056"></trkpt>
+        <trkpt lat="48.379956" lon="2.6545809"></trkpt>
+        <trkpt lat="48.3798148" lon="2.654697"></trkpt>
+        <trkpt lat="48.3797175" lon="2.6548673"></trkpt>
+        <trkpt lat="48.3796028" lon="2.6551216"></trkpt>
+        <trkpt lat="48.3792166" lon="2.655644"></trkpt>
+        <trkpt lat="48.3791457" lon="2.6558104"></trkpt>
+        <trkpt lat="48.3790823" lon="2.65596"></trkpt>
+        <trkpt lat="48.3790574" lon="2.6561846"></trkpt>
+        <trkpt lat="48.3790458" lon="2.6564251"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

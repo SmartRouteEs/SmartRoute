@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Garde de Dieu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.997045</time>
+</metadata>
+<trk>
+    <name>Chemin de la Garde de Dieu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3914435" lon="2.8061795"></trkpt>
+        <trkpt lat="48.391467" lon="2.8061667"></trkpt>
+        <trkpt lat="48.3916344" lon="2.8060608"></trkpt>
+        <trkpt lat="48.3918522" lon="2.8058004"></trkpt>
+        <trkpt lat="48.3922453" lon="2.8055898"></trkpt>
+        <trkpt lat="48.3922453" lon="2.8052923"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

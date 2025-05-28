@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Loriot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.892642</time>
+</metadata>
+<trk>
+    <name>Route du Loriot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4079668" lon="2.7476487"></trkpt>
+        <trkpt lat="48.4080448" lon="2.747305"></trkpt>
+        <trkpt lat="48.407923" lon="2.7457544"></trkpt>
+        <trkpt lat="48.4076603" lon="2.7432636"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

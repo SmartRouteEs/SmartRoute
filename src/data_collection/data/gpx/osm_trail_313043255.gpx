@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie de Vert-le-Grand à Saint-Vrain</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.231190</time>
+</metadata>
+<trk>
+    <name>Voie de Vert-le-Grand à Saint-Vrain</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.557334" lon="2.347636"></trkpt>
+        <trkpt lat="48.556871" lon="2.346972"></trkpt>
+        <trkpt lat="48.556594" lon="2.346673"></trkpt>
+        <trkpt lat="48.556027" lon="2.346125"></trkpt>
+        <trkpt lat="48.555854" lon="2.345972"></trkpt>
+        <trkpt lat="48.555256" lon="2.345472"></trkpt>
+        <trkpt lat="48.555008" lon="2.345285"></trkpt>
+        <trkpt lat="48.554764" lon="2.345088"></trkpt>
+        <trkpt lat="48.554578" lon="2.344915"></trkpt>
+        <trkpt lat="48.554433" lon="2.344749"></trkpt>
+        <trkpt lat="48.554314" lon="2.344596"></trkpt>
+        <trkpt lat="48.5542169" lon="2.3444617"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

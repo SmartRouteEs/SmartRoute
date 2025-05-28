@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Tuilerie</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.221379</time>
+</metadata>
+<trk>
+    <name>Chemin de la Tuilerie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2032681" lon="3.2109459"></trkpt>
+        <trkpt lat="48.2029753" lon="3.2112874"></trkpt>
+        <trkpt lat="48.2027682" lon="3.2115685"></trkpt>
+        <trkpt lat="48.2026427" lon="3.2118935"></trkpt>
+        <trkpt lat="48.2026107" lon="3.2120194"></trkpt>
+        <trkpt lat="48.201955" lon="3.2146324"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

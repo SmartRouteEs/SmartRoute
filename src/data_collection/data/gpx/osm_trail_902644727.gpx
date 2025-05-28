@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Châtillon</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.990608</time>
+</metadata>
+<trk>
+    <name>Sentier de Châtillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3169967" lon="2.6455238"></trkpt>
+        <trkpt lat="48.3169498" lon="2.6454434"></trkpt>
+        <trkpt lat="48.3169446" lon="2.6453757"></trkpt>
+        <trkpt lat="48.316935" lon="2.6453042"></trkpt>
+        <trkpt lat="48.3169164" lon="2.6451785"></trkpt>
+        <trkpt lat="48.3169064" lon="2.645148"></trkpt>
+        <trkpt lat="48.3168663" lon="2.6450252"></trkpt>
+        <trkpt lat="48.3167736" lon="2.644869"></trkpt>
+        <trkpt lat="48.316676" lon="2.6446282"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

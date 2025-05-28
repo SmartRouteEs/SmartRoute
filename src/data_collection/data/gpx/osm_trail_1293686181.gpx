@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Coubron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.474433</time>
+</metadata>
+<trk>
+    <name>Allée de Coubron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9126805" lon="2.5733269"></trkpt>
+        <trkpt lat="48.9126478" lon="2.5734754"></trkpt>
+        <trkpt lat="48.9125778" lon="2.5737935"></trkpt>
+        <trkpt lat="48.9124535" lon="2.5743582"></trkpt>
+        <trkpt lat="48.9123657" lon="2.5747915"></trkpt>
+        <trkpt lat="48.9121662" lon="2.5756633"></trkpt>
+        <trkpt lat="48.9121459" lon="2.5757553"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

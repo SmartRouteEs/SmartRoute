@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle du Montcel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.268620</time>
+</metadata>
+<trk>
+    <name>Ruelle du Montcel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9528994" lon="3.0797021"></trkpt>
+        <trkpt lat="48.9535776" lon="3.0797102"></trkpt>
+        <trkpt lat="48.9540232" lon="3.079737"></trkpt>
+        <trkpt lat="48.9543191" lon="3.0798443"></trkpt>
+        <trkpt lat="48.9545827" lon="3.0798906"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Postes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.003131</time>
+</metadata>
+<trk>
+    <name>Chemin des Postes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5432" lon="2.2332896"></trkpt>
+        <trkpt lat="48.5435024" lon="2.233128"></trkpt>
+        <trkpt lat="48.5437579" lon="2.2329858"></trkpt>
+        <trkpt lat="48.5440605" lon="2.2328878"></trkpt>
+        <trkpt lat="48.5444426" lon="2.2329092"></trkpt>
+        <trkpt lat="48.5449335" lon="2.2330719"></trkpt>
+        <trkpt lat="48.5450511" lon="2.2331159"></trkpt>
+        <trkpt lat="48.5490781" lon="2.2340592"></trkpt>
+        <trkpt lat="48.5513848" lon="2.2346364"></trkpt>
+        <trkpt lat="48.5543112" lon="2.2355134"></trkpt>
+        <trkpt lat="48.560826" lon="2.2374743"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

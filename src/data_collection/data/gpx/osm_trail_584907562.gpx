@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Tournées</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.434994</time>
+</metadata>
+<trk>
+    <name>Chemin des Tournées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1457093" lon="3.2634962"></trkpt>
+        <trkpt lat="48.1458236" lon="3.2632836"></trkpt>
+        <trkpt lat="48.1459397" lon="3.2631162"></trkpt>
+        <trkpt lat="48.1460916" lon="3.2629756"></trkpt>
+        <trkpt lat="48.1463597" lon="3.2627881"></trkpt>
+        <trkpt lat="48.1468468" lon="3.2624532"></trkpt>
+        <trkpt lat="48.1471256" lon="3.2622153"></trkpt>
+        <trkpt lat="48.1474231" lon="3.2619309"></trkpt>
+        <trkpt lat="48.1475929" lon="3.2617166"></trkpt>
+        <trkpt lat="48.1477538" lon="3.261422"></trkpt>
+        <trkpt lat="48.1479459" lon="3.2609666"></trkpt>
+        <trkpt lat="48.1481426" lon="3.2603718"></trkpt>
+        <trkpt lat="48.1482771" lon="3.2599829"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

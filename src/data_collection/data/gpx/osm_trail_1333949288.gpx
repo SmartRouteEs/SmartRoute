@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villebougis à Sens</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.648052</time>
+</metadata>
+<trk>
+    <name>Chemin de Villebougis à Sens</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1988492" lon="3.1903284"></trkpt>
+        <trkpt lat="48.1994874" lon="3.1877715"></trkpt>
+        <trkpt lat="48.1993964" lon="3.1859816"></trkpt>
+        <trkpt lat="48.1993643" lon="3.1853911"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

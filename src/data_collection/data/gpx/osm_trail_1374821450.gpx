@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de la Plaine de la Haute Borne</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.918424</time>
+</metadata>
+<trk>
+    <name>Route Forestière de la Plaine de la Haute Borne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3744776" lon="2.5789758"></trkpt>
+        <trkpt lat="48.374435" lon="2.578645"></trkpt>
+        <trkpt lat="48.3744" lon="2.578289"></trkpt>
+        <trkpt lat="48.374395" lon="2.577803"></trkpt>
+        <trkpt lat="48.374359" lon="2.577395"></trkpt>
+        <trkpt lat="48.374241" lon="2.576738"></trkpt>
+        <trkpt lat="48.374225" lon="2.576582"></trkpt>
+        <trkpt lat="48.3742162" lon="2.5754752"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

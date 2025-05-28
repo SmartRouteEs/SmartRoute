@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Bellevue</name>
+    <desc>Sentier VTT - Type: track - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.227839</time>
+</metadata>
+<trk>
+    <name>Chemin de Bellevue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7321572" lon="2.2119575"></trkpt>
+        <trkpt lat="48.7321186" lon="2.2119881"></trkpt>
+        <trkpt lat="48.7317467" lon="2.2119787"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

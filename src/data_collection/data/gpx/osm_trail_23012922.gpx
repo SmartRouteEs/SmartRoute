@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Ville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.498586</time>
+</metadata>
+<trk>
+    <name>Chemin de Ville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4332019" lon="2.554834"></trkpt>
+        <trkpt lat="48.4346828" lon="2.5552306"></trkpt>
+        <trkpt lat="48.4348249" lon="2.5552371"></trkpt>
+        <trkpt lat="48.434927" lon="2.5551919"></trkpt>
+        <trkpt lat="48.4350774" lon="2.5550775"></trkpt>
+        <trkpt lat="48.4352074" lon="2.5550146"></trkpt>
+        <trkpt lat="48.4353384" lon="2.5550162"></trkpt>
+        <trkpt lat="48.4359534" lon="2.5551778"></trkpt>
+        <trkpt lat="48.4366638" lon="2.555365"></trkpt>
+        <trkpt lat="48.4372606" lon="2.5554198"></trkpt>
+        <trkpt lat="48.4375207" lon="2.5554206"></trkpt>
+        <trkpt lat="48.4376435" lon="2.5553974"></trkpt>
+        <trkpt lat="48.438015" lon="2.5552581"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

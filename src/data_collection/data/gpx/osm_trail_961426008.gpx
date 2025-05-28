@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte de Fleury</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.946112</time>
+</metadata>
+<trk>
+    <name>Route de la Porte de Fleury</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8011045" lon="2.2419783"></trkpt>
+        <trkpt lat="48.8012522" lon="2.2420818"></trkpt>
+        <trkpt lat="48.8013946" lon="2.2421429"></trkpt>
+        <trkpt lat="48.8014732" lon="2.2421677"></trkpt>
+        <trkpt lat="48.801537" lon="2.2421699"></trkpt>
+        <trkpt lat="48.8016242" lon="2.2421517"></trkpt>
+        <trkpt lat="48.8017915" lon="2.2420796"></trkpt>
+        <trkpt lat="48.8018293" lon="2.2420498"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

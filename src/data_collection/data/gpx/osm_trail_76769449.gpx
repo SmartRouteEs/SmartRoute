@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Châtaigneraie</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:46.160612</time>
+</metadata>
+<trk>
+    <name>Route de la Châtaigneraie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7573814" lon="2.256685"></trkpt>
+        <trkpt lat="48.7569696" lon="2.2590018"></trkpt>
+        <trkpt lat="48.7569517" lon="2.2591022"></trkpt>
+        <trkpt lat="48.7569497" lon="2.2591134"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

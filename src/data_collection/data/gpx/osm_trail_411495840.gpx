@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Ruelle des Plantes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.840878</time>
+</metadata>
+<trk>
+    <name>Chemin de la Ruelle des Plantes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3160801" lon="3.1298759"></trkpt>
+        <trkpt lat="48.3159848" lon="3.1299919"></trkpt>
+        <trkpt lat="48.315819" lon="3.129962"></trkpt>
+        <trkpt lat="48.3154146" lon="3.1296231"></trkpt>
+        <trkpt lat="48.3150168" lon="3.129314"></trkpt>
+        <trkpt lat="48.3147251" lon="3.1290249"></trkpt>
+        <trkpt lat="48.3141417" lon="3.1286461"></trkpt>
+        <trkpt lat="48.3135451" lon="3.1282972"></trkpt>
+        <trkpt lat="48.3119937" lon="3.1276193"></trkpt>
+        <trkpt lat="48.3116426" lon="3.1272615"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

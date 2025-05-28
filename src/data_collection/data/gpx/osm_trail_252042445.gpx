@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Cours de la Gare</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.620003</time>
+</metadata>
+<trk>
+    <name>Cours de la Gare</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8002569" lon="2.4022474"></trkpt>
+        <trkpt lat="48.8001821" lon="2.4022856"></trkpt>
+        <trkpt lat="48.7999587" lon="2.4023968"></trkpt>
+        <trkpt lat="48.7998879" lon="2.4024512"></trkpt>
+        <trkpt lat="48.7998194" lon="2.4026007"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

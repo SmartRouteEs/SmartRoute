@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Murs</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.837816</time>
+</metadata>
+<trk>
+    <name>Chemin des Murs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9251241" lon="3.1374098"></trkpt>
+        <trkpt lat="48.9247904" lon="3.1381844"></trkpt>
+        <trkpt lat="48.9243744" lon="3.1393216"></trkpt>
+        <trkpt lat="48.9220096" lon="3.1368345"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

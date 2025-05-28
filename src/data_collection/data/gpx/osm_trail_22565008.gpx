@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 342</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.449492</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 342</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7672184" lon="2.2980548"></trkpt>
+        <trkpt lat="48.7673202" lon="2.2978574"></trkpt>
+        <trkpt lat="48.7673891" lon="2.2977228"></trkpt>
+        <trkpt lat="48.7674777" lon="2.2976199"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route François Millet</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.094615</time>
+</metadata>
+<trk>
+    <name>Route François Millet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4432438" lon="2.6203717"></trkpt>
+        <trkpt lat="48.4444595" lon="2.618338"></trkpt>
+        <trkpt lat="48.4446413" lon="2.6181739"></trkpt>
+        <trkpt lat="48.4447023" lon="2.6180405"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

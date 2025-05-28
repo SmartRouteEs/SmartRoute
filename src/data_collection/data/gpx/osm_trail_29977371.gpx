@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Vaujours</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.761461</time>
+</metadata>
+<trk>
+    <name>Chemin de Vaujours</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9189682" lon="2.5687313"></trkpt>
+        <trkpt lat="48.9191362" lon="2.568808"></trkpt>
+        <trkpt lat="48.9201157" lon="2.5693189"></trkpt>
+        <trkpt lat="48.9209254" lon="2.5697383"></trkpt>
+        <trkpt lat="48.9216766" lon="2.5701508"></trkpt>
+        <trkpt lat="48.9219401" lon="2.5702755"></trkpt>
+        <trkpt lat="48.9219793" lon="2.5703431"></trkpt>
+        <trkpt lat="48.9220046" lon="2.5704022"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

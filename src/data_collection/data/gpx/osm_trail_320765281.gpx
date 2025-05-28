@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Vanvillé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.380191</time>
+</metadata>
+<trk>
+    <name>Chemin de Vanvillé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.553599" lon="3.1124972"></trkpt>
+        <trkpt lat="48.553157" lon="3.1119907"></trkpt>
+        <trkpt lat="48.5526814" lon="3.1115257"></trkpt>
+        <trkpt lat="48.552594" lon="3.1114253"></trkpt>
+        <trkpt lat="48.5525362" lon="3.1114042"></trkpt>
+        <trkpt lat="48.5520641" lon="3.1115521"></trkpt>
+        <trkpt lat="48.5519749" lon="3.1116076"></trkpt>
+        <trkpt lat="48.5519172" lon="3.1117159"></trkpt>
+        <trkpt lat="48.55187" lon="3.1118321"></trkpt>
+        <trkpt lat="48.5518799" lon="3.1119885"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

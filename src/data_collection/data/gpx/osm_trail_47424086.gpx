@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Prince</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.588423</time>
+</metadata>
+<trk>
+    <name>Route du Prince</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4046753" lon="2.7641158"></trkpt>
+        <trkpt lat="48.404531" lon="2.7637766"></trkpt>
+        <trkpt lat="48.40339" lon="2.7607945"></trkpt>
+        <trkpt lat="48.401995" lon="2.7571067"></trkpt>
+        <trkpt lat="48.4014001" lon="2.7551378"></trkpt>
+        <trkpt lat="48.4005987" lon="2.7524083"></trkpt>
+        <trkpt lat="48.4002875" lon="2.751224"></trkpt>
+        <trkpt lat="48.4002648" lon="2.7502342"></trkpt>
+        <trkpt lat="48.4001853" lon="2.7485382"></trkpt>
+        <trkpt lat="48.4000762" lon="2.7470059"></trkpt>
+        <trkpt lat="48.4000405" lon="2.7461605"></trkpt>
+        <trkpt lat="48.4002454" lon="2.7438164"></trkpt>
+        <trkpt lat="48.4006045" lon="2.7397066"></trkpt>
+        <trkpt lat="48.4008644" lon="2.7367304"></trkpt>
+        <trkpt lat="48.4009561" lon="2.7356803"></trkpt>
+        <trkpt lat="48.401071" lon="2.7341725"></trkpt>
+        <trkpt lat="48.401262" lon="2.731918"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Louvetière</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:44.779856</time>
+</metadata>
+<trk>
+    <name>Route de la Louvetière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7622648" lon="2.5968925"></trkpt>
+        <trkpt lat="48.7616947" lon="2.5970943"></trkpt>
+        <trkpt lat="48.7607009" lon="2.5974328"></trkpt>
+        <trkpt lat="48.7598598" lon="2.5977416"></trkpt>
+        <trkpt lat="48.7553562" lon="2.5993951"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

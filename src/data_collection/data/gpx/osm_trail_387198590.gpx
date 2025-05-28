@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Fontaine à Morin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.322435</time>
+</metadata>
+<trk>
+    <name>Chemin de la Fontaine à Morin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2210965" lon="2.4837851"></trkpt>
+        <trkpt lat="48.220213" lon="2.4839724"></trkpt>
+        <trkpt lat="48.2201017" lon="2.483996"></trkpt>
+        <trkpt lat="48.2199267" lon="2.4840394"></trkpt>
+        <trkpt lat="48.2195271" lon="2.4841511"></trkpt>
+        <trkpt lat="48.2190614" lon="2.484322"></trkpt>
+        <trkpt lat="48.2189211" lon="2.4844814"></trkpt>
+        <trkpt lat="48.2159061" lon="2.4886474"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

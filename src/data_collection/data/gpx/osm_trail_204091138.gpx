@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Carriers</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.073996</time>
+</metadata>
+<trk>
+    <name>Chemin des Carriers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.754234" lon="2.261069"></trkpt>
+        <trkpt lat="48.7544324" lon="2.2609732"></trkpt>
+        <trkpt lat="48.7546131" lon="2.2607556"></trkpt>
+        <trkpt lat="48.7548326" lon="2.260449"></trkpt>
+        <trkpt lat="48.7549037" lon="2.2601884"></trkpt>
+        <trkpt lat="48.7549277" lon="2.2595642"></trkpt>
+        <trkpt lat="48.7549415" lon="2.2589502"></trkpt>
+        <trkpt lat="48.7549746" lon="2.2580666"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

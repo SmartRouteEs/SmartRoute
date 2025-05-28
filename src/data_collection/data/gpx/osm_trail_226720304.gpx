@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Princes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.574904</time>
+</metadata>
+<trk>
+    <name>Allée des Princes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9080911" lon="2.5662172"></trkpt>
+        <trkpt lat="48.907675" lon="2.5700385"></trkpt>
+        <trkpt lat="48.9076655" lon="2.5701295"></trkpt>
+        <trkpt lat="48.9076251" lon="2.5704258"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 522</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.518209</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 522</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6700588" lon="2.2637925"></trkpt>
+        <trkpt lat="48.6701008" lon="2.2638448"></trkpt>
+        <trkpt lat="48.6701498" lon="2.2639621"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

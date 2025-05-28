@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois de Marolles</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.595579</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois de Marolles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7448924" lon="2.5726661"></trkpt>
+        <trkpt lat="48.7450528" lon="2.5727493"></trkpt>
+        <trkpt lat="48.7451811" lon="2.5727401"></trkpt>
+        <trkpt lat="48.745346" lon="2.572351"></trkpt>
+        <trkpt lat="48.7455049" lon="2.5716562"></trkpt>
+        <trkpt lat="48.7456936" lon="2.5708771"></trkpt>
+        <trkpt lat="48.7460511" lon="2.5694598"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

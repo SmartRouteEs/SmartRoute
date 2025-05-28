@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Crottes au Loup</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.574904</time>
+</metadata>
+<trk>
+    <name>Sentier des Crottes au Loup</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2543985" lon="2.7113704"></trkpt>
+        <trkpt lat="48.2548716" lon="2.7112551"></trkpt>
+        <trkpt lat="48.2552466" lon="2.7111478"></trkpt>
+        <trkpt lat="48.2557923" lon="2.7110247"></trkpt>
+        <trkpt lat="48.2560368" lon="2.7110724"></trkpt>
+        <trkpt lat="48.2564448" lon="2.7110309"></trkpt>
+        <trkpt lat="48.2570937" lon="2.7112642"></trkpt>
+        <trkpt lat="48.2573905" lon="2.7114443"></trkpt>
+        <trkpt lat="48.2577401" lon="2.7117148"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Charme</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.432017</time>
+</metadata>
+<trk>
+    <name>Chemin de la Charme</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.390077" lon="2.519097"></trkpt>
+        <trkpt lat="48.3901821" lon="2.5195265"></trkpt>
+        <trkpt lat="48.3902764" lon="2.5199666"></trkpt>
+        <trkpt lat="48.3903276" lon="2.5201337"></trkpt>
+        <trkpt lat="48.3903753" lon="2.5204174"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

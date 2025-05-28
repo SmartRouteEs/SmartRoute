@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rocher aux Potets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.020796</time>
+</metadata>
+<trk>
+    <name>Chemin du Rocher aux Potets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.382444" lon="2.530537"></trkpt>
+        <trkpt lat="48.382593" lon="2.530294"></trkpt>
+        <trkpt lat="48.382709" lon="2.530013"></trkpt>
+        <trkpt lat="48.383022" lon="2.529205"></trkpt>
+        <trkpt lat="48.383126" lon="2.5288393"></trkpt>
+        <trkpt lat="48.383175" lon="2.5286352"></trkpt>
+        <trkpt lat="48.3832583" lon="2.5283875"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Michaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.563855</time>
+</metadata>
+<trk>
+    <name>Route Michaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4007043" lon="2.635424"></trkpt>
+        <trkpt lat="48.4005694" lon="2.635819"></trkpt>
+        <trkpt lat="48.3999459" lon="2.6379793"></trkpt>
+        <trkpt lat="48.399896" lon="2.638387"></trkpt>
+        <trkpt lat="48.3998818" lon="2.6389556"></trkpt>
+        <trkpt lat="48.399896" lon="2.6392775"></trkpt>
+        <trkpt lat="48.40005" lon="2.6396156"></trkpt>
+        <trkpt lat="48.4001372" lon="2.639707"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

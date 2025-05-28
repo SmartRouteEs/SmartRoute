@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tronchure</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.602893</time>
+</metadata>
+<trk>
+    <name>Route de la Tronchure</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4636207" lon="2.6819706"></trkpt>
+        <trkpt lat="48.4637768" lon="2.6822361"></trkpt>
+        <trkpt lat="48.4653709" lon="2.6849475"></trkpt>
+        <trkpt lat="48.4663114" lon="2.6864193"></trkpt>
+        <trkpt lat="48.4675016" lon="2.6884275"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

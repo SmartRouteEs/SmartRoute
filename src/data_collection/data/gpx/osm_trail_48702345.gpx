@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Petite Haie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.780831</time>
+</metadata>
+<trk>
+    <name>Chemin de la Petite Haie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3974696" lon="2.7695046"></trkpt>
+        <trkpt lat="48.3974847" lon="2.769997"></trkpt>
+        <trkpt lat="48.3976515" lon="2.7753953"></trkpt>
+        <trkpt lat="48.3977491" lon="2.7788459"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

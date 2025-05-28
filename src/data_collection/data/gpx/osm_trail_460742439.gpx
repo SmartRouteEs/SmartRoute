@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Charpenterie</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.397055</time>
+</metadata>
+<trk>
+    <name>Chemin de la Charpenterie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2552999" lon="2.8145443"></trkpt>
+        <trkpt lat="48.2550598" lon="2.8143811"></trkpt>
+        <trkpt lat="48.2547842" lon="2.8139414"></trkpt>
+        <trkpt lat="48.2547113" lon="2.8135747"></trkpt>
+        <trkpt lat="48.2546475" lon="2.8131236"></trkpt>
+        <trkpt lat="48.2547213" lon="2.8128385"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

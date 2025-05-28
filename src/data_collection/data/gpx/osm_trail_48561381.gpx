@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Adieux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.676299</time>
+</metadata>
+<trk>
+    <name>Route des Adieux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3733407" lon="2.657416"></trkpt>
+        <trkpt lat="48.3738122" lon="2.659706"></trkpt>
+        <trkpt lat="48.3743343" lon="2.6621678"></trkpt>
+        <trkpt lat="48.3745968" lon="2.6633496"></trkpt>
+        <trkpt lat="48.374868" lon="2.6648304"></trkpt>
+        <trkpt lat="48.3749378" lon="2.6671775"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

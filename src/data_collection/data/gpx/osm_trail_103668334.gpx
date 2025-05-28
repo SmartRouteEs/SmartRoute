@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Royale</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.651111</time>
+</metadata>
+<trk>
+    <name>Route Royale</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5121971" lon="2.6568321"></trkpt>
+        <trkpt lat="48.5122322" lon="2.6525311"></trkpt>
+        <trkpt lat="48.5122165" lon="2.6504768"></trkpt>
+        <trkpt lat="48.512214" lon="2.6501491"></trkpt>
+        <trkpt lat="48.5122023" lon="2.6486116"></trkpt>
+        <trkpt lat="48.512179" lon="2.6457226"></trkpt>
+        <trkpt lat="48.5121716" lon="2.6448065"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

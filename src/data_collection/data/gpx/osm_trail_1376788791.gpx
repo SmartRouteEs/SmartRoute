@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Primatice</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.055465</time>
+</metadata>
+<trk>
+    <name>Route du Primatice</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3922633" lon="2.6679552"></trkpt>
+        <trkpt lat="48.3925438" lon="2.6655942"></trkpt>
+        <trkpt lat="48.3925908" lon="2.6651664"></trkpt>
+        <trkpt lat="48.3926389" lon="2.6645895"></trkpt>
+        <trkpt lat="48.3930798" lon="2.6610313"></trkpt>
+        <trkpt lat="48.3932463" lon="2.659274"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

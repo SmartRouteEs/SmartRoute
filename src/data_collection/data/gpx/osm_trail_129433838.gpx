@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pavillon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.013192</time>
+</metadata>
+<trk>
+    <name>Chemin du Pavillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3653019" lon="2.9141885"></trkpt>
+        <trkpt lat="48.3643402" lon="2.9127891"></trkpt>
+        <trkpt lat="48.3638915" lon="2.9121427"></trkpt>
+        <trkpt lat="48.3637219" lon="2.91155"></trkpt>
+        <trkpt lat="48.3637729" lon="2.9103182"></trkpt>
+        <trkpt lat="48.3648792" lon="2.9105795"></trkpt>
+        <trkpt lat="48.3655822" lon="2.9107274"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

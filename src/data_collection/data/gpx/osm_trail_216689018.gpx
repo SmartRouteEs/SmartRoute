@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse des Champarts</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.045627</time>
+</metadata>
+<trk>
+    <name>Impasse des Champarts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7153023" lon="2.289654"></trkpt>
+        <trkpt lat="48.7150659" lon="2.2890747"></trkpt>
+        <trkpt lat="48.7147126" lon="2.2881409"></trkpt>
+        <trkpt lat="48.7143215" lon="2.287188"></trkpt>
+        <trkpt lat="48.7139493" lon="2.2862219"></trkpt>
+        <trkpt lat="48.7139141" lon="2.2861361"></trkpt>
+        <trkpt lat="48.7139057" lon="2.2860239"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

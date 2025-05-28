@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin ferré</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.033337</time>
+</metadata>
+<trk>
+    <name>chemin ferré</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9455832" lon="3.084344"></trkpt>
+        <trkpt lat="48.9451705" lon="3.0835656"></trkpt>
+        <trkpt lat="48.9450919" lon="3.0834889"></trkpt>
+        <trkpt lat="48.9439715" lon="3.0827486"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

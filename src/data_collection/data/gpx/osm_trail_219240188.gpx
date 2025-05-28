@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de l'Aqueduc Saint-Fiacre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.204999</time>
+</metadata>
+<trk>
+    <name>Allée de l'Aqueduc Saint-Fiacre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8917002" lon="2.5357214"></trkpt>
+        <trkpt lat="48.8916355" lon="2.5351954"></trkpt>
+        <trkpt lat="48.8915854" lon="2.5347987"></trkpt>
+        <trkpt lat="48.8915281" lon="2.534563"></trkpt>
+        <trkpt lat="48.8914313" lon="2.5343601"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

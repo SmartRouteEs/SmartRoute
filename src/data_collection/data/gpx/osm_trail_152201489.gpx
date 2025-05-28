@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 7285</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.569169</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 7285</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.796915" lon="3.0400972"></trkpt>
+        <trkpt lat="48.7970262" lon="3.0423113"></trkpt>
+        <trkpt lat="48.7972913" lon="3.0469795"></trkpt>
+        <trkpt lat="48.797335" lon="3.0476674"></trkpt>
+        <trkpt lat="48.7976367" lon="3.053077"></trkpt>
+        <trkpt lat="48.79789" lon="3.057729"></trkpt>
+        <trkpt lat="48.7978206" lon="3.0578561"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Romulus</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.481696</time>
+</metadata>
+<trk>
+    <name>Route du Romulus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3958726" lon="2.7074413"></trkpt>
+        <trkpt lat="48.3954942" lon="2.7077275"></trkpt>
+        <trkpt lat="48.3952632" lon="2.7077485"></trkpt>
+        <trkpt lat="48.394811" lon="2.7075506"></trkpt>
+        <trkpt lat="48.3943672" lon="2.7073635"></trkpt>
+        <trkpt lat="48.3939332" lon="2.7074055"></trkpt>
+        <trkpt lat="48.3932543" lon="2.7080495"></trkpt>
+        <trkpt lat="48.3925963" lon="2.7082455"></trkpt>
+        <trkpt lat="48.392282" lon="2.7082336"></trkpt>
+        <trkpt lat="48.3917732" lon="2.7082485"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Fusillés</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.138682</time>
+</metadata>
+<trk>
+    <name>Allée des Fusillés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3942636" lon="2.5827689"></trkpt>
+        <trkpt lat="48.3946938" lon="2.5812847"></trkpt>
+        <trkpt lat="48.3955885" lon="2.5792067"></trkpt>
+        <trkpt lat="48.395707" lon="2.5789236"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

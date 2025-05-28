@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Hauts Tillets</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.944723</time>
+</metadata>
+<trk>
+    <name>Route des Hauts Tillets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8174862" lon="2.2015893"></trkpt>
+        <trkpt lat="48.8173622" lon="2.2014018"></trkpt>
+        <trkpt lat="48.8165197" lon="2.1997425"></trkpt>
+        <trkpt lat="48.8161371" lon="2.1991449"></trkpt>
+        <trkpt lat="48.815956" lon="2.1988621"></trkpt>
+        <trkpt lat="48.8156016" lon="2.1982755"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

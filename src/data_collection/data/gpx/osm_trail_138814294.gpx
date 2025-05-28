@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Orlembourg</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.136365</time>
+</metadata>
+<trk>
+    <name>Chemin d'Orlembourg</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6532341" lon="2.9881831"></trkpt>
+        <trkpt lat="48.6532651" lon="2.9878792"></trkpt>
+        <trkpt lat="48.6533234" lon="2.987551"></trkpt>
+        <trkpt lat="48.6533508" lon="2.9872365"></trkpt>
+        <trkpt lat="48.6533088" lon="2.9870103"></trkpt>
+        <trkpt lat="48.6531959" lon="2.9868282"></trkpt>
+        <trkpt lat="48.6529826" lon="2.9864338"></trkpt>
+        <trkpt lat="48.6528336" lon="2.9862975"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

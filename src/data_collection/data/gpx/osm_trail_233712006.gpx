@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Basses Plaines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.001931</time>
+</metadata>
+<trk>
+    <name>Route des Basses Plaines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4023571" lon="2.5877685"></trkpt>
+        <trkpt lat="48.402392" lon="2.588334"></trkpt>
+        <trkpt lat="48.402504" lon="2.589421"></trkpt>
+        <trkpt lat="48.40258" lon="2.590411"></trkpt>
+        <trkpt lat="48.402588" lon="2.590504"></trkpt>
+        <trkpt lat="48.402632" lon="2.590801"></trkpt>
+        <trkpt lat="48.402646" lon="2.591079"></trkpt>
+        <trkpt lat="48.402728" lon="2.591949"></trkpt>
+        <trkpt lat="48.402762" lon="2.592629"></trkpt>
+        <trkpt lat="48.4027833" lon="2.5929191"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

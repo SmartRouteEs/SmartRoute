@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Pompadour</name>
+    <desc>Sentier VTT - Type: track - Surface: cobblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.042311</time>
+</metadata>
+<trk>
+    <name>Allée Pompadour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7552669" lon="2.515875"></trkpt>
+        <trkpt lat="48.7559837" lon="2.5142439"></trkpt>
+        <trkpt lat="48.7565438" lon="2.5129275"></trkpt>
+        <trkpt lat="48.7568395" lon="2.5122327"></trkpt>
+        <trkpt lat="48.7575449" lon="2.5105599"></trkpt>
+        <trkpt lat="48.758102" lon="2.509261"></trkpt>
+        <trkpt lat="48.7584512" lon="2.5084561"></trkpt>
+        <trkpt lat="48.7584687" lon="2.5084057"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

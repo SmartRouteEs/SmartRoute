@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Verte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.733333</time>
+</metadata>
+<trk>
+    <name>Route Verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4434807" lon="2.7430743"></trkpt>
+        <trkpt lat="48.4439888" lon="2.7425342"></trkpt>
+        <trkpt lat="48.4444741" lon="2.742048"></trkpt>
+        <trkpt lat="48.4458213" lon="2.7406064"></trkpt>
+        <trkpt lat="48.4474909" lon="2.7388827"></trkpt>
+        <trkpt lat="48.4502631" lon="2.7361528"></trkpt>
+        <trkpt lat="48.4508027" lon="2.7356059"></trkpt>
+        <trkpt lat="48.4536497" lon="2.73258"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Passage Île de Beauté</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.840680</time>
+</metadata>
+<trk>
+    <name>Passage Île de Beauté</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8321766" lon="2.4797869"></trkpt>
+        <trkpt lat="48.832239" lon="2.4797688"></trkpt>
+        <trkpt lat="48.8326274" lon="2.479656"></trkpt>
+        <trkpt lat="48.8326716" lon="2.4796432"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

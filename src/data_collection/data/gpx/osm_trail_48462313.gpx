@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Echo</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route de l'Echo</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3814229" lon="2.7157122"></trkpt>
+        <trkpt lat="48.3810716" lon="2.7156862"></trkpt>
+        <trkpt lat="48.3809657" lon="2.7156515"></trkpt>
+        <trkpt lat="48.380703" lon="2.7154633"></trkpt>
+        <trkpt lat="48.3804292" lon="2.7150164"></trkpt>
+        <trkpt lat="48.3803202" lon="2.7149486"></trkpt>
+        <trkpt lat="48.3799787" lon="2.7144485"></trkpt>
+        <trkpt lat="48.3788544" lon="2.713316"></trkpt>
+        <trkpt lat="48.3778171" lon="2.713062"></trkpt>
+        <trkpt lat="48.3774126" lon="2.7119808"></trkpt>
+        <trkpt lat="48.3774344" lon="2.7116175"></trkpt>
+        <trkpt lat="48.3773074" lon="2.7112274"></trkpt>
+        <trkpt lat="48.3769836" lon="2.7107315"></trkpt>
+        <trkpt lat="48.3762056" lon="2.7093044"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

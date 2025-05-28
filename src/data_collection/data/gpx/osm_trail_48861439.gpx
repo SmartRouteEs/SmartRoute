@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Loup</name>
+    <desc>Sentier VTT - Type: track - Surface: pebblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.804867</time>
+</metadata>
+<trk>
+    <name>Route du Loup</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4064597" lon="2.5974371"></trkpt>
+        <trkpt lat="48.4065841" lon="2.5974773"></trkpt>
+        <trkpt lat="48.4067492" lon="2.5975083"></trkpt>
+        <trkpt lat="48.4068674" lon="2.5975453"></trkpt>
+        <trkpt lat="48.406977" lon="2.5976642"></trkpt>
+        <trkpt lat="48.4070406" lon="2.5977887"></trkpt>
+        <trkpt lat="48.4070608" lon="2.5979169"></trkpt>
+        <trkpt lat="48.4070793" lon="2.5980167"></trkpt>
+        <trkpt lat="48.4071139" lon="2.5980445"></trkpt>
+        <trkpt lat="48.4072168" lon="2.5980615"></trkpt>
+        <trkpt lat="48.4073368" lon="2.59818"></trkpt>
+        <trkpt lat="48.4074523" lon="2.5983108"></trkpt>
+        <trkpt lat="48.4075066" lon="2.598405"></trkpt>
+        <trkpt lat="48.4075593" lon="2.5984693"></trkpt>
+        <trkpt lat="48.4076371" lon="2.5984545"></trkpt>
+        <trkpt lat="48.4078721" lon="2.5984063"></trkpt>
+        <trkpt lat="48.4080773" lon="2.598359"></trkpt>
+        <trkpt lat="48.4082699" lon="2.5982126"></trkpt>
+        <trkpt lat="48.4084256" lon="2.5981516"></trkpt>
+        <trkpt lat="48.4085199" lon="2.5981341"></trkpt>
+        <trkpt lat="48.4086114" lon="2.5981501"></trkpt>
+        <trkpt lat="48.4088718" lon="2.598031"></trkpt>
+        <trkpt lat="48.408917" lon="2.5979675"></trkpt>
+        <trkpt lat="48.4089714" lon="2.5978742"></trkpt>
+        <trkpt lat="48.4090351" lon="2.5978169"></trkpt>
+        <trkpt lat="48.409315" lon="2.5978128"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

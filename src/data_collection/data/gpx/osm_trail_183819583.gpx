@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Bouchers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.343054</time>
+</metadata>
+<trk>
+    <name>Chemin des Bouchers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2880382" lon="2.600589"></trkpt>
+        <trkpt lat="48.2885014" lon="2.6017433"></trkpt>
+        <trkpt lat="48.2886322" lon="2.6020903"></trkpt>
+        <trkpt lat="48.2887219" lon="2.6023331"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

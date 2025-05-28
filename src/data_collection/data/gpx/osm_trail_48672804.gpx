@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Biche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.755519</time>
+</metadata>
+<trk>
+    <name>Route de la Biche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4408823" lon="2.7117928"></trkpt>
+        <trkpt lat="48.4421498" lon="2.7110345"></trkpt>
+        <trkpt lat="48.4428351" lon="2.7105786"></trkpt>
+        <trkpt lat="48.4434415" lon="2.7101708"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

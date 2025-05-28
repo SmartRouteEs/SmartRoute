@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Plaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.824484</time>
+</metadata>
+<trk>
+    <name>Sentier de la Plaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5028055" lon="2.3369876"></trkpt>
+        <trkpt lat="48.5028207" lon="2.3371901"></trkpt>
+        <trkpt lat="48.502877" lon="2.3373311"></trkpt>
+        <trkpt lat="48.5035934" lon="2.3387229"></trkpt>
+        <trkpt lat="48.5036592" lon="2.3388188"></trkpt>
+        <trkpt lat="48.5044148" lon="2.339921"></trkpt>
+        <trkpt lat="48.5035872" lon="2.34111"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

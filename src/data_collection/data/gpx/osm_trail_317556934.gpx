@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Muette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Rue de la Muette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4114136" lon="3.0908321"></trkpt>
+        <trkpt lat="48.4115604" lon="3.0911837"></trkpt>
+        <trkpt lat="48.4119789" lon="3.0925385"></trkpt>
+        <trkpt lat="48.4124999" lon="3.0942721"></trkpt>
+        <trkpt lat="48.4127233" lon="3.0948601"></trkpt>
+        <trkpt lat="48.4129787" lon="3.0954269"></trkpt>
+        <trkpt lat="48.4132076" lon="3.0957194"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

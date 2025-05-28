@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Linné</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.796572</time>
+</metadata>
+<trk>
+    <name>Route de Linné</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4059632" lon="2.5982914"></trkpt>
+        <trkpt lat="48.4060762" lon="2.5983618"></trkpt>
+        <trkpt lat="48.4061637" lon="2.5984555"></trkpt>
+        <trkpt lat="48.406248" lon="2.598604"></trkpt>
+        <trkpt lat="48.406378" lon="2.598923"></trkpt>
+        <trkpt lat="48.406416" lon="2.599142"></trkpt>
+        <trkpt lat="48.406438" lon="2.599434"></trkpt>
+        <trkpt lat="48.406446" lon="2.599999"></trkpt>
+        <trkpt lat="48.406442" lon="2.600443"></trkpt>
+        <trkpt lat="48.406397" lon="2.600978"></trkpt>
+        <trkpt lat="48.406214" lon="2.601981"></trkpt>
+        <trkpt lat="48.406091" lon="2.602539"></trkpt>
+        <trkpt lat="48.406034" lon="2.602917"></trkpt>
+        <trkpt lat="48.405954" lon="2.603127"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

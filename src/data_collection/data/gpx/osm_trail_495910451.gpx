@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Bouillot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.620724</time>
+</metadata>
+<trk>
+    <name>Rue du Bouillot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5471603" lon="2.9522646"></trkpt>
+        <trkpt lat="48.5458422" lon="2.9524939"></trkpt>
+        <trkpt lat="48.5454835" lon="2.9525301"></trkpt>
+        <trkpt lat="48.5453219" lon="2.9525609"></trkpt>
+        <trkpt lat="48.5451945" lon="2.9526144"></trkpt>
+        <trkpt lat="48.5449295" lon="2.9527661"></trkpt>
+        <trkpt lat="48.5445336" lon="2.9531396"></trkpt>
+        <trkpt lat="48.5444177" lon="2.9532275"></trkpt>
+        <trkpt lat="48.5443013" lon="2.9533081"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

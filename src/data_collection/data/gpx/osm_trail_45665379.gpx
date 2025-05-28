@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Féricy</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.457374</time>
+</metadata>
+<trk>
+    <name>Route de Féricy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4143529" lon="2.8089097"></trkpt>
+        <trkpt lat="48.4153819" lon="2.8085235"></trkpt>
+        <trkpt lat="48.415462" lon="2.8084242"></trkpt>
+        <trkpt lat="48.4155385" lon="2.8082821"></trkpt>
+        <trkpt lat="48.415624" lon="2.8081936"></trkpt>
+        <trkpt lat="48.4157397" lon="2.8081614"></trkpt>
+        <trkpt lat="48.4158376" lon="2.8082097"></trkpt>
+        <trkpt lat="48.4159231" lon="2.8082794"></trkpt>
+        <trkpt lat="48.4159943" lon="2.8083116"></trkpt>
+        <trkpt lat="48.4161029" lon="2.8082955"></trkpt>
+        <trkpt lat="48.4188408" lon="2.8073219"></trkpt>
+        <trkpt lat="48.4201229" lon="2.8069371"></trkpt>
+        <trkpt lat="48.4255224" lon="2.8049585"></trkpt>
+        <trkpt lat="48.4269574" lon="2.8044326"></trkpt>
+        <trkpt lat="48.427698" lon="2.8041612"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

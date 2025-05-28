@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie Communale de Brie-Comte-Robert à Presles-en-Brie</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.175341</time>
+</metadata>
+<trk>
+    <name>Voie Communale de Brie-Comte-Robert à Presles-en-Brie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7163052" lon="2.724046"></trkpt>
+        <trkpt lat="48.7163162" lon="2.7241975"></trkpt>
+        <trkpt lat="48.7163247" lon="2.7243679"></trkpt>
+        <trkpt lat="48.7164143" lon="2.72703"></trkpt>
+        <trkpt lat="48.7165842" lon="2.7290684"></trkpt>
+        <trkpt lat="48.7165558" lon="2.730549"></trkpt>
+        <trkpt lat="48.7166125" lon="2.7310211"></trkpt>
+        <trkpt lat="48.7167257" lon="2.7316434"></trkpt>
+        <trkpt lat="48.7167648" lon="2.7347661"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bas des Vaux</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.077767</time>
+</metadata>
+<trk>
+    <name>Chemin du Bas des Vaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6504743" lon="2.2612236"></trkpt>
+        <trkpt lat="48.6503732" lon="2.2611354"></trkpt>
+        <trkpt lat="48.6502939" lon="2.2605468"></trkpt>
+        <trkpt lat="48.6502343" lon="2.2601832"></trkpt>
+        <trkpt lat="48.6502265" lon="2.2597584"></trkpt>
+        <trkpt lat="48.6501794" lon="2.2592834"></trkpt>
+        <trkpt lat="48.6501536" lon="2.2589376"></trkpt>
+        <trkpt lat="48.6501282" lon="2.2585872"></trkpt>
+        <trkpt lat="48.6501836" lon="2.2581795"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

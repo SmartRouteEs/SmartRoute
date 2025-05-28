@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Châtenoy à Ormesson</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.310312</time>
+</metadata>
+<trk>
+    <name>Chemin de Châtenoy à Ormesson</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2395527" lon="2.6344096"></trkpt>
+        <trkpt lat="48.2395447" lon="2.6383167"></trkpt>
+        <trkpt lat="48.2393564" lon="2.6395803"></trkpt>
+        <trkpt lat="48.2395783" lon="2.6405029"></trkpt>
+        <trkpt lat="48.2396443" lon="2.6407774"></trkpt>
+        <trkpt lat="48.240102" lon="2.6419488"></trkpt>
+        <trkpt lat="48.2403496" lon="2.6428576"></trkpt>
+        <trkpt lat="48.2404258" lon="2.6436209"></trkpt>
+        <trkpt lat="48.240362" lon="2.6443557"></trkpt>
+        <trkpt lat="48.2403654" lon="2.6446584"></trkpt>
+        <trkpt lat="48.2403475" lon="2.6450511"></trkpt>
+        <trkpt lat="48.2405032" lon="2.6455771"></trkpt>
+        <trkpt lat="48.2406354" lon="2.6463974"></trkpt>
+        <trkpt lat="48.2408154" lon="2.6473609"></trkpt>
+        <trkpt lat="48.2409609" lon="2.6482149"></trkpt>
+        <trkpt lat="48.2410347" lon="2.6486084"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

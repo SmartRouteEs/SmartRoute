@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Petits Prés</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.529277</time>
+</metadata>
+<trk>
+    <name>Chemin des Petits Prés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9228327" lon="2.8946082"></trkpt>
+        <trkpt lat="48.9222798" lon="2.8945159"></trkpt>
+        <trkpt lat="48.9215078" lon="2.8938603"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

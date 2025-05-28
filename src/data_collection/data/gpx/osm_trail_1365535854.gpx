@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Paulet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.760896</time>
+</metadata>
+<trk>
+    <name>Route Paulet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3828796" lon="2.648003"></trkpt>
+        <trkpt lat="48.3826472" lon="2.6497706"></trkpt>
+        <trkpt lat="48.3824674" lon="2.6511376"></trkpt>
+        <trkpt lat="48.3820186" lon="2.6523786"></trkpt>
+        <trkpt lat="48.3820573" lon="2.6533273"></trkpt>
+        <trkpt lat="48.3818386" lon="2.6537768"></trkpt>
+        <trkpt lat="48.381866" lon="2.6550674"></trkpt>
+        <trkpt lat="48.3814633" lon="2.6562145"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

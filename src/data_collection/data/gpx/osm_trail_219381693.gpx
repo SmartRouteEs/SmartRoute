@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont Aigu</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.207189</time>
+</metadata>
+<trk>
+    <name>Route du Mont Aigu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4057719" lon="2.6479075"></trkpt>
+        <trkpt lat="48.4058352" lon="2.647688"></trkpt>
+        <trkpt lat="48.4059045" lon="2.6472722"></trkpt>
+        <trkpt lat="48.406058" lon="2.6466655"></trkpt>
+        <trkpt lat="48.4061304" lon="2.6463671"></trkpt>
+        <trkpt lat="48.4061453" lon="2.6461892"></trkpt>
+        <trkpt lat="48.4061025" lon="2.6459126"></trkpt>
+        <trkpt lat="48.4059599" lon="2.6452372"></trkpt>
+        <trkpt lat="48.4059421" lon="2.6446987"></trkpt>
+        <trkpt lat="48.4060153" lon="2.6444701"></trkpt>
+        <trkpt lat="48.4061677" lon="2.6442635"></trkpt>
+        <trkpt lat="48.4062748" lon="2.6440407"></trkpt>
+        <trkpt lat="48.4063324" lon="2.6437113"></trkpt>
+        <trkpt lat="48.4063119" lon="2.6430675"></trkpt>
+        <trkpt lat="48.4063353" lon="2.6426528"></trkpt>
+        <trkpt lat="48.4064986" lon="2.6424096"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

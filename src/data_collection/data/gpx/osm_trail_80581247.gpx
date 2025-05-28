@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Borne à l'Enfant</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.276521</time>
+</metadata>
+<trk>
+    <name>Chemin de la Borne à l'Enfant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3985485" lon="2.545905"></trkpt>
+        <trkpt lat="48.3993478" lon="2.546102"></trkpt>
+        <trkpt lat="48.399855" lon="2.5463025"></trkpt>
+        <trkpt lat="48.4004028" lon="2.5465641"></trkpt>
+        <trkpt lat="48.4009851" lon="2.5467781"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

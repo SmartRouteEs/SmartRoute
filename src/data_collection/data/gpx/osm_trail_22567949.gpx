@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Vitry</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.473560</time>
+</metadata>
+<trk>
+    <name>Route de Vitry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.466896" lon="2.6524197"></trkpt>
+        <trkpt lat="48.4673305" lon="2.6538123"></trkpt>
+        <trkpt lat="48.4686767" lon="2.6581264"></trkpt>
+        <trkpt lat="48.4688457" lon="2.6586682"></trkpt>
+        <trkpt lat="48.4693797" lon="2.6601606"></trkpt>
+        <trkpt lat="48.4694816" lon="2.6605004"></trkpt>
+        <trkpt lat="48.4699257" lon="2.6619804"></trkpt>
+        <trkpt lat="48.4705471" lon="2.6638945"></trkpt>
+        <trkpt lat="48.4714745" lon="2.6670911"></trkpt>
+        <trkpt lat="48.4715596" lon="2.6673783"></trkpt>
+        <trkpt lat="48.4723373" lon="2.6700269"></trkpt>
+        <trkpt lat="48.4729614" lon="2.6720839"></trkpt>
+        <trkpt lat="48.4739522" lon="2.6754948"></trkpt>
+        <trkpt lat="48.4746882" lon="2.6778638"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Vignes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.391797</time>
+</metadata>
+<trk>
+    <name>Sentier des Vignes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3450329" lon="2.8974249"></trkpt>
+        <trkpt lat="48.3447611" lon="2.8976024"></trkpt>
+        <trkpt lat="48.344299" lon="2.8978609"></trkpt>
+        <trkpt lat="48.3442769" lon="2.8978711"></trkpt>
+        <trkpt lat="48.3441976" lon="2.8979109"></trkpt>
+        <trkpt lat="48.3438711" lon="2.8980786"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

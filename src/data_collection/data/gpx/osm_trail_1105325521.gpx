@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Calvaire</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.130387</time>
+</metadata>
+<trk>
+    <name>Route du Calvaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4214038" lon="2.7165427"></trkpt>
+        <trkpt lat="48.4214289" lon="2.7164071"></trkpt>
+        <trkpt lat="48.4214341" lon="2.7163554"></trkpt>
+        <trkpt lat="48.4214362" lon="2.7162601"></trkpt>
+        <trkpt lat="48.4214301" lon="2.7162082"></trkpt>
+        <trkpt lat="48.4214138" lon="2.716164"></trkpt>
+        <trkpt lat="48.4213614" lon="2.7160807"></trkpt>
+        <trkpt lat="48.4209477" lon="2.7156823"></trkpt>
+        <trkpt lat="48.4206737" lon="2.7154927"></trkpt>
+        <trkpt lat="48.4204782" lon="2.7152721"></trkpt>
+        <trkpt lat="48.4204289" lon="2.7151938"></trkpt>
+        <trkpt lat="48.4203796" lon="2.7151437"></trkpt>
+        <trkpt lat="48.4198897" lon="2.7149848"></trkpt>
+        <trkpt lat="48.4197607" lon="2.7148829"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

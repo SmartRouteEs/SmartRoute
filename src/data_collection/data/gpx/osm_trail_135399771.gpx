@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Louise</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.069837</time>
+</metadata>
+<trk>
+    <name>Route Louise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4124541" lon="2.6918285"></trkpt>
+        <trkpt lat="48.4123088" lon="2.690942"></trkpt>
+        <trkpt lat="48.4120839" lon="2.6893594"></trkpt>
+        <trkpt lat="48.4117818" lon="2.6872227"></trkpt>
+        <trkpt lat="48.411618" lon="2.6859621"></trkpt>
+        <trkpt lat="48.4114934" lon="2.6852084"></trkpt>
+        <trkpt lat="48.4113456" lon="2.6841355"></trkpt>
+        <trkpt lat="48.4112388" lon="2.6835025"></trkpt>
+        <trkpt lat="48.4112113" lon="2.6830265"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Chailly à Samois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.127866</time>
+</metadata>
+<trk>
+    <name>Route de Chailly à Samois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4637164" lon="2.6355555"></trkpt>
+        <trkpt lat="48.463717" lon="2.6354609"></trkpt>
+        <trkpt lat="48.4637362" lon="2.6352556"></trkpt>
+        <trkpt lat="48.4637413" lon="2.6351224"></trkpt>
+        <trkpt lat="48.4637459" lon="2.634774"></trkpt>
+        <trkpt lat="48.4636979" lon="2.634459"></trkpt>
+        <trkpt lat="48.4634112" lon="2.6330773"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

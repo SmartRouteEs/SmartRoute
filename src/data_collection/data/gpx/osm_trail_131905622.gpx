@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 6211</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.045764</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 6211</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5753893" lon="2.2724777"></trkpt>
+        <trkpt lat="48.573874" lon="2.2713349"></trkpt>
+        <trkpt lat="48.5735308" lon="2.2710747"></trkpt>
+        <trkpt lat="48.5733016" lon="2.2708759"></trkpt>
+        <trkpt lat="48.5728199" lon="2.2703254"></trkpt>
+        <trkpt lat="48.5716837" lon="2.2689644"></trkpt>
+        <trkpt lat="48.5716428" lon="2.2689155"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

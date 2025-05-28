@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Tiercelet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.490296</time>
+</metadata>
+<trk>
+    <name>Route du Tiercelet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4082395" lon="2.6687021"></trkpt>
+        <trkpt lat="48.4083813" lon="2.6699801"></trkpt>
+        <trkpt lat="48.4086438" lon="2.6721981"></trkpt>
+        <trkpt lat="48.4087313" lon="2.672847"></trkpt>
+        <trkpt lat="48.4087497" lon="2.6733152"></trkpt>
+        <trkpt lat="48.4086521" lon="2.6745514"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

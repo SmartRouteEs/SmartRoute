@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Périgny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.706594</time>
+</metadata>
+<trk>
+    <name>Chemin de Périgny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7085197" lon="2.5730579"></trkpt>
+        <trkpt lat="48.7086258" lon="2.5731351"></trkpt>
+        <trkpt lat="48.7086768" lon="2.5732295"></trkpt>
+        <trkpt lat="48.7087278" lon="2.5733926"></trkpt>
+        <trkpt lat="48.7087537" lon="2.5735478"></trkpt>
+        <trkpt lat="48.7088419" lon="2.5747435"></trkpt>
+        <trkpt lat="48.7088619" lon="2.5749066"></trkpt>
+        <trkpt lat="48.7089474" lon="2.5752368"></trkpt>
+        <trkpt lat="48.7091216" lon="2.5758764"></trkpt>
+        <trkpt lat="48.7093142" lon="2.5763102"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

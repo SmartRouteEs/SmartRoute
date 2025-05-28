@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Romaine</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.322679</time>
+</metadata>
+<trk>
+    <name>Chemin de la Romaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7244548" lon="3.2606421"></trkpt>
+        <trkpt lat="48.7241921" lon="3.2608312"></trkpt>
+        <trkpt lat="48.7229765" lon="3.2615072"></trkpt>
+        <trkpt lat="48.7221395" lon="3.2619309"></trkpt>
+        <trkpt lat="48.7216281" lon="3.2622823"></trkpt>
+        <trkpt lat="48.7214848" lon="3.2623681"></trkpt>
+        <trkpt lat="48.7200851" lon="3.2627973"></trkpt>
+        <trkpt lat="48.7195791" lon="3.2630093"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

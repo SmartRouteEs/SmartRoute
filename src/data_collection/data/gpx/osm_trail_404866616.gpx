@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Collecteur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:54.782969</time>
+</metadata>
+<trk>
+    <name>Route du Collecteur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.767172" lon="2.6256013"></trkpt>
+        <trkpt lat="48.7672468" lon="2.625631"></trkpt>
+        <trkpt lat="48.7674483" lon="2.6255988"></trkpt>
+        <trkpt lat="48.7675614" lon="2.6256417"></trkpt>
+        <trkpt lat="48.767664" lon="2.6257168"></trkpt>
+        <trkpt lat="48.7677135" lon="2.6260333"></trkpt>
+        <trkpt lat="48.7676534" lon="2.626264"></trkpt>
+        <trkpt lat="48.7674589" lon="2.6265537"></trkpt>
+        <trkpt lat="48.7674186" lon="2.6266603"></trkpt>
+        <trkpt lat="48.767575" lon="2.6278698"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

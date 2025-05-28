@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Vieux Cimetière</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.640722</time>
+</metadata>
+<trk>
+    <name>Route du Vieux Cimetière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7970927" lon="2.2560402"></trkpt>
+        <trkpt lat="48.7971863" lon="2.256168"></trkpt>
+        <trkpt lat="48.7973377" lon="2.2563461"></trkpt>
+        <trkpt lat="48.7975637" lon="2.2565648"></trkpt>
+        <trkpt lat="48.7978429" lon="2.2570208"></trkpt>
+        <trkpt lat="48.798171" lon="2.2577127"></trkpt>
+        <trkpt lat="48.7982819" lon="2.2578145"></trkpt>
+        <trkpt lat="48.7983866" lon="2.25785"></trkpt>
+        <trkpt lat="48.7984865" lon="2.2578929"></trkpt>
+        <trkpt lat="48.7985796" lon="2.2579582"></trkpt>
+        <trkpt lat="48.7987158" lon="2.2582207"></trkpt>
+        <trkpt lat="48.7988179" lon="2.2584594"></trkpt>
+        <trkpt lat="48.7990876" lon="2.2591339"></trkpt>
+        <trkpt lat="48.7991037" lon="2.2592051"></trkpt>
+        <trkpt lat="48.7991173" lon="2.2592655"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

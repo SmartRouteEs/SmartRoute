@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Glacis</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.548304</time>
+</metadata>
+<trk>
+    <name>Chemin du Glacis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7816299" lon="3.0251187"></trkpt>
+        <trkpt lat="48.7817175" lon="3.0258043"></trkpt>
+        <trkpt lat="48.7817904" lon="3.0263572"></trkpt>
+        <trkpt lat="48.7817757" lon="3.0268879"></trkpt>
+        <trkpt lat="48.7816676" lon="3.0275428"></trkpt>
+        <trkpt lat="48.7817663" lon="3.0283287"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

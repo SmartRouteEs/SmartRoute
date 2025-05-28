@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 744</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 744</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6264749" lon="2.4339358"></trkpt>
+        <trkpt lat="48.6264709" lon="2.4339732"></trkpt>
+        <trkpt lat="48.6264386" lon="2.4340905"></trkpt>
+        <trkpt lat="48.6264135" lon="2.4341523"></trkpt>
+        <trkpt lat="48.6263339" lon="2.4343486"></trkpt>
+        <trkpt lat="48.6261873" lon="2.4345873"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

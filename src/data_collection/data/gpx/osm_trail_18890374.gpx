@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grange des Vaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.400277</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grange des Vaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3549633" lon="2.8604027"></trkpt>
+        <trkpt lat="48.3550128" lon="2.862271"></trkpt>
+        <trkpt lat="48.3549661" lon="2.8626926"></trkpt>
+        <trkpt lat="48.3547805" lon="2.8643413"></trkpt>
+        <trkpt lat="48.3546024" lon="2.8661115"></trkpt>
+        <trkpt lat="48.3539257" lon="2.8729007"></trkpt>
+        <trkpt lat="48.3530268" lon="2.8745039"></trkpt>
+        <trkpt lat="48.353085" lon="2.8763827"></trkpt>
+        <trkpt lat="48.3531595" lon="2.8782566"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

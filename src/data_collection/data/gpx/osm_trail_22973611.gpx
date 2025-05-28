@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Donjons</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.498586</time>
+</metadata>
+<trk>
+    <name>Sentier des Donjons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7088302" lon="2.2655372"></trkpt>
+        <trkpt lat="48.7086142" lon="2.2661179"></trkpt>
+        <trkpt lat="48.7085532" lon="2.2664257"></trkpt>
+        <trkpt lat="48.7084702" lon="2.2668445"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

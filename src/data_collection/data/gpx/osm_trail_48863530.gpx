@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Maison Poteau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.812869</time>
+</metadata>
+<trk>
+    <name>Chemin de la Maison Poteau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3922587" lon="2.5335647"></trkpt>
+        <trkpt lat="48.3927553" lon="2.5337963"></trkpt>
+        <trkpt lat="48.3940502" lon="2.5341573"></trkpt>
+        <trkpt lat="48.394582" lon="2.5343555"></trkpt>
+        <trkpt lat="48.3952567" lon="2.5345148"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

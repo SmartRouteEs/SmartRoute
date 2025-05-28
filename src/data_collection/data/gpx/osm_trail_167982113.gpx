@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fontaine Saint-Aubin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.900810</time>
+</metadata>
+<trk>
+    <name>Route de la Fontaine Saint-Aubin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4057081" lon="2.7345655"></trkpt>
+        <trkpt lat="48.4061217" lon="2.7349021"></trkpt>
+        <trkpt lat="48.4068714" lon="2.7354833"></trkpt>
+        <trkpt lat="48.4070484" lon="2.7360465"></trkpt>
+        <trkpt lat="48.4072478" lon="2.7364113"></trkpt>
+        <trkpt lat="48.4075768" lon="2.7374707"></trkpt>
+        <trkpt lat="48.4079964" lon="2.7388217"></trkpt>
+        <trkpt lat="48.409406" lon="2.7415393"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

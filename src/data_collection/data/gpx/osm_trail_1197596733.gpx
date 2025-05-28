@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.784793</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2844254" lon="2.6447168"></trkpt>
+        <trkpt lat="48.2849362" lon="2.6481439"></trkpt>
+        <trkpt lat="48.2853315" lon="2.6508221"></trkpt>
+        <trkpt lat="48.2860517" lon="2.6538701"></trkpt>
+        <trkpt lat="48.2888926" lon="2.6608224"></trkpt>
+        <trkpt lat="48.2894815" lon="2.6629964"></trkpt>
+        <trkpt lat="48.2896572" lon="2.6640176"></trkpt>
+        <trkpt lat="48.2898277" lon="2.6653916"></trkpt>
+        <trkpt lat="48.2899089" lon="2.666557"></trkpt>
+        <trkpt lat="48.289992" lon="2.6691708"></trkpt>
+        <trkpt lat="48.2899857" lon="2.6697555"></trkpt>
+        <trkpt lat="48.290333" lon="2.6718111"></trkpt>
+        <trkpt lat="48.2902535" lon="2.6769941"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

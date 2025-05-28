@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Milly à Arbonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.254059</time>
+</metadata>
+<trk>
+    <name>Chemin de Milly à Arbonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4097409" lon="2.5465889"></trkpt>
+        <trkpt lat="48.4101022" lon="2.5471555"></trkpt>
+        <trkpt lat="48.4103386" lon="2.5475585"></trkpt>
+        <trkpt lat="48.41066" lon="2.5480909"></trkpt>
+        <trkpt lat="48.4107889" lon="2.5482008"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

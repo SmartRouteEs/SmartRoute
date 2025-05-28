@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pauvres</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.969883</time>
+</metadata>
+<trk>
+    <name>Chemin des Pauvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.636781" lon="2.516724"></trkpt>
+        <trkpt lat="48.6368295" lon="2.5167167"></trkpt>
+        <trkpt lat="48.6371981" lon="2.5165477"></trkpt>
+        <trkpt lat="48.6372455" lon="2.5165537"></trkpt>
+        <trkpt lat="48.6381072" lon="2.520018"></trkpt>
+        <trkpt lat="48.6391845" lon="2.5220456"></trkpt>
+        <trkpt lat="48.6382564" lon="2.5270545"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Parc à Pinel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.946787</time>
+</metadata>
+<trk>
+    <name>Chemin du Parc à Pinel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5360295" lon="2.2231994"></trkpt>
+        <trkpt lat="48.5361479" lon="2.2226755"></trkpt>
+        <trkpt lat="48.5362873" lon="2.222182"></trkpt>
+        <trkpt lat="48.5366558" lon="2.220625"></trkpt>
+        <trkpt lat="48.5368965" lon="2.2197184"></trkpt>
+        <trkpt lat="48.5371087" lon="2.218793"></trkpt>
+        <trkpt lat="48.5373191" lon="2.2179334"></trkpt>
+        <trkpt lat="48.5374843" lon="2.2173111"></trkpt>
+        <trkpt lat="48.5375962" lon="2.2168605"></trkpt>
+        <trkpt lat="48.5376122" lon="2.2163026"></trkpt>
+        <trkpt lat="48.5376921" lon="2.2160867"></trkpt>
+        <trkpt lat="48.5378581" lon="2.2158748"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

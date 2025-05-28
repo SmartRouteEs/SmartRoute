@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pape</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.742151</time>
+</metadata>
+<trk>
+    <name>Route du Pape</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3633418" lon="2.6914923"></trkpt>
+        <trkpt lat="48.3634704" lon="2.6911486"></trkpt>
+        <trkpt lat="48.3646812" lon="2.6881443"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

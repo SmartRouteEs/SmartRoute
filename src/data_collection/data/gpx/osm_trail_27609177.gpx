@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 834</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.621261</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 834</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8182372" lon="2.7124305"></trkpt>
+        <trkpt lat="48.818137" lon="2.7124707"></trkpt>
+        <trkpt lat="48.8180121" lon="2.712549"></trkpt>
+        <trkpt lat="48.8178905" lon="2.7126682"></trkpt>
+        <trkpt lat="48.8178057" lon="2.7127996"></trkpt>
+        <trkpt lat="48.8176945" lon="2.7130061"></trkpt>
+        <trkpt lat="48.8176344" lon="2.7131402"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

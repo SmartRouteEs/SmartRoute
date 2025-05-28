@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Forêt</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.217950</time>
+</metadata>
+<trk>
+    <name>Rue de la Forêt</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.478284" lon="2.7700886"></trkpt>
+        <trkpt lat="48.47809" lon="2.7701766"></trkpt>
+        <trkpt lat="48.477682" lon="2.7705006"></trkpt>
+        <trkpt lat="48.477224" lon="2.7708729"></trkpt>
+        <trkpt lat="48.4771034" lon="2.7710273"></trkpt>
+        <trkpt lat="48.476894" lon="2.771157"></trkpt>
+        <trkpt lat="48.4765167" lon="2.7713915"></trkpt>
+        <trkpt lat="48.4760634" lon="2.7716689"></trkpt>
+        <trkpt lat="48.4756939" lon="2.771894"></trkpt>
+        <trkpt lat="48.4753405" lon="2.7721475"></trkpt>
+        <trkpt lat="48.4748051" lon="2.7723886"></trkpt>
+        <trkpt lat="48.4745853" lon="2.7724882"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

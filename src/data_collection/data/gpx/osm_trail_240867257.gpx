@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 14152</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.416461</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 14152</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2615174" lon="2.4768776"></trkpt>
+        <trkpt lat="48.2616078" lon="2.4768268"></trkpt>
+        <trkpt lat="48.2619865" lon="2.4766716"></trkpt>
+        <trkpt lat="48.262116" lon="2.4766146"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

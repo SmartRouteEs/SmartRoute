@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier Communal</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.298449</time>
+</metadata>
+<trk>
+    <name>Sentier Communal</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3309225" lon="2.386567"></trkpt>
+        <trkpt lat="48.3305602" lon="2.3856751"></trkpt>
+        <trkpt lat="48.3302402" lon="2.3853778"></trkpt>
+        <trkpt lat="48.329443" lon="2.3850785"></trkpt>
+        <trkpt lat="48.3276205" lon="2.3843704"></trkpt>
+        <trkpt lat="48.3272728" lon="2.384247"></trkpt>
+        <trkpt lat="48.3268911" lon="2.3840915"></trkpt>
+        <trkpt lat="48.3257498" lon="2.3835684"></trkpt>
+        <trkpt lat="48.3242026" lon="2.3828854"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

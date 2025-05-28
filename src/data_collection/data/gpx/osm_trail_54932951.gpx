@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Mère-Grand</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.969883</time>
+</metadata>
+<trk>
+    <name>Chemin de Mère-Grand</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9520032" lon="2.9505263"></trkpt>
+        <trkpt lat="48.9519663" lon="2.9505063"></trkpt>
+        <trkpt lat="48.9518374" lon="2.9501615"></trkpt>
+        <trkpt lat="48.9516115" lon="2.9495928"></trkpt>
+        <trkpt lat="48.9515497" lon="2.9494425"></trkpt>
+        <trkpt lat="48.9514696" lon="2.9492477"></trkpt>
+        <trkpt lat="48.9510338" lon="2.948164"></trkpt>
+        <trkpt lat="48.9510513" lon="2.9480629"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

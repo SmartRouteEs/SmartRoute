@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Champs de Sénart</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.310673</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Champs de Sénart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6600284" lon="2.4930832"></trkpt>
+        <trkpt lat="48.6603771" lon="2.4927014"></trkpt>
+        <trkpt lat="48.6632796" lon="2.4895787"></trkpt>
+        <trkpt lat="48.6658929" lon="2.4867034"></trkpt>
+        <trkpt lat="48.6669896" lon="2.4855208"></trkpt>
+        <trkpt lat="48.6670086" lon="2.4855004"></trkpt>
+        <trkpt lat="48.6671224" lon="2.4853777"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

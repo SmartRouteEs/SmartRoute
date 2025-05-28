@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Surveillance</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.738804</time>
+</metadata>
+<trk>
+    <name>Route de la Surveillance</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4660317" lon="2.633043"></trkpt>
+        <trkpt lat="48.4674583" lon="2.6341173"></trkpt>
+        <trkpt lat="48.4684475" lon="2.6346524"></trkpt>
+        <trkpt lat="48.4693093" lon="2.6350456"></trkpt>
+        <trkpt lat="48.4703098" lon="2.6351706"></trkpt>
+        <trkpt lat="48.4709242" lon="2.6351421"></trkpt>
+        <trkpt lat="48.4724768" lon="2.634354"></trkpt>
+        <trkpt lat="48.4725803" lon="2.6342953"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

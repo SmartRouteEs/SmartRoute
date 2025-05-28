@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Châtaigniers</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.724420</time>
+</metadata>
+<trk>
+    <name>Allée des Châtaigniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7130744" lon="2.2711278"></trkpt>
+        <trkpt lat="48.7131681" lon="2.2705653"></trkpt>
+        <trkpt lat="48.7132438" lon="2.2699044"></trkpt>
+        <trkpt lat="48.7133146" lon="2.2693402"></trkpt>
+        <trkpt lat="48.7133619" lon="2.2690445"></trkpt>
+        <trkpt lat="48.7134027" lon="2.2688513"></trkpt>
+        <trkpt lat="48.713411" lon="2.2687959"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Bois de Vitry</name>
+    <desc>Sentier VTT - Type: track - Surface: earth - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:45.320939</time>
+</metadata>
+<trk>
+    <name>Sentier des Bois de Vitry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6570933" lon="2.7774482"></trkpt>
+        <trkpt lat="48.6570866" lon="2.7774679"></trkpt>
+        <trkpt lat="48.6570475" lon="2.7775746"></trkpt>
+        <trkpt lat="48.6569681" lon="2.7776697"></trkpt>
+        <trkpt lat="48.6569404" lon="2.7777038"></trkpt>
+        <trkpt lat="48.6568931" lon="2.777729"></trkpt>
+        <trkpt lat="48.6568349" lon="2.7777501"></trkpt>
+        <trkpt lat="48.6567855" lon="2.7778113"></trkpt>
+        <trkpt lat="48.6567407" lon="2.7779506"></trkpt>
+        <trkpt lat="48.6566303" lon="2.7783366"></trkpt>
+        <trkpt lat="48.6565415" lon="2.77864"></trkpt>
+        <trkpt lat="48.6564252" lon="2.7790606"></trkpt>
+        <trkpt lat="48.6562957" lon="2.7795045"></trkpt>
+        <trkpt lat="48.6560462" lon="2.7807952"></trkpt>
+        <trkpt lat="48.6557707" lon="2.7824502"></trkpt>
+        <trkpt lat="48.6553744" lon="2.784686"></trkpt>
+        <trkpt lat="48.654351" lon="2.7873702"></trkpt>
+        <trkpt lat="48.6542008" lon="2.7879777"></trkpt>
+        <trkpt lat="48.6524377" lon="2.7927905"></trkpt>
+        <trkpt lat="48.6518718" lon="2.7943353"></trkpt>
+        <trkpt lat="48.6506775" lon="2.7975147"></trkpt>
+        <trkpt lat="48.6491499" lon="2.8015811"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

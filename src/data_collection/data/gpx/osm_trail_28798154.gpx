@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Grattepeau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:44.707918</time>
+</metadata>
+<trk>
+    <name>Chemin de Grattepeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7311188" lon="2.5846168"></trkpt>
+        <trkpt lat="48.7312432" lon="2.5844534"></trkpt>
+        <trkpt lat="48.7313493" lon="2.5842602"></trkpt>
+        <trkpt lat="48.7314662" lon="2.5844178"></trkpt>
+        <trkpt lat="48.7315002" lon="2.584538"></trkpt>
+        <trkpt lat="48.7315342" lon="2.5848727"></trkpt>
+        <trkpt lat="48.7315681" lon="2.5849929"></trkpt>
+        <trkpt lat="48.7316304" lon="2.5850615"></trkpt>
+        <trkpt lat="48.731738" lon="2.5851302"></trkpt>
+        <trkpt lat="48.7327796" lon="2.5856452"></trkpt>
+        <trkpt lat="48.7330346" lon="2.5858721"></trkpt>
+        <trkpt lat="48.7337989" lon="2.587224"></trkpt>
+        <trkpt lat="48.7339765" lon="2.5873464"></trkpt>
+        <trkpt lat="48.7342659" lon="2.5875458"></trkpt>
+        <trkpt lat="48.7352969" lon="2.5891089"></trkpt>
+        <trkpt lat="48.7354406" lon="2.5893268"></trkpt>
+        <trkpt lat="48.7358934" lon="2.5900564"></trkpt>
+        <trkpt lat="48.7362749" lon="2.5903938"></trkpt>
+        <trkpt lat="48.7369124" lon="2.5909576"></trkpt>
+        <trkpt lat="48.7372803" lon="2.5913224"></trkpt>
+        <trkpt lat="48.7374678" lon="2.591349"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

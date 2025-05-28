@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Coulée verte</name>
+    <desc>Sentier VTT - Type: footway - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.700591</time>
+</metadata>
+<trk>
+    <name>Coulée verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9420194" lon="2.3320751"></trkpt>
+        <trkpt lat="48.9419985" lon="2.3322625"></trkpt>
+        <trkpt lat="48.9420069" lon="2.3322989"></trkpt>
+        <trkpt lat="48.942015" lon="2.332316"></trkpt>
+        <trkpt lat="48.9421121" lon="2.3323551"></trkpt>
+        <trkpt lat="48.9422652" lon="2.3326883"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

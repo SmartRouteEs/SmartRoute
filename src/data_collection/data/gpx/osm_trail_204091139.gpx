@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Mécéan</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.073996</time>
+</metadata>
+<trk>
+    <name>Chemin de Mécéan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.743395" lon="2.2418902"></trkpt>
+        <trkpt lat="48.7433208" lon="2.2418864"></trkpt>
+        <trkpt lat="48.7432069" lon="2.2418457"></trkpt>
+        <trkpt lat="48.743036" lon="2.241759"></trkpt>
+        <trkpt lat="48.742901" lon="2.241751"></trkpt>
+        <trkpt lat="48.742568" lon="2.241845"></trkpt>
+        <trkpt lat="48.7425" lon="2.241897"></trkpt>
+        <trkpt lat="48.742374" lon="2.242131"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

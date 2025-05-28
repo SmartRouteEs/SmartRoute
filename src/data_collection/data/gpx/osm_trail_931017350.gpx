@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Grand Maréchal</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.521854</time>
+</metadata>
+<trk>
+    <name>Route du Grand Maréchal</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8439614" lon="2.4473084"></trkpt>
+        <trkpt lat="48.8439483" lon="2.4474326"></trkpt>
+        <trkpt lat="48.843919" lon="2.447522"></trkpt>
+        <trkpt lat="48.8438509" lon="2.4477571"></trkpt>
+        <trkpt lat="48.8437818" lon="2.4480774"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

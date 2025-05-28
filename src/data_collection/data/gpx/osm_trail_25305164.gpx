@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Travers; Chemin de la Rucherie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.572160</time>
+</metadata>
+<trk>
+    <name>Allée de Travers; Chemin de la Rucherie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8008211" lon="2.727125"></trkpt>
+        <trkpt lat="48.8016465" lon="2.7239193"></trkpt>
+        <trkpt lat="48.8040274" lon="2.7191872"></trkpt>
+        <trkpt lat="48.8049255" lon="2.7174022"></trkpt>
+        <trkpt lat="48.8063021" lon="2.7144881"></trkpt>
+        <trkpt lat="48.8067951" lon="2.7136923"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'exploitation dit de la Butte aux Louis</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.367917</time>
+</metadata>
+<trk>
+    <name>Chemin d'exploitation dit de la Butte aux Louis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3200665" lon="2.6287889"></trkpt>
+        <trkpt lat="48.320152" lon="2.6287642"></trkpt>
+        <trkpt lat="48.321555" lon="2.6288137"></trkpt>
+        <trkpt lat="48.322077" lon="2.6288432"></trkpt>
+        <trkpt lat="48.3221967" lon="2.6288606"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

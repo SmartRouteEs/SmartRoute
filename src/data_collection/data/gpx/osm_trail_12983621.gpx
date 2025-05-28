@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Roussigny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.368335</time>
+</metadata>
+<trk>
+    <name>Chemin de Roussigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3598573" lon="2.8063194"></trkpt>
+        <trkpt lat="48.3595212" lon="2.8055353"></trkpt>
+        <trkpt lat="48.3593669" lon="2.8051917"></trkpt>
+        <trkpt lat="48.3591346" lon="2.8046976"></trkpt>
+        <trkpt lat="48.3589511" lon="2.8042728"></trkpt>
+        <trkpt lat="48.3586646" lon="2.8041405"></trkpt>
+        <trkpt lat="48.3585" lon="2.8037899"></trkpt>
+        <trkpt lat="48.3581725" lon="2.8031201"></trkpt>
+        <trkpt lat="48.3579069" lon="2.8025726"></trkpt>
+        <trkpt lat="48.3577527" lon="2.8022531"></trkpt>
+        <trkpt lat="48.3576807" lon="2.802082"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

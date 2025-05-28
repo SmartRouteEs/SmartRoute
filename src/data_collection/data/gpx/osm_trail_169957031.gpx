@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Étangs</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.936676</time>
+</metadata>
+<trk>
+    <name>Route des Étangs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7696417" lon="2.6911705"></trkpt>
+        <trkpt lat="48.7695936" lon="2.691541"></trkpt>
+        <trkpt lat="48.7694737" lon="2.6925787"></trkpt>
+        <trkpt lat="48.7694305" lon="2.6930017"></trkpt>
+        <trkpt lat="48.7693005" lon="2.6942738"></trkpt>
+        <trkpt lat="48.7690919" lon="2.6962909"></trkpt>
+        <trkpt lat="48.7689738" lon="2.6975314"></trkpt>
+        <trkpt lat="48.7688638" lon="2.6986246"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

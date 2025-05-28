@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8101</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.928884</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8101</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7866189" lon="2.9224328"></trkpt>
+        <trkpt lat="48.7862692" lon="2.921022"></trkpt>
+        <trkpt lat="48.7862635" lon="2.9206049"></trkpt>
+        <trkpt lat="48.7862796" lon="2.9202012"></trkpt>
+        <trkpt lat="48.7863484" lon="2.91987"></trkpt>
+        <trkpt lat="48.7865553" lon="2.9192571"></trkpt>
+        <trkpt lat="48.7866154" lon="2.9190211"></trkpt>
+        <trkpt lat="48.7866386" lon="2.9189443"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

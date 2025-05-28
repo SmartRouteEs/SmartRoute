@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois de Saint-Grégoire</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.561035</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois de Saint-Grégoire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1816289" lon="2.2748372"></trkpt>
+        <trkpt lat="48.1816088" lon="2.2749812"></trkpt>
+        <trkpt lat="48.1815506" lon="2.2751278"></trkpt>
+        <trkpt lat="48.1810548" lon="2.2759203"></trkpt>
+        <trkpt lat="48.1791483" lon="2.278584"></trkpt>
+        <trkpt lat="48.1781793" lon="2.27982"></trkpt>
+        <trkpt lat="48.1780962" lon="2.2799084"></trkpt>
+        <trkpt lat="48.1780023" lon="2.2799836"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

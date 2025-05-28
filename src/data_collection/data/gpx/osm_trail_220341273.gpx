@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier Rural de la Fontaine aux Aspics</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.267281</time>
+</metadata>
+<trk>
+    <name>Sentier Rural de la Fontaine aux Aspics</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5146384" lon="2.5950665"></trkpt>
+        <trkpt lat="48.5142521" lon="2.5964429"></trkpt>
+        <trkpt lat="48.5139891" lon="2.5978054"></trkpt>
+        <trkpt lat="48.5138327" lon="2.5988783"></trkpt>
+        <trkpt lat="48.5136124" lon="2.6000049"></trkpt>
+        <trkpt lat="48.5134418" lon="2.600552"></trkpt>
+        <trkpt lat="48.5132499" lon="2.600713"></trkpt>
+        <trkpt lat="48.5130154" lon="2.6005628"></trkpt>
+        <trkpt lat="48.5129276" lon="2.600486"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

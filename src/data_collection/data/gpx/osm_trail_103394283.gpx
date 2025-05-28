@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Tertre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.628830</time>
+</metadata>
+<trk>
+    <name>Chemin du Tertre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.736392" lon="2.5067601"></trkpt>
+        <trkpt lat="48.7366196" lon="2.5067141"></trkpt>
+        <trkpt lat="48.7369248" lon="2.5066318"></trkpt>
+        <trkpt lat="48.737169" lon="2.5064107"></trkpt>
+        <trkpt lat="48.7378744" lon="2.5056496"></trkpt>
+        <trkpt lat="48.738963" lon="2.5048629"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

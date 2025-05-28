@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Hirets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.892642</time>
+</metadata>
+<trk>
+    <name>Chemin des Hirets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3992876" lon="2.7791647"></trkpt>
+        <trkpt lat="48.3977491" lon="2.7788459"></trkpt>
+        <trkpt lat="48.3975326" lon="2.7788664"></trkpt>
+        <trkpt lat="48.3961988" lon="2.7787173"></trkpt>
+        <trkpt lat="48.3955118" lon="2.7786832"></trkpt>
+        <trkpt lat="48.3954812" lon="2.7786817"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

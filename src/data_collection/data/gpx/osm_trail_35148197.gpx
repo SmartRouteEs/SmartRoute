@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de Grande Borne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.992228</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de Grande Borne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1706819" lon="3.3015034"></trkpt>
+        <trkpt lat="48.1706872" lon="3.3015396"></trkpt>
+        <trkpt lat="48.1710599" lon="3.3040854"></trkpt>
+        <trkpt lat="48.1710988" lon="3.304685"></trkpt>
+        <trkpt lat="48.1711687" lon="3.3066122"></trkpt>
+        <trkpt lat="48.1711762" lon="3.3068186"></trkpt>
+        <trkpt lat="48.171203" lon="3.3070297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

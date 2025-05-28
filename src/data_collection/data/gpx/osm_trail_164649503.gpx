@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Cordeliers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.837816</time>
+</metadata>
+<trk>
+    <name>Sentier des Cordeliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9541772" lon="3.1083433"></trkpt>
+        <trkpt lat="48.9543248" lon="3.1086191"></trkpt>
+        <trkpt lat="48.9546912" lon="3.1093057"></trkpt>
+        <trkpt lat="48.9551068" lon="3.1098958"></trkpt>
+        <trkpt lat="48.9551914" lon="3.1099709"></trkpt>
+        <trkpt lat="48.95529" lon="3.1097992"></trkpt>
+        <trkpt lat="48.9555859" lon="3.1093164"></trkpt>
+        <trkpt lat="48.9556466" lon="3.1092239"></trkpt>
+        <trkpt lat="48.9556845" lon="3.1091662"></trkpt>
+        <trkpt lat="48.9557761" lon="3.1090697"></trkpt>
+        <trkpt lat="48.9559103" lon="3.1089994"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Trésor</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.784813</time>
+</metadata>
+<trk>
+    <name>Allée du Trésor</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7713183" lon="2.300548"></trkpt>
+        <trkpt lat="48.7713242" lon="2.3004393"></trkpt>
+        <trkpt lat="48.7711599" lon="2.2996488"></trkpt>
+        <trkpt lat="48.7711181" lon="2.2994406"></trkpt>
+        <trkpt lat="48.7709896" lon="2.2985776"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

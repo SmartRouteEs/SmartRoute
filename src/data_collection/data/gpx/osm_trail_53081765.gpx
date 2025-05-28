@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Bruyères</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.957397</time>
+</metadata>
+<trk>
+    <name>Allée des Bruyères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5468302" lon="2.6267753"></trkpt>
+        <trkpt lat="48.5469607" lon="2.6271172"></trkpt>
+        <trkpt lat="48.5473648" lon="2.6281422"></trkpt>
+        <trkpt lat="48.5480714" lon="2.6299491"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

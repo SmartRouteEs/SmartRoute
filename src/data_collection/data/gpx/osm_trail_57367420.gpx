@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue Aubry</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.994788</time>
+</metadata>
+<trk>
+    <name>Avenue Aubry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7943312" lon="2.5890437"></trkpt>
+        <trkpt lat="48.7944106" lon="2.5890573"></trkpt>
+        <trkpt lat="48.7954335" lon="2.5892318"></trkpt>
+        <trkpt lat="48.7956208" lon="2.5892561"></trkpt>
+        <trkpt lat="48.7962828" lon="2.5893421"></trkpt>
+        <trkpt lat="48.7965078" lon="2.5893713"></trkpt>
+        <trkpt lat="48.7972364" lon="2.5895216"></trkpt>
+        <trkpt lat="48.7972842" lon="2.5895315"></trkpt>
+        <trkpt lat="48.7974098" lon="2.5895574"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

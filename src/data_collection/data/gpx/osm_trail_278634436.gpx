@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Cordeau</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.224695</time>
+</metadata>
+<trk>
+    <name>Chemin Cordeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6094757" lon="2.2928988"></trkpt>
+        <trkpt lat="48.6095073" lon="2.2927736"></trkpt>
+        <trkpt lat="48.6098477" lon="2.2917306"></trkpt>
+        <trkpt lat="48.6102885" lon="2.2906922"></trkpt>
+        <trkpt lat="48.6107283" lon="2.2896354"></trkpt>
+        <trkpt lat="48.6112107" lon="2.2885304"></trkpt>
+        <trkpt lat="48.6113524" lon="2.288123"></trkpt>
+        <trkpt lat="48.611388" lon="2.2877794"></trkpt>
+        <trkpt lat="48.6113206" lon="2.2871839"></trkpt>
+        <trkpt lat="48.6111943" lon="2.2867176"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

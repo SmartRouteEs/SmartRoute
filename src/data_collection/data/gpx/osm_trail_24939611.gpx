@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Crécy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.549379</time>
+</metadata>
+<trk>
+    <name>Chemin de Crécy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9076277" lon="2.888423"></trkpt>
+        <trkpt lat="48.9075716" lon="2.8886987"></trkpt>
+        <trkpt lat="48.9076492" lon="2.893634"></trkpt>
+        <trkpt lat="48.9077144" lon="2.8945341"></trkpt>
+        <trkpt lat="48.9082137" lon="2.8975076"></trkpt>
+        <trkpt lat="48.9082563" lon="2.8977722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

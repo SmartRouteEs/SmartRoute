@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Ruelle des Boeufs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.870644</time>
+</metadata>
+<trk>
+    <name>Chemin de la Ruelle des Boeufs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2147197" lon="3.2501159"></trkpt>
+        <trkpt lat="48.2155471" lon="3.2515902"></trkpt>
+        <trkpt lat="48.216234" lon="3.2525648"></trkpt>
+        <trkpt lat="48.2164924" lon="3.2529747"></trkpt>
+        <trkpt lat="48.2170015" lon="3.2537823"></trkpt>
+        <trkpt lat="48.2177401" lon="3.2552575"></trkpt>
+        <trkpt lat="48.2181494" lon="3.2560895"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

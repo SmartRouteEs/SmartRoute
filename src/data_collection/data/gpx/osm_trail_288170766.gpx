@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Crottes au Loup</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.509267</time>
+</metadata>
+<trk>
+    <name>Chemin des Crottes au Loup</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2588106" lon="2.7111974"></trkpt>
+        <trkpt lat="48.2586374" lon="2.7115893"></trkpt>
+        <trkpt lat="48.2584437" lon="2.7117947"></trkpt>
+        <trkpt lat="48.2582463" lon="2.7118804"></trkpt>
+        <trkpt lat="48.2580172" lon="2.7118313"></trkpt>
+        <trkpt lat="48.2577401" lon="2.7117148"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

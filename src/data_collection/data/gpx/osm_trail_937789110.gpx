@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sables</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.595148</time>
+</metadata>
+<trk>
+    <name>Chemin des Sables</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5055293" lon="2.9802813"></trkpt>
+        <trkpt lat="48.5054738" lon="2.9804642"></trkpt>
+        <trkpt lat="48.5060005" lon="2.9848778"></trkpt>
+        <trkpt lat="48.5056707" lon="2.9883626"></trkpt>
+        <trkpt lat="48.5054245" lon="2.98918"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

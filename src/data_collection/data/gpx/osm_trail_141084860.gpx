@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Piste Cyclable de l'Ourcq</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.152552</time>
+</metadata>
+<trk>
+    <name>Piste Cyclable de l'Ourcq</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9438597" lon="2.5691375"></trkpt>
+        <trkpt lat="48.9438204" lon="2.5689475"></trkpt>
+        <trkpt lat="48.9437916" lon="2.5688"></trkpt>
+        <trkpt lat="48.9437862" lon="2.5687725"></trkpt>
+        <trkpt lat="48.9437362" lon="2.5685719"></trkpt>
+        <trkpt lat="48.9437323" lon="2.568561"></trkpt>
+        <trkpt lat="48.943666" lon="2.5683759"></trkpt>
+        <trkpt lat="48.9436333" lon="2.568253"></trkpt>
+        <trkpt lat="48.943589" lon="2.5680865"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

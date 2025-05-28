@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vallée Pierre le Sault</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.509267</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vallée Pierre le Sault</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2417523" lon="2.7213332"></trkpt>
+        <trkpt lat="48.2415776" lon="2.7211793"></trkpt>
+        <trkpt lat="48.2412329" lon="2.7203713"></trkpt>
+        <trkpt lat="48.2406548" lon="2.7192097"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

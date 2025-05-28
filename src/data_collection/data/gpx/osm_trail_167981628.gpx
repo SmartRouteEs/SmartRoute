@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Butte Monceau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.895420</time>
+</metadata>
+<trk>
+    <name>Route de la Butte Monceau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4103672" lon="2.7407991"></trkpt>
+        <trkpt lat="48.4100966" lon="2.7408957"></trkpt>
+        <trkpt lat="48.409406" lon="2.7415393"></trkpt>
+        <trkpt lat="48.4076603" lon="2.7432636"></trkpt>
+        <trkpt lat="48.4070125" lon="2.7440297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

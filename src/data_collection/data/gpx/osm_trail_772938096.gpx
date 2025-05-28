@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Point du Jour à Bagatelle</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.960998</time>
+</metadata>
+<trk>
+    <name>Route du Point du Jour à Bagatelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8511233" lon="2.2492685"></trkpt>
+        <trkpt lat="48.8511261" lon="2.24921"></trkpt>
+        <trkpt lat="48.8511389" lon="2.2491449"></trkpt>
+        <trkpt lat="48.851197" lon="2.2490178"></trkpt>
+        <trkpt lat="48.8513462" lon="2.2486144"></trkpt>
+        <trkpt lat="48.8515439" lon="2.2482797"></trkpt>
+        <trkpt lat="48.8516432" lon="2.2482074"></trkpt>
+        <trkpt lat="48.8520152" lon="2.2479835"></trkpt>
+        <trkpt lat="48.8525635" lon="2.2477916"></trkpt>
+        <trkpt lat="48.8528457" lon="2.2476959"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

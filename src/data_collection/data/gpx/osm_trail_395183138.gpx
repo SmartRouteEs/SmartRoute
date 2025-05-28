@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Marronniers</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.629741</time>
+</metadata>
+<trk>
+    <name>Allée des Marronniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.73389" lon="2.2515922"></trkpt>
+        <trkpt lat="48.734052" lon="2.2516313"></trkpt>
+        <trkpt lat="48.7341232" lon="2.2516432"></trkpt>
+        <trkpt lat="48.7341874" lon="2.251654"></trkpt>
+        <trkpt lat="48.7342478" lon="2.2516641"></trkpt>
+        <trkpt lat="48.7342842" lon="2.2516702"></trkpt>
+        <trkpt lat="48.7345301" lon="2.2517829"></trkpt>
+        <trkpt lat="48.7347142" lon="2.2518163"></trkpt>
+        <trkpt lat="48.7348546" lon="2.2518393"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

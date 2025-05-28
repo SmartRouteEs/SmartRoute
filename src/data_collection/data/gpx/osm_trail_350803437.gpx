@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Clos de Vincelles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.869373</time>
+</metadata>
+<trk>
+    <name>Chemin des Clos de Vincelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9225839" lon="2.9145292"></trkpt>
+        <trkpt lat="48.9226843" lon="2.9136045"></trkpt>
+        <trkpt lat="48.9227002" lon="2.9131727"></trkpt>
+        <trkpt lat="48.9228194" lon="2.9113984"></trkpt>
+        <trkpt lat="48.9228515" lon="2.9110193"></trkpt>
+        <trkpt lat="48.9228621" lon="2.9107711"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

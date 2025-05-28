@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Carnage</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.044305</time>
+</metadata>
+<trk>
+    <name>Route du Carnage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4080833" lon="2.6182535"></trkpt>
+        <trkpt lat="48.4082797" lon="2.6180801"></trkpt>
+        <trkpt lat="48.4084791" lon="2.617914"></trkpt>
+        <trkpt lat="48.4087676" lon="2.6176227"></trkpt>
+        <trkpt lat="48.4090459" lon="2.6173544"></trkpt>
+        <trkpt lat="48.409277" lon="2.6172671"></trkpt>
+        <trkpt lat="48.4094906" lon="2.6172556"></trkpt>
+        <trkpt lat="48.4096421" lon="2.6173034"></trkpt>
+        <trkpt lat="48.4097525" lon="2.6174673"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

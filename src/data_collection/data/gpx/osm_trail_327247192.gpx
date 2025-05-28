@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Milady</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.597811</time>
+</metadata>
+<trk>
+    <name>Route de Milady</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3697927" lon="2.7381058"></trkpt>
+        <trkpt lat="48.3696666" lon="2.7381596"></trkpt>
+        <trkpt lat="48.3695629" lon="2.738175"></trkpt>
+        <trkpt lat="48.3695245" lon="2.7381972"></trkpt>
+        <trkpt lat="48.3692763" lon="2.7390624"></trkpt>
+        <trkpt lat="48.3690608" lon="2.7399857"></trkpt>
+        <trkpt lat="48.3687619" lon="2.7412684"></trkpt>
+        <trkpt lat="48.3685693" lon="2.7420482"></trkpt>
+        <trkpt lat="48.3684133" lon="2.743108"></trkpt>
+        <trkpt lat="48.3684182" lon="2.7432582"></trkpt>
+        <trkpt lat="48.3684658" lon="2.7434888"></trkpt>
+        <trkpt lat="48.368754" lon="2.7444208"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

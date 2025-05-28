@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante du Chateau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route Tournante du Chateau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4091521" lon="2.7666003"></trkpt>
+        <trkpt lat="48.4089043" lon="2.7666811"></trkpt>
+        <trkpt lat="48.4086029" lon="2.7666407"></trkpt>
+        <trkpt lat="48.4082881" lon="2.7656419"></trkpt>
+        <trkpt lat="48.407538" lon="2.7632507"></trkpt>
+        <trkpt lat="48.4075715" lon="2.7623225"></trkpt>
+        <trkpt lat="48.4073304" lon="2.7617071"></trkpt>
+        <trkpt lat="48.4071227" lon="2.7611118"></trkpt>
+        <trkpt lat="48.4071492" lon="2.7608007"></trkpt>
+        <trkpt lat="48.4069624" lon="2.7595"></trkpt>
+        <trkpt lat="48.4068547" lon="2.7588379"></trkpt>
+        <trkpt lat="48.4066682" lon="2.7583169"></trkpt>
+        <trkpt lat="48.4065344" lon="2.7581047"></trkpt>
+        <trkpt lat="48.4063195" lon="2.7577641"></trkpt>
+        <trkpt lat="48.4061851" lon="2.7572212"></trkpt>
+        <trkpt lat="48.4060315" lon="2.7561348"></trkpt>
+        <trkpt lat="48.4060302" lon="2.7555371"></trkpt>
+        <trkpt lat="48.4059857" lon="2.7549126"></trkpt>
+        <trkpt lat="48.4058384" lon="2.7542643"></trkpt>
+        <trkpt lat="48.4055607" lon="2.7532163"></trkpt>
+        <trkpt lat="48.4054466" lon="2.7530052"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

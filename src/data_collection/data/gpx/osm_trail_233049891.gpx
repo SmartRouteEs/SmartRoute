@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 13168</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.813463</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 13168</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1597636" lon="3.0804746"></trkpt>
+        <trkpt lat="48.1595068" lon="3.0797838"></trkpt>
+        <trkpt lat="48.159759" lon="3.0784709"></trkpt>
+        <trkpt lat="48.1600066" lon="3.0768453"></trkpt>
+        <trkpt lat="48.160018" lon="3.0766454"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

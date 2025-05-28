@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Vallon</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.832335</time>
+</metadata>
+<trk>
+    <name>Chemin du Vallon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3108265" lon="2.6248576"></trkpt>
+        <trkpt lat="48.3108385" lon="2.6245683"></trkpt>
+        <trkpt lat="48.3108662" lon="2.6242781"></trkpt>
+        <trkpt lat="48.3109185" lon="2.624077"></trkpt>
+        <trkpt lat="48.3111042" lon="2.6234618"></trkpt>
+        <trkpt lat="48.3114479" lon="2.6227921"></trkpt>
+        <trkpt lat="48.3115445" lon="2.6225425"></trkpt>
+        <trkpt lat="48.3119801" lon="2.6218889"></trkpt>
+        <trkpt lat="48.3120707" lon="2.6214596"></trkpt>
+        <trkpt lat="48.3121294" lon="2.6210262"></trkpt>
+        <trkpt lat="48.3121113" lon="2.6203788"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

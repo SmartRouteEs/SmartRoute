@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cloupeaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.597654</time>
+</metadata>
+<trk>
+    <name>Chemin des Cloupeaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4890002" lon="2.5317047"></trkpt>
+        <trkpt lat="48.4884023" lon="2.5311982"></trkpt>
+        <trkpt lat="48.4873396" lon="2.5337588"></trkpt>
+        <trkpt lat="48.4867847" lon="2.5350885"></trkpt>
+        <trkpt lat="48.4864358" lon="2.5349455"></trkpt>
+        <trkpt lat="48.4860938" lon="2.5347538"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

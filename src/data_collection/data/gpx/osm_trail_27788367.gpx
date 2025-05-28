@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Champignon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.629456</time>
+</metadata>
+<trk>
+    <name>Route du Champignon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4416542" lon="2.7360499"></trkpt>
+        <trkpt lat="48.4423215" lon="2.7355825"></trkpt>
+        <trkpt lat="48.4429038" lon="2.7351112"></trkpt>
+        <trkpt lat="48.4437356" lon="2.7343903"></trkpt>
+        <trkpt lat="48.4439682" lon="2.7341787"></trkpt>
+        <trkpt lat="48.4452461" lon="2.7328565"></trkpt>
+        <trkpt lat="48.4468696" lon="2.7309781"></trkpt>
+        <trkpt lat="48.447723" lon="2.7298473"></trkpt>
+        <trkpt lat="48.4490342" lon="2.7294728"></trkpt>
+        <trkpt lat="48.4498506" lon="2.729462"></trkpt>
+        <trkpt lat="48.4521262" lon="2.7288815"></trkpt>
+        <trkpt lat="48.4542891" lon="2.7282145"></trkpt>
+        <trkpt lat="48.4559432" lon="2.7278331"></trkpt>
+        <trkpt lat="48.4561268" lon="2.7277908"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

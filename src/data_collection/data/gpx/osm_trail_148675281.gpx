@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Bergerie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.268620</time>
+</metadata>
+<trk>
+    <name>Chemin de la Bergerie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7653278" lon="2.9684522"></trkpt>
+        <trkpt lat="48.7653988" lon="2.9684407"></trkpt>
+        <trkpt lat="48.7659134" lon="2.9680613"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

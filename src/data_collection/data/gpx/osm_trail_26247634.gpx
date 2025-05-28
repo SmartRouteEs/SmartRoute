@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 735</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 735</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5180728" lon="2.3885207"></trkpt>
+        <trkpt lat="48.5182848" lon="2.3889441"></trkpt>
+        <trkpt lat="48.5183661" lon="2.3891149"></trkpt>
+        <trkpt lat="48.5186914" lon="2.3896"></trkpt>
+        <trkpt lat="48.5188806" lon="2.3899461"></trkpt>
+        <trkpt lat="48.5191876" lon="2.3904954"></trkpt>
+        <trkpt lat="48.5195913" lon="2.3911219"></trkpt>
+        <trkpt lat="48.5202735" lon="2.3919717"></trkpt>
+        <trkpt lat="48.5207567" lon="2.3925639"></trkpt>
+        <trkpt lat="48.5211852" lon="2.393046"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

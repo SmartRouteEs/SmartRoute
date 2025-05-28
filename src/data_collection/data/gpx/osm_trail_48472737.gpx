@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chêne Pinguet</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.663923</time>
+</metadata>
+<trk>
+    <name>Route du Chêne Pinguet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3585941" lon="2.7094192"></trkpt>
+        <trkpt lat="48.3587377" lon="2.7092482"></trkpt>
+        <trkpt lat="48.3590241" lon="2.7082754"></trkpt>
+        <trkpt lat="48.3590769" lon="2.7081495"></trkpt>
+        <trkpt lat="48.3591406" lon="2.7080504"></trkpt>
+        <trkpt lat="48.3594563" lon="2.7077283"></trkpt>
+        <trkpt lat="48.3598299" lon="2.7073836"></trkpt>
+        <trkpt lat="48.3601019" lon="2.7068394"></trkpt>
+        <trkpt lat="48.359977" lon="2.706441"></trkpt>
+        <trkpt lat="48.3597085" lon="2.7058893"></trkpt>
+        <trkpt lat="48.3597085" lon="2.7055288"></trkpt>
+        <trkpt lat="48.3598865" lon="2.7049683"></trkpt>
+        <trkpt lat="48.3599788" lon="2.7042454"></trkpt>
+        <trkpt lat="48.3603434" lon="2.7035197"></trkpt>
+        <trkpt lat="48.3605854" lon="2.70263"></trkpt>
+        <trkpt lat="48.3610736" lon="2.7018415"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

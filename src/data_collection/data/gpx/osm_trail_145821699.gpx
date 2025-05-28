@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Petit Chemin de l'Homme Mort</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.211629</time>
+</metadata>
+<trk>
+    <name>Petit Chemin de l'Homme Mort</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3218812" lon="2.259434"></trkpt>
+        <trkpt lat="48.3226857" lon="2.2562565"></trkpt>
+        <trkpt lat="48.3232212" lon="2.2540985"></trkpt>
+        <trkpt lat="48.3240462" lon="2.250763"></trkpt>
+        <trkpt lat="48.325182" lon="2.246167"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

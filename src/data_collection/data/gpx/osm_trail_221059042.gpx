@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Maison Montagne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.296635</time>
+</metadata>
+<trk>
+    <name>Chemin de la Maison Montagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4058309" lon="2.5412775"></trkpt>
+        <trkpt lat="48.4059334" lon="2.540862"></trkpt>
+        <trkpt lat="48.4059358" lon="2.5403701"></trkpt>
+        <trkpt lat="48.4058726" lon="2.5398508"></trkpt>
+        <trkpt lat="48.4059767" lon="2.5395308"></trkpt>
+        <trkpt lat="48.4061973" lon="2.5388316"></trkpt>
+        <trkpt lat="48.4062378" lon="2.5381823"></trkpt>
+        <trkpt lat="48.4061885" lon="2.5378568"></trkpt>
+        <trkpt lat="48.4061797" lon="2.5375859"></trkpt>
+        <trkpt lat="48.4062026" lon="2.5371407"></trkpt>
+        <trkpt lat="48.4061406" lon="2.5367895"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

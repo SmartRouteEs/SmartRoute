@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Traversière</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.300939</time>
+</metadata>
+<trk>
+    <name>Allée Traversière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6221253" lon="2.4328834"></trkpt>
+        <trkpt lat="48.6222504" lon="2.4315167"></trkpt>
+        <trkpt lat="48.6222826" lon="2.4310494"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

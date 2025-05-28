@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rocher des Princes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route du Rocher des Princes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3728435" lon="2.7491941"></trkpt>
+        <trkpt lat="48.3729382" lon="2.7491377"></trkpt>
+        <trkpt lat="48.373273" lon="2.7488602"></trkpt>
+        <trkpt lat="48.3736558" lon="2.7484417"></trkpt>
+        <trkpt lat="48.3741379" lon="2.7480494"></trkpt>
+        <trkpt lat="48.3744044" lon="2.7477416"></trkpt>
+        <trkpt lat="48.3757329" lon="2.7465741"></trkpt>
+        <trkpt lat="48.37903" lon="2.7436324"></trkpt>
+        <trkpt lat="48.3793031" lon="2.7431711"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

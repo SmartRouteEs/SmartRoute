@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Petites Mares</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.393825</time>
+</metadata>
+<trk>
+    <name>Route des Petites Mares</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3756351" lon="2.6366026"></trkpt>
+        <trkpt lat="48.3754662" lon="2.6365973"></trkpt>
+        <trkpt lat="48.3688203" lon="2.6376057"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

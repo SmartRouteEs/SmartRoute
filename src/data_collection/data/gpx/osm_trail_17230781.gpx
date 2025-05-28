@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Héron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.392270</time>
+</metadata>
+<trk>
+    <name>Route Héron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3624289" lon="2.7167157"></trkpt>
+        <trkpt lat="48.3626341" lon="2.7166697"></trkpt>
+        <trkpt lat="48.3629477" lon="2.7170559"></trkpt>
+        <trkpt lat="48.3631188" lon="2.7170988"></trkpt>
+        <trkpt lat="48.3634039" lon="2.7173134"></trkpt>
+        <trkpt lat="48.3637746" lon="2.7176138"></trkpt>
+        <trkpt lat="48.3640883" lon="2.7176996"></trkpt>
+        <trkpt lat="48.3647155" lon="2.7191158"></trkpt>
+        <trkpt lat="48.3649711" lon="2.7197399"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

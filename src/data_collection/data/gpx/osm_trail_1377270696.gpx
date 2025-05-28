@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante des Monts de Faÿs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.127866</time>
+</metadata>
+<trk>
+    <name>Route Tournante des Monts de Faÿs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4535928" lon="2.6640762"></trkpt>
+        <trkpt lat="48.4536687" lon="2.6642929"></trkpt>
+        <trkpt lat="48.4539155" lon="2.664782"></trkpt>
+        <trkpt lat="48.4540893" lon="2.6651248"></trkpt>
+        <trkpt lat="48.4541337" lon="2.665226"></trkpt>
+        <trkpt lat="48.4541318" lon="2.6653595"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

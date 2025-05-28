@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Gallardon</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.708686</time>
+</metadata>
+<trk>
+    <name>Route de Gallardon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8138716" lon="2.2064412"></trkpt>
+        <trkpt lat="48.8128045" lon="2.2063504"></trkpt>
+        <trkpt lat="48.8127302" lon="2.206361"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

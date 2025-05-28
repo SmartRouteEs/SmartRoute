@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Nord</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.388342</time>
+</metadata>
+<trk>
+    <name>Route du Nord</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4896191" lon="2.6540768"></trkpt>
+        <trkpt lat="48.4895475" lon="2.6540667"></trkpt>
+        <trkpt lat="48.4873915" lon="2.6537678"></trkpt>
+        <trkpt lat="48.4854328" lon="2.6535194"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

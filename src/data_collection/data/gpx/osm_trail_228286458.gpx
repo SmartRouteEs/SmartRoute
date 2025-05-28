@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Muguets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.607752</time>
+</metadata>
+<trk>
+    <name>Sentier des Muguets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5086379" lon="2.3360873"></trkpt>
+        <trkpt lat="48.5085384" lon="2.3354872"></trkpt>
+        <trkpt lat="48.5084499" lon="2.335183"></trkpt>
+        <trkpt lat="48.5084108" lon="2.3351229"></trkpt>
+        <trkpt lat="48.5080052" lon="2.3348973"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

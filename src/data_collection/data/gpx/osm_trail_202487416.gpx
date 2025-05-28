@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Epines Noires</name>
+    <desc>Sentier VTT - Type: path - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.874547</time>
+</metadata>
+<trk>
+    <name>Allée des Epines Noires</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6237259" lon="2.5890419"></trkpt>
+        <trkpt lat="48.6236547" lon="2.5890158"></trkpt>
+        <trkpt lat="48.6232484" lon="2.5888724"></trkpt>
+        <trkpt lat="48.62293" lon="2.5884531"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

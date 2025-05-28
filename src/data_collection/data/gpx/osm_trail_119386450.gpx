@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Verrières</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.851230</time>
+</metadata>
+<trk>
+    <name>Route de Verrières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.816582" lon="2.2026457"></trkpt>
+        <trkpt lat="48.8165406" lon="2.2027073"></trkpt>
+        <trkpt lat="48.8154553" lon="2.2042395"></trkpt>
+        <trkpt lat="48.8138716" lon="2.2064412"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

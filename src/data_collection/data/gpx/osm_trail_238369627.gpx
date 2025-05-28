@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Roche Picard</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.096038</time>
+</metadata>
+<trk>
+    <name>Chemin de la Roche Picard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4535555" lon="2.2611985"></trkpt>
+        <trkpt lat="48.4528063" lon="2.2592785"></trkpt>
+        <trkpt lat="48.4525939" lon="2.2585942"></trkpt>
+        <trkpt lat="48.452399" lon="2.2573626"></trkpt>
+        <trkpt lat="48.4520016" lon="2.2549934"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

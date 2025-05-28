@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Gerbette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.760024</time>
+</metadata>
+<trk>
+    <name>Chemin de la Gerbette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5704696" lon="2.8596388"></trkpt>
+        <trkpt lat="48.5706276" lon="2.8596254"></trkpt>
+        <trkpt lat="48.5707589" lon="2.8596415"></trkpt>
+        <trkpt lat="48.5708707" lon="2.8596951"></trkpt>
+        <trkpt lat="48.5710553" lon="2.8597649"></trkpt>
+        <trkpt lat="48.5713304" lon="2.859797"></trkpt>
+        <trkpt lat="48.5715558" lon="2.8598936"></trkpt>
+        <trkpt lat="48.5717847" lon="2.8600009"></trkpt>
+        <trkpt lat="48.5719533" lon="2.8600197"></trkpt>
+        <trkpt lat="48.5720864" lon="2.8600036"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

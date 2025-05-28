@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Palais</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.250547</time>
+</metadata>
+<trk>
+    <name>Chemin des Palais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6801094" lon="2.2585651"></trkpt>
+        <trkpt lat="48.680435" lon="2.258833"></trkpt>
+        <trkpt lat="48.6809258" lon="2.259596"></trkpt>
+        <trkpt lat="48.681051" lon="2.2597907"></trkpt>
+        <trkpt lat="48.6816016" lon="2.2605651"></trkpt>
+        <trkpt lat="48.6819516" lon="2.2610952"></trkpt>
+        <trkpt lat="48.6822583" lon="2.2614049"></trkpt>
+        <trkpt lat="48.6825878" lon="2.2616021"></trkpt>
+        <trkpt lat="48.6826225" lon="2.2616229"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

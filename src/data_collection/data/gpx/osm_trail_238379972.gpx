@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>La Rigole (Rû)</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.106285</time>
+</metadata>
+<trk>
+    <name>La Rigole (Rû)</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4041871" lon="2.2606305"></trkpt>
+        <trkpt lat="48.4046881" lon="2.2613529"></trkpt>
+        <trkpt lat="48.4047381" lon="2.2614677"></trkpt>
+        <trkpt lat="48.4047814" lon="2.2616475"></trkpt>
+        <trkpt lat="48.4049035" lon="2.2622722"></trkpt>
+        <trkpt lat="48.4049468" lon="2.2623902"></trkpt>
+        <trkpt lat="48.4051106" lon="2.2626811"></trkpt>
+        <trkpt lat="48.4051515" lon="2.2628551"></trkpt>
+        <trkpt lat="48.4051984" lon="2.2630688"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

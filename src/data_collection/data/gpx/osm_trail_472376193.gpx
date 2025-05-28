@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Moque Panier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.483428</time>
+</metadata>
+<trk>
+    <name>Chemin de Moque Panier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6432127" lon="2.7166652"></trkpt>
+        <trkpt lat="48.6432179" lon="2.7168366"></trkpt>
+        <trkpt lat="48.6433656" lon="2.7181102"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

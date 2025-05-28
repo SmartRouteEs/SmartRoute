@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Emballés</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.957306</time>
+</metadata>
+<trk>
+    <name>Allée des Emballés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8191234" lon="2.5836273"></trkpt>
+        <trkpt lat="48.8173247" lon="2.58014"></trkpt>
+        <trkpt lat="48.8168274" lon="2.5792302"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

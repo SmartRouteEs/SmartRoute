@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Mez</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.178757</time>
+</metadata>
+<trk>
+    <name>Chemin du Mez</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7077465" lon="2.7470669"></trkpt>
+        <trkpt lat="48.70759" lon="2.7470046"></trkpt>
+        <trkpt lat="48.7075091" lon="2.7469141"></trkpt>
+        <trkpt lat="48.7073977" lon="2.7467171"></trkpt>
+        <trkpt lat="48.7072743" lon="2.7464338"></trkpt>
+        <trkpt lat="48.7071735" lon="2.746289"></trkpt>
+        <trkpt lat="48.7070435" lon="2.7462187"></trkpt>
+        <trkpt lat="48.706915" lon="2.7462288"></trkpt>
+        <trkpt lat="48.7068327" lon="2.7462691"></trkpt>
+        <trkpt lat="48.7066026" lon="2.746489"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 18604</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.967167</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 18604</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.520462" lon="2.759743"></trkpt>
+        <trkpt lat="48.5213987" lon="2.7603973"></trkpt>
+        <trkpt lat="48.5222616" lon="2.7607941"></trkpt>
+        <trkpt lat="48.523018" lon="2.7610729"></trkpt>
+        <trkpt lat="48.5239003" lon="2.7612594"></trkpt>
+        <trkpt lat="48.5243196" lon="2.7612897"></trkpt>
+        <trkpt lat="48.5244497" lon="2.7613114"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

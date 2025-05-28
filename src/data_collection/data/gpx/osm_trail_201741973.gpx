@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Exploitation</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.838895</time>
+</metadata>
+<trk>
+    <name>Chemin d'Exploitation</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5356195" lon="2.2229424"></trkpt>
+        <trkpt lat="48.5357066" lon="2.2232208"></trkpt>
+        <trkpt lat="48.5359365" lon="2.2234159"></trkpt>
+        <trkpt lat="48.5359986" lon="2.2235151"></trkpt>
+        <trkpt lat="48.5359943" lon="2.2236385"></trkpt>
+        <trkpt lat="48.5359746" lon="2.2237466"></trkpt>
+        <trkpt lat="48.533654" lon="2.2283701"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

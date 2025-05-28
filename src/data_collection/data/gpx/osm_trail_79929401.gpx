@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4402</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.204634</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4402</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3787522" lon="2.6701361"></trkpt>
+        <trkpt lat="48.3792055" lon="2.6706468"></trkpt>
+        <trkpt lat="48.3795981" lon="2.6710692"></trkpt>
+        <trkpt lat="48.3797535" lon="2.6711158"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

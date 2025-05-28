@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie de Rennes</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.122482</time>
+</metadata>
+<trk>
+    <name>Voie de Rennes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7140503" lon="2.3381116"></trkpt>
+        <trkpt lat="48.713973" lon="2.338052"></trkpt>
+        <trkpt lat="48.7134088" lon="2.3375971"></trkpt>
+        <trkpt lat="48.71282" lon="2.3370836"></trkpt>
+        <trkpt lat="48.7124419" lon="2.336823"></trkpt>
+        <trkpt lat="48.7122053" lon="2.3366959"></trkpt>
+        <trkpt lat="48.711399" lon="2.3365174"></trkpt>
+        <trkpt lat="48.7105818" lon="2.3363509"></trkpt>
+        <trkpt lat="48.709983" lon="2.3362389"></trkpt>
+        <trkpt lat="48.7097398" lon="2.336211"></trkpt>
+        <trkpt lat="48.7095923" lon="2.3361772"></trkpt>
+        <trkpt lat="48.7095304" lon="2.3361323"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

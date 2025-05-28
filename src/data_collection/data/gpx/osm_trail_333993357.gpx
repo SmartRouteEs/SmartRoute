@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 18033</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.712914</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 18033</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7534798" lon="2.3086963"></trkpt>
+        <trkpt lat="48.7534474" lon="2.3086751"></trkpt>
+        <trkpt lat="48.7533839" lon="2.3086353"></trkpt>
+        <trkpt lat="48.7533106" lon="2.308617"></trkpt>
+        <trkpt lat="48.7532752" lon="2.3086003"></trkpt>
+        <trkpt lat="48.7532512" lon="2.3085837"></trkpt>
+        <trkpt lat="48.7532196" lon="2.3084969"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

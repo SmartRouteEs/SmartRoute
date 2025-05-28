@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Beaucerons</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.310673</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Beaucerons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6791627" lon="2.4870457"></trkpt>
+        <trkpt lat="48.6797906" lon="2.489347"></trkpt>
+        <trkpt lat="48.6797679" lon="2.4896131"></trkpt>
+        <trkpt lat="48.6797679" lon="2.4897676"></trkpt>
+        <trkpt lat="48.6798076" lon="2.4898963"></trkpt>
+        <trkpt lat="48.6799266" lon="2.4899907"></trkpt>
+        <trkpt lat="48.6799833" lon="2.4900766"></trkpt>
+        <trkpt lat="48.6800089" lon="2.4901804"></trkpt>
+        <trkpt lat="48.6801476" lon="2.4907435"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

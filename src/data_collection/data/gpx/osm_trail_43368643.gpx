@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Friches</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.351804</time>
+</metadata>
+<trk>
+    <name>Chemin des Friches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7685078" lon="2.6155438"></trkpt>
+        <trkpt lat="48.7684684" lon="2.6157728"></trkpt>
+        <trkpt lat="48.7671665" lon="2.6232202"></trkpt>
+        <trkpt lat="48.7669068" lon="2.6247059"></trkpt>
+        <trkpt lat="48.7667969" lon="2.6252364"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

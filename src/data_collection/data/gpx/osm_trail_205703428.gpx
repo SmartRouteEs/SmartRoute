@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Grande Ruelle Mancelle</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.636061</time>
+</metadata>
+<trk>
+    <name>Grande Ruelle Mancelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7023813" lon="2.2771595"></trkpt>
+        <trkpt lat="48.7022864" lon="2.2773913"></trkpt>
+        <trkpt lat="48.7022022" lon="2.2776268"></trkpt>
+        <trkpt lat="48.7020837" lon="2.2780712"></trkpt>
+        <trkpt lat="48.7019926" lon="2.2785205"></trkpt>
+        <trkpt lat="48.7018554" lon="2.2791588"></trkpt>
+        <trkpt lat="48.7018086" lon="2.2794276"></trkpt>
+        <trkpt lat="48.7017589" lon="2.2796549"></trkpt>
+        <trkpt lat="48.7016978" lon="2.279923"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Petits Jardins</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.761769</time>
+</metadata>
+<trk>
+    <name>Allée des Petits Jardins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8435155" lon="2.5530039"></trkpt>
+        <trkpt lat="48.843441" lon="2.5526297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

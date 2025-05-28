@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse de la Fontaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.225880</time>
+</metadata>
+<trk>
+    <name>Impasse de la Fontaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8600149" lon="2.6968554"></trkpt>
+        <trkpt lat="48.8605112" lon="2.6966535"></trkpt>
+        <trkpt lat="48.8605916" lon="2.6966407"></trkpt>
+        <trkpt lat="48.860836" lon="2.6966601"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

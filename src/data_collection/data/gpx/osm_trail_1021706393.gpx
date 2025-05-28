@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois Carré</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.418822</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois Carré</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2440031" lon="2.6708612"></trkpt>
+        <trkpt lat="48.2434229" lon="2.6707313"></trkpt>
+        <trkpt lat="48.2430817" lon="2.6729517"></trkpt>
+        <trkpt lat="48.243662" lon="2.6730199"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

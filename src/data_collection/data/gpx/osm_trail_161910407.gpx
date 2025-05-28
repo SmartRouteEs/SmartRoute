@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Hauts Pichots</name>
+    <desc>Sentier VTT - Type: service - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.797861</time>
+</metadata>
+<trk>
+    <name>Sentier des Hauts Pichots</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6417393" lon="2.2665745"></trkpt>
+        <trkpt lat="48.6417463" lon="2.2668671"></trkpt>
+        <trkpt lat="48.6417617" lon="2.2670712"></trkpt>
+        <trkpt lat="48.6417663" lon="2.2674222"></trkpt>
+        <trkpt lat="48.641768" lon="2.2676531"></trkpt>
+        <trkpt lat="48.6417699" lon="2.267679"></trkpt>
+        <trkpt lat="48.6417719" lon="2.267716"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

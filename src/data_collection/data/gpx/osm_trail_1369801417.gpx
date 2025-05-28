@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue des Marronniers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.769310</time>
+</metadata>
+<trk>
+    <name>Avenue des Marronniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6598068" lon="2.4127929"></trkpt>
+        <trkpt lat="48.6593279" lon="2.4121092"></trkpt>
+        <trkpt lat="48.6587816" lon="2.4113291"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

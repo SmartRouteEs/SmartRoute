@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Six Frères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.420971</time>
+</metadata>
+<trk>
+    <name>Route des Six Frères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.798434" lon="2.2188745"></trkpt>
+        <trkpt lat="48.7986747" lon="2.2190124"></trkpt>
+        <trkpt lat="48.7988926" lon="2.2191998"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

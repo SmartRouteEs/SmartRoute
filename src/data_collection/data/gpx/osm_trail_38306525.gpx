@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Vernes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.120832</time>
+</metadata>
+<trk>
+    <name>Sentier des Vernes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9228786" lon="2.9032112"></trkpt>
+        <trkpt lat="48.922814" lon="2.9030574"></trkpt>
+        <trkpt lat="48.922602" lon="2.9028421"></trkpt>
+        <trkpt lat="48.9224674" lon="2.9027097"></trkpt>
+        <trkpt lat="48.9220566" lon="2.9023432"></trkpt>
+        <trkpt lat="48.9219096" lon="2.9027599"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

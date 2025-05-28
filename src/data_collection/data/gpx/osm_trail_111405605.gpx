@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Vérigny</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.783079</time>
+</metadata>
+<trk>
+    <name>Chemin de Vérigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7377962" lon="2.2118771"></trkpt>
+        <trkpt lat="48.7374837" lon="2.2118607"></trkpt>
+        <trkpt lat="48.737399" lon="2.2118547"></trkpt>
+        <trkpt lat="48.7373356" lon="2.2118795"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

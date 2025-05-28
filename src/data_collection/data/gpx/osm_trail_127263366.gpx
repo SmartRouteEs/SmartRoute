@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Étang Saint-Denis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.923770</time>
+</metadata>
+<trk>
+    <name>Route de l'Étang Saint-Denis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8043822" lon="2.1950092"></trkpt>
+        <trkpt lat="48.8044207" lon="2.1950186"></trkpt>
+        <trkpt lat="48.8045013" lon="2.1950382"></trkpt>
+        <trkpt lat="48.806162" lon="2.195255"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

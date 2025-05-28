@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Patis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.314156</time>
+</metadata>
+<trk>
+    <name>Chemin du Patis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9308091" lon="2.7800388"></trkpt>
+        <trkpt lat="48.930668" lon="2.7802378"></trkpt>
+        <trkpt lat="48.9304438" lon="2.77998"></trkpt>
+        <trkpt lat="48.9299923" lon="2.7795143"></trkpt>
+        <trkpt lat="48.9294605" lon="2.7791255"></trkpt>
+        <trkpt lat="48.929012" lon="2.7787344"></trkpt>
+        <trkpt lat="48.9288946" lon="2.7785287"></trkpt>
+        <trkpt lat="48.9287357" lon="2.7780494"></trkpt>
+        <trkpt lat="48.9287238" lon="2.7778391"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

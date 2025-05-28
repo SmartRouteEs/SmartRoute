@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Moines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.343180</time>
+</metadata>
+<trk>
+    <name>Rue des Moines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3714276" lon="2.8261702"></trkpt>
+        <trkpt lat="48.3715973" lon="2.8261196"></trkpt>
+        <trkpt lat="48.3720583" lon="2.8260753"></trkpt>
+        <trkpt lat="48.3724017" lon="2.8259671"></trkpt>
+        <trkpt lat="48.3726003" lon="2.8258831"></trkpt>
+        <trkpt lat="48.3731122" lon="2.8255428"></trkpt>
+        <trkpt lat="48.3739929" lon="2.825075"></trkpt>
+        <trkpt lat="48.3740536" lon="2.8250942"></trkpt>
+        <trkpt lat="48.374078" lon="2.8251633"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

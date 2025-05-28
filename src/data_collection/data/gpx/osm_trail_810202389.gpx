@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Glacière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.302642</time>
+</metadata>
+<trk>
+    <name>Allée de la Glacière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8380945" lon="2.2104977"></trkpt>
+        <trkpt lat="48.8383693" lon="2.2099957"></trkpt>
+        <trkpt lat="48.8386195" lon="2.2095493"></trkpt>
+        <trkpt lat="48.8387208" lon="2.2093507"></trkpt>
+        <trkpt lat="48.8391187" lon="2.2086077"></trkpt>
+        <trkpt lat="48.8392385" lon="2.2083839"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

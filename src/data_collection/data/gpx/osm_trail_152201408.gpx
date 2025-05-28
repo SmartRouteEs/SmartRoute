@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Jardins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.546211</time>
+</metadata>
+<trk>
+    <name>Chemin des Jardins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7925106" lon="3.0259115"></trkpt>
+        <trkpt lat="48.7924746" lon="3.0260017"></trkpt>
+        <trkpt lat="48.7923936" lon="3.0266278"></trkpt>
+        <trkpt lat="48.7922653" lon="3.0271858"></trkpt>
+        <trkpt lat="48.7919097" lon="3.0284497"></trkpt>
+        <trkpt lat="48.7917898" lon="3.0294396"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

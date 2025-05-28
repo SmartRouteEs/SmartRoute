@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Gorges d'Apremont</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.788835</time>
+</metadata>
+<trk>
+    <name>Route des Gorges d'Apremont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4348372" lon="2.6324903"></trkpt>
+        <trkpt lat="48.4346606" lon="2.6331681"></trkpt>
+        <trkpt lat="48.4344715" lon="2.6334992"></trkpt>
+        <trkpt lat="48.4344746" lon="2.6336926"></trkpt>
+        <trkpt lat="48.4343017" lon="2.6338946"></trkpt>
+        <trkpt lat="48.4341021" lon="2.6339062"></trkpt>
+        <trkpt lat="48.4338309" lon="2.6341503"></trkpt>
+        <trkpt lat="48.4336096" lon="2.6346896"></trkpt>
+        <trkpt lat="48.4333778" lon="2.634904"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

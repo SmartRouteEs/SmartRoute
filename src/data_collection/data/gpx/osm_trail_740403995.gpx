@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Neuf Fougères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.822543</time>
+</metadata>
+<trk>
+    <name>Chemin des Neuf Fougères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3354151" lon="2.7027632"></trkpt>
+        <trkpt lat="48.3349764" lon="2.7032916"></trkpt>
+        <trkpt lat="48.3347108" lon="2.7037208"></trkpt>
+        <trkpt lat="48.3348873" lon="2.7046783"></trkpt>
+        <trkpt lat="48.3351975" lon="2.7047695"></trkpt>
+        <trkpt lat="48.3353063" lon="2.705019"></trkpt>
+        <trkpt lat="48.3354682" lon="2.7057454"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

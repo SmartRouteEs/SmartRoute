@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cordon du Bas</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.124143</time>
+</metadata>
+<trk>
+    <name>Route du Cordon du Bas</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.794211" lon="2.2029208"></trkpt>
+        <trkpt lat="48.792863" lon="2.204366"></trkpt>
+        <trkpt lat="48.79266" lon="2.204586"></trkpt>
+        <trkpt lat="48.7924398" lon="2.2048125"></trkpt>
+        <trkpt lat="48.7921042" lon="2.2049089"></trkpt>
+        <trkpt lat="48.7918006" lon="2.204901"></trkpt>
+        <trkpt lat="48.7915615" lon="2.2048063"></trkpt>
+        <trkpt lat="48.7913312" lon="2.2045545"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Piot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.856260</time>
+</metadata>
+<trk>
+    <name>Rue Piot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8033057" lon="3.1498162"></trkpt>
+        <trkpt lat="48.8033371" lon="3.1498765"></trkpt>
+        <trkpt lat="48.8035256" lon="3.1502384"></trkpt>
+        <trkpt lat="48.8037744" lon="3.1507923"></trkpt>
+        <trkpt lat="48.8039084" lon="3.1513879"></trkpt>
+        <trkpt lat="48.8040774" lon="3.152501"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

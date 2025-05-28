@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Petite Montagne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.766809</time>
+</metadata>
+<trk>
+    <name>Rue de la Petite Montagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8271215" lon="3.0774343"></trkpt>
+        <trkpt lat="48.8262869" lon="3.0772595"></trkpt>
+        <trkpt lat="48.8255456" lon="3.077169"></trkpt>
+        <trkpt lat="48.8253563" lon="3.0771551"></trkpt>
+        <trkpt lat="48.8248909" lon="3.0777128"></trkpt>
+        <trkpt lat="48.8246338" lon="3.078231"></trkpt>
+        <trkpt lat="48.8242706" lon="3.0786628"></trkpt>
+        <trkpt lat="48.8240157" lon="3.0791043"></trkpt>
+        <trkpt lat="48.8234117" lon="3.0798807"></trkpt>
+        <trkpt lat="48.8231082" lon="3.0802146"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Fontaine d'Arbonne</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.948130</time>
+</metadata>
+<trk>
+    <name>Rue de la Fontaine d'Arbonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4113454" lon="2.5580204"></trkpt>
+        <trkpt lat="48.4114354" lon="2.5582722"></trkpt>
+        <trkpt lat="48.4115458" lon="2.5585853"></trkpt>
+        <trkpt lat="48.4117523" lon="2.5592928"></trkpt>
+        <trkpt lat="48.411876" lon="2.5598118"></trkpt>
+        <trkpt lat="48.412107" lon="2.5609202"></trkpt>
+        <trkpt lat="48.4121395" lon="2.5611763"></trkpt>
+        <trkpt lat="48.4121925" lon="2.5613721"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

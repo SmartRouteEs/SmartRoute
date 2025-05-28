@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mauvais Passage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.514473</time>
+</metadata>
+<trk>
+    <name>Route du Mauvais Passage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3840048" lon="2.6614953"></trkpt>
+        <trkpt lat="48.3815738" lon="2.6590002"></trkpt>
+        <trkpt lat="48.3808601" lon="2.6587006"></trkpt>
+        <trkpt lat="48.3806353" lon="2.6586426"></trkpt>
+        <trkpt lat="48.3803693" lon="2.6586466"></trkpt>
+        <trkpt lat="48.3800862" lon="2.6583868"></trkpt>
+        <trkpt lat="48.3795295" lon="2.6578955"></trkpt>
+        <trkpt lat="48.379338" lon="2.657581"></trkpt>
+        <trkpt lat="48.3791858" lon="2.6571368"></trkpt>
+        <trkpt lat="48.3790458" lon="2.6564251"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

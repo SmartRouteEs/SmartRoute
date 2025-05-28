@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix Cassée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.185872</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix Cassée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3462605" lon="2.8125607"></trkpt>
+        <trkpt lat="48.3459963" lon="2.8145688"></trkpt>
+        <trkpt lat="48.3459405" lon="2.8146429"></trkpt>
+        <trkpt lat="48.3457299" lon="2.8145586"></trkpt>
+        <trkpt lat="48.3456298" lon="2.8145944"></trkpt>
+        <trkpt lat="48.3455856" lon="2.8146931"></trkpt>
+        <trkpt lat="48.3452705" lon="2.8182188"></trkpt>
+        <trkpt lat="48.3452624" lon="2.8183618"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

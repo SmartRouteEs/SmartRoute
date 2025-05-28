@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Boulinée</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.027844</time>
+</metadata>
+<trk>
+    <name>Chemin de la Boulinée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4151593" lon="2.5725196"></trkpt>
+        <trkpt lat="48.4156409" lon="2.5728224"></trkpt>
+        <trkpt lat="48.4165249" lon="2.5732286"></trkpt>
+        <trkpt lat="48.4165947" lon="2.5732644"></trkpt>
+        <trkpt lat="48.4169472" lon="2.5734455"></trkpt>
+        <trkpt lat="48.4194269" lon="2.5747262"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

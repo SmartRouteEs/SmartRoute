@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Larry Saint-Marc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.685919</time>
+</metadata>
+<trk>
+    <name>Chemin du Larry Saint-Marc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2863979" lon="2.5920849"></trkpt>
+        <trkpt lat="48.2860482" lon="2.5930145"></trkpt>
+        <trkpt lat="48.2860009" lon="2.5931199"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

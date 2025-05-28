@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Anquines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.019524</time>
+</metadata>
+<trk>
+    <name>Rue des Anquines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5837245" lon="3.2839304"></trkpt>
+        <trkpt lat="48.5834832" lon="3.2842375"></trkpt>
+        <trkpt lat="48.5833422" lon="3.2843529"></trkpt>
+        <trkpt lat="48.5832024" lon="3.2843716"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

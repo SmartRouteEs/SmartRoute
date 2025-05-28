@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Epinard</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.936676</time>
+</metadata>
+<trk>
+    <name>Route de l'Epinard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4054886" lon="2.8281193"></trkpt>
+        <trkpt lat="48.4042687" lon="2.8285046"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

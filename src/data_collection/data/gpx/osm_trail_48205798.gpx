@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Sauçaie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.593359</time>
+</metadata>
+<trk>
+    <name>Chemin de la Sauçaie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4918689" lon="2.5453914"></trkpt>
+        <trkpt lat="48.4920324" lon="2.5450263"></trkpt>
+        <trkpt lat="48.4922393" lon="2.5442503"></trkpt>
+        <trkpt lat="48.4923769" lon="2.5435824"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural de Valence-en-Brie à Nangis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.144484</time>
+</metadata>
+<trk>
+    <name>Chemin rural de Valence-en-Brie à Nangis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4713516" lon="2.9228759"></trkpt>
+        <trkpt lat="48.4739443" lon="2.9270977"></trkpt>
+        <trkpt lat="48.4740403" lon="2.9272157"></trkpt>
+        <trkpt lat="48.4741577" lon="2.9273284"></trkpt>
+        <trkpt lat="48.4742306" lon="2.9274705"></trkpt>
+        <trkpt lat="48.4742982" lon="2.9277012"></trkpt>
+        <trkpt lat="48.4743462" lon="2.9279855"></trkpt>
+        <trkpt lat="48.4745631" lon="2.9294768"></trkpt>
+        <trkpt lat="48.4746129" lon="2.929568"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

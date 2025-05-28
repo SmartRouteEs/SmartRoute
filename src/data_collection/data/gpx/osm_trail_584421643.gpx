@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin dit du Bois Cartaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.426673</time>
+</metadata>
+<trk>
+    <name>Chemin dit du Bois Cartaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1732036" lon="3.1978151"></trkpt>
+        <trkpt lat="48.1733345" lon="3.1977669"></trkpt>
+        <trkpt lat="48.1737642" lon="3.1976174"></trkpt>
+        <trkpt lat="48.1738981" lon="3.19751"></trkpt>
+        <trkpt lat="48.1739386" lon="3.1974073"></trkpt>
+        <trkpt lat="48.1739417" lon="3.1972345"></trkpt>
+        <trkpt lat="48.173728" lon="3.1951728"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

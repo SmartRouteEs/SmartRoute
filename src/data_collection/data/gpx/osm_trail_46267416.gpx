@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Vaudrot</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.465510</time>
+</metadata>
+<trk>
+    <name>Chemin de Vaudrot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7488467" lon="2.2373984"></trkpt>
+        <trkpt lat="48.7489318" lon="2.237542"></trkpt>
+        <trkpt lat="48.7493275" lon="2.2381953"></trkpt>
+        <trkpt lat="48.7495134" lon="2.2384818"></trkpt>
+        <trkpt lat="48.7496259" lon="2.238631"></trkpt>
+        <trkpt lat="48.7499066" lon="2.2391296"></trkpt>
+        <trkpt lat="48.7504075" lon="2.2398759"></trkpt>
+        <trkpt lat="48.7505043" lon="2.2400201"></trkpt>
+        <trkpt lat="48.7507076" lon="2.2404779"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

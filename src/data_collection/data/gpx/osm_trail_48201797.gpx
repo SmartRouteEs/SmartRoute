@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.593359</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.509286" lon="2.966614"></trkpt>
+        <trkpt lat="48.5092731" lon="2.9662844"></trkpt>
+        <trkpt lat="48.5092589" lon="2.9659223"></trkpt>
+        <trkpt lat="48.5093674" lon="2.9658666"></trkpt>
+        <trkpt lat="48.510961" lon="2.965552"></trkpt>
+        <trkpt lat="48.512282" lon="2.965479"></trkpt>
+        <trkpt lat="48.5130124" lon="2.9653956"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

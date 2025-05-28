@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tarin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route Tarin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4032878" lon="2.73593"></trkpt>
+        <trkpt lat="48.4046266" lon="2.7360885"></trkpt>
+        <trkpt lat="48.405637" lon="2.7362228"></trkpt>
+        <trkpt lat="48.4057082" lon="2.7362271"></trkpt>
+        <trkpt lat="48.4058324" lon="2.7362367"></trkpt>
+        <trkpt lat="48.4067286" lon="2.7363063"></trkpt>
+        <trkpt lat="48.4072478" lon="2.7364113"></trkpt>
+        <trkpt lat="48.4092684" lon="2.7365847"></trkpt>
+        <trkpt lat="48.4095172" lon="2.7370817"></trkpt>
+        <trkpt lat="48.4098177" lon="2.7375936"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

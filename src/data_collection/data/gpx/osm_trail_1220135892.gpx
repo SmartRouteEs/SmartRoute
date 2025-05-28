@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Auberge</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.182615</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Auberge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3876195" lon="2.5617637"></trkpt>
+        <trkpt lat="48.387651" lon="2.5618752"></trkpt>
+        <trkpt lat="48.3876794" lon="2.5619213"></trkpt>
+        <trkpt lat="48.3878352" lon="2.5620941"></trkpt>
+        <trkpt lat="48.3879961" lon="2.5622575"></trkpt>
+        <trkpt lat="48.388034" lon="2.562296"></trkpt>
+        <trkpt lat="48.388099" lon="2.562339"></trkpt>
+        <trkpt lat="48.388212" lon="2.562487"></trkpt>
+        <trkpt lat="48.388389" lon="2.562792"></trkpt>
+        <trkpt lat="48.388548" lon="2.563009"></trkpt>
+        <trkpt lat="48.388827" lon="2.563536"></trkpt>
+        <trkpt lat="48.3888778" lon="2.5636499"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

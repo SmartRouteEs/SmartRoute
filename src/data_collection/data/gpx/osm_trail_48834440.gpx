@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Butte Montceau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.796572</time>
+</metadata>
+<trk>
+    <name>Route de la Butte Montceau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4066967" lon="2.7443266"></trkpt>
+        <trkpt lat="48.4055357" lon="2.7455923"></trkpt>
+        <trkpt lat="48.4053408" lon="2.745752"></trkpt>
+        <trkpt lat="48.4052461" lon="2.7458534"></trkpt>
+        <trkpt lat="48.4032921" lon="2.7483518"></trkpt>
+        <trkpt lat="48.4031888" lon="2.7484765"></trkpt>
+        <trkpt lat="48.4018104" lon="2.7501396"></trkpt>
+        <trkpt lat="48.4016458" lon="2.7502573"></trkpt>
+        <trkpt lat="48.4004429" lon="2.7511174"></trkpt>
+        <trkpt lat="48.4002875" lon="2.751224"></trkpt>
+        <trkpt lat="48.3986059" lon="2.7523776"></trkpt>
+        <trkpt lat="48.398501" lon="2.7524635"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 1690</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.007210</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 1690</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8207083" lon="2.453544"></trkpt>
+        <trkpt lat="48.8206869" lon="2.4535833"></trkpt>
+        <trkpt lat="48.8206173" lon="2.4537452"></trkpt>
+        <trkpt lat="48.8205193" lon="2.4539249"></trkpt>
+        <trkpt lat="48.8204628" lon="2.4540523"></trkpt>
+        <trkpt lat="48.8204451" lon="2.4541555"></trkpt>
+        <trkpt lat="48.8204588" lon="2.4542364"></trkpt>
+        <trkpt lat="48.8213253" lon="2.4562965"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint-Mégrin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.228364</time>
+</metadata>
+<trk>
+    <name>Route de Saint-Mégrin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.405954" lon="2.603127"></trkpt>
+        <trkpt lat="48.405587" lon="2.602849"></trkpt>
+        <trkpt lat="48.405108" lon="2.602534"></trkpt>
+        <trkpt lat="48.404774" lon="2.6023444"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

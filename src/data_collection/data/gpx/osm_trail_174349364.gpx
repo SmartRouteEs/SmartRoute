@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8415</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.059250</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8415</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1603703" lon="2.9743327"></trkpt>
+        <trkpt lat="48.1602489" lon="2.9742859"></trkpt>
+        <trkpt lat="48.1599703" lon="2.9741138"></trkpt>
+        <trkpt lat="48.1592743" lon="2.9735371"></trkpt>
+        <trkpt lat="48.1586678" lon="2.9730516"></trkpt>
+        <trkpt lat="48.1584495" lon="2.9729604"></trkpt>
+        <trkpt lat="48.158131" lon="2.9728961"></trkpt>
+        <trkpt lat="48.1555151" lon="2.9724133"></trkpt>
+        <trkpt lat="48.1538402" lon="2.972086"></trkpt>
+        <trkpt lat="48.1528041" lon="2.9722309"></trkpt>
+        <trkpt lat="48.1513386" lon="2.9724911"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

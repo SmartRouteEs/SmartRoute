@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Ramier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.359340</time>
+</metadata>
+<trk>
+    <name>Route du Ramier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4046753" lon="2.7641158"></trkpt>
+        <trkpt lat="48.4044329" lon="2.7639194"></trkpt>
+        <trkpt lat="48.4037818" lon="2.7631939"></trkpt>
+        <trkpt lat="48.4023674" lon="2.7616615"></trkpt>
+        <trkpt lat="48.4016616" lon="2.7609195"></trkpt>
+        <trkpt lat="48.3993848" lon="2.7609026"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

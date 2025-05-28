@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Garde Neige</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.627688</time>
+</metadata>
+<trk>
+    <name>Chemin de la Garde Neige</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4729267" lon="2.2084682"></trkpt>
+        <trkpt lat="48.4730857" lon="2.2085353"></trkpt>
+        <trkpt lat="48.4736286" lon="2.2089019"></trkpt>
+        <trkpt lat="48.47465" lon="2.2098531"></trkpt>
+        <trkpt lat="48.475593" lon="2.2111365"></trkpt>
+        <trkpt lat="48.476197" lon="2.2118479"></trkpt>
+        <trkpt lat="48.4766198" lon="2.2122595"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

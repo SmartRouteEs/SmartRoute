@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Médicis</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.676299</time>
+</metadata>
+<trk>
+    <name>Route de Médicis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3832472" lon="2.6978873"></trkpt>
+        <trkpt lat="48.3830227" lon="2.6998984"></trkpt>
+        <trkpt lat="48.3826124" lon="2.7041603"></trkpt>
+        <trkpt lat="48.3825305" lon="2.7048576"></trkpt>
+        <trkpt lat="48.3823093" lon="2.7069927"></trkpt>
+        <trkpt lat="48.3821866" lon="2.7081772"></trkpt>
+        <trkpt lat="48.3822284" lon="2.7100053"></trkpt>
+        <trkpt lat="48.3822414" lon="2.7105754"></trkpt>
+        <trkpt lat="48.3822361" lon="2.7116241"></trkpt>
+        <trkpt lat="48.3820802" lon="2.7123555"></trkpt>
+        <trkpt lat="48.3819786" lon="2.7128919"></trkpt>
+        <trkpt lat="48.3816042" lon="2.7147102"></trkpt>
+        <trkpt lat="48.3814229" lon="2.7157122"></trkpt>
+        <trkpt lat="48.3811072" lon="2.7180601"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

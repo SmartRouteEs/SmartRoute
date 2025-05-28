@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Aimable</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.621078</time>
+</metadata>
+<trk>
+    <name>Route Aimable</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8270131" lon="2.4254739"></trkpt>
+        <trkpt lat="48.8271611" lon="2.4252136"></trkpt>
+        <trkpt lat="48.8273506" lon="2.424916"></trkpt>
+        <trkpt lat="48.8274449" lon="2.4247924"></trkpt>
+        <trkpt lat="48.8275958" lon="2.4246017"></trkpt>
+        <trkpt lat="48.8278229" lon="2.4243238"></trkpt>
+        <trkpt lat="48.8280376" lon="2.4241436"></trkpt>
+        <trkpt lat="48.8285289" lon="2.4237021"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

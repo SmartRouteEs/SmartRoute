@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Tour du Parc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.837897</time>
+</metadata>
+<trk>
+    <name>Allée du Tour du Parc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8110687" lon="2.6803043"></trkpt>
+        <trkpt lat="48.8118148" lon="2.680064"></trkpt>
+        <trkpt lat="48.8124817" lon="2.6798494"></trkpt>
+        <trkpt lat="48.8132222" lon="2.6796177"></trkpt>
+        <trkpt lat="48.8142345" lon="2.6792627"></trkpt>
+        <trkpt lat="48.8159496" lon="2.6787087"></trkpt>
+        <trkpt lat="48.816434" lon="2.6785522"></trkpt>
+        <trkpt lat="48.8171883" lon="2.6783085"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

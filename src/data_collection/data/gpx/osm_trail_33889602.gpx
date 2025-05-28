@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de sous les Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:44.951320</time>
+</metadata>
+<trk>
+    <name>Chemin de sous les Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5203935" lon="2.3962707"></trkpt>
+        <trkpt lat="48.5202375" lon="2.396848"></trkpt>
+        <trkpt lat="48.5197334" lon="2.3983225"></trkpt>
+        <trkpt lat="48.5196256" lon="2.3986781"></trkpt>
+        <trkpt lat="48.5195803" lon="2.3988947"></trkpt>
+        <trkpt lat="48.5195345" lon="2.3991776"></trkpt>
+        <trkpt lat="48.5194354" lon="2.3995049"></trkpt>
+        <trkpt lat="48.5192982" lon="2.3999549"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

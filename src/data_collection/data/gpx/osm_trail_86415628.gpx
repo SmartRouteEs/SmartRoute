@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Orangerie</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.450528</time>
+</metadata>
+<trk>
+    <name>Route de l'Orangerie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7689962" lon="2.3052259"></trkpt>
+        <trkpt lat="48.7684433" lon="2.3054267"></trkpt>
+        <trkpt lat="48.7682401" lon="2.3054942"></trkpt>
+        <trkpt lat="48.7680425" lon="2.3055365"></trkpt>
+        <trkpt lat="48.7679451" lon="2.3055407"></trkpt>
+        <trkpt lat="48.7678912" lon="2.305507"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

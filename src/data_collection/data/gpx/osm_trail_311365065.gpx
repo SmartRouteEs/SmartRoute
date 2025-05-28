@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Goûts</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.216082</time>
+</metadata>
+<trk>
+    <name>Rue des Goûts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2681371" lon="3.1677425"></trkpt>
+        <trkpt lat="48.2678121" lon="3.1687403"></trkpt>
+        <trkpt lat="48.2676678" lon="3.1694011"></trkpt>
+        <trkpt lat="48.267395" lon="3.1702621"></trkpt>
+        <trkpt lat="48.2673387" lon="3.1704492"></trkpt>
+        <trkpt lat="48.267298" lon="3.1706775"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

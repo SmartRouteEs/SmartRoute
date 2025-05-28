@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Neuve</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:44.580436</time>
+</metadata>
+<trk>
+    <name>Allée Neuve</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8147606" lon="2.7647017"></trkpt>
+        <trkpt lat="48.8165758" lon="2.763966"></trkpt>
+        <trkpt lat="48.8171237" lon="2.7637439"></trkpt>
+        <trkpt lat="48.8197793" lon="2.7626675"></trkpt>
+        <trkpt lat="48.8199703" lon="2.7625499"></trkpt>
+        <trkpt lat="48.822036" lon="2.7616547"></trkpt>
+        <trkpt lat="48.8230123" lon="2.7612498"></trkpt>
+        <trkpt lat="48.8242337" lon="2.7607431"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Belle Croix</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.651111</time>
+</metadata>
+<trk>
+    <name>Route de la Belle Croix</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4375117" lon="2.676399"></trkpt>
+        <trkpt lat="48.4387377" lon="2.6742987"></trkpt>
+        <trkpt lat="48.4401195" lon="2.6719254"></trkpt>
+        <trkpt lat="48.4405892" lon="2.671163"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Jaillot</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.112504</time>
+</metadata>
+<trk>
+    <name>Route Jaillot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4581459" lon="2.7003967"></trkpt>
+        <trkpt lat="48.4581727" lon="2.7005138"></trkpt>
+        <trkpt lat="48.4582568" lon="2.7007844"></trkpt>
+        <trkpt lat="48.458297" lon="2.7009106"></trkpt>
+        <trkpt lat="48.4583799" lon="2.7011791"></trkpt>
+        <trkpt lat="48.4598708" lon="2.706012"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

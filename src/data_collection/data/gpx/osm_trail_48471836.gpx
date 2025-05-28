@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Ferdinand</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.651256</time>
+</metadata>
+<trk>
+    <name>Route Ferdinand</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3855203" lon="2.6160258"></trkpt>
+        <trkpt lat="48.3814336" lon="2.6160907"></trkpt>
+        <trkpt lat="48.3788529" lon="2.6161632"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

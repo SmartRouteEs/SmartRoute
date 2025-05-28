@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural dit de la Vignette</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.668817</time>
+</metadata>
+<trk>
+    <name>Chemin rural dit de la Vignette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3277812" lon="2.6498468"></trkpt>
+        <trkpt lat="48.3282995" lon="2.6503251"></trkpt>
+        <trkpt lat="48.3285616" lon="2.651102"></trkpt>
+        <trkpt lat="48.3290627" lon="2.6511367"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

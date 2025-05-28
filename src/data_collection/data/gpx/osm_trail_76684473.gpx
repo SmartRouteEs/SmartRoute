@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grande Ceinture</name>
+    <desc>Sentier VTT - Type: track - Surface: pebblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.160612</time>
+</metadata>
+<trk>
+    <name>Route de la Grande Ceinture</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7481834" lon="2.2378017"></trkpt>
+        <trkpt lat="48.7481296" lon="2.2377247"></trkpt>
+        <trkpt lat="48.748086" lon="2.2376215"></trkpt>
+        <trkpt lat="48.7480036" lon="2.2375028"></trkpt>
+        <trkpt lat="48.7479368" lon="2.2373663"></trkpt>
+        <trkpt lat="48.7476958" lon="2.2369671"></trkpt>
+        <trkpt lat="48.7475329" lon="2.2367846"></trkpt>
+        <trkpt lat="48.7469605" lon="2.2363076"></trkpt>
+        <trkpt lat="48.7468829" lon="2.2362648"></trkpt>
+        <trkpt lat="48.7468209" lon="2.2362305"></trkpt>
+        <trkpt lat="48.7467285" lon="2.2362394"></trkpt>
+        <trkpt lat="48.7466721" lon="2.2362449"></trkpt>
+        <trkpt lat="48.7465556" lon="2.2362578"></trkpt>
+        <trkpt lat="48.7465137" lon="2.2362823"></trkpt>
+        <trkpt lat="48.7464488" lon="2.2363202"></trkpt>
+        <trkpt lat="48.7461749" lon="2.2366467"></trkpt>
+        <trkpt lat="48.7458752" lon="2.2369121"></trkpt>
+        <trkpt lat="48.745659" lon="2.237128"></trkpt>
+        <trkpt lat="48.7444849" lon="2.237786"></trkpt>
+        <trkpt lat="48.7443446" lon="2.2378728"></trkpt>
+        <trkpt lat="48.7442544" lon="2.2379286"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

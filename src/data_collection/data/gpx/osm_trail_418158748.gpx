@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Mortes Fontaines</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.917149</time>
+</metadata>
+<trk>
+    <name>Allée des Mortes Fontaines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8184487" lon="2.1891731"></trkpt>
+        <trkpt lat="48.8193391" lon="2.1884468"></trkpt>
+        <trkpt lat="48.82016" lon="2.1877796"></trkpt>
+        <trkpt lat="48.8205006" lon="2.1875467"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

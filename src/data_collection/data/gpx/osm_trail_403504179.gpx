@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Gagnons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.760024</time>
+</metadata>
+<trk>
+    <name>Chemin des Gagnons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6639005" lon="2.2833275"></trkpt>
+        <trkpt lat="48.6635269" lon="2.2829221"></trkpt>
+        <trkpt lat="48.6629625" lon="2.2823655"></trkpt>
+        <trkpt lat="48.6626684" lon="2.2820846"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

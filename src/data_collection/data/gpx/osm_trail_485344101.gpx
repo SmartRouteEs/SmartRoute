@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Maupas</name>
+    <desc>Sentier VTT - Type: residential - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.550418</time>
+</metadata>
+<trk>
+    <name>Rue du Maupas</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8904345" lon="2.7921946"></trkpt>
+        <trkpt lat="48.8902226" lon="2.7918465"></trkpt>
+        <trkpt lat="48.8901262" lon="2.7915547"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

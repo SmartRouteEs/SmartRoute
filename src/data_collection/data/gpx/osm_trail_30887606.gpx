@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Thibaults</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.843394</time>
+</metadata>
+<trk>
+    <name>Chemin des Thibaults</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4617517" lon="2.6146562"></trkpt>
+        <trkpt lat="48.4613" lon="2.6153756"></trkpt>
+        <trkpt lat="48.4599275" lon="2.6188703"></trkpt>
+        <trkpt lat="48.4592439" lon="2.6206016"></trkpt>
+        <trkpt lat="48.4586723" lon="2.6232045"></trkpt>
+        <trkpt lat="48.4583934" lon="2.6245212"></trkpt>
+        <trkpt lat="48.4583222" lon="2.6255007"></trkpt>
+        <trkpt lat="48.4583445" lon="2.6259026"></trkpt>
+        <trkpt lat="48.4583969" lon="2.6269874"></trkpt>
+        <trkpt lat="48.4561274" lon="2.6303125"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

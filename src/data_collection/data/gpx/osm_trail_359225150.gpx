@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Terre des Dames</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.925887</time>
+</metadata>
+<trk>
+    <name>Chemin de la Terre des Dames</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3282021" lon="2.473309"></trkpt>
+        <trkpt lat="48.3301943" lon="2.4725958"></trkpt>
+        <trkpt lat="48.3317544" lon="2.4721018"></trkpt>
+        <trkpt lat="48.3326283" lon="2.4717798"></trkpt>
+        <trkpt lat="48.3347191" lon="2.4700684"></trkpt>
+        <trkpt lat="48.3388728" lon="2.4666681"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

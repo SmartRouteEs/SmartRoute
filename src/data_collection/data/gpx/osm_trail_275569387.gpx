@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle du Presbytère</name>
+    <desc>Sentier VTT - Type: path - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.194286</time>
+</metadata>
+<trk>
+    <name>Ruelle du Presbytère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6615749" lon="2.2675211"></trkpt>
+        <trkpt lat="48.6611381" lon="2.2674044"></trkpt>
+        <trkpt lat="48.6611038" lon="2.2673949"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

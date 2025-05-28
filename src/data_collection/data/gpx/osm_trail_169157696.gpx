@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Port</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.928884</time>
+</metadata>
+<trk>
+    <name>Chemin du Port</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7921581" lon="2.9202702"></trkpt>
+        <trkpt lat="48.7932122" lon="2.9199065"></trkpt>
+        <trkpt lat="48.793438" lon="2.9198286"></trkpt>
+        <trkpt lat="48.7942107" lon="2.9195354"></trkpt>
+        <trkpt lat="48.7943922" lon="2.9194665"></trkpt>
+        <trkpt lat="48.7954276" lon="2.9189998"></trkpt>
+        <trkpt lat="48.796486" lon="2.9185357"></trkpt>
+        <trkpt lat="48.7967033" lon="2.9184419"></trkpt>
+        <trkpt lat="48.796787" lon="2.9183204"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

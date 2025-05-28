@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Carrefour Alexandre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.654249</time>
+</metadata>
+<trk>
+    <name>Carrefour Alexandre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7437372" lon="2.5388698"></trkpt>
+        <trkpt lat="48.7437668" lon="2.5389287"></trkpt>
+        <trkpt lat="48.743788" lon="2.5390049"></trkpt>
+        <trkpt lat="48.7438159" lon="2.5391174"></trkpt>
+        <trkpt lat="48.7438528" lon="2.5392161"></trkpt>
+        <trkpt lat="48.7438897" lon="2.5392868"></trkpt>
+        <trkpt lat="48.7439557" lon="2.5393465"></trkpt>
+        <trkpt lat="48.744047" lon="2.539401"></trkpt>
+        <trkpt lat="48.7441047" lon="2.5394383"></trkpt>
+        <trkpt lat="48.744143" lon="2.5394779"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Château</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.049878</time>
+</metadata>
+<trk>
+    <name>Route du Château</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4169558" lon="2.65889"></trkpt>
+        <trkpt lat="48.416786" lon="2.6590993"></trkpt>
+        <trkpt lat="48.4164545" lon="2.659508"></trkpt>
+        <trkpt lat="48.4160899" lon="2.6600402"></trkpt>
+        <trkpt lat="48.4158591" lon="2.6604459"></trkpt>
+        <trkpt lat="48.4156797" lon="2.6607611"></trkpt>
+        <trkpt lat="48.4155202" lon="2.6614306"></trkpt>
+        <trkpt lat="48.415224" lon="2.6620143"></trkpt>
+        <trkpt lat="48.4150896" lon="2.6622675"></trkpt>
+        <trkpt lat="48.4149221" lon="2.662555"></trkpt>
+        <trkpt lat="48.414529" lon="2.6638167"></trkpt>
+        <trkpt lat="48.4140162" lon="2.6653531"></trkpt>
+        <trkpt lat="48.4136443" lon="2.6665776"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

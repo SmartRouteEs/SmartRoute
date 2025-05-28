@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rocher de Milly</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.609649</time>
+</metadata>
+<trk>
+    <name>Route du Rocher de Milly</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.395299" lon="2.616684"></trkpt>
+        <trkpt lat="48.3956448" lon="2.6164547"></trkpt>
+        <trkpt lat="48.3967444" lon="2.6149114"></trkpt>
+        <trkpt lat="48.397343" lon="2.6140751"></trkpt>
+        <trkpt lat="48.399874" lon="2.611096"></trkpt>
+        <trkpt lat="48.4001402" lon="2.6107466"></trkpt>
+        <trkpt lat="48.4006976" lon="2.6103138"></trkpt>
+        <trkpt lat="48.4009129" lon="2.6101283"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

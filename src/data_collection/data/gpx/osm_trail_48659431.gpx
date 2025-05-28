@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Estrelles à Montgermont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.738553</time>
+</metadata>
+<trk>
+    <name>Chemin d'Estrelles à Montgermont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4974771" lon="2.5441306"></trkpt>
+        <trkpt lat="48.498112" lon="2.5446077"></trkpt>
+        <trkpt lat="48.4981362" lon="2.5446855"></trkpt>
+        <trkpt lat="48.4981334" lon="2.5448585"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente des Sables</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.465510</time>
+</metadata>
+<trk>
+    <name>Sente des Sables</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.857366" lon="2.5970597"></trkpt>
+        <trkpt lat="48.857344" lon="2.5971295"></trkpt>
+        <trkpt lat="48.8570074" lon="2.5976178"></trkpt>
+        <trkpt lat="48.8567874" lon="2.5979256"></trkpt>
+        <trkpt lat="48.8565708" lon="2.5982046"></trkpt>
+        <trkpt lat="48.8558306" lon="2.5983137"></trkpt>
+        <trkpt lat="48.8555952" lon="2.5983484"></trkpt>
+        <trkpt lat="48.8555599" lon="2.5983685"></trkpt>
+        <trkpt lat="48.8555528" lon="2.5984141"></trkpt>
+        <trkpt lat="48.855562" lon="2.59876"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

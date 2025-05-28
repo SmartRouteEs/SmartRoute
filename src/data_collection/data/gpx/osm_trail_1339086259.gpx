@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Dessous du Rocher</name>
+    <desc>Sentier VTT - Type: path - Surface: earth - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.656407</time>
+</metadata>
+<trk>
+    <name>Chemin du Dessous du Rocher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7082084" lon="2.2345706"></trkpt>
+        <trkpt lat="48.7082538" lon="2.2344911"></trkpt>
+        <trkpt lat="48.7082876" lon="2.234327"></trkpt>
+        <trkpt lat="48.7082885" lon="2.2341673"></trkpt>
+        <trkpt lat="48.7082684" lon="2.2339404"></trkpt>
+        <trkpt lat="48.7082563" lon="2.233834"></trkpt>
+        <trkpt lat="48.7082033" lon="2.2336553"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Messe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.956509</time>
+</metadata>
+<trk>
+    <name>Chemin de la Messe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.484811" lon="3.3425311"></trkpt>
+        <trkpt lat="48.4847387" lon="3.343901"></trkpt>
+        <trkpt lat="48.4846777" lon="3.3458588"></trkpt>
+        <trkpt lat="48.4846921" lon="3.3462902"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

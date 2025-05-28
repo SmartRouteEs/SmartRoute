@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Nombard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.301271</time>
+</metadata>
+<trk>
+    <name>Chemin de Nombard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3211487" lon="3.155392"></trkpt>
+        <trkpt lat="48.3212315" lon="3.1553884"></trkpt>
+        <trkpt lat="48.321324" lon="3.1552712"></trkpt>
+        <trkpt lat="48.3226896" lon="3.1528332"></trkpt>
+        <trkpt lat="48.3230985" lon="3.1521303"></trkpt>
+        <trkpt lat="48.323303" lon="3.1516068"></trkpt>
+        <trkpt lat="48.3247123" lon="3.1481474"></trkpt>
+        <trkpt lat="48.3249144" lon="3.1476092"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

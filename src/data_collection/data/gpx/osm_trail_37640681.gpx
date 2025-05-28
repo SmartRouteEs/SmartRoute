@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Rubis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.101473</time>
+</metadata>
+<trk>
+    <name>Sentier du Rubis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5605599" lon="3.2943335"></trkpt>
+        <trkpt lat="48.5605744" lon="3.2940154"></trkpt>
+        <trkpt lat="48.5605647" lon="3.2938951"></trkpt>
+        <trkpt lat="48.5605036" lon="3.2937889"></trkpt>
+        <trkpt lat="48.5604283" lon="3.2936953"></trkpt>
+        <trkpt lat="48.5603536" lon="3.2935944"></trkpt>
+        <trkpt lat="48.5602911" lon="3.293515"></trkpt>
+        <trkpt lat="48.5600263" lon="3.2930297"></trkpt>
+        <trkpt lat="48.5599441" lon="3.2927888"></trkpt>
+        <trkpt lat="48.5598765" lon="3.2924729"></trkpt>
+        <trkpt lat="48.5598727" lon="3.2923573"></trkpt>
+        <trkpt lat="48.5599267" lon="3.2921371"></trkpt>
+        <trkpt lat="48.5600339" lon="3.2919221"></trkpt>
+        <trkpt lat="48.5602295" lon="3.2914157"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

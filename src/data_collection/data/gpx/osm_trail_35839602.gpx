@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Ecuelles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.009023</time>
+</metadata>
+<trk>
+    <name>Route d'Ecuelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3557312" lon="2.7922682"></trkpt>
+        <trkpt lat="48.3545337" lon="2.7923723"></trkpt>
+        <trkpt lat="48.3538476" lon="2.7924319"></trkpt>
+        <trkpt lat="48.352376" lon="2.7935473"></trkpt>
+        <trkpt lat="48.3522258" lon="2.7936476"></trkpt>
+        <trkpt lat="48.3520496" lon="2.7937799"></trkpt>
+        <trkpt lat="48.3500604" lon="2.794958"></trkpt>
+        <trkpt lat="48.3489221" lon="2.7959699"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

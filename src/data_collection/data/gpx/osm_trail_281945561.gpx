@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voirie des Carrières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.297312</time>
+</metadata>
+<trk>
+    <name>Voirie des Carrières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5531587" lon="2.6947002"></trkpt>
+        <trkpt lat="48.5543834" lon="2.6952981"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

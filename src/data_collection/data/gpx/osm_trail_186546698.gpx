@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Fosse au Loup</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.581919</time>
+</metadata>
+<trk>
+    <name>Chemin de la Fosse au Loup</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8151683" lon="3.0372421"></trkpt>
+        <trkpt lat="48.8150412" lon="3.0371413"></trkpt>
+        <trkpt lat="48.8149211" lon="3.0360684"></trkpt>
+        <trkpt lat="48.814914" lon="3.0354139"></trkpt>
+        <trkpt lat="48.8150059" lon="3.0335042"></trkpt>
+        <trkpt lat="48.8152037" lon="3.0305752"></trkpt>
+        <trkpt lat="48.8155569" lon="3.0257902"></trkpt>
+        <trkpt lat="48.8155498" lon="3.0254683"></trkpt>
+        <trkpt lat="48.8155145" lon="3.0253181"></trkpt>
+        <trkpt lat="48.8153238" lon="3.0249104"></trkpt>
+        <trkpt lat="48.8149352" lon="3.0237302"></trkpt>
+        <trkpt lat="48.8147021" lon="3.0228719"></trkpt>
+        <trkpt lat="48.8139602" lon="3.020812"></trkpt>
+        <trkpt lat="48.8133738" lon="3.019428"></trkpt>
+        <trkpt lat="48.8132383" lon="3.0191675"></trkpt>
+        <trkpt lat="48.8131241" lon="3.0189479"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

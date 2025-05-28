@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Montéclin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.429139</time>
+</metadata>
+<trk>
+    <name>Chemin de Montéclin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7622931" lon="2.1950534"></trkpt>
+        <trkpt lat="48.7623142" lon="2.195079"></trkpt>
+        <trkpt lat="48.7625423" lon="2.1951024"></trkpt>
+        <trkpt lat="48.762622" lon="2.1950846"></trkpt>
+        <trkpt lat="48.7626974" lon="2.1950804"></trkpt>
+        <trkpt lat="48.7627121" lon="2.1950779"></trkpt>
+        <trkpt lat="48.7634682" lon="2.1948891"></trkpt>
+        <trkpt lat="48.7639204" lon="2.1946255"></trkpt>
+        <trkpt lat="48.7641277" lon="2.194562"></trkpt>
+        <trkpt lat="48.7643035" lon="2.1946107"></trkpt>
+        <trkpt lat="48.7650816" lon="2.1947658"></trkpt>
+        <trkpt lat="48.7651938" lon="2.1949401"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

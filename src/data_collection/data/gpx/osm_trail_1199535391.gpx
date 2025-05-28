@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière Verte</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.786664</time>
+</metadata>
+<trk>
+    <name>Route Forestière Verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7588991" lon="2.2480315"></trkpt>
+        <trkpt lat="48.7608329" lon="2.2469948"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

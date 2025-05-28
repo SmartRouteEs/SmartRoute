@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Beauté</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.506344</time>
+</metadata>
+<trk>
+    <name>Route de la Beauté</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.378288" lon="2.6764559"></trkpt>
+        <trkpt lat="48.3781054" lon="2.6763047"></trkpt>
+        <trkpt lat="48.3780559" lon="2.6759928"></trkpt>
+        <trkpt lat="48.377896" lon="2.6756433"></trkpt>
+        <trkpt lat="48.3778358" lon="2.6753871"></trkpt>
+        <trkpt lat="48.377599" lon="2.6750229"></trkpt>
+        <trkpt lat="48.3774721" lon="2.6746684"></trkpt>
+        <trkpt lat="48.3770892" lon="2.6738481"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

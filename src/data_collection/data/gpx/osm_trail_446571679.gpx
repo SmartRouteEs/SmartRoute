@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 21443</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.317496</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 21443</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7269552" lon="2.28411"></trkpt>
+        <trkpt lat="48.7269197" lon="2.2841106"></trkpt>
+        <trkpt lat="48.7268563" lon="2.2841116"></trkpt>
+        <trkpt lat="48.7266325" lon="2.28413"></trkpt>
+        <trkpt lat="48.7264588" lon="2.2839995"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

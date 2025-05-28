@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Louvard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.796572</time>
+</metadata>
+<trk>
+    <name>Route du Louvard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4027833" lon="2.5929191"></trkpt>
+        <trkpt lat="48.402841" lon="2.592806"></trkpt>
+        <trkpt lat="48.403079" lon="2.592535"></trkpt>
+        <trkpt lat="48.403221" lon="2.592159"></trkpt>
+        <trkpt lat="48.403298" lon="2.591999"></trkpt>
+        <trkpt lat="48.403384" lon="2.591914"></trkpt>
+        <trkpt lat="48.403532" lon="2.591831"></trkpt>
+        <trkpt lat="48.403751" lon="2.591655"></trkpt>
+        <trkpt lat="48.403853" lon="2.591621"></trkpt>
+        <trkpt lat="48.404058" lon="2.591655"></trkpt>
+        <trkpt lat="48.404263" lon="2.591742"></trkpt>
+        <trkpt lat="48.404392" lon="2.591814"></trkpt>
+        <trkpt lat="48.404529" lon="2.591929"></trkpt>
+        <trkpt lat="48.404655" lon="2.592077"></trkpt>
+        <trkpt lat="48.404717" lon="2.592124"></trkpt>
+        <trkpt lat="48.404838" lon="2.592178"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

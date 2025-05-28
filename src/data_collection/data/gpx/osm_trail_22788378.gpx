@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Matou</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.490296</time>
+</metadata>
+<trk>
+    <name>Allée Matou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8216538" lon="2.601516"></trkpt>
+        <trkpt lat="48.8219571" lon="2.6041308"></trkpt>
+        <trkpt lat="48.8220806" lon="2.6052266"></trkpt>
+        <trkpt lat="48.8226533" lon="2.6101376"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

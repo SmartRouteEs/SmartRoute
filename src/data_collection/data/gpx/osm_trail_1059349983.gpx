@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Donjon</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.775692</time>
+</metadata>
+<trk>
+    <name>Route du Donjon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8441296" lon="2.4506876"></trkpt>
+        <trkpt lat="48.8441717" lon="2.4496958"></trkpt>
+        <trkpt lat="48.8442309" lon="2.4483007"></trkpt>
+        <trkpt lat="48.8442842" lon="2.4471627"></trkpt>
+        <trkpt lat="48.8442873" lon="2.4470974"></trkpt>
+        <trkpt lat="48.8442987" lon="2.4468538"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

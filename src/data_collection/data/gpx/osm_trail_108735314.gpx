@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Pommeraie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.751815</time>
+</metadata>
+<trk>
+    <name>Rue de la Pommeraie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8249643" lon="2.9565278"></trkpt>
+        <trkpt lat="48.8248678" lon="2.9564284"></trkpt>
+        <trkpt lat="48.8247901" lon="2.9563462"></trkpt>
+        <trkpt lat="48.8242746" lon="2.9558199"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

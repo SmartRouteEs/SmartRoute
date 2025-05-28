@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Barbey</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.977566</time>
+</metadata>
+<trk>
+    <name>Chemin de Barbey</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3458527" lon="3.0624074"></trkpt>
+        <trkpt lat="48.345985" lon="3.0623698"></trkpt>
+        <trkpt lat="48.3471327" lon="3.0613154"></trkpt>
+        <trkpt lat="48.3481481" lon="3.0603793"></trkpt>
+        <trkpt lat="48.348545" lon="3.0600888"></trkpt>
+        <trkpt lat="48.3488882" lon="3.0599973"></trkpt>
+        <trkpt lat="48.3493495" lon="3.0599274"></trkpt>
+        <trkpt lat="48.3496605" lon="3.0597875"></trkpt>
+        <trkpt lat="48.3498939" lon="3.0596351"></trkpt>
+        <trkpt lat="48.3500395" lon="3.05954"></trkpt>
+        <trkpt lat="48.3503791" lon="3.0594324"></trkpt>
+        <trkpt lat="48.3506544" lon="3.0594432"></trkpt>
+        <trkpt lat="48.3508546" lon="3.0595239"></trkpt>
+        <trkpt lat="48.3511107" lon="3.0596993"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

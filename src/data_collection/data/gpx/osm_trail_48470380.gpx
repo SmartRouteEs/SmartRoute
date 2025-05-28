@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Quête</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route de la Quête</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3659689" lon="2.6752181"></trkpt>
+        <trkpt lat="48.3622598" lon="2.6775573"></trkpt>
+        <trkpt lat="48.3621077" lon="2.6776532"></trkpt>
+        <trkpt lat="48.3620462" lon="2.6777202"></trkpt>
+        <trkpt lat="48.3584589" lon="2.68163"></trkpt>
+        <trkpt lat="48.3566756" lon="2.6835125"></trkpt>
+        <trkpt lat="48.3555125" lon="2.6844134"></trkpt>
+        <trkpt lat="48.3545605" lon="2.6851031"></trkpt>
+        <trkpt lat="48.3530642" lon="2.6862264"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

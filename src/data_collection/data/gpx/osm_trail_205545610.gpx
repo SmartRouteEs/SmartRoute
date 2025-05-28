@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Longuignot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.627667</time>
+</metadata>
+<trk>
+    <name>Rue de Longuignot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5116591" lon="3.1724719"></trkpt>
+        <trkpt lat="48.5120145" lon="3.1732015"></trkpt>
+        <trkpt lat="48.5120729" lon="3.1734504"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Terrasse du Plessis Robinson</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.648379</time>
+</metadata>
+<trk>
+    <name>Terrasse du Plessis Robinson</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7790665" lon="2.2701561"></trkpt>
+        <trkpt lat="48.7794163" lon="2.2708283"></trkpt>
+        <trkpt lat="48.7798" lon="2.270858"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

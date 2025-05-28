@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 5056</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.613828</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 5056</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3572157" lon="2.8087664"></trkpt>
+        <trkpt lat="48.3564146" lon="2.8097205"></trkpt>
+        <trkpt lat="48.3559382" lon="2.8104324"></trkpt>
+        <trkpt lat="48.3553623" lon="2.8113791"></trkpt>
+        <trkpt lat="48.3553849" lon="2.8119262"></trkpt>
+        <trkpt lat="48.3551987" lon="2.8122201"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

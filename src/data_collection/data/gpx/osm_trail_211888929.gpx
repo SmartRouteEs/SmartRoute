@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Vau Morin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.865517</time>
+</metadata>
+<trk>
+    <name>Chemin du Vau Morin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3865125" lon="2.4705761"></trkpt>
+        <trkpt lat="48.3865228" lon="2.4701497"></trkpt>
+        <trkpt lat="48.3864545" lon="2.4699502"></trkpt>
+        <trkpt lat="48.3858539" lon="2.4681949"></trkpt>
+        <trkpt lat="48.3859701" lon="2.4669965"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

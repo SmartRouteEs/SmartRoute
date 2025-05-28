@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Hobereau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.721892</time>
+</metadata>
+<trk>
+    <name>Route du Hobereau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4283055" lon="2.6595904"></trkpt>
+        <trkpt lat="48.4287947" lon="2.6594029"></trkpt>
+        <trkpt lat="48.4295108" lon="2.6589697"></trkpt>
+        <trkpt lat="48.4299073" lon="2.6586059"></trkpt>
+        <trkpt lat="48.4300307" lon="2.6584702"></trkpt>
+        <trkpt lat="48.4301238" lon="2.658456"></trkpt>
+        <trkpt lat="48.4301998" lon="2.658502"></trkpt>
+        <trkpt lat="48.4312231" lon="2.6589865"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

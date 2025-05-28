@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Arche</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.961402</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Arche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6919779" lon="2.2545829"></trkpt>
+        <trkpt lat="48.6923753" lon="2.2548565"></trkpt>
+        <trkpt lat="48.6924201" lon="2.2568396"></trkpt>
+        <trkpt lat="48.6924058" lon="2.2575475"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

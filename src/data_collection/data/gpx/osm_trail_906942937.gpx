@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pont Rubeau</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.171315</time>
+</metadata>
+<trk>
+    <name>Chemin du Pont Rubeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6781676" lon="2.3288365"></trkpt>
+        <trkpt lat="48.6775083" lon="2.3307042"></trkpt>
+        <trkpt lat="48.676876" lon="2.3325161"></trkpt>
+        <trkpt lat="48.6767765" lon="2.3328468"></trkpt>
+        <trkpt lat="48.6767113" lon="2.3330537"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

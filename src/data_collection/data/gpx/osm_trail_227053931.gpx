@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Bray</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.582783</time>
+</metadata>
+<trk>
+    <name>Rue de Bray</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8007762" lon="3.0027055"></trkpt>
+        <trkpt lat="48.8009864" lon="3.0030937"></trkpt>
+        <trkpt lat="48.8011715" lon="3.0034893"></trkpt>
+        <trkpt lat="48.801334" lon="3.0040525"></trkpt>
+        <trkpt lat="48.8014948" lon="3.0047814"></trkpt>
+        <trkpt lat="48.8015405" lon="3.0049417"></trkpt>
+        <trkpt lat="48.8015359" lon="3.0050149"></trkpt>
+        <trkpt lat="48.8015156" lon="3.0050764"></trkpt>
+        <trkpt lat="48.8014798" lon="3.0051282"></trkpt>
+        <trkpt lat="48.8014263" lon="3.0051687"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bienaimé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.480010</time>
+</metadata>
+<trk>
+    <name>Route du Bienaimé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7281985" lon="2.6989821"></trkpt>
+        <trkpt lat="48.7307266" lon="2.6962523"></trkpt>
+        <trkpt lat="48.7327767" lon="2.6940572"></trkpt>
+        <trkpt lat="48.7331174" lon="2.6936923"></trkpt>
+        <trkpt lat="48.7329795" lon="2.6936624"></trkpt>
+        <trkpt lat="48.7327932" lon="2.693622"></trkpt>
+        <trkpt lat="48.7277366" lon="2.6926824"></trkpt>
+        <trkpt lat="48.7238835" lon="2.6919666"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ypréaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.302757</time>
+</metadata>
+<trk>
+    <name>Route des Ypréaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3720395" lon="2.6651871"></trkpt>
+        <trkpt lat="48.3716203" lon="2.6671833"></trkpt>
+        <trkpt lat="48.3713851" lon="2.6686484"></trkpt>
+        <trkpt lat="48.3712654" lon="2.6691541"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

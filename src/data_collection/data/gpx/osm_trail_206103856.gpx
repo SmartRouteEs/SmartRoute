@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fausse Orange</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.652218</time>
+</metadata>
+<trk>
+    <name>Route de la Fausse Orange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4499722" lon="2.7271377"></trkpt>
+        <trkpt lat="48.4499586" lon="2.7273973"></trkpt>
+        <trkpt lat="48.4498506" lon="2.729462"></trkpt>
+        <trkpt lat="48.4500774" lon="2.7329462"></trkpt>
+        <trkpt lat="48.4500941" lon="2.7332417"></trkpt>
+        <trkpt lat="48.4502631" lon="2.7361528"></trkpt>
+        <trkpt lat="48.4502363" lon="2.7380506"></trkpt>
+        <trkpt lat="48.4500948" lon="2.7389441"></trkpt>
+        <trkpt lat="48.4500583" lon="2.7398001"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

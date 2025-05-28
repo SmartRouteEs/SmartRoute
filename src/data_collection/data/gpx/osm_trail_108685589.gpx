@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Champ de l'Eau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.751815</time>
+</metadata>
+<trk>
+    <name>Rue du Champ de l'Eau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8371385" lon="2.9119525"></trkpt>
+        <trkpt lat="48.8379973" lon="2.9128149"></trkpt>
+        <trkpt lat="48.838135" lon="2.9128417"></trkpt>
+        <trkpt lat="48.8387034" lon="2.9127881"></trkpt>
+        <trkpt lat="48.8388835" lon="2.9127183"></trkpt>
+        <trkpt lat="48.8390706" lon="2.9125896"></trkpt>
+        <trkpt lat="48.8392542" lon="2.9125681"></trkpt>
+        <trkpt lat="48.8395932" lon="2.91267"></trkpt>
+        <trkpt lat="48.8397238" lon="2.91267"></trkpt>
+        <trkpt lat="48.8398226" lon="2.9126593"></trkpt>
+        <trkpt lat="48.8399392" lon="2.9126432"></trkpt>
+        <trkpt lat="48.8400486" lon="2.9126593"></trkpt>
+        <trkpt lat="48.8407447" lon="2.9131309"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

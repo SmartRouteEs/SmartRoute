@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Saint-Nicaise</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.310903</time>
+</metadata>
+<trk>
+    <name>Chemin Saint-Nicaise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3803483" lon="2.8358134"></trkpt>
+        <trkpt lat="48.3802338" lon="2.835744"></trkpt>
+        <trkpt lat="48.3800914" lon="2.8354962"></trkpt>
+        <trkpt lat="48.3794979" lon="2.834351"></trkpt>
+        <trkpt lat="48.37914" lon="2.8338074"></trkpt>
+        <trkpt lat="48.3786277" lon="2.8329584"></trkpt>
+        <trkpt lat="48.3780468" lon="2.8319356"></trkpt>
+        <trkpt lat="48.3776184" lon="2.8310665"></trkpt>
+        <trkpt lat="48.3775446" lon="2.8299254"></trkpt>
+        <trkpt lat="48.3774255" lon="2.8295389"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin des Près de Monthomé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.152262</time>
+</metadata>
+<trk>
+    <name>chemin des Près de Monthomé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.91958" lon="3.1789566"></trkpt>
+        <trkpt lat="48.9201091" lon="3.1817531"></trkpt>
+        <trkpt lat="48.9202205" lon="3.182343"></trkpt>
+        <trkpt lat="48.9195535" lon="3.1827924"></trkpt>
+        <trkpt lat="48.9195249" lon="3.1828577"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

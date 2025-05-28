@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Beaumonts</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.052099</time>
+</metadata>
+<trk>
+    <name>Chemin des Beaumonts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3542051" lon="3.1489354"></trkpt>
+        <trkpt lat="48.354646" lon="3.147866"></trkpt>
+        <trkpt lat="48.354987" lon="3.146866"></trkpt>
+        <trkpt lat="48.355087" lon="3.146686"></trkpt>
+        <trkpt lat="48.355167" lon="3.146706"></trkpt>
+        <trkpt lat="48.356007" lon="3.147466"></trkpt>
+        <trkpt lat="48.357127" lon="3.148346"></trkpt>
+        <trkpt lat="48.358527" lon="3.150446"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

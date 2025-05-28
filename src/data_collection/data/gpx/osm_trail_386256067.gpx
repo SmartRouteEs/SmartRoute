@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Guezon</name>
+    <desc>Sentier VTT - Type: track - Surface: concrete - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:54.314156</time>
+</metadata>
+<trk>
+    <name>Chemin du Guezon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.771452" lon="2.2606773"></trkpt>
+        <trkpt lat="48.7716798" lon="2.2607366"></trkpt>
+        <trkpt lat="48.7719023" lon="2.2608389"></trkpt>
+        <trkpt lat="48.7719996" lon="2.2609064"></trkpt>
+        <trkpt lat="48.7720856" lon="2.2610026"></trkpt>
+        <trkpt lat="48.7721998" lon="2.2611967"></trkpt>
+        <trkpt lat="48.7722778" lon="2.2613637"></trkpt>
+        <trkpt lat="48.7723182" lon="2.2614321"></trkpt>
+        <trkpt lat="48.7723701" lon="2.2614853"></trkpt>
+        <trkpt lat="48.7724254" lon="2.2615056"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

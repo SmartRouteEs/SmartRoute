@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Cambot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.853915</time>
+</metadata>
+<trk>
+    <name>Rue de Cambot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4929961" lon="2.6014404"></trkpt>
+        <trkpt lat="48.4928076" lon="2.6016418"></trkpt>
+        <trkpt lat="48.4925111" lon="2.6019396"></trkpt>
+        <trkpt lat="48.4923218" lon="2.6020778"></trkpt>
+        <trkpt lat="48.492049" lon="2.6022034"></trkpt>
+        <trkpt lat="48.4913353" lon="2.6025321"></trkpt>
+        <trkpt lat="48.4911518" lon="2.6026425"></trkpt>
+        <trkpt lat="48.4909763" lon="2.6027906"></trkpt>
+        <trkpt lat="48.4907224" lon="2.6031025"></trkpt>
+        <trkpt lat="48.490519" lon="2.6033923"></trkpt>
+        <trkpt lat="48.4904356" lon="2.6035793"></trkpt>
+        <trkpt lat="48.4902231" lon="2.6042548"></trkpt>
+        <trkpt lat="48.4901302" lon="2.6049818"></trkpt>
+        <trkpt lat="48.4901335" lon="2.6130624"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

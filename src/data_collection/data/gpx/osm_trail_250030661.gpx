@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie Romaine</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.605896</time>
+</metadata>
+<trk>
+    <name>Voie Romaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6105878" lon="2.521871"></trkpt>
+        <trkpt lat="48.6097492" lon="2.5240078"></trkpt>
+        <trkpt lat="48.6084214" lon="2.5274216"></trkpt>
+        <trkpt lat="48.6077141" lon="2.529241"></trkpt>
+        <trkpt lat="48.6076058" lon="2.5294884"></trkpt>
+        <trkpt lat="48.6076076" lon="2.5296125"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

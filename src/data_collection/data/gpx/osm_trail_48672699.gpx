@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Barbizon à Samois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.753422</time>
+</metadata>
+<trk>
+    <name>Chemin de Barbizon à Samois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4561274" lon="2.6303125"></trkpt>
+        <trkpt lat="48.455056" lon="2.6286101"></trkpt>
+        <trkpt lat="48.4537536" lon="2.6271548"></trkpt>
+        <trkpt lat="48.453366" lon="2.6266795"></trkpt>
+        <trkpt lat="48.4523003" lon="2.6254669"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

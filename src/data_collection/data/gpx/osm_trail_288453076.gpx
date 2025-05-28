@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chaumasson</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.533672</time>
+</metadata>
+<trk>
+    <name>Chemin de Chaumasson</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2827371" lon="3.0830693"></trkpt>
+        <trkpt lat="48.2821386" lon="3.0828951"></trkpt>
+        <trkpt lat="48.281733" lon="3.0826906"></trkpt>
+        <trkpt lat="48.2812978" lon="3.0824861"></trkpt>
+        <trkpt lat="48.2810313" lon="3.0828051"></trkpt>
+        <trkpt lat="48.2808804" lon="3.083045"></trkpt>
+        <trkpt lat="48.2808055" lon="3.0830322"></trkpt>
+        <trkpt lat="48.2807693" lon="3.0828012"></trkpt>
+        <trkpt lat="48.2807378" lon="3.0824784"></trkpt>
+        <trkpt lat="48.2805883" lon="3.082254"></trkpt>
+        <trkpt lat="48.2803248" lon="3.0821572"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

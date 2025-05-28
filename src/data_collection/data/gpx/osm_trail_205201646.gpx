@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Melun à Massoury</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.553723</time>
+</metadata>
+<trk>
+    <name>Chemin de Melun à Massoury</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4942941" lon="2.702165"></trkpt>
+        <trkpt lat="48.4949221" lon="2.7001381"></trkpt>
+        <trkpt lat="48.4954199" lon="2.6983611"></trkpt>
+        <trkpt lat="48.4960372" lon="2.6948188"></trkpt>
+        <trkpt lat="48.4962498" lon="2.6940533"></trkpt>
+        <trkpt lat="48.4965334" lon="2.6934772"></trkpt>
+        <trkpt lat="48.4967081" lon="2.6930951"></trkpt>
+        <trkpt lat="48.4970105" lon="2.6922524"></trkpt>
+        <trkpt lat="48.4980006" lon="2.6896817"></trkpt>
+        <trkpt lat="48.4980123" lon="2.689574"></trkpt>
+        <trkpt lat="48.4979422" lon="2.6894453"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

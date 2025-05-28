@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Princesse</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.496501</time>
+</metadata>
+<trk>
+    <name>Route de la Princesse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7516381" lon="2.2503529"></trkpt>
+        <trkpt lat="48.7510196" lon="2.2490852"></trkpt>
+        <trkpt lat="48.7509111" lon="2.2488386"></trkpt>
+        <trkpt lat="48.7505283" lon="2.2479851"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

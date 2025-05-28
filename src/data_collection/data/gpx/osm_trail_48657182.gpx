@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Buisson de Houx</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.733333</time>
+</metadata>
+<trk>
+    <name>Chemin du Buisson de Houx</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5064512" lon="2.9721518"></trkpt>
+        <trkpt lat="48.5064929" lon="2.970283"></trkpt>
+        <trkpt lat="48.506397" lon="2.969724"></trkpt>
+        <trkpt lat="48.5062189" lon="2.9689239"></trkpt>
+        <trkpt lat="48.5061299" lon="2.968115"></trkpt>
+        <trkpt lat="48.5061209" lon="2.9674238"></trkpt>
+        <trkpt lat="48.5062171" lon="2.9661597"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

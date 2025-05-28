@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cassis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.618873</time>
+</metadata>
+<trk>
+    <name>Chemin des Cassis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3842194" lon="2.5583574"></trkpt>
+        <trkpt lat="48.3841346" lon="2.557938"></trkpt>
+        <trkpt lat="48.3841374" lon="2.5578092"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

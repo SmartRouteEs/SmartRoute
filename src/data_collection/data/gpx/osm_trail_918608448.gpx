@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 28513</name>
+    <desc>Sentier VTT - Type: footway - Surface: earth - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.317887</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 28513</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4427562" lon="2.3607054"></trkpt>
+        <trkpt lat="48.4427218" lon="2.3610343"></trkpt>
+        <trkpt lat="48.4427427" lon="2.3612702"></trkpt>
+        <trkpt lat="48.4427329" lon="2.3618109"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

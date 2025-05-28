@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Station</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.328400</time>
+</metadata>
+<trk>
+    <name>Allée de la Station</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7950045" lon="2.6913254"></trkpt>
+        <trkpt lat="48.794665" lon="2.6910857"></trkpt>
+        <trkpt lat="48.7945722" lon="2.6910394"></trkpt>
+        <trkpt lat="48.7945549" lon="2.6910151"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

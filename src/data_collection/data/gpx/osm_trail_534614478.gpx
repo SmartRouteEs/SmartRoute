@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Paré</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.931060</time>
+</metadata>
+<trk>
+    <name>Chemin du Paré</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2772088" lon="2.4246754"></trkpt>
+        <trkpt lat="48.2770124" lon="2.4254613"></trkpt>
+        <trkpt lat="48.2767942" lon="2.4258848"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

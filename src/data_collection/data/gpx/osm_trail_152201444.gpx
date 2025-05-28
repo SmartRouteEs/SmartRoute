@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Gauffre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.552111</time>
+</metadata>
+<trk>
+    <name>Rue du Gauffre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7749326" lon="3.0123306"></trkpt>
+        <trkpt lat="48.7750476" lon="3.0127999"></trkpt>
+        <trkpt lat="48.7752352" lon="3.0133195"></trkpt>
+        <trkpt lat="48.7753432" lon="3.0136815"></trkpt>
+        <trkpt lat="48.7754847" lon="3.0139618"></trkpt>
+        <trkpt lat="48.7757191" lon="3.0147845"></trkpt>
+        <trkpt lat="48.775812" lon="3.0150066"></trkpt>
+        <trkpt lat="48.7758985" lon="3.0152135"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

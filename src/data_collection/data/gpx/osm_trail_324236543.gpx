@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Clos Faujus</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.487116</time>
+</metadata>
+<trk>
+    <name>Chemin du Clos Faujus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6273232" lon="3.2467243"></trkpt>
+        <trkpt lat="48.6273851" lon="3.2467899"></trkpt>
+        <trkpt lat="48.6276578" lon="3.2471081"></trkpt>
+        <trkpt lat="48.6278361" lon="3.2471275"></trkpt>
+        <trkpt lat="48.6282372" lon="3.2469916"></trkpt>
+        <trkpt lat="48.628854" lon="3.2466672"></trkpt>
+        <trkpt lat="48.6291743" lon="3.2464685"></trkpt>
+        <trkpt lat="48.6295205" lon="3.2461215"></trkpt>
+        <trkpt lat="48.6297062" lon="3.2459423"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

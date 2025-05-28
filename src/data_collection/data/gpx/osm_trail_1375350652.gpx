@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Milly à Fontainebleau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.989978</time>
+</metadata>
+<trk>
+    <name>Route de Milly à Fontainebleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3963707" lon="2.5892465"></trkpt>
+        <trkpt lat="48.3963602" lon="2.5894262"></trkpt>
+        <trkpt lat="48.3963349" lon="2.5897206"></trkpt>
+        <trkpt lat="48.3962836" lon="2.5901727"></trkpt>
+        <trkpt lat="48.3962535" lon="2.5907956"></trkpt>
+        <trkpt lat="48.3962016" lon="2.5910939"></trkpt>
+        <trkpt lat="48.3961276" lon="2.5917144"></trkpt>
+        <trkpt lat="48.3960518" lon="2.5923525"></trkpt>
+        <trkpt lat="48.3959566" lon="2.5929173"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

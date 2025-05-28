@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Parquet de Montigny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.676299</time>
+</metadata>
+<trk>
+    <name>Route du Parquet de Montigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3774986" lon="2.7245415"></trkpt>
+        <trkpt lat="48.377249" lon="2.7246394"></trkpt>
+        <trkpt lat="48.3743052" lon="2.7257937"></trkpt>
+        <trkpt lat="48.3721606" lon="2.7265946"></trkpt>
+        <trkpt lat="48.3719406" lon="2.7266768"></trkpt>
+        <trkpt lat="48.3717386" lon="2.7267525"></trkpt>
+        <trkpt lat="48.3701321" lon="2.7273543"></trkpt>
+        <trkpt lat="48.3677952" lon="2.729769"></trkpt>
+        <trkpt lat="48.3637492" lon="2.7315586"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Mont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.751815</time>
+</metadata>
+<trk>
+    <name>Rue de Mont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8104502" lon="2.9857099"></trkpt>
+        <trkpt lat="48.8105071" lon="2.987347"></trkpt>
+        <trkpt lat="48.8104261" lon="2.988255"></trkpt>
+        <trkpt lat="48.8103931" lon="2.988405"></trkpt>
+        <trkpt lat="48.8103171" lon="2.988576"></trkpt>
+        <trkpt lat="48.8099575" lon="2.9896626"></trkpt>
+        <trkpt lat="48.8098191" lon="2.990081"></trkpt>
+        <trkpt lat="48.8097821" lon="2.990304"></trkpt>
+        <trkpt lat="48.8097481" lon="2.990924"></trkpt>
+        <trkpt lat="48.8096911" lon="2.991375"></trkpt>
+        <trkpt lat="48.8095991" lon="2.99173"></trkpt>
+        <trkpt lat="48.8092217" lon="2.9928235"></trkpt>
+        <trkpt lat="48.8090673" lon="2.9933778"></trkpt>
+        <trkpt lat="48.8090247" lon="2.993541"></trkpt>
+        <trkpt lat="48.8090733" lon="2.9937854"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

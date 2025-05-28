@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière Diagonale</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.533514</time>
+</metadata>
+<trk>
+    <name>Route Forestière Diagonale</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6560198" lon="2.4787645"></trkpt>
+        <trkpt lat="48.6548356" lon="2.4769811"></trkpt>
+        <trkpt lat="48.653779" lon="2.4752391"></trkpt>
+        <trkpt lat="48.6532277" lon="2.4743805"></trkpt>
+        <trkpt lat="48.6511135" lon="2.4710879"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

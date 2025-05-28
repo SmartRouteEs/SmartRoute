@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Moines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.907290</time>
+</metadata>
+<trk>
+    <name>Chemin des Moines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.374078" lon="2.8251633"></trkpt>
+        <trkpt lat="48.3741422" lon="2.825242"></trkpt>
+        <trkpt lat="48.3743163" lon="2.8257954"></trkpt>
+        <trkpt lat="48.374474" lon="2.8262794"></trkpt>
+        <trkpt lat="48.3745734" lon="2.8265698"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

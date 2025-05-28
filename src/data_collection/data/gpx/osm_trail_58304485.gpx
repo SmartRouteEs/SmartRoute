@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3902</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.020657</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3902</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5093202" lon="2.2628606"></trkpt>
+        <trkpt lat="48.5090798" lon="2.2622465"></trkpt>
+        <trkpt lat="48.5088906" lon="2.2618927"></trkpt>
+        <trkpt lat="48.5083995" lon="2.2611379"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

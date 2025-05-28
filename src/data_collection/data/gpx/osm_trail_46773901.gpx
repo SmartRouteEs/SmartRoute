@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Percée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.489898</time>
+</metadata>
+<trk>
+    <name>Route de la Percée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.392859" lon="2.7223237"></trkpt>
+        <trkpt lat="48.392743" lon="2.7225175"></trkpt>
+        <trkpt lat="48.3926293" lon="2.7226303"></trkpt>
+        <trkpt lat="48.392489" lon="2.7227061"></trkpt>
+        <trkpt lat="48.3923487" lon="2.722782"></trkpt>
+        <trkpt lat="48.3922379" lon="2.7228123"></trkpt>
+        <trkpt lat="48.3920869" lon="2.7228276"></trkpt>
+        <trkpt lat="48.3919943" lon="2.7228048"></trkpt>
+        <trkpt lat="48.3916066" lon="2.7226436"></trkpt>
+        <trkpt lat="48.391511" lon="2.7226346"></trkpt>
+        <trkpt lat="48.3914275" lon="2.7226541"></trkpt>
+        <trkpt lat="48.3912793" lon="2.722756"></trkpt>
+        <trkpt lat="48.3910354" lon="2.7228818"></trkpt>
+        <trkpt lat="48.3903424" lon="2.7233648"></trkpt>
+        <trkpt lat="48.3895864" lon="2.7238827"></trkpt>
+        <trkpt lat="48.388531" lon="2.7245097"></trkpt>
+        <trkpt lat="48.3859052" lon="2.7255873"></trkpt>
+        <trkpt lat="48.3840324" lon="2.7263467"></trkpt>
+        <trkpt lat="48.3833738" lon="2.7266086"></trkpt>
+        <trkpt lat="48.3827796" lon="2.7268314"></trkpt>
+        <trkpt lat="48.3826376" lon="2.7268936"></trkpt>
+        <trkpt lat="48.3825018" lon="2.726926"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

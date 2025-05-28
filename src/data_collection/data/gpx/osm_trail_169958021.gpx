@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Origny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.944788</time>
+</metadata>
+<trk>
+    <name>Route d'Origny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7692403" lon="2.7383594"></trkpt>
+        <trkpt lat="48.7693506" lon="2.7384731"></trkpt>
+        <trkpt lat="48.7694774" lon="2.7384737"></trkpt>
+        <trkpt lat="48.7706002" lon="2.7383076"></trkpt>
+        <trkpt lat="48.7710542" lon="2.7382033"></trkpt>
+        <trkpt lat="48.7732494" lon="2.7380665"></trkpt>
+        <trkpt lat="48.7732971" lon="2.7380633"></trkpt>
+        <trkpt lat="48.7748024" lon="2.7378857"></trkpt>
+        <trkpt lat="48.775497" lon="2.7377767"></trkpt>
+        <trkpt lat="48.7759305" lon="2.7376584"></trkpt>
+        <trkpt lat="48.7765869" lon="2.7375107"></trkpt>
+        <trkpt lat="48.7774001" lon="2.7372258"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

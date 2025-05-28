@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Belvédère</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.722002</time>
+</metadata>
+<trk>
+    <name>Allée du Belvédère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7129355" lon="2.2667597"></trkpt>
+        <trkpt lat="48.7131525" lon="2.2668693"></trkpt>
+        <trkpt lat="48.7134002" lon="2.2670129"></trkpt>
+        <trkpt lat="48.7135056" lon="2.2671208"></trkpt>
+        <trkpt lat="48.7136065" lon="2.267372"></trkpt>
+        <trkpt lat="48.7136285" lon="2.2675654"></trkpt>
+        <trkpt lat="48.7136209" lon="2.2677434"></trkpt>
+        <trkpt lat="48.7135975" lon="2.2683359"></trkpt>
+        <trkpt lat="48.7135914" lon="2.2686417"></trkpt>
+        <trkpt lat="48.7135524" lon="2.2688427"></trkpt>
+        <trkpt lat="48.713547" lon="2.2688705"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

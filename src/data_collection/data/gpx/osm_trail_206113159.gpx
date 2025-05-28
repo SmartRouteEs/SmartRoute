@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Liaison</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.668817</time>
+</metadata>
+<trk>
+    <name>Route de la Liaison</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3603831" lon="2.7434229"></trkpt>
+        <trkpt lat="48.3605888" lon="2.7454156"></trkpt>
+        <trkpt lat="48.36102" lon="2.7484454"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

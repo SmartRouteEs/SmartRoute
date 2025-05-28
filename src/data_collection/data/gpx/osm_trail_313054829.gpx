@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Longs Réages</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.231190</time>
+</metadata>
+<trk>
+    <name>Chemin des Longs Réages</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2441521" lon="2.4279423"></trkpt>
+        <trkpt lat="48.2441164" lon="2.4277755"></trkpt>
+        <trkpt lat="48.2440532" lon="2.427325"></trkpt>
+        <trkpt lat="48.2439462" lon="2.4270106"></trkpt>
+        <trkpt lat="48.2438779" lon="2.4266515"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

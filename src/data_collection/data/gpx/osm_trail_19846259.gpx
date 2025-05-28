@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Gustave</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route Gustave</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4333577" lon="2.6675619"></trkpt>
+        <trkpt lat="48.4346951" lon="2.6663468"></trkpt>
+        <trkpt lat="48.4350699" lon="2.66602"></trkpt>
+        <trkpt lat="48.4355029" lon="2.6631502"></trkpt>
+        <trkpt lat="48.4355164" lon="2.6630609"></trkpt>
+        <trkpt lat="48.4355051" lon="2.6629386"></trkpt>
+        <trkpt lat="48.4354244" lon="2.6620623"></trkpt>
+        <trkpt lat="48.4352102" lon="2.6602547"></trkpt>
+        <trkpt lat="48.4349341" lon="2.6578415"></trkpt>
+        <trkpt lat="48.4348685" lon="2.6572678"></trkpt>
+        <trkpt lat="48.4348041" lon="2.6569251"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

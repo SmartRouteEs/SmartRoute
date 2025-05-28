@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Courticivert</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.166460</time>
+</metadata>
+<trk>
+    <name>Chemin du Courticivert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.424342" lon="3.0884892"></trkpt>
+        <trkpt lat="48.4218117" lon="3.0901744"></trkpt>
+        <trkpt lat="48.4209806" lon="3.0907437"></trkpt>
+        <trkpt lat="48.4197858" lon="3.0915367"></trkpt>
+        <trkpt lat="48.4195824" lon="3.0916653"></trkpt>
+        <trkpt lat="48.4194103" lon="3.0918325"></trkpt>
+        <trkpt lat="48.4189737" lon="3.092544"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

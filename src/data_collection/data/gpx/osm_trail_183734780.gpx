@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8873</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.318712</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8873</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2669842" lon="2.4801699"></trkpt>
+        <trkpt lat="48.2675055" lon="2.4838279"></trkpt>
+        <trkpt lat="48.2678518" lon="2.486494"></trkpt>
+        <trkpt lat="48.2682732" lon="2.4896536"></trkpt>
+        <trkpt lat="48.2684893" lon="2.4911604"></trkpt>
+        <trkpt lat="48.268541" lon="2.4915205"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

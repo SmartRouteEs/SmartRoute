@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2044</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.194767</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2044</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6886144" lon="2.7277013"></trkpt>
+        <trkpt lat="48.6887107" lon="2.7277185"></trkpt>
+        <trkpt lat="48.6888524" lon="2.7278129"></trkpt>
+        <trkpt lat="48.689045" lon="2.7279416"></trkpt>
+        <trkpt lat="48.6892264" lon="2.7280017"></trkpt>
+        <trkpt lat="48.6893793" lon="2.7280189"></trkpt>
+        <trkpt lat="48.6894757" lon="2.7279674"></trkpt>
+        <trkpt lat="48.6898836" lon="2.7274352"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

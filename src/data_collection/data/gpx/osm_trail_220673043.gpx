@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Planteur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.275567</time>
+</metadata>
+<trk>
+    <name>Route du Planteur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4667641" lon="2.7475029"></trkpt>
+        <trkpt lat="48.4674772" lon="2.7480123"></trkpt>
+        <trkpt lat="48.4676707" lon="2.7481469"></trkpt>
+        <trkpt lat="48.4708169" lon="2.750335"></trkpt>
+        <trkpt lat="48.4735875" lon="2.752333"></trkpt>
+        <trkpt lat="48.4757602" lon="2.7538181"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

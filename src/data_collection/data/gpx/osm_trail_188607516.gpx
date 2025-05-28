@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Loup</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.597654</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Loup</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5591623" lon="3.2192446"></trkpt>
+        <trkpt lat="48.5587456" lon="3.2192003"></trkpt>
+        <trkpt lat="48.5583695" lon="3.2191803"></trkpt>
+        <trkpt lat="48.5581485" lon="3.2191923"></trkpt>
+        <trkpt lat="48.5579189" lon="3.2192464"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

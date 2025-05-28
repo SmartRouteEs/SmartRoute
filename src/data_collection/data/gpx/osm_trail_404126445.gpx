@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Olivier de Serres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.766823</time>
+</metadata>
+<trk>
+    <name>Route Olivier de Serres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4028131" lon="2.6288696"></trkpt>
+        <trkpt lat="48.4029908" lon="2.6289086"></trkpt>
+        <trkpt lat="48.4031137" lon="2.6289971"></trkpt>
+        <trkpt lat="48.4039225" lon="2.6296501"></trkpt>
+        <trkpt lat="48.4040864" lon="2.6297896"></trkpt>
+        <trkpt lat="48.4042965" lon="2.6301168"></trkpt>
+        <trkpt lat="48.4044319" lon="2.6302831"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

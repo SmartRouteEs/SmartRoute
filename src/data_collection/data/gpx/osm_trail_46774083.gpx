@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Poitiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.489898</time>
+</metadata>
+<trk>
+    <name>Route de Poitiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3964119" lon="2.7163008"></trkpt>
+        <trkpt lat="48.3956875" lon="2.716294"></trkpt>
+        <trkpt lat="48.3952842" lon="2.7163091"></trkpt>
+        <trkpt lat="48.3949837" lon="2.7161674"></trkpt>
+        <trkpt lat="48.3945812" lon="2.7161674"></trkpt>
+        <trkpt lat="48.3942312" lon="2.7162811"></trkpt>
+        <trkpt lat="48.3941147" lon="2.7165055"></trkpt>
+        <trkpt lat="48.3940959" lon="2.7168343"></trkpt>
+        <trkpt lat="48.3940398" lon="2.7171341"></trkpt>
+        <trkpt lat="48.3939154" lon="2.7174305"></trkpt>
+        <trkpt lat="48.3936212" lon="2.7175254"></trkpt>
+        <trkpt lat="48.3934927" lon="2.7175661"></trkpt>
+        <trkpt lat="48.3932455" lon="2.7176732"></trkpt>
+        <trkpt lat="48.3931493" lon="2.7179978"></trkpt>
+        <trkpt lat="48.3930929" lon="2.7184"></trkpt>
+        <trkpt lat="48.3929356" lon="2.7188592"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

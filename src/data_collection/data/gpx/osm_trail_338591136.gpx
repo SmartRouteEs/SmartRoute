@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 18112</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.746281</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 18112</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.519656" lon="2.2207038"></trkpt>
+        <trkpt lat="48.5206016" lon="2.2222524"></trkpt>
+        <trkpt lat="48.5210413" lon="2.2229724"></trkpt>
+        <trkpt lat="48.5215444" lon="2.2238434"></trkpt>
+        <trkpt lat="48.5218159" lon="2.2243135"></trkpt>
+        <trkpt lat="48.5224496" lon="2.2254257"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

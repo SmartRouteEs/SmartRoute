@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural du Bas des Échaudés</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.184818</time>
+</metadata>
+<trk>
+    <name>Chemin Rural du Bas des Échaudés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5505724" lon="2.6911921"></trkpt>
+        <trkpt lat="48.5506163" lon="2.6914135"></trkpt>
+        <trkpt lat="48.5506632" lon="2.6915201"></trkpt>
+        <trkpt lat="48.5510683" lon="2.6921135"></trkpt>
+        <trkpt lat="48.551137" lon="2.6921171"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

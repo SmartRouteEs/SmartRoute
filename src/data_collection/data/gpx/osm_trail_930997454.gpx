@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Lapins</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.513564</time>
+</metadata>
+<trk>
+    <name>Allée des Lapins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8317412" lon="2.4279226"></trkpt>
+        <trkpt lat="48.8312839" lon="2.428593"></trkpt>
+        <trkpt lat="48.8312029" lon="2.4287359"></trkpt>
+        <trkpt lat="48.8311977" lon="2.428745"></trkpt>
+        <trkpt lat="48.830974" lon="2.429054"></trkpt>
+        <trkpt lat="48.8309479" lon="2.4291627"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

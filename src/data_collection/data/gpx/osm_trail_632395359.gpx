@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du pont de Try</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.722606</time>
+</metadata>
+<trk>
+    <name>Sentier du pont de Try</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8992161" lon="2.7923588"></trkpt>
+        <trkpt lat="48.8992257" lon="2.7932135"></trkpt>
+        <trkpt lat="48.899213" lon="2.7938898"></trkpt>
+        <trkpt lat="48.8992609" lon="2.794284"></trkpt>
+        <trkpt lat="48.899193" lon="2.7943988"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Houches</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.064755</time>
+</metadata>
+<trk>
+    <name>Chemin des Houches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3860475" lon="2.299378"></trkpt>
+        <trkpt lat="48.3864264" lon="2.2985864"></trkpt>
+        <trkpt lat="48.3868682" lon="2.2976354"></trkpt>
+        <trkpt lat="48.3870746" lon="2.2971988"></trkpt>
+        <trkpt lat="48.3872006" lon="2.2970456"></trkpt>
+        <trkpt lat="48.3872674" lon="2.297041"></trkpt>
+        <trkpt lat="48.3875665" lon="2.2971645"></trkpt>
+        <trkpt lat="48.3877821" lon="2.2972353"></trkpt>
+        <trkpt lat="48.3884889" lon="2.2977097"></trkpt>
+        <trkpt lat="48.3885511" lon="2.297742"></trkpt>
+        <trkpt lat="48.3885914" lon="2.2977224"></trkpt>
+    </trkseg>
+</trk>
+</gpx>
