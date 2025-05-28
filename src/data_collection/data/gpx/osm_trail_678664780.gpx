@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Varanne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.065759</time>
+</metadata>
+<trk>
+    <name>Chemin de Varanne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5863414" lon="2.8154692"></trkpt>
+        <trkpt lat="48.5865467" lon="2.8147811"></trkpt>
+        <trkpt lat="48.586669" lon="2.814165"></trkpt>
+        <trkpt lat="48.5868473" lon="2.8133976"></trkpt>
+        <trkpt lat="48.587001" lon="2.8127755"></trkpt>
+        <trkpt lat="48.5870805" lon="2.8121077"></trkpt>
+        <trkpt lat="48.5871244" lon="2.8113735"></trkpt>
+        <trkpt lat="48.5871491" lon="2.8102329"></trkpt>
+        <trkpt lat="48.5871772" lon="2.8089788"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

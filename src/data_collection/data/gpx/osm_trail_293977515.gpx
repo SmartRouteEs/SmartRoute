@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Piston</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.721152</time>
+</metadata>
+<trk>
+    <name>Route du Piston</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3481896" lon="2.7026565"></trkpt>
+        <trkpt lat="48.348449" lon="2.7029257"></trkpt>
+        <trkpt lat="48.3485778" lon="2.7030061"></trkpt>
+        <trkpt lat="48.3487301" lon="2.7030411"></trkpt>
+        <trkpt lat="48.3499632" lon="2.7028243"></trkpt>
+        <trkpt lat="48.3500396" lon="2.7028011"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

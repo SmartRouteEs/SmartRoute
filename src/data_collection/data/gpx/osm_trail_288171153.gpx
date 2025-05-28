@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Creve-Coeur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.509267</time>
+</metadata>
+<trk>
+    <name>Chemin de Creve-Coeur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2523069" lon="2.7120443"></trkpt>
+        <trkpt lat="48.2525855" lon="2.7120228"></trkpt>
+        <trkpt lat="48.25405" lon="2.7117653"></trkpt>
+        <trkpt lat="48.2541643" lon="2.7118833"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

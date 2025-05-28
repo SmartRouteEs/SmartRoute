@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bouquet du Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.656407</time>
+</metadata>
+<trk>
+    <name>Route du Bouquet du Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4213671" lon="2.653423"></trkpt>
+        <trkpt lat="48.421386" lon="2.6535384"></trkpt>
+        <trkpt lat="48.4205908" lon="2.658406"></trkpt>
+        <trkpt lat="48.4203311" lon="2.6603665"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

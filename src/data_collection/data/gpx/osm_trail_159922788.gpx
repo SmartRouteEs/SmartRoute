@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Sygrie ou de l'Abbaye aux Bois</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.669011</time>
+</metadata>
+<trk>
+    <name>Chemin de la Sygrie ou de l'Abbaye aux Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7568916" lon="2.2236232"></trkpt>
+        <trkpt lat="48.7571165" lon="2.22363"></trkpt>
+        <trkpt lat="48.7573801" lon="2.2236411"></trkpt>
+        <trkpt lat="48.7576789" lon="2.2237528"></trkpt>
+        <trkpt lat="48.7578453" lon="2.2238096"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ancien Chemin de Melun</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.027980</time>
+</metadata>
+<trk>
+    <name>Ancien Chemin de Melun</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3784333" lon="2.5307776"></trkpt>
+        <trkpt lat="48.37851" lon="2.530864"></trkpt>
+        <trkpt lat="48.378792" lon="2.531331"></trkpt>
+        <trkpt lat="48.3792674" lon="2.5318783"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

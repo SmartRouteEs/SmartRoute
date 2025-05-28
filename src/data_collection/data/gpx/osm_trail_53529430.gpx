@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chevreuse</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.961402</time>
+</metadata>
+<trk>
+    <name>Chemin de Chevreuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.606479" lon="2.221534"></trkpt>
+        <trkpt lat="48.6061597" lon="2.2227785"></trkpt>
+        <trkpt lat="48.6052162" lon="2.223787"></trkpt>
+        <trkpt lat="48.6049872" lon="2.2241591"></trkpt>
+        <trkpt lat="48.6048754" lon="2.2243536"></trkpt>
+        <trkpt lat="48.6046504" lon="2.2247453"></trkpt>
+        <trkpt lat="48.6043879" lon="2.2252023"></trkpt>
+        <trkpt lat="48.6041001" lon="2.2257333"></trkpt>
+        <trkpt lat="48.6039863" lon="2.2259434"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

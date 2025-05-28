@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Trou de Toulon</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.075607</time>
+</metadata>
+<trk>
+    <name>Chemin du Trou de Toulon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7280725" lon="2.2778791"></trkpt>
+        <trkpt lat="48.728021" lon="2.2777534"></trkpt>
+        <trkpt lat="48.7275829" lon="2.2772926"></trkpt>
+        <trkpt lat="48.7271737" lon="2.276892"></trkpt>
+        <trkpt lat="48.7271572" lon="2.2768774"></trkpt>
+        <trkpt lat="48.7271196" lon="2.2768408"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

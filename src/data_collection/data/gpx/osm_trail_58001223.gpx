@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier Rural dit du Lièvre d'Or</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.003131</time>
+</metadata>
+<trk>
+    <name>Sentier Rural dit du Lièvre d'Or</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5257801" lon="2.2525563"></trkpt>
+        <trkpt lat="48.5247361" lon="2.2537989"></trkpt>
+        <trkpt lat="48.5247182" lon="2.2540534"></trkpt>
+        <trkpt lat="48.5247295" lon="2.2547943"></trkpt>
+        <trkpt lat="48.5248147" lon="2.2556042"></trkpt>
+        <trkpt lat="48.5247567" lon="2.2558025"></trkpt>
+        <trkpt lat="48.524767" lon="2.2561686"></trkpt>
+        <trkpt lat="48.5246805" lon="2.2567311"></trkpt>
+        <trkpt lat="48.5247625" lon="2.2571853"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

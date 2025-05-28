@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Le Haut Chemin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.618873</time>
+</metadata>
+<trk>
+    <name>Le Haut Chemin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6962276" lon="2.5757771"></trkpt>
+        <trkpt lat="48.6962147" lon="2.5756391"></trkpt>
+        <trkpt lat="48.6961166" lon="2.5750446"></trkpt>
+        <trkpt lat="48.6959496" lon="2.574197"></trkpt>
+        <trkpt lat="48.6957348" lon="2.57347"></trkpt>
+        <trkpt lat="48.6955333" lon="2.5728273"></trkpt>
+        <trkpt lat="48.6953424" lon="2.5721645"></trkpt>
+        <trkpt lat="48.6950821" lon="2.5710118"></trkpt>
+        <trkpt lat="48.6950046" lon="2.5704407"></trkpt>
+        <trkpt lat="48.6949117" lon="2.5697028"></trkpt>
+        <trkpt lat="48.6947998" lon="2.5685242"></trkpt>
+        <trkpt lat="48.6946432" lon="2.5674863"></trkpt>
+        <trkpt lat="48.6943334" lon="2.5655698"></trkpt>
+        <trkpt lat="48.6941733" lon="2.5644981"></trkpt>
+        <trkpt lat="48.6940081" lon="2.5635125"></trkpt>
+        <trkpt lat="48.6938738" lon="2.5628084"></trkpt>
+        <trkpt lat="48.6937126" lon="2.5620679"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

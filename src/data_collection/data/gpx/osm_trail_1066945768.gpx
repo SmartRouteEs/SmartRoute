@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rocher</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.849220</time>
+</metadata>
+<trk>
+    <name>Route du Rocher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.466896" lon="2.6524197"></trkpt>
+        <trkpt lat="48.4660116" lon="2.6537086"></trkpt>
+        <trkpt lat="48.4658252" lon="2.6540168"></trkpt>
+        <trkpt lat="48.4650719" lon="2.6552624"></trkpt>
+        <trkpt lat="48.4648806" lon="2.6555788"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

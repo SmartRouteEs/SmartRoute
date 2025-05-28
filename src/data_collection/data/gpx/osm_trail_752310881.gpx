@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie des Groux</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.862810</time>
+</metadata>
+<trk>
+    <name>Voie des Groux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7349058" lon="2.3433717"></trkpt>
+        <trkpt lat="48.7349773" lon="2.3433165"></trkpt>
+        <trkpt lat="48.7350058" lon="2.3433179"></trkpt>
+        <trkpt lat="48.7353832" lon="2.3434581"></trkpt>
+        <trkpt lat="48.7355519" lon="2.3434971"></trkpt>
+        <trkpt lat="48.7359742" lon="2.3436795"></trkpt>
+        <trkpt lat="48.7361266" lon="2.3437903"></trkpt>
+        <trkpt lat="48.7365884" lon="2.3440286"></trkpt>
+        <trkpt lat="48.736965" lon="2.3442037"></trkpt>
+        <trkpt lat="48.7376679" lon="2.3445286"></trkpt>
+        <trkpt lat="48.7379824" lon="2.3446921"></trkpt>
+        <trkpt lat="48.7381832" lon="2.344841"></trkpt>
+        <trkpt lat="48.7383726" lon="2.3450042"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

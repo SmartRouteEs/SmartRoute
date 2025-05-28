@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante du Bois Gauthier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route Tournante du Bois Gauthier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4218378" lon="2.7441799"></trkpt>
+        <trkpt lat="48.4227915" lon="2.7437853"></trkpt>
+        <trkpt lat="48.4235303" lon="2.7434315"></trkpt>
+        <trkpt lat="48.4242536" lon="2.7427629"></trkpt>
+        <trkpt lat="48.4244534" lon="2.7426067"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

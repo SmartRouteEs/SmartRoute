@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Zig-Zag</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.617653</time>
+</metadata>
+<trk>
+    <name>Route du Zig-Zag</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4713105" lon="2.7741254"></trkpt>
+        <trkpt lat="48.4712151" lon="2.7735475"></trkpt>
+        <trkpt lat="48.4712135" lon="2.7734675"></trkpt>
+        <trkpt lat="48.4712434" lon="2.7733894"></trkpt>
+        <trkpt lat="48.4712883" lon="2.7733461"></trkpt>
+        <trkpt lat="48.4713727" lon="2.7732842"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Putois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.442237</time>
+</metadata>
+<trk>
+    <name>Route du Putois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4654453" lon="2.7599246"></trkpt>
+        <trkpt lat="48.4655504" lon="2.7598873"></trkpt>
+        <trkpt lat="48.4679265" lon="2.7595122"></trkpt>
+        <trkpt lat="48.4701687" lon="2.7591432"></trkpt>
+        <trkpt lat="48.4711148" lon="2.7589893"></trkpt>
+        <trkpt lat="48.4738682" lon="2.7580049"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Neuve de Santeny</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.549379</time>
+</metadata>
+<trk>
+    <name>Route Neuve de Santeny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7372415" lon="2.5738097"></trkpt>
+        <trkpt lat="48.7386389" lon="2.5746395"></trkpt>
+        <trkpt lat="48.7410409" lon="2.5760659"></trkpt>
+        <trkpt lat="48.7411508" lon="2.5761312"></trkpt>
+        <trkpt lat="48.7436699" lon="2.5775756"></trkpt>
+        <trkpt lat="48.7445649" lon="2.5780895"></trkpt>
+        <trkpt lat="48.7473083" lon="2.5796647"></trkpt>
+        <trkpt lat="48.7477614" lon="2.5799249"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Buchettes</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.310265</time>
+</metadata>
+<trk>
+    <name>Chemin des Buchettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5871832" lon="2.2257177"></trkpt>
+        <trkpt lat="48.5875233" lon="2.2254102"></trkpt>
+        <trkpt lat="48.5877895" lon="2.2251956"></trkpt>
+        <trkpt lat="48.5878941" lon="2.2250829"></trkpt>
+        <trkpt lat="48.5881726" lon="2.2249542"></trkpt>
+        <trkpt lat="48.5883678" lon="2.2248067"></trkpt>
+        <trkpt lat="48.5884993" lon="2.2246808"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

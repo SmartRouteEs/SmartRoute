@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Coin des Bonnes</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.033839</time>
+</metadata>
+<trk>
+    <name>Chemin du Coin des Bonnes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7860639" lon="3.3442318"></trkpt>
+        <trkpt lat="48.7884651" lon="3.3441697"></trkpt>
+        <trkpt lat="48.7888631" lon="3.3441594"></trkpt>
+        <trkpt lat="48.7890098" lon="3.3440602"></trkpt>
+        <trkpt lat="48.7893226" lon="3.3439314"></trkpt>
+        <trkpt lat="48.7894313" lon="3.3437383"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

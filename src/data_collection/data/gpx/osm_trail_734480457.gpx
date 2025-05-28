@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Belle-Étoile</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.791375</time>
+</metadata>
+<trk>
+    <name>Route de la Belle-Étoile</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8275997" lon="2.4434529"></trkpt>
+        <trkpt lat="48.8271935" lon="2.4422961"></trkpt>
+        <trkpt lat="48.8270527" lon="2.4419387"></trkpt>
+        <trkpt lat="48.8268404" lon="2.4413446"></trkpt>
+        <trkpt lat="48.8266461" lon="2.4409852"></trkpt>
+        <trkpt lat="48.8265646" lon="2.4407814"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

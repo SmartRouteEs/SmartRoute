@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Brusquet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.788787</time>
+</metadata>
+<trk>
+    <name>Chemin du Brusquet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3522004" lon="3.0525691"></trkpt>
+        <trkpt lat="48.352424" lon="3.0516743"></trkpt>
+        <trkpt lat="48.3526083" lon="3.05048"></trkpt>
+        <trkpt lat="48.3527656" lon="3.0494446"></trkpt>
+        <trkpt lat="48.3530015" lon="3.0480321"></trkpt>
+        <trkpt lat="48.3530948" lon="3.0475219"></trkpt>
+        <trkpt lat="48.3530973" lon="3.0470597"></trkpt>
+        <trkpt lat="48.3531735" lon="3.0465198"></trkpt>
+        <trkpt lat="48.353461" lon="3.0456952"></trkpt>
+        <trkpt lat="48.3545323" lon="3.0436505"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

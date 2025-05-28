@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Grand Noyer</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.582109</time>
+</metadata>
+<trk>
+    <name>Chemin du Grand Noyer</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6751106" lon="2.5950579"></trkpt>
+        <trkpt lat="48.6750509" lon="2.5954493"></trkpt>
+        <trkpt lat="48.6750084" lon="2.5959213"></trkpt>
+        <trkpt lat="48.6750793" lon="2.5965221"></trkpt>
+        <trkpt lat="48.6755043" lon="2.5978311"></trkpt>
+        <trkpt lat="48.6755681" lon="2.5979383"></trkpt>
+        <trkpt lat="48.6765182" lon="2.5988933"></trkpt>
+        <trkpt lat="48.6813022" lon="2.6037029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière d'Orléans</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.302263</time>
+</metadata>
+<trk>
+    <name>Route Forestière d'Orléans</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6736937" lon="2.5113415"></trkpt>
+        <trkpt lat="48.6738541" lon="2.5111379"></trkpt>
+        <trkpt lat="48.6749106" lon="2.5097262"></trkpt>
+        <trkpt lat="48.676125" lon="2.5080612"></trkpt>
+        <trkpt lat="48.676925" lon="2.5070269"></trkpt>
+        <trkpt lat="48.6794647" lon="2.5035988"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

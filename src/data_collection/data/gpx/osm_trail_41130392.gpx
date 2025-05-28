@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Bordes</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.271253</time>
+</metadata>
+<trk>
+    <name>Allée des Bordes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8171011" lon="2.5916176"></trkpt>
+        <trkpt lat="48.8162782" lon="2.5903039"></trkpt>
+        <trkpt lat="48.8147538" lon="2.5878703"></trkpt>
+        <trkpt lat="48.8113004" lon="2.5823573"></trkpt>
+        <trkpt lat="48.8105983" lon="2.5811373"></trkpt>
+        <trkpt lat="48.810587" lon="2.5811177"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

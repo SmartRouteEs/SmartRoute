@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de l'Ouest</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.797282</time>
+</metadata>
+<trk>
+    <name>Rue de l'Ouest</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2243599" lon="3.2110709"></trkpt>
+        <trkpt lat="48.2245433" lon="3.2097543"></trkpt>
+        <trkpt lat="48.2245154" lon="3.2093167"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

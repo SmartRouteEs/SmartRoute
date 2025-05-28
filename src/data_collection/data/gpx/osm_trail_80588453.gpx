@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Lande</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.309334</time>
+</metadata>
+<trk>
+    <name>Chemin de la Lande</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3940313" lon="2.5638425"></trkpt>
+        <trkpt lat="48.3953682" lon="2.5649837"></trkpt>
+        <trkpt lat="48.3969426" lon="2.5663901"></trkpt>
+        <trkpt lat="48.3988221" lon="2.5679689"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

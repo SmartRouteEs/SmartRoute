@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Conservateur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.442237</time>
+</metadata>
+<trk>
+    <name>Route du Conservateur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.470157" lon="2.7204461"></trkpt>
+        <trkpt lat="48.4721147" lon="2.725722"></trkpt>
+        <trkpt lat="48.4724558" lon="2.7267637"></trkpt>
+        <trkpt lat="48.4734727" lon="2.7294672"></trkpt>
+        <trkpt lat="48.4742909" lon="2.7316705"></trkpt>
+        <trkpt lat="48.4750036" lon="2.7335764"></trkpt>
+        <trkpt lat="48.4751431" lon="2.7339496"></trkpt>
+        <trkpt lat="48.4771181" lon="2.7392535"></trkpt>
+        <trkpt lat="48.4788007" lon="2.7440198"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

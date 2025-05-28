@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Ponteau à la Croix</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.644803</time>
+</metadata>
+<trk>
+    <name>Chemin de Ponteau à la Croix</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2822084" lon="2.4100089"></trkpt>
+        <trkpt lat="48.2819881" lon="2.4104181"></trkpt>
+        <trkpt lat="48.2819363" lon="2.4104892"></trkpt>
+        <trkpt lat="48.2818676" lon="2.4105307"></trkpt>
+        <trkpt lat="48.2816427" lon="2.4106193"></trkpt>
+        <trkpt lat="48.2814249" lon="2.4107467"></trkpt>
+        <trkpt lat="48.2812848" lon="2.4108446"></trkpt>
+        <trkpt lat="48.2812081" lon="2.410925"></trkpt>
+        <trkpt lat="48.2810946" lon="2.4110603"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Tourillon</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.601988</time>
+</metadata>
+<trk>
+    <name>Sentier du Tourillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5642008" lon="3.2831006"></trkpt>
+        <trkpt lat="48.5637133" lon="3.2835034"></trkpt>
+        <trkpt lat="48.5633351" lon="3.2837231"></trkpt>
+        <trkpt lat="48.5630919" lon="3.2838844"></trkpt>
+        <trkpt lat="48.5627328" lon="3.2841591"></trkpt>
+        <trkpt lat="48.5625091" lon="3.2839423"></trkpt>
+        <trkpt lat="48.5624583" lon="3.2839655"></trkpt>
+        <trkpt lat="48.5624216" lon="3.2839822"></trkpt>
+        <trkpt lat="48.5622822" lon="3.2840705"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

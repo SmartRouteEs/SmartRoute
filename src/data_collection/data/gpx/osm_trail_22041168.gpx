@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Broussaille</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.449492</time>
+</metadata>
+<trk>
+    <name>Allée de la Broussaille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8280508" lon="2.2126374"></trkpt>
+        <trkpt lat="48.8286114" lon="2.2097168"></trkpt>
+        <trkpt lat="48.8288809" lon="2.2083133"></trkpt>
+        <trkpt lat="48.8300704" lon="2.202114"></trkpt>
+        <trkpt lat="48.830283" lon="2.201006"></trkpt>
+        <trkpt lat="48.8304842" lon="2.1999573"></trkpt>
+        <trkpt lat="48.8305068" lon="2.199906"></trkpt>
+        <trkpt lat="48.8305139" lon="2.19989"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

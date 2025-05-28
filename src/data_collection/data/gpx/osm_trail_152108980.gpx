@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grands Essarts</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.422943</time>
+</metadata>
+<trk>
+    <name>Chemin des Grands Essarts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8395817" lon="3.1636776"></trkpt>
+        <trkpt lat="48.8388555" lon="3.1705372"></trkpt>
+        <trkpt lat="48.8388637" lon="3.1715684"></trkpt>
+        <trkpt lat="48.8388865" lon="3.1725164"></trkpt>
+        <trkpt lat="48.8389452" lon="3.1732686"></trkpt>
+        <trkpt lat="48.8390125" lon="3.173646"></trkpt>
+        <trkpt lat="48.8394718" lon="3.1746176"></trkpt>
+        <trkpt lat="48.8397636" lon="3.1751942"></trkpt>
+        <trkpt lat="48.8399004" lon="3.1755423"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

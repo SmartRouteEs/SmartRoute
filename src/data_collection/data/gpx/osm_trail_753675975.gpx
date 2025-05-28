@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Butte aux Aires</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.896189</time>
+</metadata>
+<trk>
+    <name>Route de la Butte aux Aires</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4149668" lon="2.685965"></trkpt>
+        <trkpt lat="48.4140126" lon="2.6852246"></trkpt>
+        <trkpt lat="48.4123681" lon="2.6839527"></trkpt>
+        <trkpt lat="48.4115092" lon="2.6832258"></trkpt>
+        <trkpt lat="48.4112113" lon="2.6830265"></trkpt>
+        <trkpt lat="48.410941" lon="2.6828456"></trkpt>
+        <trkpt lat="48.4101025" lon="2.6823218"></trkpt>
+        <trkpt lat="48.4093729" lon="2.6818888"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

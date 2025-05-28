@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Guichot</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.610240</time>
+</metadata>
+<trk>
+    <name>Chemin du Guichot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3696262" lon="2.5232032"></trkpt>
+        <trkpt lat="48.3697198" lon="2.5231525"></trkpt>
+        <trkpt lat="48.3700198" lon="2.522915"></trkpt>
+        <trkpt lat="48.3701264" lon="2.5228379"></trkpt>
+        <trkpt lat="48.3703634" lon="2.5227012"></trkpt>
+        <trkpt lat="48.3708066" lon="2.5223947"></trkpt>
+        <trkpt lat="48.3711068" lon="2.5221303"></trkpt>
+        <trkpt lat="48.3712737" lon="2.5220246"></trkpt>
+        <trkpt lat="48.371466" lon="2.5219165"></trkpt>
+        <trkpt lat="48.3715542" lon="2.5218476"></trkpt>
+        <trkpt lat="48.3716551" lon="2.5217366"></trkpt>
+        <trkpt lat="48.3717163" lon="2.5216394"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

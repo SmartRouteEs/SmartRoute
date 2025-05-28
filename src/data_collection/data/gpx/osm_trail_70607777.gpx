@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Hautes Gaudines</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.116463</time>
+</metadata>
+<trk>
+    <name>Sentier des Hautes Gaudines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4423807" lon="2.7678908"></trkpt>
+        <trkpt lat="48.4430114" lon="2.7683925"></trkpt>
+        <trkpt lat="48.4430905" lon="2.7684977"></trkpt>
+        <trkpt lat="48.4431473" lon="2.768594"></trkpt>
+        <trkpt lat="48.443282" lon="2.7686725"></trkpt>
+        <trkpt lat="48.443457" lon="2.7688035"></trkpt>
+        <trkpt lat="48.4435581" lon="2.7689022"></trkpt>
+        <trkpt lat="48.4437282" lon="2.7689974"></trkpt>
+        <trkpt lat="48.4440157" lon="2.7692416"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

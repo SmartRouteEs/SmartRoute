@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Daim</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.392270</time>
+</metadata>
+<trk>
+    <name>Route du Daim</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3781847" lon="2.7079126"></trkpt>
+        <trkpt lat="48.3788544" lon="2.713316"></trkpt>
+        <trkpt lat="48.3789483" lon="2.7139559"></trkpt>
+        <trkpt lat="48.3792281" lon="2.7147607"></trkpt>
+        <trkpt lat="48.3796538" lon="2.7171846"></trkpt>
+        <trkpt lat="48.3799739" lon="2.7195067"></trkpt>
+        <trkpt lat="48.380433" lon="2.7221855"></trkpt>
+        <trkpt lat="48.3804949" lon="2.7224428"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

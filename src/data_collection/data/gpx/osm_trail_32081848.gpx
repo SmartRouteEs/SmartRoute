@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villededon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.912289</time>
+</metadata>
+<trk>
+    <name>Chemin de Villededon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.605162" lon="2.5078826"></trkpt>
+        <trkpt lat="48.6050696" lon="2.5079166"></trkpt>
+        <trkpt lat="48.6026107" lon="2.5087619"></trkpt>
+        <trkpt lat="48.6013847" lon="2.5092965"></trkpt>
+        <trkpt lat="48.6007461" lon="2.5094955"></trkpt>
+        <trkpt lat="48.600273" lon="2.5096429"></trkpt>
+        <trkpt lat="48.5986035" lon="2.5103057"></trkpt>
+        <trkpt lat="48.5967455" lon="2.5111169"></trkpt>
+        <trkpt lat="48.596267" lon="2.5111537"></trkpt>
+        <trkpt lat="48.596184" lon="2.5111774"></trkpt>
+        <trkpt lat="48.5960882" lon="2.5112348"></trkpt>
+        <trkpt lat="48.5960019" lon="2.5113211"></trkpt>
+        <trkpt lat="48.595538" lon="2.5121755"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

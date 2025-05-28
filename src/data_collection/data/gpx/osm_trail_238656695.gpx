@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Haut Moulin</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.137562</time>
+</metadata>
+<trk>
+    <name>Chemin du Haut Moulin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3450393" lon="2.3107093"></trkpt>
+        <trkpt lat="48.3451019" lon="2.3108353"></trkpt>
+        <trkpt lat="48.3455321" lon="2.3117477"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

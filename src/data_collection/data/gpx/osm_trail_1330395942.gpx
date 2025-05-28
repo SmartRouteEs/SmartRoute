@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villenavotte à Courtois-sur-Yonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.615062</time>
+</metadata>
+<trk>
+    <name>Chemin de Villenavotte à Courtois-sur-Yonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2421378" lon="3.2390535"></trkpt>
+        <trkpt lat="48.242015" lon="3.2391821"></trkpt>
+        <trkpt lat="48.2418676" lon="3.239441"></trkpt>
+        <trkpt lat="48.2417541" lon="3.2396591"></trkpt>
+        <trkpt lat="48.2416999" lon="3.2398719"></trkpt>
+        <trkpt lat="48.2414821" lon="3.2401377"></trkpt>
+        <trkpt lat="48.2410468" lon="3.2405664"></trkpt>
+        <trkpt lat="48.240526" lon="3.2409051"></trkpt>
+        <trkpt lat="48.2401893" lon="3.2410017"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

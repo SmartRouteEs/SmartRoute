@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Entraînement</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.424845</time>
+</metadata>
+<trk>
+    <name>Route de l'Entraînement</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4705471" lon="2.6638945"></trkpt>
+        <trkpt lat="48.4707486" lon="2.6625847"></trkpt>
+        <trkpt lat="48.4708094" lon="2.6615123"></trkpt>
+        <trkpt lat="48.4710468" lon="2.6588993"></trkpt>
+        <trkpt lat="48.4714617" lon="2.6542566"></trkpt>
+        <trkpt lat="48.4717307" lon="2.6510017"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

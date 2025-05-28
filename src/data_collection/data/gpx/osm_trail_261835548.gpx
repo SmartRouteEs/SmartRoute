@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Bretonnière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.769868</time>
+</metadata>
+<trk>
+    <name>Chemin de la Bretonnière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4979754" lon="2.5456548"></trkpt>
+        <trkpt lat="48.4979698" lon="2.5459068"></trkpt>
+        <trkpt lat="48.4979493" lon="2.5460486"></trkpt>
+        <trkpt lat="48.4978332" lon="2.546328"></trkpt>
+        <trkpt lat="48.4977542" lon="2.5466555"></trkpt>
+        <trkpt lat="48.4977344" lon="2.547608"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

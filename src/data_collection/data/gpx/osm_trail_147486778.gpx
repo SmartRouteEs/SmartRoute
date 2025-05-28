@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Draguignan</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.261086</time>
+</metadata>
+<trk>
+    <name>Allée de Draguignan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7357132" lon="2.2905124"></trkpt>
+        <trkpt lat="48.7354993" lon="2.2906318"></trkpt>
+        <trkpt lat="48.7353264" lon="2.2907284"></trkpt>
+        <trkpt lat="48.7352307" lon="2.2907818"></trkpt>
+        <trkpt lat="48.7348998" lon="2.2909678"></trkpt>
+        <trkpt lat="48.7348725" lon="2.2909832"></trkpt>
+        <trkpt lat="48.7348597" lon="2.2909903"></trkpt>
+        <trkpt lat="48.7346052" lon="2.2911311"></trkpt>
+        <trkpt lat="48.7345906" lon="2.2911392"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

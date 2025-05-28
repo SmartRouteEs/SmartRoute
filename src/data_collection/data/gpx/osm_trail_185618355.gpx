@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Rigorne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.552877</time>
+</metadata>
+<trk>
+    <name>Chemin de la Rigorne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2101787" lon="2.47044"></trkpt>
+        <trkpt lat="48.2102765" lon="2.4704733"></trkpt>
+        <trkpt lat="48.2138872" lon="2.4718075"></trkpt>
+        <trkpt lat="48.2150313" lon="2.4770405"></trkpt>
+        <trkpt lat="48.2150672" lon="2.4771542"></trkpt>
+        <trkpt lat="48.2151085" lon="2.4772431"></trkpt>
+        <trkpt lat="48.2170995" lon="2.4808039"></trkpt>
+        <trkpt lat="48.2190614" lon="2.484322"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

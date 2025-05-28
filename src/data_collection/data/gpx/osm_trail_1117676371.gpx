@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Poupardière</name>
+    <desc>Sentier VTT - Type: footway - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.211809</time>
+</metadata>
+<trk>
+    <name>Chemin de la Poupardière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6737346" lon="2.2445632"></trkpt>
+        <trkpt lat="48.6737806" lon="2.2446276"></trkpt>
+        <trkpt lat="48.6737509" lon="2.2447703"></trkpt>
+        <trkpt lat="48.6736928" lon="2.2453765"></trkpt>
+        <trkpt lat="48.6736453" lon="2.2464376"></trkpt>
+        <trkpt lat="48.6737787" lon="2.2472029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Descamps</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.562282</time>
+</metadata>
+<trk>
+    <name>Route Descamps</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3800066" lon="2.5909149"></trkpt>
+        <trkpt lat="48.379989" lon="2.592048"></trkpt>
+        <trkpt lat="48.379967" lon="2.593671"></trkpt>
+        <trkpt lat="48.379934" lon="2.594147"></trkpt>
+        <trkpt lat="48.379936" lon="2.594589"></trkpt>
+        <trkpt lat="48.37991" lon="2.594944"></trkpt>
+        <trkpt lat="48.3798866" lon="2.5958874"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

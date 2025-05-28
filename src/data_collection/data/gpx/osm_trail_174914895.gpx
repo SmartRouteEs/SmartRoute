@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8446</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.067436</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8446</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1477648" lon="2.8774904"></trkpt>
+        <trkpt lat="48.1458018" lon="2.8774472"></trkpt>
+        <trkpt lat="48.1454009" lon="2.8774579"></trkpt>
+        <trkpt lat="48.1441685" lon="2.877402"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

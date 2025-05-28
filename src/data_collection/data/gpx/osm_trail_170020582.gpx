@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Colbert</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.944915</time>
+</metadata>
+<trk>
+    <name>Allée Colbert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7712914" lon="2.3010593"></trkpt>
+        <trkpt lat="48.7712901" lon="2.3010504"></trkpt>
+        <trkpt lat="48.7712866" lon="2.3010223"></trkpt>
+        <trkpt lat="48.7712748" lon="2.3009365"></trkpt>
+        <trkpt lat="48.7712661" lon="2.300856"></trkpt>
+        <trkpt lat="48.7713395" lon="2.3008268"></trkpt>
+        <trkpt lat="48.7714438" lon="2.3007407"></trkpt>
+        <trkpt lat="48.7726296" lon="2.2997553"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

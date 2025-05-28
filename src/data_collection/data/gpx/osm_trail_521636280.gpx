@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Soisy</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.852579</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Soisy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6641101" lon="2.4736688"></trkpt>
+        <trkpt lat="48.6641898" lon="2.4738768"></trkpt>
+        <trkpt lat="48.6655193" lon="2.4790834"></trkpt>
+        <trkpt lat="48.665698" lon="2.479837"></trkpt>
+        <trkpt lat="48.6657893" lon="2.4800504"></trkpt>
+        <trkpt lat="48.665872" lon="2.480203"></trkpt>
+        <trkpt lat="48.6659268" lon="2.4802857"></trkpt>
+        <trkpt lat="48.6659474" lon="2.4804045"></trkpt>
+        <trkpt lat="48.6659553" lon="2.4805983"></trkpt>
+        <trkpt lat="48.6659563" lon="2.4807736"></trkpt>
+        <trkpt lat="48.6662826" lon="2.4821008"></trkpt>
+        <trkpt lat="48.6666409" lon="2.4835192"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

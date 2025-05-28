@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Vaugallois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.632757</time>
+</metadata>
+<trk>
+    <name>Chemin du Vaugallois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2187156" lon="2.6238871"></trkpt>
+        <trkpt lat="48.2193612" lon="2.6214315"></trkpt>
+        <trkpt lat="48.219371" lon="2.6213624"></trkpt>
+        <trkpt lat="48.2193715" lon="2.621294"></trkpt>
+        <trkpt lat="48.2193612" lon="2.6212317"></trkpt>
+        <trkpt lat="48.2193415" lon="2.6211499"></trkpt>
+        <trkpt lat="48.2191259" lon="2.6206486"></trkpt>
+        <trkpt lat="48.2167971" lon="2.6152128"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

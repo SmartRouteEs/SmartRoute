@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Madame</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:55.489764</time>
+</metadata>
+<trk>
+    <name>Allée de Madame</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7691263" lon="2.5573585"></trkpt>
+        <trkpt lat="48.7703088" lon="2.5553381"></trkpt>
+        <trkpt lat="48.7710527" lon="2.5540989"></trkpt>
+        <trkpt lat="48.771172" lon="2.5538725"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

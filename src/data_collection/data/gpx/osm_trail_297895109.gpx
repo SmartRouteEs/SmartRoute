@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tente</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.829754</time>
+</metadata>
+<trk>
+    <name>Route de la Tente</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4037656" lon="2.6020948"></trkpt>
+        <trkpt lat="48.4037646" lon="2.6022584"></trkpt>
+        <trkpt lat="48.4037558" lon="2.6024228"></trkpt>
+        <trkpt lat="48.4037" lon="2.602976"></trkpt>
+        <trkpt lat="48.403578" lon="2.603592"></trkpt>
+        <trkpt lat="48.40348" lon="2.603902"></trkpt>
+        <trkpt lat="48.403453" lon="2.604242"></trkpt>
+        <trkpt lat="48.403382" lon="2.604629"></trkpt>
+        <trkpt lat="48.403327" lon="2.604838"></trkpt>
+        <trkpt lat="48.403281" lon="2.605182"></trkpt>
+        <trkpt lat="48.40313" lon="2.605867"></trkpt>
+        <trkpt lat="48.403045" lon="2.60615"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

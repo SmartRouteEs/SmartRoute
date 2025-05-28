@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois Gauthier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.062681</time>
+</metadata>
+<trk>
+    <name>Route du Bois Gauthier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.409662" lon="2.748195"></trkpt>
+        <trkpt lat="48.4110163" lon="2.7465322"></trkpt>
+        <trkpt lat="48.4116693" lon="2.7458173"></trkpt>
+        <trkpt lat="48.4118248" lon="2.7457136"></trkpt>
+        <trkpt lat="48.4122776" lon="2.7454117"></trkpt>
+        <trkpt lat="48.4142722" lon="2.7442532"></trkpt>
+        <trkpt lat="48.416243" lon="2.7431489"></trkpt>
+        <trkpt lat="48.4168336" lon="2.7427806"></trkpt>
+        <trkpt lat="48.4176756" lon="2.7422554"></trkpt>
+        <trkpt lat="48.4197927" lon="2.7409351"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

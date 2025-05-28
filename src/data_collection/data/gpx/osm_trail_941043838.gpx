@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Fourneaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.619569</time>
+</metadata>
+<trk>
+    <name>Chemin des Fourneaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5281916" lon="2.2652688"></trkpt>
+        <trkpt lat="48.5282853" lon="2.2652321"></trkpt>
+        <trkpt lat="48.5283505" lon="2.265164"></trkpt>
+        <trkpt lat="48.5284185" lon="2.2650423"></trkpt>
+        <trkpt lat="48.528567" lon="2.2648986"></trkpt>
+        <trkpt lat="48.529238" lon="2.2645718"></trkpt>
+        <trkpt lat="48.5298969" lon="2.2642509"></trkpt>
+        <trkpt lat="48.5300646" lon="2.2642858"></trkpt>
+        <trkpt lat="48.5303295" lon="2.2643326"></trkpt>
+        <trkpt lat="48.5304797" lon="2.2642069"></trkpt>
+        <trkpt lat="48.5305919" lon="2.2641478"></trkpt>
+        <trkpt lat="48.5307733" lon="2.2640638"></trkpt>
+        <trkpt lat="48.5308966" lon="2.2639754"></trkpt>
+        <trkpt lat="48.5310541" lon="2.2638623"></trkpt>
+        <trkpt lat="48.5312991" lon="2.2637943"></trkpt>
+        <trkpt lat="48.5313591" lon="2.2637945"></trkpt>
+        <trkpt lat="48.5314998" lon="2.2637183"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

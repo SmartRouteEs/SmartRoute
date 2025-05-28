@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Délinquants</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.868105</time>
+</metadata>
+<trk>
+    <name>Route des Délinquants</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3550475" lon="2.6689907"></trkpt>
+        <trkpt lat="48.3550709" lon="2.6712716"></trkpt>
+        <trkpt lat="48.3552061" lon="2.6738993"></trkpt>
+        <trkpt lat="48.3548978" lon="2.6745438"></trkpt>
+        <trkpt lat="48.3541679" lon="2.6756345"></trkpt>
+        <trkpt lat="48.3540126" lon="2.6774657"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

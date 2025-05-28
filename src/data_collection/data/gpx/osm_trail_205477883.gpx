@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Garde Chauvaud</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.619512</time>
+</metadata>
+<trk>
+    <name>Route du Garde Chauvaud</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4877235" lon="2.6355473"></trkpt>
+        <trkpt lat="48.4841574" lon="2.6424656"></trkpt>
+        <trkpt lat="48.4828909" lon="2.6450121"></trkpt>
+        <trkpt lat="48.4793693" lon="2.6512331"></trkpt>
+        <trkpt lat="48.4788516" lon="2.6522719"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Rossini</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.659118</time>
+</metadata>
+<trk>
+    <name>Route Rossini</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3500179" lon="2.7033559"></trkpt>
+        <trkpt lat="48.3501748" lon="2.7037254"></trkpt>
+        <trkpt lat="48.3510298" lon="2.7076574"></trkpt>
+        <trkpt lat="48.3514329" lon="2.7092194"></trkpt>
+        <trkpt lat="48.3513831" lon="2.7108115"></trkpt>
+        <trkpt lat="48.3514621" lon="2.7116138"></trkpt>
+        <trkpt lat="48.351382" lon="2.7119947"></trkpt>
+        <trkpt lat="48.3511836" lon="2.712781"></trkpt>
+        <trkpt lat="48.3508477" lon="2.7133353"></trkpt>
+        <trkpt lat="48.350323" lon="2.7140602"></trkpt>
+        <trkpt lat="48.3496658" lon="2.7148637"></trkpt>
+        <trkpt lat="48.3487386" lon="2.716253"></trkpt>
+        <trkpt lat="48.3485343" lon="2.7166243"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

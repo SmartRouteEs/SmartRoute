@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Farewell</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.692421</time>
+</metadata>
+<trk>
+    <name>Route Farewell</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.433891" lon="2.7395565"></trkpt>
+        <trkpt lat="48.4340679" lon="2.7396231"></trkpt>
+        <trkpt lat="48.4343381" lon="2.7397249"></trkpt>
+        <trkpt lat="48.4362424" lon="2.7404145"></trkpt>
+        <trkpt lat="48.4371514" lon="2.7407545"></trkpt>
+        <trkpt lat="48.4378494" lon="2.7410154"></trkpt>
+        <trkpt lat="48.4423981" lon="2.7427159"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

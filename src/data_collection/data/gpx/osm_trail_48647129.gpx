@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Remard</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.729892</time>
+</metadata>
+<trk>
+    <name>Route Remard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4337661" lon="2.7278554"></trkpt>
+        <trkpt lat="48.4334543" lon="2.7276498"></trkpt>
+        <trkpt lat="48.4329379" lon="2.7276897"></trkpt>
+        <trkpt lat="48.4326394" lon="2.7276518"></trkpt>
+        <trkpt lat="48.4321618" lon="2.727927"></trkpt>
+        <trkpt lat="48.4317701" lon="2.728201"></trkpt>
+        <trkpt lat="48.4287493" lon="2.7305223"></trkpt>
+        <trkpt lat="48.4285284" lon="2.7305819"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

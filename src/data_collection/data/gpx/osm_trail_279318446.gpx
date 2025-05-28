@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Bois Girard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.245921</time>
+</metadata>
+<trk>
+    <name>Rue du Bois Girard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3051564" lon="2.7594563"></trkpt>
+        <trkpt lat="48.3051909" lon="2.7595547"></trkpt>
+        <trkpt lat="48.3054018" lon="2.7602966"></trkpt>
+        <trkpt lat="48.3056137" lon="2.7615221"></trkpt>
+        <trkpt lat="48.3061012" lon="2.7636828"></trkpt>
+        <trkpt lat="48.3066844" lon="2.7655371"></trkpt>
+        <trkpt lat="48.3072197" lon="2.7671864"></trkpt>
+        <trkpt lat="48.3073939" lon="2.7678607"></trkpt>
+        <trkpt lat="48.3074343" lon="2.7682725"></trkpt>
+        <trkpt lat="48.307489" lon="2.7691143"></trkpt>
+        <trkpt lat="48.3076655" lon="2.7698555"></trkpt>
+        <trkpt lat="48.308122" lon="2.7709535"></trkpt>
+        <trkpt lat="48.3086028" lon="2.7717954"></trkpt>
+        <trkpt lat="48.3087671" lon="2.7723718"></trkpt>
+        <trkpt lat="48.3088854" lon="2.7734017"></trkpt>
+        <trkpt lat="48.3090318" lon="2.7735896"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

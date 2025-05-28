@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Vieux Chemin d'Orléans à Paris</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.807011</time>
+</metadata>
+<trk>
+    <name>Vieux Chemin d'Orléans à Paris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5414172" lon="2.2242552"></trkpt>
+        <trkpt lat="48.5412673" lon="2.2242406"></trkpt>
+        <trkpt lat="48.5406814" lon="2.2242645"></trkpt>
+        <trkpt lat="48.5402303" lon="2.2242754"></trkpt>
+        <trkpt lat="48.5390193" lon="2.2243055"></trkpt>
+        <trkpt lat="48.5382764" lon="2.2241807"></trkpt>
+        <trkpt lat="48.5379851" lon="2.2240892"></trkpt>
+        <trkpt lat="48.5370263" lon="2.2237104"></trkpt>
+        <trkpt lat="48.5363214" lon="2.2233488"></trkpt>
+        <trkpt lat="48.5360295" lon="2.2231994"></trkpt>
+        <trkpt lat="48.53583" lon="2.2230973"></trkpt>
+        <trkpt lat="48.5356195" lon="2.2229424"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fauvette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.264004</time>
+</metadata>
+<trk>
+    <name>Route de la Fauvette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4043405" lon="2.738495"></trkpt>
+        <trkpt lat="48.404167" lon="2.7390592"></trkpt>
+        <trkpt lat="48.4041277" lon="2.7392687"></trkpt>
+        <trkpt lat="48.4041347" lon="2.7394406"></trkpt>
+        <trkpt lat="48.4043685" lon="2.7405895"></trkpt>
+        <trkpt lat="48.4044235" lon="2.7414211"></trkpt>
+        <trkpt lat="48.4044117" lon="2.7421698"></trkpt>
+        <trkpt lat="48.4040477" lon="2.744107"></trkpt>
+        <trkpt lat="48.4035182" lon="2.7462116"></trkpt>
+        <trkpt lat="48.4032585" lon="2.7474793"></trkpt>
+        <trkpt lat="48.4031888" lon="2.7484765"></trkpt>
+        <trkpt lat="48.4032083" lon="2.7499884"></trkpt>
+        <trkpt lat="48.403395" lon="2.751684"></trkpt>
+        <trkpt lat="48.4036534" lon="2.7542535"></trkpt>
+        <trkpt lat="48.4036727" lon="2.7544057"></trkpt>
+        <trkpt lat="48.4036994" lon="2.7545963"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

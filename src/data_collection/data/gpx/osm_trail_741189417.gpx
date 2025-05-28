@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Barrode</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.830281</time>
+</metadata>
+<trk>
+    <name>Chemin de la Barrode</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2527251" lon="2.6613099"></trkpt>
+        <trkpt lat="48.2528119" lon="2.6618139"></trkpt>
+        <trkpt lat="48.2530717" lon="2.6630199"></trkpt>
+        <trkpt lat="48.253312" lon="2.6640409"></trkpt>
+        <trkpt lat="48.2539879" lon="2.6637389"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

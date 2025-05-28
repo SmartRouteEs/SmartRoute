@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Fond</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.586968</time>
+</metadata>
+<trk>
+    <name>Chemin du Fond</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3271715" lon="3.2049801"></trkpt>
+        <trkpt lat="48.3274766" lon="3.2050772"></trkpt>
+        <trkpt lat="48.3278253" lon="3.2051527"></trkpt>
+        <trkpt lat="48.3281857" lon="3.205176"></trkpt>
+        <trkpt lat="48.328491" lon="3.2051554"></trkpt>
+        <trkpt lat="48.328808" lon="3.2051305"></trkpt>
+        <trkpt lat="48.3291249" lon="3.2050838"></trkpt>
+        <trkpt lat="48.3294652" lon="3.2050372"></trkpt>
+        <trkpt lat="48.3297938" lon="3.2049862"></trkpt>
+        <trkpt lat="48.3301776" lon="3.2049267"></trkpt>
+        <trkpt lat="48.3305179" lon="3.2048627"></trkpt>
+        <trkpt lat="48.3306662" lon="3.2048414"></trkpt>
+        <trkpt lat="48.3310461" lon="3.204857"></trkpt>
+        <trkpt lat="48.3318431" lon="3.2052244"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

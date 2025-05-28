@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Morte Bouteille</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.931439</time>
+</metadata>
+<trk>
+    <name>Route de la Morte Bouteille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7988808" lon="2.1981307"></trkpt>
+        <trkpt lat="48.7990856" lon="2.1980673"></trkpt>
+        <trkpt lat="48.79935" lon="2.197855"></trkpt>
+        <trkpt lat="48.799842" lon="2.1974777"></trkpt>
+        <trkpt lat="48.800189" lon="2.197191"></trkpt>
+        <trkpt lat="48.8011266" lon="2.1964543"></trkpt>
+        <trkpt lat="48.8017379" lon="2.1959773"></trkpt>
+        <trkpt lat="48.802324" lon="2.1955199"></trkpt>
+        <trkpt lat="48.8034513" lon="2.1946254"></trkpt>
+        <trkpt lat="48.8035141" lon="2.19458"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

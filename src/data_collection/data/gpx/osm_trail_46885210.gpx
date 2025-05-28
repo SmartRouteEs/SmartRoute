@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Espérance</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.498214</time>
+</metadata>
+<trk>
+    <name>Route de l'Espérance</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.380448" lon="2.6859675"></trkpt>
+        <trkpt lat="48.3814844" lon="2.6857027"></trkpt>
+        <trkpt lat="48.3828418" lon="2.6853559"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

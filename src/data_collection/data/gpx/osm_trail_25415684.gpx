@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Chasse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.580436</time>
+</metadata>
+<trk>
+    <name>Allée de Chasse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8119941" lon="2.750866"></trkpt>
+        <trkpt lat="48.811996" lon="2.7510262"></trkpt>
+        <trkpt lat="48.8120544" lon="2.7558432"></trkpt>
+        <trkpt lat="48.8121042" lon="2.7599552"></trkpt>
+        <trkpt lat="48.8121456" lon="2.7620958"></trkpt>
+        <trkpt lat="48.8122004" lon="2.7649223"></trkpt>
+        <trkpt lat="48.8122172" lon="2.7657917"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

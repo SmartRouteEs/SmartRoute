@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>sente du Bois Moret</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.234384</time>
+</metadata>
+<trk>
+    <name>sente du Bois Moret</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9204159" lon="3.1934081"></trkpt>
+        <trkpt lat="48.9203989" lon="3.1934661"></trkpt>
+        <trkpt lat="48.9204046" lon="3.19419"></trkpt>
+        <trkpt lat="48.920409" lon="3.1944935"></trkpt>
+        <trkpt lat="48.9204292" lon="3.1945591"></trkpt>
+        <trkpt lat="48.9204437" lon="3.1946106"></trkpt>
+        <trkpt lat="48.9198989" lon="3.1947506"></trkpt>
+        <trkpt lat="48.918315" lon="3.1948403"></trkpt>
+        <trkpt lat="48.9176657" lon="3.1946817"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

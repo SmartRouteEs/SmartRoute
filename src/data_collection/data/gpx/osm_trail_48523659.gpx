@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Courlis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.676299</time>
+</metadata>
+<trk>
+    <name>Route du Courlis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3618066" lon="2.7411172"></trkpt>
+        <trkpt lat="48.3608656" lon="2.7396137"></trkpt>
+        <trkpt lat="48.3602669" lon="2.7386788"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

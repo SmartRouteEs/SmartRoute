@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pierreries</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.267617</time>
+</metadata>
+<trk>
+    <name>Chemin des Pierreries</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1918348" lon="3.2506126"></trkpt>
+        <trkpt lat="48.1919372" lon="3.2506401"></trkpt>
+        <trkpt lat="48.1921965" lon="3.2508106"></trkpt>
+        <trkpt lat="48.1930051" lon="3.251555"></trkpt>
+        <trkpt lat="48.1936464" lon="3.2521472"></trkpt>
+        <trkpt lat="48.1942396" lon="3.252563"></trkpt>
+        <trkpt lat="48.1944684" lon="3.2527616"></trkpt>
+        <trkpt lat="48.1960731" lon="3.2542462"></trkpt>
+        <trkpt lat="48.1962641" lon="3.2543395"></trkpt>
+        <trkpt lat="48.1963383" lon="3.2544216"></trkpt>
+        <trkpt lat="48.1964754" lon="3.2546604"></trkpt>
+        <trkpt lat="48.1968088" lon="3.2550207"></trkpt>
+        <trkpt lat="48.1969254" lon="3.255207"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Plaine de Bois-le-Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.647649</time>
+</metadata>
+<trk>
+    <name>Route de la Plaine de Bois-le-Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4548301" lon="2.7210634"></trkpt>
+        <trkpt lat="48.4551854" lon="2.7216084"></trkpt>
+        <trkpt lat="48.4554738" lon="2.7219891"></trkpt>
+        <trkpt lat="48.4562361" lon="2.7229953"></trkpt>
+        <trkpt lat="48.4573253" lon="2.7242913"></trkpt>
+        <trkpt lat="48.4574728" lon="2.7249106"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

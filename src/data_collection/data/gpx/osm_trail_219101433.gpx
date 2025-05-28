@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grande Vallée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.199632</time>
+</metadata>
+<trk>
+    <name>Route de la Grande Vallée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3486515" lon="2.7639046"></trkpt>
+        <trkpt lat="48.3486346" lon="2.7626521"></trkpt>
+        <trkpt lat="48.3492401" lon="2.7577256"></trkpt>
+        <trkpt lat="48.3492557" lon="2.7574734"></trkpt>
+        <trkpt lat="48.3493179" lon="2.7571811"></trkpt>
+        <trkpt lat="48.3495284" lon="2.7561924"></trkpt>
+        <trkpt lat="48.349548" lon="2.7557379"></trkpt>
+        <trkpt lat="48.3498257" lon="2.7521443"></trkpt>
+        <trkpt lat="48.3501086" lon="2.7484819"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

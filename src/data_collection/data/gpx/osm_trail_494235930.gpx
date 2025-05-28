@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Barlay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.599378</time>
+</metadata>
+<trk>
+    <name>Chemin de Barlay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5685865" lon="3.3187353"></trkpt>
+        <trkpt lat="48.5685475" lon="3.3188185"></trkpt>
+        <trkpt lat="48.5684996" lon="3.318781"></trkpt>
+        <trkpt lat="48.5682884" lon="3.3184913"></trkpt>
+        <trkpt lat="48.5679671" lon="3.3181319"></trkpt>
+        <trkpt lat="48.5678366" lon="3.3177309"></trkpt>
+        <trkpt lat="48.5675917" lon="3.3170174"></trkpt>
+        <trkpt lat="48.5674107" lon="3.3166392"></trkpt>
+        <trkpt lat="48.5670575" lon="3.3161752"></trkpt>
+        <trkpt lat="48.5668516" lon="3.3159365"></trkpt>
+        <trkpt lat="48.5665782" lon="3.3157165"></trkpt>
+        <trkpt lat="48.5664717" lon="3.3157112"></trkpt>
+        <trkpt lat="48.566422" lon="3.315746"></trkpt>
+        <trkpt lat="48.5663031" lon="3.3158292"></trkpt>
+        <trkpt lat="48.5662525" lon="3.3161022"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

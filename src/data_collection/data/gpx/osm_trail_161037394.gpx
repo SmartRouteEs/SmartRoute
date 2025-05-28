@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Moules</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.755218</time>
+</metadata>
+<trk>
+    <name>Chemin des Moules</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3838932" lon="2.8946892"></trkpt>
+        <trkpt lat="48.3828083" lon="2.8926879"></trkpt>
+        <trkpt lat="48.3817465" lon="2.8906333"></trkpt>
+        <trkpt lat="48.3806955" lon="2.8886538"></trkpt>
+        <trkpt lat="48.3806184" lon="2.8882883"></trkpt>
+        <trkpt lat="48.380426" lon="2.8868667"></trkpt>
+        <trkpt lat="48.3801908" lon="2.8853003"></trkpt>
+        <trkpt lat="48.3801552" lon="2.8838894"></trkpt>
+        <trkpt lat="48.3801307" lon="2.8834411"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

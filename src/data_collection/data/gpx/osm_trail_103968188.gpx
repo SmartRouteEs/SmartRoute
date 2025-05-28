@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Gros</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.659118</time>
+</metadata>
+<trk>
+    <name>Chemin des Gros</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3663395" lon="2.8130919"></trkpt>
+        <trkpt lat="48.3667584" lon="2.8136138"></trkpt>
+        <trkpt lat="48.3668729" lon="2.8137682"></trkpt>
+        <trkpt lat="48.3669363" lon="2.8139395"></trkpt>
+        <trkpt lat="48.366998" lon="2.8139641"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

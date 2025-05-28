@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Promenade de Samois</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.277983</time>
+</metadata>
+<trk>
+    <name>Promenade de Samois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4638077" lon="2.7696938"></trkpt>
+        <trkpt lat="48.463826" lon="2.7698714"></trkpt>
+        <trkpt lat="48.4638407" lon="2.7699135"></trkpt>
+        <trkpt lat="48.4638621" lon="2.769949"></trkpt>
+        <trkpt lat="48.4638891" lon="2.7699795"></trkpt>
+        <trkpt lat="48.4639197" lon="2.7700054"></trkpt>
+        <trkpt lat="48.4639658" lon="2.7700377"></trkpt>
+        <trkpt lat="48.4639946" lon="2.7700722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 9119</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.531314</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 9119</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6315392" lon="2.3840631"></trkpt>
+        <trkpt lat="48.631799" lon="2.3811825"></trkpt>
+        <trkpt lat="48.6320284" lon="2.3784291"></trkpt>
+        <trkpt lat="48.6320284" lon="2.3783064"></trkpt>
+        <trkpt lat="48.632024" lon="2.3780035"></trkpt>
+        <trkpt lat="48.6320063" lon="2.377727"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

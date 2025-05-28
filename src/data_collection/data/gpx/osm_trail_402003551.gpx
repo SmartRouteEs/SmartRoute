@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Voisières</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.741545</time>
+</metadata>
+<trk>
+    <name>Allée des Voisières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7135991" lon="2.2705414"></trkpt>
+        <trkpt lat="48.7135767" lon="2.2706532"></trkpt>
+        <trkpt lat="48.713544" lon="2.2707162"></trkpt>
+        <trkpt lat="48.7134239" lon="2.2708322"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

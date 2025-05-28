@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse Gobetue</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.572160</time>
+</metadata>
+<trk>
+    <name>Impasse Gobetue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8635845" lon="2.4551939"></trkpt>
+        <trkpt lat="48.8636218" lon="2.455318"></trkpt>
+        <trkpt lat="48.8637995" lon="2.456318"></trkpt>
+        <trkpt lat="48.8638051" lon="2.4564915"></trkpt>
+        <trkpt lat="48.8638266" lon="2.4567005"></trkpt>
+        <trkpt lat="48.863863" lon="2.4569631"></trkpt>
+        <trkpt lat="48.8640108" lon="2.4574944"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

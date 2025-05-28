@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Saint-Catherine</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.602479</time>
+</metadata>
+<trk>
+    <name>Allée Saint-Catherine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7242" lon="2.4793387"></trkpt>
+        <trkpt lat="48.7237324" lon="2.4793454"></trkpt>
+        <trkpt lat="48.7234872" lon="2.479306"></trkpt>
+        <trkpt lat="48.7232648" lon="2.4792861"></trkpt>
+        <trkpt lat="48.7230788" lon="2.4792733"></trkpt>
+        <trkpt lat="48.7228495" lon="2.4792515"></trkpt>
+        <trkpt lat="48.7224492" lon="2.4792106"></trkpt>
+        <trkpt lat="48.7222297" lon="2.4792782"></trkpt>
+        <trkpt lat="48.7220477" lon="2.4794131"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

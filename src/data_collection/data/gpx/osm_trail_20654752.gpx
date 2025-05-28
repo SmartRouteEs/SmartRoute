@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Union</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.424845</time>
+</metadata>
+<trk>
+    <name>Route de l'Union</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4407109" lon="2.6704521"></trkpt>
+        <trkpt lat="48.4397406" lon="2.6706498"></trkpt>
+        <trkpt lat="48.4382372" lon="2.6709419"></trkpt>
+        <trkpt lat="48.4380603" lon="2.670997"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

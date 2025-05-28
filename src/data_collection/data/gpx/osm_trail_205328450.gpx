@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Cheyssac</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.578610</time>
+</metadata>
+<trk>
+    <name>Route de Cheyssac</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.395607" lon="2.7113886"></trkpt>
+        <trkpt lat="48.3955953" lon="2.7119696"></trkpt>
+        <trkpt lat="48.3954802" lon="2.7134462"></trkpt>
+        <trkpt lat="48.3954662" lon="2.7141602"></trkpt>
+        <trkpt lat="48.3952842" lon="2.7163091"></trkpt>
+        <trkpt lat="48.3950252" lon="2.7198999"></trkpt>
+        <trkpt lat="48.3948502" lon="2.7221398"></trkpt>
+        <trkpt lat="48.3946402" lon="2.7238337"></trkpt>
+        <trkpt lat="48.394174" lon="2.7276402"></trkpt>
+        <trkpt lat="48.3940834" lon="2.728545"></trkpt>
+        <trkpt lat="48.3940458" lon="2.7289087"></trkpt>
+        <trkpt lat="48.3939944" lon="2.729378"></trkpt>
+        <trkpt lat="48.3937205" lon="2.7318806"></trkpt>
+        <trkpt lat="48.3934669" lon="2.7348125"></trkpt>
+        <trkpt lat="48.3933195" lon="2.735953"></trkpt>
+        <trkpt lat="48.3932159" lon="2.7362297"></trkpt>
+        <trkpt lat="48.3922354" lon="2.7393864"></trkpt>
+        <trkpt lat="48.3895658" lon="2.7434045"></trkpt>
+        <trkpt lat="48.387015" lon="2.747099"></trkpt>
+        <trkpt lat="48.3850413" lon="2.7499717"></trkpt>
+        <trkpt lat="48.3849549" lon="2.7500975"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

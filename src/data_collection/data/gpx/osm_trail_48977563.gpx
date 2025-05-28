@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Clos Nadon</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.821038</time>
+</metadata>
+<trk>
+    <name>Sentier du Clos Nadon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3826217" lon="2.7811251"></trkpt>
+        <trkpt lat="48.3821492" lon="2.7826756"></trkpt>
+        <trkpt lat="48.381779" lon="2.7837281"></trkpt>
+        <trkpt lat="48.3815741" lon="2.7835433"></trkpt>
+        <trkpt lat="48.3814331" lon="2.7838736"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

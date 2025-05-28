@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chênes Rouges</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.351997</time>
+</metadata>
+<trk>
+    <name>Chemin des Chênes Rouges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.765527" lon="2.5497461"></trkpt>
+        <trkpt lat="48.7653945" lon="2.54972"></trkpt>
+        <trkpt lat="48.7651312" lon="2.5497024"></trkpt>
+        <trkpt lat="48.7647468" lon="2.5497165"></trkpt>
+        <trkpt lat="48.7642901" lon="2.54972"></trkpt>
+        <trkpt lat="48.7635282" lon="2.5497236"></trkpt>
+        <trkpt lat="48.7633235" lon="2.5497342"></trkpt>
+        <trkpt lat="48.7630506" lon="2.5497483"></trkpt>
+        <trkpt lat="48.7623027" lon="2.5498225"></trkpt>
+        <trkpt lat="48.7619136" lon="2.5498296"></trkpt>
+        <trkpt lat="48.7615199" lon="2.5498911"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

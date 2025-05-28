@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Fontaine des Joncs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Chemin de la Fontaine des Joncs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6581335" lon="3.3551294"></trkpt>
+        <trkpt lat="48.659774" lon="3.3471941"></trkpt>
+        <trkpt lat="48.6601599" lon="3.3461228"></trkpt>
+        <trkpt lat="48.6603922" lon="3.3454907"></trkpt>
+        <trkpt lat="48.6606078" lon="3.3452047"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

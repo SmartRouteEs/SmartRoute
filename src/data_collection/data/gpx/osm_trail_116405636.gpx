@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Itteville</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:46.832335</time>
+</metadata>
+<trk>
+    <name>Chemin d'Itteville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5019724" lon="2.3500027"></trkpt>
+        <trkpt lat="48.5019937" lon="2.3500302"></trkpt>
+        <trkpt lat="48.5020315" lon="2.3500295"></trkpt>
+        <trkpt lat="48.5033028" lon="2.3496493"></trkpt>
+        <trkpt lat="48.504411" lon="2.3493684"></trkpt>
+        <trkpt lat="48.5046927" lon="2.3492329"></trkpt>
+        <trkpt lat="48.504811" lon="2.3492381"></trkpt>
+        <trkpt lat="48.5053335" lon="2.3492758"></trkpt>
+        <trkpt lat="48.505421" lon="2.3493241"></trkpt>
+        <trkpt lat="48.5055076" lon="2.3494019"></trkpt>
+        <trkpt lat="48.5055814" lon="2.349422"></trkpt>
+        <trkpt lat="48.5057253" lon="2.3494193"></trkpt>
+        <trkpt lat="48.5062346" lon="2.3494993"></trkpt>
+        <trkpt lat="48.5071532" lon="2.3496151"></trkpt>
+        <trkpt lat="48.5079679" lon="2.3497291"></trkpt>
+        <trkpt lat="48.50887" lon="2.3498661"></trkpt>
+        <trkpt lat="48.509179" lon="2.349996"></trkpt>
+        <trkpt lat="48.5100497" lon="2.3504439"></trkpt>
+        <trkpt lat="48.5115103" lon="2.3511811"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Russie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.898279</time>
+</metadata>
+<trk>
+    <name>Route de Russie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3614649" lon="2.7469657"></trkpt>
+        <trkpt lat="48.3612786" lon="2.7453895"></trkpt>
+        <trkpt lat="48.3613219" lon="2.7451841"></trkpt>
+        <trkpt lat="48.3613846" lon="2.7444202"></trkpt>
+        <trkpt lat="48.3614188" lon="2.7437335"></trkpt>
+        <trkpt lat="48.3614987" lon="2.74321"></trkpt>
+        <trkpt lat="48.3615158" lon="2.7427293"></trkpt>
+        <trkpt lat="48.3618066" lon="2.7411172"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

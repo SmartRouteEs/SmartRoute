@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Artistes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.629456</time>
+</metadata>
+<trk>
+    <name>Route des Artistes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4409885" lon="2.6243025"></trkpt>
+        <trkpt lat="48.4410446" lon="2.6245377"></trkpt>
+        <trkpt lat="48.4416521" lon="2.6262608"></trkpt>
+        <trkpt lat="48.4421359" lon="2.6277684"></trkpt>
+        <trkpt lat="48.4425097" lon="2.6290862"></trkpt>
+        <trkpt lat="48.4429471" lon="2.6299498"></trkpt>
+        <trkpt lat="48.4433695" lon="2.6306052"></trkpt>
+        <trkpt lat="48.4438025" lon="2.6317995"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

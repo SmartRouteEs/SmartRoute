@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Lacs à Madrid</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.725859</time>
+</metadata>
+<trk>
+    <name>Route des Lacs à Madrid</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8706162" lon="2.2594385"></trkpt>
+        <trkpt lat="48.8706479" lon="2.2593897"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

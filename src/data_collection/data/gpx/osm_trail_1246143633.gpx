@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Pichois</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.352438</time>
+</metadata>
+<trk>
+    <name>Sentier des Pichois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4363637" lon="2.7625515"></trkpt>
+        <trkpt lat="48.4366027" lon="2.7625907"></trkpt>
+        <trkpt lat="48.4371763" lon="2.7627528"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

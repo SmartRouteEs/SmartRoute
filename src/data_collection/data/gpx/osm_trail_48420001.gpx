@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route André</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.614834</time>
+</metadata>
+<trk>
+    <name>Route André</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3943326" lon="2.6494313"></trkpt>
+        <trkpt lat="48.3949066" lon="2.64807"></trkpt>
+        <trkpt lat="48.3954583" lon="2.6470067"></trkpt>
+        <trkpt lat="48.3965954" lon="2.6449173"></trkpt>
+        <trkpt lat="48.3977117" lon="2.6429882"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

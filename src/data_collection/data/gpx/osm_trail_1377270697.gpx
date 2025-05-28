@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Grippet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.127866</time>
+</metadata>
+<trk>
+    <name>Route du Grippet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4554085" lon="2.6654496"></trkpt>
+        <trkpt lat="48.4562487" lon="2.6662412"></trkpt>
+        <trkpt lat="48.456807" lon="2.6671034"></trkpt>
+        <trkpt lat="48.456973" lon="2.6672972"></trkpt>
+        <trkpt lat="48.4570538" lon="2.6673233"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

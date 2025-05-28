@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente de Montguichet</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.602140</time>
+</metadata>
+<trk>
+    <name>Sente de Montguichet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8846248" lon="2.5617077"></trkpt>
+        <trkpt lat="48.8846006" lon="2.5616986"></trkpt>
+        <trkpt lat="48.8845764" lon="2.5616895"></trkpt>
+        <trkpt lat="48.88442" lon="2.5616285"></trkpt>
+        <trkpt lat="48.8843248" lon="2.5615965"></trkpt>
+        <trkpt lat="48.8842087" lon="2.5615633"></trkpt>
+        <trkpt lat="48.8841355" lon="2.5615539"></trkpt>
+        <trkpt lat="48.884012" lon="2.5615607"></trkpt>
+        <trkpt lat="48.8838192" lon="2.5616297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

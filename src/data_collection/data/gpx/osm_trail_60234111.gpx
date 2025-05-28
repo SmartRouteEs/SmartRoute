@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Mordred</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.050640</time>
+</metadata>
+<trk>
+    <name>Allée Mordred</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6401655" lon="2.4235406"></trkpt>
+        <trkpt lat="48.6402955" lon="2.423456"></trkpt>
+        <trkpt lat="48.6405052" lon="2.4234873"></trkpt>
+        <trkpt lat="48.6406313" lon="2.4233002"></trkpt>
+        <trkpt lat="48.6408571" lon="2.4229654"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

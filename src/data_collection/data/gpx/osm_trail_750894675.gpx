@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Colombier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.855702</time>
+</metadata>
+<trk>
+    <name>Chemin du Colombier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3048679" lon="2.4051069"></trkpt>
+        <trkpt lat="48.3044891" lon="2.4053943"></trkpt>
+        <trkpt lat="48.3044383" lon="2.4054547"></trkpt>
+        <trkpt lat="48.3044115" lon="2.4055351"></trkpt>
+        <trkpt lat="48.3043821" lon="2.405692"></trkpt>
+        <trkpt lat="48.3043625" lon="2.406427"></trkpt>
+        <trkpt lat="48.3043518" lon="2.4065557"></trkpt>
+        <trkpt lat="48.3043223" lon="2.4066858"></trkpt>
+        <trkpt lat="48.304083" lon="2.4072654"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

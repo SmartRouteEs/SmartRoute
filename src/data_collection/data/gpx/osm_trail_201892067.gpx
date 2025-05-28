@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Glacière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.847166</time>
+</metadata>
+<trk>
+    <name>Route de la Glacière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8068134" lon="2.2264151"></trkpt>
+        <trkpt lat="48.807278" lon="2.2255775"></trkpt>
+        <trkpt lat="48.8078715" lon="2.2245074"></trkpt>
+        <trkpt lat="48.808227" lon="2.2238665"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

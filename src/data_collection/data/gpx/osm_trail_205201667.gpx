@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Valvins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.553723</time>
+</metadata>
+<trk>
+    <name>Route de Valvins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4318181" lon="2.7257097"></trkpt>
+        <trkpt lat="48.4317701" lon="2.728201"></trkpt>
+        <trkpt lat="48.4317508" lon="2.7323465"></trkpt>
+        <trkpt lat="48.4317322" lon="2.7368282"></trkpt>
+        <trkpt lat="48.4317334" lon="2.7373769"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rocher Cassepot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.433611</time>
+</metadata>
+<trk>
+    <name>Route du Rocher Cassepot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4398676" lon="2.7022132"></trkpt>
+        <trkpt lat="48.4402811" lon="2.69943"></trkpt>
+        <trkpt lat="48.4404648" lon="2.6979133"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

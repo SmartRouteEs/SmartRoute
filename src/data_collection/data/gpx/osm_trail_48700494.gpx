@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Marre la Jument</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.773383</time>
+</metadata>
+<trk>
+    <name>Chemin de la Marre la Jument</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5013166" lon="2.5300884"></trkpt>
+        <trkpt lat="48.5008288" lon="2.5295969"></trkpt>
+        <trkpt lat="48.50064" lon="2.5293223"></trkpt>
+        <trkpt lat="48.5004111" lon="2.5291028"></trkpt>
+        <trkpt lat="48.4997065" lon="2.5285143"></trkpt>
+        <trkpt lat="48.4986389" lon="2.5274799"></trkpt>
+        <trkpt lat="48.498498" lon="2.5270865"></trkpt>
+        <trkpt lat="48.4974942" lon="2.5258603"></trkpt>
+        <trkpt lat="48.4969983" lon="2.5250058"></trkpt>
+        <trkpt lat="48.496387" lon="2.5235726"></trkpt>
+        <trkpt lat="48.4963684" lon="2.5234574"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

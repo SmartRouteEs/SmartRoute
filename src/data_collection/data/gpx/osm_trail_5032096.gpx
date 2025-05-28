@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Cloud</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.310752</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Cloud</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8162805" lon="2.2510279"></trkpt>
+        <trkpt lat="48.8165679" lon="2.2507476"></trkpt>
+        <trkpt lat="48.8168514" lon="2.2504635"></trkpt>
+        <trkpt lat="48.817217" lon="2.2502511"></trkpt>
+        <trkpt lat="48.8172647" lon="2.2501593"></trkpt>
+        <trkpt lat="48.8174654" lon="2.2498194"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

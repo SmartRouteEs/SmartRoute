@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Bouleaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.149480</time>
+</metadata>
+<trk>
+    <name>Chemin des Bouleaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5704599" lon="2.2232856"></trkpt>
+        <trkpt lat="48.5707078" lon="2.2250662"></trkpt>
+        <trkpt lat="48.5707529" lon="2.2253869"></trkpt>
+        <trkpt lat="48.5711141" lon="2.2267148"></trkpt>
+        <trkpt lat="48.5713727" lon="2.2276967"></trkpt>
+        <trkpt lat="48.5715486" lon="2.2283862"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

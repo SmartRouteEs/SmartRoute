@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Tramerolles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.073543</time>
+</metadata>
+<trk>
+    <name>Chemin de Tramerolles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3815735" lon="2.3781492"></trkpt>
+        <trkpt lat="48.3817666" lon="2.3782805"></trkpt>
+        <trkpt lat="48.3818831" lon="2.3783298"></trkpt>
+        <trkpt lat="48.3820586" lon="2.3783949"></trkpt>
+        <trkpt lat="48.3823074" lon="2.3784521"></trkpt>
+        <trkpt lat="48.3827249" lon="2.3785201"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

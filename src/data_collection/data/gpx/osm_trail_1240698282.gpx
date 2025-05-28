@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint-Maurice</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.319161</time>
+</metadata>
+<trk>
+    <name>Route de Saint-Maurice</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8275198" lon="2.4190958"></trkpt>
+        <trkpt lat="48.8274211" lon="2.4191632"></trkpt>
+        <trkpt lat="48.8273233" lon="2.4192054"></trkpt>
+        <trkpt lat="48.8269914" lon="2.419156"></trkpt>
+        <trkpt lat="48.8261577" lon="2.4191105"></trkpt>
+        <trkpt lat="48.8260838" lon="2.4191145"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

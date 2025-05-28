@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse de l'Archevéché</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.236562</time>
+</metadata>
+<trk>
+    <name>Impasse de l'Archevéché</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6683708" lon="2.3723185"></trkpt>
+        <trkpt lat="48.6684495" lon="2.3721882"></trkpt>
+        <trkpt lat="48.6689293" lon="2.3712776"></trkpt>
+        <trkpt lat="48.6689267" lon="2.3711772"></trkpt>
+        <trkpt lat="48.6690439" lon="2.3709492"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

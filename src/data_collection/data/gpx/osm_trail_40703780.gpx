@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Piple</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.236562</time>
+</metadata>
+<trk>
+    <name>Allée du Piple</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7524944" lon="2.5236337"></trkpt>
+        <trkpt lat="48.7524027" lon="2.5236621"></trkpt>
+        <trkpt lat="48.7523646" lon="2.5236727"></trkpt>
+        <trkpt lat="48.752335" lon="2.5236699"></trkpt>
+        <trkpt lat="48.7523096" lon="2.5236749"></trkpt>
+        <trkpt lat="48.7522824" lon="2.5236952"></trkpt>
+        <trkpt lat="48.7522139" lon="2.5237424"></trkpt>
+        <trkpt lat="48.7502748" lon="2.5245472"></trkpt>
+        <trkpt lat="48.7492324" lon="2.524937"></trkpt>
+        <trkpt lat="48.7483756" lon="2.5252998"></trkpt>
+        <trkpt lat="48.7443921" lon="2.5269203"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

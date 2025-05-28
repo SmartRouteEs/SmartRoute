@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Boisse au Barde</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.535298</time>
+</metadata>
+<trk>
+    <name>Chemin de la Boisse au Barde</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.482992" lon="3.3482065"></trkpt>
+        <trkpt lat="48.481036" lon="3.3490735"></trkpt>
+        <trkpt lat="48.4809024" lon="3.3491887"></trkpt>
+        <trkpt lat="48.4777283" lon="3.3522695"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

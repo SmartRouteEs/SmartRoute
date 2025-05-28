@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de La Croix Blanche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.833291</time>
+</metadata>
+<trk>
+    <name>Route de La Croix Blanche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8119941" lon="2.750866"></trkpt>
+        <trkpt lat="48.808144" lon="2.7521087"></trkpt>
+        <trkpt lat="48.805157" lon="2.7530313"></trkpt>
+        <trkpt lat="48.8046202" lon="2.7531971"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

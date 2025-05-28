@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Paul Delorme</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.993899</time>
+</metadata>
+<trk>
+    <name>Route Paul Delorme</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4088727" lon="2.647695"></trkpt>
+        <trkpt lat="48.4084301" lon="2.6477153"></trkpt>
+        <trkpt lat="48.4080501" lon="2.6478011"></trkpt>
+        <trkpt lat="48.4073402" lon="2.6480215"></trkpt>
+        <trkpt lat="48.4071806" lon="2.6481033"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

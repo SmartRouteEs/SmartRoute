@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Perlure</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.570388</time>
+</metadata>
+<trk>
+    <name>Route de la Perlure</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4696675" lon="2.6815718"></trkpt>
+        <trkpt lat="48.4693565" lon="2.6805457"></trkpt>
+        <trkpt lat="48.4692414" lon="2.6802948"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

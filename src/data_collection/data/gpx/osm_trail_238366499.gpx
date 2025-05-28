@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Étampes à Brouy</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.088509</time>
+</metadata>
+<trk>
+    <name>Chemin d'Étampes à Brouy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3830793" lon="2.2201166"></trkpt>
+        <trkpt lat="48.3831642" lon="2.220145"></trkpt>
+        <trkpt lat="48.3834446" lon="2.2198129"></trkpt>
+        <trkpt lat="48.3840879" lon="2.2191735"></trkpt>
+        <trkpt lat="48.3843971" lon="2.2189669"></trkpt>
+        <trkpt lat="48.3847149" lon="2.2188623"></trkpt>
+        <trkpt lat="48.3853391" lon="2.2186712"></trkpt>
+        <trkpt lat="48.3855372" lon="2.2185788"></trkpt>
+        <trkpt lat="48.3858146" lon="2.2184155"></trkpt>
+        <trkpt lat="48.3860241" lon="2.2182533"></trkpt>
+        <trkpt lat="48.3862844" lon="2.2180402"></trkpt>
+        <trkpt lat="48.3868728" lon="2.2174232"></trkpt>
+        <trkpt lat="48.3876541" lon="2.2167466"></trkpt>
+        <trkpt lat="48.3882208" lon="2.216307"></trkpt>
+        <trkpt lat="48.3896511" lon="2.2152287"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

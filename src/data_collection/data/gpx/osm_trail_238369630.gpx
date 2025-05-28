@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Fourneau Benait</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.097274</time>
+</metadata>
+<trk>
+    <name>Chemin du Fourneau Benait</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4521742" lon="2.2628218"></trkpt>
+        <trkpt lat="48.4522811" lon="2.2629004"></trkpt>
+        <trkpt lat="48.4545838" lon="2.2640602"></trkpt>
+        <trkpt lat="48.4558697" lon="2.2647071"></trkpt>
+        <trkpt lat="48.4571807" lon="2.2653234"></trkpt>
+        <trkpt lat="48.4575064" lon="2.2654482"></trkpt>
+        <trkpt lat="48.4577093" lon="2.2656574"></trkpt>
+        <trkpt lat="48.4579963" lon="2.2660493"></trkpt>
+        <trkpt lat="48.4580242" lon="2.2660658"></trkpt>
+        <trkpt lat="48.4580594" lon="2.2660398"></trkpt>
+        <trkpt lat="48.4583567" lon="2.2657074"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

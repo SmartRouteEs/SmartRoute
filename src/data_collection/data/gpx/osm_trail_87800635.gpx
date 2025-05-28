@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Noireaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.463686</time>
+</metadata>
+<trk>
+    <name>Chemin des Noireaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5210557" lon="2.6083815"></trkpt>
+        <trkpt lat="48.5207199" lon="2.607557"></trkpt>
+        <trkpt lat="48.5206807" lon="2.6074957"></trkpt>
+        <trkpt lat="48.5206245" lon="2.6074672"></trkpt>
+        <trkpt lat="48.5205163" lon="2.6074761"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

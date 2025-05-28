@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Peuplin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.656799</time>
+</metadata>
+<trk>
+    <name>Chemin du Peuplin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.952687" lon="2.9557917"></trkpt>
+        <trkpt lat="48.9525435" lon="2.9554391"></trkpt>
+        <trkpt lat="48.9524715" lon="2.9552418"></trkpt>
+        <trkpt lat="48.9523921" lon="2.9549815"></trkpt>
+        <trkpt lat="48.9523143" lon="2.9547305"></trkpt>
+        <trkpt lat="48.952212" lon="2.9544257"></trkpt>
+        <trkpt lat="48.952093" lon="2.9540803"></trkpt>
+        <trkpt lat="48.9519211" lon="2.9536452"></trkpt>
+        <trkpt lat="48.9517623" lon="2.9532228"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

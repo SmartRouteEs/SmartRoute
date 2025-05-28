@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4827</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.496501</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4827</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7006447" lon="2.3082269"></trkpt>
+        <trkpt lat="48.7006295" lon="2.3082564"></trkpt>
+        <trkpt lat="48.7005789" lon="2.3084434"></trkpt>
+        <trkpt lat="48.7005853" lon="2.308475"></trkpt>
+        <trkpt lat="48.7005899" lon="2.3085014"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Sénart</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.853033</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Sénart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6659456" lon="2.4932874"></trkpt>
+        <trkpt lat="48.6667935" lon="2.4921564"></trkpt>
+        <trkpt lat="48.6683768" lon="2.4901102"></trkpt>
+        <trkpt lat="48.6706362" lon="2.487171"></trkpt>
+        <trkpt lat="48.6706562" lon="2.4871484"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

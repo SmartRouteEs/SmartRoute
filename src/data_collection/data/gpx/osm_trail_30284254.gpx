@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Primevères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.802523</time>
+</metadata>
+<trk>
+    <name>Route des Primevères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3677317" lon="2.6691232"></trkpt>
+        <trkpt lat="48.3665238" lon="2.66839"></trkpt>
+        <trkpt lat="48.366373" lon="2.6682522"></trkpt>
+        <trkpt lat="48.3628359" lon="2.6660229"></trkpt>
+        <trkpt lat="48.3626613" lon="2.6659263"></trkpt>
+        <trkpt lat="48.3625025" lon="2.665844"></trkpt>
+        <trkpt lat="48.3584326" lon="2.664294"></trkpt>
+        <trkpt lat="48.3573145" lon="2.6638518"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

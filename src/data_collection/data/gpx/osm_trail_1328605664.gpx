@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle de la Fontaine d'Aulnay</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.601446</time>
+</metadata>
+<trk>
+    <name>Ruelle de la Fontaine d'Aulnay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.773731" lon="2.2690316"></trkpt>
+        <trkpt lat="48.7737689" lon="2.2689244"></trkpt>
+        <trkpt lat="48.7738459" lon="2.268681"></trkpt>
+        <trkpt lat="48.7738849" lon="2.2684713"></trkpt>
+        <trkpt lat="48.7738842" lon="2.2684365"></trkpt>
+        <trkpt lat="48.7738722" lon="2.2683183"></trkpt>
+        <trkpt lat="48.7738694" lon="2.2681713"></trkpt>
+        <trkpt lat="48.7738698" lon="2.2681646"></trkpt>
+        <trkpt lat="48.7738711" lon="2.2681327"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

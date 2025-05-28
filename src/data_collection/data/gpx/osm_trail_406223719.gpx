@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante du Fort des Moulins</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.803438</time>
+</metadata>
+<trk>
+    <name>Route Tournante du Fort des Moulins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4271012" lon="2.719584"></trkpt>
+        <trkpt lat="48.4271151" lon="2.719913"></trkpt>
+        <trkpt lat="48.4272436" lon="2.7203886"></trkpt>
+        <trkpt lat="48.4274643" lon="2.7211391"></trkpt>
+        <trkpt lat="48.4274002" lon="2.7214186"></trkpt>
+        <trkpt lat="48.4270656" lon="2.7216117"></trkpt>
+        <trkpt lat="48.4268449" lon="2.7218263"></trkpt>
+        <trkpt lat="48.4267634" lon="2.722181"></trkpt>
+        <trkpt lat="48.4267168" lon="2.7224915"></trkpt>
+        <trkpt lat="48.4267168" lon="2.7230923"></trkpt>
+        <trkpt lat="48.4268093" lon="2.7242832"></trkpt>
+        <trkpt lat="48.4268858" lon="2.7260771"></trkpt>
+        <trkpt lat="48.426892" lon="2.7262555"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

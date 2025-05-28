@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ventes du Lys</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.201104</time>
+</metadata>
+<trk>
+    <name>Route des Ventes du Lys</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4854328" lon="2.6535194"></trkpt>
+        <trkpt lat="48.4855397" lon="2.6511238"></trkpt>
+        <trkpt lat="48.4858235" lon="2.6463592"></trkpt>
+        <trkpt lat="48.4859204" lon="2.6440217"></trkpt>
+        <trkpt lat="48.4859421" lon="2.6438771"></trkpt>
+        <trkpt lat="48.4877235" lon="2.6355473"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

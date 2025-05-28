@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pourtour</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.931000</time>
+</metadata>
+<trk>
+    <name>Route du Pourtour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8018293" lon="2.2420498"></trkpt>
+        <trkpt lat="48.8020078" lon="2.2429001"></trkpt>
+        <trkpt lat="48.8024258" lon="2.2447078"></trkpt>
+        <trkpt lat="48.8025608" lon="2.2452566"></trkpt>
+        <trkpt lat="48.8027178" lon="2.2460173"></trkpt>
+        <trkpt lat="48.8027635" lon="2.2463959"></trkpt>
+        <trkpt lat="48.8028578" lon="2.2467837"></trkpt>
+        <trkpt lat="48.8029559" lon="2.2474581"></trkpt>
+        <trkpt lat="48.8030157" lon="2.2476048"></trkpt>
+        <trkpt lat="48.8033151" lon="2.2480078"></trkpt>
+        <trkpt lat="48.8036095" lon="2.248375"></trkpt>
+        <trkpt lat="48.8037652" lon="2.2485046"></trkpt>
+        <trkpt lat="48.8040498" lon="2.2487448"></trkpt>
+        <trkpt lat="48.8045597" lon="2.2492425"></trkpt>
+        <trkpt lat="48.8047602" lon="2.2494913"></trkpt>
+        <trkpt lat="48.8049046" lon="2.2496241"></trkpt>
+        <trkpt lat="48.8053218" lon="2.2499745"></trkpt>
+        <trkpt lat="48.8053906" lon="2.2500366"></trkpt>
+        <trkpt lat="48.8054536" lon="2.2500859"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

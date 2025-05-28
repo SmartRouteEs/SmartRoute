@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Boulignère</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.684050</time>
+</metadata>
+<trk>
+    <name>Chemin de la Boulignère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.409488" lon="2.5036335"></trkpt>
+        <trkpt lat="48.4094043" lon="2.5037667"></trkpt>
+        <trkpt lat="48.4086062" lon="2.5044439"></trkpt>
+        <trkpt lat="48.4081303" lon="2.5050082"></trkpt>
+        <trkpt lat="48.4073109" lon="2.5059394"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Bourse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.851715</time>
+</metadata>
+<trk>
+    <name>Route de la Bourse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3706953" lon="2.5948114"></trkpt>
+        <trkpt lat="48.3708695" lon="2.5954964"></trkpt>
+        <trkpt lat="48.3709557" lon="2.5960944"></trkpt>
+        <trkpt lat="48.3709218" lon="2.5962538"></trkpt>
+        <trkpt lat="48.3708089" lon="2.5964113"></trkpt>
+        <trkpt lat="48.3708003" lon="2.5965207"></trkpt>
+        <trkpt lat="48.3708357" lon="2.5968087"></trkpt>
+        <trkpt lat="48.3708093" lon="2.5973467"></trkpt>
+        <trkpt lat="48.3707479" lon="2.597874"></trkpt>
+        <trkpt lat="48.3707807" lon="2.5980551"></trkpt>
+        <trkpt lat="48.3709044" lon="2.5983657"></trkpt>
+        <trkpt lat="48.3712018" lon="2.5989029"></trkpt>
+        <trkpt lat="48.3714741" lon="2.5997015"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

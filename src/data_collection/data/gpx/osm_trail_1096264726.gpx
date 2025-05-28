@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Vélizy</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.057428</time>
+</metadata>
+<trk>
+    <name>Allée de Vélizy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7950088" lon="2.1971823"></trkpt>
+        <trkpt lat="48.7949864" lon="2.1971738"></trkpt>
+        <trkpt lat="48.7949279" lon="2.1971516"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

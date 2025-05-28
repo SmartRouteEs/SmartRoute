@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Vieux Moulin</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.090588</time>
+</metadata>
+<trk>
+    <name>Chemin du Vieux Moulin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3353021" lon="2.7842021"></trkpt>
+        <trkpt lat="48.3351027" lon="2.7836115"></trkpt>
+        <trkpt lat="48.3350696" lon="2.7834587"></trkpt>
+        <trkpt lat="48.3347693" lon="2.7824499"></trkpt>
+        <trkpt lat="48.3346655" lon="2.7821151"></trkpt>
+        <trkpt lat="48.3345927" lon="2.7818101"></trkpt>
+        <trkpt lat="48.3344599" lon="2.7812099"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

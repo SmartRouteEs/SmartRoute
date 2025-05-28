@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chailly</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.271253</time>
+</metadata>
+<trk>
+    <name>Chemin de Chailly</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4705702" lon="2.6844249"></trkpt>
+        <trkpt lat="48.4706046" lon="2.6845354"></trkpt>
+        <trkpt lat="48.4706448" lon="2.6846693"></trkpt>
+        <trkpt lat="48.471054" lon="2.6859965"></trkpt>
+        <trkpt lat="48.4720063" lon="2.6891894"></trkpt>
+        <trkpt lat="48.4722682" lon="2.6899719"></trkpt>
+        <trkpt lat="48.4723244" lon="2.6901176"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

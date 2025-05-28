@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 27540</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.602479</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 27540</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.433699" lon="2.4655389"></trkpt>
+        <trkpt lat="48.4336742" lon="2.4658559"></trkpt>
+        <trkpt lat="48.4337092" lon="2.465955"></trkpt>
+        <trkpt lat="48.4340466" lon="2.4660629"></trkpt>
+        <trkpt lat="48.4344532" lon="2.4662096"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

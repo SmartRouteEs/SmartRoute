@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Buisson Piqué</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.518209</time>
+</metadata>
+<trk>
+    <name>Chemin du Buisson Piqué</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3743297" lon="2.496377"></trkpt>
+        <trkpt lat="48.3740478" lon="2.4970772"></trkpt>
+        <trkpt lat="48.3736808" lon="2.4975551"></trkpt>
+        <trkpt lat="48.3734735" lon="2.4978435"></trkpt>
+        <trkpt lat="48.3733872" lon="2.4979286"></trkpt>
+        <trkpt lat="48.3731614" lon="2.4981048"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

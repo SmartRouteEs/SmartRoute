@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grande Cascade</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.193458</time>
+</metadata>
+<trk>
+    <name>Route de la Grande Cascade</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8634489" lon="2.2481119"></trkpt>
+        <trkpt lat="48.8634536" lon="2.2479914"></trkpt>
+        <trkpt lat="48.8634561" lon="2.247962"></trkpt>
+        <trkpt lat="48.8635888" lon="2.2463819"></trkpt>
+        <trkpt lat="48.863616" lon="2.2459047"></trkpt>
+        <trkpt lat="48.8636304" lon="2.2456514"></trkpt>
+        <trkpt lat="48.8636278" lon="2.2449145"></trkpt>
+        <trkpt lat="48.8636171" lon="2.2443938"></trkpt>
+        <trkpt lat="48.8636831" lon="2.243342"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Les Platines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.662925</time>
+</metadata>
+<trk>
+    <name>Les Platines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4581171" lon="2.3028023"></trkpt>
+        <trkpt lat="48.4574922" lon="2.3023053"></trkpt>
+        <trkpt lat="48.4565597" lon="2.3015118"></trkpt>
+        <trkpt lat="48.4564765" lon="2.3013826"></trkpt>
+        <trkpt lat="48.4559355" lon="2.300006"></trkpt>
+        <trkpt lat="48.4556179" lon="2.2993901"></trkpt>
+        <trkpt lat="48.4554631" lon="2.299091"></trkpt>
+        <trkpt lat="48.4554004" lon="2.2990155"></trkpt>
+        <trkpt lat="48.455018" lon="2.2986806"></trkpt>
+        <trkpt lat="48.4546676" lon="2.2984079"></trkpt>
+        <trkpt lat="48.4532039" lon="2.2972306"></trkpt>
+        <trkpt lat="48.4523855" lon="2.2965705"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

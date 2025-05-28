@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 331</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.449492</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 331</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7669762" lon="2.2944363"></trkpt>
+        <trkpt lat="48.7668739" lon="2.2944745"></trkpt>
+        <trkpt lat="48.7667694" lon="2.2945116"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

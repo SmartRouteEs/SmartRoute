@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois de la Bondut</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.261225</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois de la Bondut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3192255" lon="3.0097934"></trkpt>
+        <trkpt lat="48.3213564" lon="3.009553"></trkpt>
+        <trkpt lat="48.3238851" lon="3.0094039"></trkpt>
+        <trkpt lat="48.3247899" lon="3.0090409"></trkpt>
+        <trkpt lat="48.325449" lon="3.0087764"></trkpt>
+        <trkpt lat="48.3262962" lon="3.008448"></trkpt>
+        <trkpt lat="48.3271532" lon="3.0080926"></trkpt>
+        <trkpt lat="48.3279486" lon="3.007865"></trkpt>
+        <trkpt lat="48.3316521" lon="3.0051569"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

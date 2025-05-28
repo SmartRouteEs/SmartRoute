@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Épine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.802523</time>
+</metadata>
+<trk>
+    <name>Route de l'Épine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3625242" lon="2.6559954"></trkpt>
+        <trkpt lat="48.3624876" lon="2.656128"></trkpt>
+        <trkpt lat="48.3609967" lon="2.6603701"></trkpt>
+        <trkpt lat="48.3588296" lon="2.6625159"></trkpt>
+        <trkpt lat="48.3573145" lon="2.6638518"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

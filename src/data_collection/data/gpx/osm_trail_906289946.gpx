@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Margat</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.164211</time>
+</metadata>
+<trk>
+    <name>Chemin du Margat</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7305856" lon="2.9786099"></trkpt>
+        <trkpt lat="48.7306907" lon="2.9784992"></trkpt>
+        <trkpt lat="48.731685" lon="2.9774693"></trkpt>
+        <trkpt lat="48.7329251" lon="2.9760075"></trkpt>
+        <trkpt lat="48.7333922" lon="2.9753718"></trkpt>
+        <trkpt lat="48.7346889" lon="2.9734808"></trkpt>
+        <trkpt lat="48.735301" lon="2.9727432"></trkpt>
+        <trkpt lat="48.7359449" lon="2.972424"></trkpt>
+        <trkpt lat="48.7368771" lon="2.9719359"></trkpt>
+        <trkpt lat="48.7377572" lon="2.9717669"></trkpt>
+        <trkpt lat="48.7378735" lon="2.9717468"></trkpt>
+        <trkpt lat="48.7379593" lon="2.9716637"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

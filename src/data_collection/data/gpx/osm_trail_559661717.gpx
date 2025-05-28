@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix de Montois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.260053</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix de Montois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2235669" lon="3.2507267"></trkpt>
+        <trkpt lat="48.2235197" lon="3.2504653"></trkpt>
+        <trkpt lat="48.2235006" lon="3.2503597"></trkpt>
+        <trkpt lat="48.2232763" lon="3.2491177"></trkpt>
+        <trkpt lat="48.2228696" lon="3.2447556"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

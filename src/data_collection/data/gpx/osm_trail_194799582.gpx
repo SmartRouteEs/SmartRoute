@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Princes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.688099</time>
+</metadata>
+<trk>
+    <name>Route des Princes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7895571" lon="2.7143335"></trkpt>
+        <trkpt lat="48.789374" lon="2.7159815"></trkpt>
+        <trkpt lat="48.7888905" lon="2.7203323"></trkpt>
+        <trkpt lat="48.788555" lon="2.7233514"></trkpt>
+        <trkpt lat="48.7882608" lon="2.7259987"></trkpt>
+        <trkpt lat="48.7879066" lon="2.7291861"></trkpt>
+        <trkpt lat="48.7874919" lon="2.7329176"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

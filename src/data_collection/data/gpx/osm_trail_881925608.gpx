@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Villemenon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:58.892642</time>
+</metadata>
+<trk>
+    <name>Allée de Villemenon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7231273" lon="2.5890519"></trkpt>
+        <trkpt lat="48.7235446" lon="2.5889901"></trkpt>
+        <trkpt lat="48.7242276" lon="2.5888695"></trkpt>
+        <trkpt lat="48.7249336" lon="2.5887823"></trkpt>
+        <trkpt lat="48.7255025" lon="2.5887099"></trkpt>
+        <trkpt lat="48.7262102" lon="2.5886294"></trkpt>
+        <trkpt lat="48.7275231" lon="2.5884309"></trkpt>
+        <trkpt lat="48.7279218" lon="2.588342"></trkpt>
+        <trkpt lat="48.7290419" lon="2.5882046"></trkpt>
+        <trkpt lat="48.7291366" lon="2.5881144"></trkpt>
+        <trkpt lat="48.7292074" lon="2.5879817"></trkpt>
+        <trkpt lat="48.7292523" lon="2.5879106"></trkpt>
+        <trkpt lat="48.7299954" lon="2.5866982"></trkpt>
+        <trkpt lat="48.7305934" lon="2.5856146"></trkpt>
+        <trkpt lat="48.7311188" lon="2.5846168"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

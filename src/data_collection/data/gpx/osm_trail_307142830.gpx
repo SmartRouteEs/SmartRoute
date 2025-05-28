@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 16917</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.949119</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 16917</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3283554" lon="2.6880047"></trkpt>
+        <trkpt lat="48.3283339" lon="2.6886479"></trkpt>
+        <trkpt lat="48.3283272" lon="2.6895584"></trkpt>
+        <trkpt lat="48.3282713" lon="2.6938576"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

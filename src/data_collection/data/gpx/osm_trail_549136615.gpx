@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle Brulée</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.168048</time>
+</metadata>
+<trk>
+    <name>Ruelle Brulée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6030441" lon="2.2687249"></trkpt>
+        <trkpt lat="48.6030343" lon="2.2687525"></trkpt>
+        <trkpt lat="48.6023748" lon="2.2706053"></trkpt>
+        <trkpt lat="48.6017487" lon="2.2702485"></trkpt>
+        <trkpt lat="48.6016494" lon="2.2702485"></trkpt>
+        <trkpt lat="48.6010789" lon="2.2718325"></trkpt>
+        <trkpt lat="48.6010596" lon="2.2718861"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

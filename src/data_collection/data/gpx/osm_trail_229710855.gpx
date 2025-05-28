@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fontaine aux Lynx</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.636148</time>
+</metadata>
+<trk>
+    <name>Route de la Fontaine aux Lynx</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7949519" lon="2.2429547"></trkpt>
+        <trkpt lat="48.795059" lon="2.242626"></trkpt>
+        <trkpt lat="48.7953783" lon="2.2416739"></trkpt>
+        <trkpt lat="48.7954644" lon="2.2412916"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

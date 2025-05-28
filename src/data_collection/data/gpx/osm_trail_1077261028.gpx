@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente Solitaire</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.922370</time>
+</metadata>
+<trk>
+    <name>Sente Solitaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6777546" lon="2.3068732"></trkpt>
+        <trkpt lat="48.6775922" lon="2.3067067"></trkpt>
+        <trkpt lat="48.6775537" lon="2.3064865"></trkpt>
+        <trkpt lat="48.6775923" lon="2.3063618"></trkpt>
+        <trkpt lat="48.6776765" lon="2.3061813"></trkpt>
+        <trkpt lat="48.6777501" lon="2.3059345"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

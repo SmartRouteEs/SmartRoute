@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Malnoue</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.311546</time>
+</metadata>
+<trk>
+    <name>Allée de Malnoue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8216906" lon="2.5809661"></trkpt>
+        <trkpt lat="48.8194158" lon="2.5757214"></trkpt>
+        <trkpt lat="48.8188282" lon="2.5743668"></trkpt>
+        <trkpt lat="48.8186607" lon="2.5739805"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

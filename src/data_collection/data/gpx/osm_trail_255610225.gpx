@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Communal</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.666910</time>
+</metadata>
+<trk>
+    <name>Chemin Communal</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.32363" lon="2.3679721"></trkpt>
+        <trkpt lat="48.3236748" lon="2.3681347"></trkpt>
+        <trkpt lat="48.3243454" lon="2.3682956"></trkpt>
+        <trkpt lat="48.3250234" lon="2.3686657"></trkpt>
+        <trkpt lat="48.3250653" lon="2.368689"></trkpt>
+        <trkpt lat="48.325101" lon="2.3687241"></trkpt>
+        <trkpt lat="48.3251212" lon="2.3687591"></trkpt>
+        <trkpt lat="48.3251382" lon="2.3688105"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

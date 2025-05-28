@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Mulets</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Chemin des Mulets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6606066" lon="2.2931085"></trkpt>
+        <trkpt lat="48.6607341" lon="2.2933367"></trkpt>
+        <trkpt lat="48.6609996" lon="2.2936388"></trkpt>
+        <trkpt lat="48.6617805" lon="2.2944434"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

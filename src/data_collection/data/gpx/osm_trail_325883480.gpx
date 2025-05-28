@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Aubin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.528598</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Aubin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.409662" lon="2.748195"></trkpt>
+        <trkpt lat="48.4087373" lon="2.7471556"></trkpt>
+        <trkpt lat="48.4086842" lon="2.7470804"></trkpt>
+        <trkpt lat="48.4085562" lon="2.7469336"></trkpt>
+        <trkpt lat="48.407923" lon="2.7457544"></trkpt>
+        <trkpt lat="48.4070125" lon="2.7440297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Argenlieu</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.077767</time>
+</metadata>
+<trk>
+    <name>Chemin d'Argenlieu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6464878" lon="2.2621915"></trkpt>
+        <trkpt lat="48.6464658" lon="2.2622146"></trkpt>
+        <trkpt lat="48.6464364" lon="2.2622456"></trkpt>
+        <trkpt lat="48.64631" lon="2.2623786"></trkpt>
+        <trkpt lat="48.6461463" lon="2.2625468"></trkpt>
+        <trkpt lat="48.6460175" lon="2.2627577"></trkpt>
+        <trkpt lat="48.6459503" lon="2.2628992"></trkpt>
+        <trkpt lat="48.6459" lon="2.2630495"></trkpt>
+        <trkpt lat="48.64585" lon="2.2632701"></trkpt>
+        <trkpt lat="48.6457509" lon="2.2638211"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

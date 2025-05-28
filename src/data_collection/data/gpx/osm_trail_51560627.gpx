@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Marnes</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.870644</time>
+</metadata>
+<trk>
+    <name>Allée de Marnes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8352289" lon="2.1851613"></trkpt>
+        <trkpt lat="48.8352588" lon="2.1852572"></trkpt>
+        <trkpt lat="48.8353827" lon="2.1857031"></trkpt>
+        <trkpt lat="48.8355199" lon="2.1860007"></trkpt>
+        <trkpt lat="48.8356272" lon="2.1863217"></trkpt>
+        <trkpt lat="48.8356926" lon="2.1865367"></trkpt>
+        <trkpt lat="48.8357501" lon="2.1868295"></trkpt>
+        <trkpt lat="48.8357836" lon="2.187194"></trkpt>
+        <trkpt lat="48.8358274" lon="2.1878775"></trkpt>
+        <trkpt lat="48.8358791" lon="2.1886405"></trkpt>
+        <trkpt lat="48.8358817" lon="2.1886795"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

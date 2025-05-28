@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Sommet</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.009932</time>
+</metadata>
+<trk>
+    <name>Route du Sommet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4010126" lon="2.649489"></trkpt>
+        <trkpt lat="48.401091" lon="2.649264"></trkpt>
+        <trkpt lat="48.401144" lon="2.649096"></trkpt>
+        <trkpt lat="48.401174" lon="2.64888"></trkpt>
+        <trkpt lat="48.401166" lon="2.64841"></trkpt>
+        <trkpt lat="48.401183" lon="2.648279"></trkpt>
+        <trkpt lat="48.401264" lon="2.647896"></trkpt>
+        <trkpt lat="48.401481" lon="2.647207"></trkpt>
+        <trkpt lat="48.401544" lon="2.647051"></trkpt>
+        <trkpt lat="48.402057" lon="2.646111"></trkpt>
+        <trkpt lat="48.402215" lon="2.645714"></trkpt>
+        <trkpt lat="48.402369" lon="2.645044"></trkpt>
+        <trkpt lat="48.402436" lon="2.64441"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

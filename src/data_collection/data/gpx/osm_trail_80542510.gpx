@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pleux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.264004</time>
+</metadata>
+<trk>
+    <name>Chemin des Pleux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3977491" lon="2.7788459"></trkpt>
+        <trkpt lat="48.399151" lon="2.778025"></trkpt>
+        <trkpt lat="48.4006311" lon="2.7770824"></trkpt>
+        <trkpt lat="48.4011058" lon="2.7767977"></trkpt>
+        <trkpt lat="48.4013858" lon="2.7766298"></trkpt>
+        <trkpt lat="48.4024984" lon="2.7759264"></trkpt>
+        <trkpt lat="48.4039197" lon="2.7750465"></trkpt>
+        <trkpt lat="48.404282" lon="2.77482"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

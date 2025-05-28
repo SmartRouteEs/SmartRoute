@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Sambine</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.976939</time>
+</metadata>
+<trk>
+    <name>Chemin de la Sambine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3724616" lon="2.5553281"></trkpt>
+        <trkpt lat="48.3724905" lon="2.555176"></trkpt>
+        <trkpt lat="48.372543" lon="2.5547741"></trkpt>
+        <trkpt lat="48.3730699" lon="2.5537583"></trkpt>
+        <trkpt lat="48.3731295" lon="2.5533816"></trkpt>
+        <trkpt lat="48.3731967" lon="2.5532586"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

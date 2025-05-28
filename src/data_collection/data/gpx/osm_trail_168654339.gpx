@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Monsieur</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.913631</time>
+</metadata>
+<trk>
+    <name>Allée de Monsieur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8323506" lon="2.1908185"></trkpt>
+        <trkpt lat="48.832201" lon="2.1902778"></trkpt>
+        <trkpt lat="48.8321378" lon="2.1900531"></trkpt>
+        <trkpt lat="48.8320722" lon="2.1899003"></trkpt>
+        <trkpt lat="48.8315968" lon="2.1891277"></trkpt>
+        <trkpt lat="48.8309151" lon="2.1878334"></trkpt>
+        <trkpt lat="48.8308639" lon="2.18771"></trkpt>
+        <trkpt lat="48.8299872" lon="2.1859534"></trkpt>
+        <trkpt lat="48.8299267" lon="2.1858322"></trkpt>
+        <trkpt lat="48.829718" lon="2.1854141"></trkpt>
+        <trkpt lat="48.8294883" lon="2.1850094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

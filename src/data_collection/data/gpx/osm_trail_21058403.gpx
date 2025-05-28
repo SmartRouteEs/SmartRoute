@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Capitaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.436159</time>
+</metadata>
+<trk>
+    <name>Route du Capitaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4803791" lon="2.7322094"></trkpt>
+        <trkpt lat="48.4781273" lon="2.7290941"></trkpt>
+        <trkpt lat="48.4756228" lon="2.7255807"></trkpt>
+        <trkpt lat="48.4743177" lon="2.7235155"></trkpt>
+        <trkpt lat="48.4718153" lon="2.7195222"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

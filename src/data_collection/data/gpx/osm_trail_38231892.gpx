@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Eugénie</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.112504</time>
+</metadata>
+<trk>
+    <name>Route Eugénie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4344648" lon="2.6962101"></trkpt>
+        <trkpt lat="48.4345525" lon="2.696343"></trkpt>
+        <trkpt lat="48.4357794" lon="2.6969652"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

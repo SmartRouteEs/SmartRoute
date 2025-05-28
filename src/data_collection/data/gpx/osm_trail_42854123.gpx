@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Bornage</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.335061</time>
+</metadata>
+<trk>
+    <name>Chemin de Bornage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4494114" lon="2.6223414"></trkpt>
+        <trkpt lat="48.4503802" lon="2.6225336"></trkpt>
+        <trkpt lat="48.4508089" lon="2.6233994"></trkpt>
+        <trkpt lat="48.4511613" lon="2.6240582"></trkpt>
+        <trkpt lat="48.4511757" lon="2.6240746"></trkpt>
+        <trkpt lat="48.4511995" lon="2.6240891"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Loir</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.756377</time>
+</metadata>
+<trk>
+    <name>Route du Loir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4660078" lon="2.7321552"></trkpt>
+        <trkpt lat="48.4635603" lon="2.730785"></trkpt>
+        <trkpt lat="48.4610876" lon="2.7294636"></trkpt>
+        <trkpt lat="48.4608932" lon="2.7294095"></trkpt>
+        <trkpt lat="48.4607402" lon="2.7293537"></trkpt>
+        <trkpt lat="48.4572385" lon="2.7282"></trkpt>
+        <trkpt lat="48.4562945" lon="2.7278682"></trkpt>
+        <trkpt lat="48.4561921" lon="2.7279218"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

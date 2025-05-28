@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Forestière de la Maison Montagne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.283582</time>
+</metadata>
+<trk>
+    <name>Allée Forestière de la Maison Montagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.404027" lon="2.5355896"></trkpt>
+        <trkpt lat="48.4040699" lon="2.5356249"></trkpt>
+        <trkpt lat="48.4042198" lon="2.5356779"></trkpt>
+        <trkpt lat="48.4042815" lon="2.536107"></trkpt>
+        <trkpt lat="48.4042976" lon="2.5364024"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

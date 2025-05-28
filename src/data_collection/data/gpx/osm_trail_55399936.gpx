@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Jaquettes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.978448</time>
+</metadata>
+<trk>
+    <name>Chemin des Jaquettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.447037" lon="2.5950057"></trkpt>
+        <trkpt lat="48.4450089" lon="2.5942702"></trkpt>
+        <trkpt lat="48.4442461" lon="2.5939149"></trkpt>
+        <trkpt lat="48.4435251" lon="2.593701"></trkpt>
+        <trkpt lat="48.4434347" lon="2.5937991"></trkpt>
+        <trkpt lat="48.4433707" lon="2.5938465"></trkpt>
+        <trkpt lat="48.4432947" lon="2.5938571"></trkpt>
+        <trkpt lat="48.4432225" lon="2.5938285"></trkpt>
+        <trkpt lat="48.4431535" lon="2.593785"></trkpt>
+        <trkpt lat="48.4430008" lon="2.5936395"></trkpt>
+        <trkpt lat="48.4423075" lon="2.5934461"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

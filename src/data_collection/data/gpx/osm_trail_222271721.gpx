@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Blanche</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.463076</time>
+</metadata>
+<trk>
+    <name>Allée Blanche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7888147" lon="2.2039524"></trkpt>
+        <trkpt lat="48.7883115" lon="2.2061237"></trkpt>
+        <trkpt lat="48.7880557" lon="2.2067707"></trkpt>
+        <trkpt lat="48.7879822" lon="2.2071523"></trkpt>
+        <trkpt lat="48.7879786" lon="2.2071712"></trkpt>
+        <trkpt lat="48.7879692" lon="2.2072152"></trkpt>
+        <trkpt lat="48.7877446" lon="2.2082621"></trkpt>
+        <trkpt lat="48.7877532" lon="2.2084764"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

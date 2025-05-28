@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Cavalière de la Plaine</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.689300</time>
+</metadata>
+<trk>
+    <name>Cavalière de la Plaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7934872" lon="2.2403416"></trkpt>
+        <trkpt lat="48.793403" lon="2.240053"></trkpt>
+        <trkpt lat="48.793406" lon="2.239833"></trkpt>
+        <trkpt lat="48.793437" lon="2.239668"></trkpt>
+        <trkpt lat="48.793499" lon="2.239517"></trkpt>
+        <trkpt lat="48.793566" lon="2.239413"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

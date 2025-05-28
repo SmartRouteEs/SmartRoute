@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Colmière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.981477</time>
+</metadata>
+<trk>
+    <name>Chemin de la Colmière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1697794" lon="3.3521232"></trkpt>
+        <trkpt lat="48.1705752" lon="3.3491015"></trkpt>
+        <trkpt lat="48.1706149" lon="3.3486845"></trkpt>
+        <trkpt lat="48.1705831" lon="3.3482674"></trkpt>
+        <trkpt lat="48.1702889" lon="3.3464104"></trkpt>
+        <trkpt lat="48.1701938" lon="3.3459439"></trkpt>
+        <trkpt lat="48.1700664" lon="3.3452305"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

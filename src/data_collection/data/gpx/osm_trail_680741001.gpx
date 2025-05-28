@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Pont-sur-Yonne</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.085979</time>
+</metadata>
+<trk>
+    <name>Chemin de Pont-sur-Yonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2645049" lon="3.3144787"></trkpt>
+        <trkpt lat="48.2643056" lon="3.3137607"></trkpt>
+        <trkpt lat="48.2641139" lon="3.3128709"></trkpt>
+        <trkpt lat="48.2640828" lon="3.3121999"></trkpt>
+        <trkpt lat="48.2639595" lon="3.3108303"></trkpt>
+        <trkpt lat="48.2639114" lon="3.3106026"></trkpt>
+        <trkpt lat="48.263756" lon="3.3101399"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

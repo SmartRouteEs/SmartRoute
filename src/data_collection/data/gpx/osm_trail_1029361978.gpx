@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Fées</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.611479</time>
+</metadata>
+<trk>
+    <name>Route des Fées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3510298" lon="2.7076574"></trkpt>
+        <trkpt lat="48.3533922" lon="2.7064494"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

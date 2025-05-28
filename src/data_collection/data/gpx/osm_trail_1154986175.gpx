@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Buisson Rond</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.643073</time>
+</metadata>
+<trk>
+    <name>Chemin du Buisson Rond</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6626978" lon="2.2098461"></trkpt>
+        <trkpt lat="48.6624027" lon="2.2099546"></trkpt>
+        <trkpt lat="48.6618301" lon="2.2101827"></trkpt>
+        <trkpt lat="48.6616562" lon="2.2102003"></trkpt>
+        <trkpt lat="48.6613919" lon="2.2101336"></trkpt>
+        <trkpt lat="48.6612853" lon="2.2100704"></trkpt>
+        <trkpt lat="48.661072" lon="2.2100704"></trkpt>
+        <trkpt lat="48.6609074" lon="2.2101652"></trkpt>
+        <trkpt lat="48.6607868" lon="2.2102951"></trkpt>
+        <trkpt lat="48.6606799" lon="2.210405"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

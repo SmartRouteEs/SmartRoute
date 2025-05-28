@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Jalousie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route de la Jalousie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4320611" lon="2.6609521"></trkpt>
+        <trkpt lat="48.4352102" lon="2.6602547"></trkpt>
+        <trkpt lat="48.4361955" lon="2.6600688"></trkpt>
+        <trkpt lat="48.4363092" lon="2.6600402"></trkpt>
+        <trkpt lat="48.4370036" lon="2.6600964"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Treille</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.570618</time>
+</metadata>
+<trk>
+    <name>Chemin de la Treille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5037133" lon="2.2361564"></trkpt>
+        <trkpt lat="48.5037449" lon="2.2368176"></trkpt>
+        <trkpt lat="48.5038326" lon="2.2375009"></trkpt>
+        <trkpt lat="48.5038651" lon="2.2377942"></trkpt>
+        <trkpt lat="48.5038745" lon="2.2381722"></trkpt>
+        <trkpt lat="48.503833" lon="2.2388293"></trkpt>
+        <trkpt lat="48.5037923" lon="2.2390854"></trkpt>
+        <trkpt lat="48.5036339" lon="2.2395272"></trkpt>
+        <trkpt lat="48.5035669" lon="2.2398064"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

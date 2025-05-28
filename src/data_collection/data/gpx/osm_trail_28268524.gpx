@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Pâture</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.637681</time>
+</metadata>
+<trk>
+    <name>Chemin de la Pâture</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7510776" lon="2.2104421"></trkpt>
+        <trkpt lat="48.751059" lon="2.2109889"></trkpt>
+        <trkpt lat="48.7510477" lon="2.2111502"></trkpt>
+        <trkpt lat="48.7510315" lon="2.2113129"></trkpt>
+        <trkpt lat="48.7509777" lon="2.2117164"></trkpt>
+        <trkpt lat="48.7509054" lon="2.2120328"></trkpt>
+        <trkpt lat="48.75086" lon="2.212219"></trkpt>
+        <trkpt lat="48.7508297" lon="2.2122975"></trkpt>
+        <trkpt lat="48.7507892" lon="2.2123278"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

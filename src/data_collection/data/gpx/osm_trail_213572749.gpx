@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Neuve</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.898366</time>
+</metadata>
+<trk>
+    <name>Rue Neuve</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7125419" lon="3.2668259"></trkpt>
+        <trkpt lat="48.7120201" lon="3.2667578"></trkpt>
+        <trkpt lat="48.7109642" lon="3.2668125"></trkpt>
+        <trkpt lat="48.7093713" lon="3.2671129"></trkpt>
+        <trkpt lat="48.7080697" lon="3.2673693"></trkpt>
+        <trkpt lat="48.7076084" lon="3.2673596"></trkpt>
+        <trkpt lat="48.7070845" lon="3.2674455"></trkpt>
+        <trkpt lat="48.7067872" lon="3.267424"></trkpt>
+        <trkpt lat="48.7061746" lon="3.2673221"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

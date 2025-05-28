@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Ruellotte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.259699</time>
+</metadata>
+<trk>
+    <name>Chemin de la Ruellotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2964351" lon="3.1404251"></trkpt>
+        <trkpt lat="48.2965204" lon="3.140533"></trkpt>
+        <trkpt lat="48.2966852" lon="3.1406758"></trkpt>
+        <trkpt lat="48.2968326" lon="3.1408332"></trkpt>
+        <trkpt lat="48.2970692" lon="3.1410489"></trkpt>
+        <trkpt lat="48.2972941" lon="3.1412792"></trkpt>
+        <trkpt lat="48.2974764" lon="3.1414657"></trkpt>
+        <trkpt lat="48.2976606" lon="3.141661"></trkpt>
+        <trkpt lat="48.2978216" lon="3.1418097"></trkpt>
+        <trkpt lat="48.2980507" lon="3.1418915"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

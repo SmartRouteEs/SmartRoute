@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Richou</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.564160</time>
+</metadata>
+<trk>
+    <name>Allée Richou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8128887" lon="2.6537912"></trkpt>
+        <trkpt lat="48.811603" lon="2.6495803"></trkpt>
+        <trkpt lat="48.810987" lon="2.6479813"></trkpt>
+        <trkpt lat="48.810656" lon="2.6471222"></trkpt>
+        <trkpt lat="48.8102779" lon="2.6462416"></trkpt>
+        <trkpt lat="48.8102611" lon="2.6462025"></trkpt>
+        <trkpt lat="48.8100738" lon="2.6457661"></trkpt>
+        <trkpt lat="48.8094238" lon="2.6441868"></trkpt>
+        <trkpt lat="48.8089866" lon="2.6431678"></trkpt>
+        <trkpt lat="48.8084516" lon="2.6419209"></trkpt>
+        <trkpt lat="48.8078885" lon="2.6405141"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

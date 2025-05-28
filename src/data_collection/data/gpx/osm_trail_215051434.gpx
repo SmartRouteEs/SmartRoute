@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Marsauls</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.939319</time>
+</metadata>
+<trk>
+    <name>Chemin des Marsauls</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2397424" lon="2.8227239"></trkpt>
+        <trkpt lat="48.2390702" lon="2.8230825"></trkpt>
+        <trkpt lat="48.2383647" lon="2.8239465"></trkpt>
+        <trkpt lat="48.2379772" lon="2.8243472"></trkpt>
+        <trkpt lat="48.2374369" lon="2.8247757"></trkpt>
+        <trkpt lat="48.2370903" lon="2.8255027"></trkpt>
+        <trkpt lat="48.2369934" lon="2.8258018"></trkpt>
+        <trkpt lat="48.2368749" lon="2.8259871"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

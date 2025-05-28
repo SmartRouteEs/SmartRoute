@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Billebault</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.901473</time>
+</metadata>
+<trk>
+    <name>Chemin des Billebault</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4677296" lon="2.61821"></trkpt>
+        <trkpt lat="48.4673312" lon="2.620011"></trkpt>
+        <trkpt lat="48.4680548" lon="2.6203864"></trkpt>
+        <trkpt lat="48.468796" lon="2.6207618"></trkpt>
+        <trkpt lat="48.4699822" lon="2.6224437"></trkpt>
+        <trkpt lat="48.4709472" lon="2.6238017"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

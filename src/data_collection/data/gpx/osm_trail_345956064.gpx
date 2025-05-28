@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Malacroupi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.828878</time>
+</metadata>
+<trk>
+    <name>Chemin du Malacroupi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3287237" lon="2.3720544"></trkpt>
+        <trkpt lat="48.3287115" lon="2.3721645"></trkpt>
+        <trkpt lat="48.3298697" lon="2.3727278"></trkpt>
+        <trkpt lat="48.3303591" lon="2.3730322"></trkpt>
+        <trkpt lat="48.3315168" lon="2.3739453"></trkpt>
+        <trkpt lat="48.3318171" lon="2.3742344"></trkpt>
+        <trkpt lat="48.3318697" lon="2.3742851"></trkpt>
+        <trkpt lat="48.3325285" lon="2.37437"></trkpt>
+        <trkpt lat="48.3328057" lon="2.3745356"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

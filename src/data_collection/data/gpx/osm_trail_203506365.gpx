@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Port</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.058175</time>
+</metadata>
+<trk>
+    <name>Rue du Port</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3759876" lon="2.9214113"></trkpt>
+        <trkpt lat="48.3760176" lon="2.9213039"></trkpt>
+        <trkpt lat="48.3760337" lon="2.9211838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

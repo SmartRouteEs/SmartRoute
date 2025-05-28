@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Croix de Toulouse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.436159</time>
+</metadata>
+<trk>
+    <name>Route de la Croix de Toulouse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4578388" lon="2.725235"></trkpt>
+        <trkpt lat="48.4581468" lon="2.7253507"></trkpt>
+        <trkpt lat="48.4601511" lon="2.7263538"></trkpt>
+        <trkpt lat="48.4617074" lon="2.7271546"></trkpt>
+        <trkpt lat="48.462459" lon="2.7274198"></trkpt>
+        <trkpt lat="48.4630652" lon="2.7277744"></trkpt>
+        <trkpt lat="48.4646333" lon="2.7285274"></trkpt>
+        <trkpt lat="48.4676591" lon="2.7300122"></trkpt>
+        <trkpt lat="48.4699521" lon="2.7311441"></trkpt>
+        <trkpt lat="48.4702393" lon="2.7312819"></trkpt>
+        <trkpt lat="48.4711873" lon="2.7317288"></trkpt>
+        <trkpt lat="48.4720089" lon="2.7321493"></trkpt>
+        <trkpt lat="48.4724847" lon="2.7323726"></trkpt>
+        <trkpt lat="48.4750036" lon="2.7335764"></trkpt>
+        <trkpt lat="48.4752331" lon="2.733763"></trkpt>
+        <trkpt lat="48.4765471" lon="2.7344165"></trkpt>
+        <trkpt lat="48.4785176" lon="2.7353736"></trkpt>
+        <trkpt lat="48.4791377" lon="2.7357007"></trkpt>
+        <trkpt lat="48.4797679" lon="2.7360118"></trkpt>
+        <trkpt lat="48.4809218" lon="2.7365627"></trkpt>
+        <trkpt lat="48.48289" lon="2.7375505"></trkpt>
+        <trkpt lat="48.4834603" lon="2.7378234"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

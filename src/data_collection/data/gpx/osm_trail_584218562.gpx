@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vignes du Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.410162</time>
+</metadata>
+<trk>
+    <name>Chemin des Vignes du Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2456669" lon="3.2410946"></trkpt>
+        <trkpt lat="48.2455097" lon="3.2411906"></trkpt>
+        <trkpt lat="48.2432667" lon="3.2431071"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

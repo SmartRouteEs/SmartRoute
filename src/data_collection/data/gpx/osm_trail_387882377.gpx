@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Montlhéry</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:54.412793</time>
+</metadata>
+<trk>
+    <name>Chemin de Montlhéry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6885907" lon="2.2509753"></trkpt>
+        <trkpt lat="48.6886184" lon="2.2507654"></trkpt>
+        <trkpt lat="48.6897941" lon="2.2477506"></trkpt>
+        <trkpt lat="48.6898717" lon="2.2476034"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

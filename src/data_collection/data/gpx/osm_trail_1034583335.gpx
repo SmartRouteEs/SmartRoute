@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cèpe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.627260</time>
+</metadata>
+<trk>
+    <name>Route du Cèpe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4414688" lon="2.735657"></trkpt>
+        <trkpt lat="48.441394" lon="2.7355506"></trkpt>
+        <trkpt lat="48.4412807" lon="2.7354508"></trkpt>
+        <trkpt lat="48.4411349" lon="2.7353174"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

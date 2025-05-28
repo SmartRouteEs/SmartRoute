@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix Falaise</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.343962</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix Falaise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1791339" lon="2.2600628"></trkpt>
+        <trkpt lat="48.1795021" lon="2.2705009"></trkpt>
+        <trkpt lat="48.180323" lon="2.2702556"></trkpt>
+        <trkpt lat="48.1816651" lon="2.2698872"></trkpt>
+        <trkpt lat="48.1870788" lon="2.2686628"></trkpt>
+        <trkpt lat="48.1878469" lon="2.2684198"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

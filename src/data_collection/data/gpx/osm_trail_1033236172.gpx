@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Saint-Sauveur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.618609</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Saint-Sauveur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6763485" lon="2.423749"></trkpt>
+        <trkpt lat="48.6762923" lon="2.4237212"></trkpt>
+        <trkpt lat="48.6754918" lon="2.4233249"></trkpt>
+        <trkpt lat="48.6751888" lon="2.4231749"></trkpt>
+        <trkpt lat="48.6749614" lon="2.4230528"></trkpt>
+        <trkpt lat="48.6745187" lon="2.4228151"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

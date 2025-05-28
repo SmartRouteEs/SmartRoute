@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Beau Soleil</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.564160</time>
+</metadata>
+<trk>
+    <name>Route du Beau Soleil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8050991" lon="2.6580908"></trkpt>
+        <trkpt lat="48.8046755" lon="2.6551216"></trkpt>
+        <trkpt lat="48.8042932" lon="2.6517581"></trkpt>
+        <trkpt lat="48.8041943" lon="2.6509245"></trkpt>
+        <trkpt lat="48.8040197" lon="2.6483153"></trkpt>
+        <trkpt lat="48.8039545" lon="2.6473614"></trkpt>
+        <trkpt lat="48.8038219" lon="2.6454228"></trkpt>
+        <trkpt lat="48.8038106" lon="2.6449164"></trkpt>
+        <trkpt lat="48.8038049" lon="2.6448127"></trkpt>
+        <trkpt lat="48.8037981" lon="2.6446899"></trkpt>
+        <trkpt lat="48.8036408" lon="2.6418304"></trkpt>
+        <trkpt lat="48.8036342" lon="2.6417099"></trkpt>
+        <trkpt lat="48.8036228" lon="2.641503"></trkpt>
+        <trkpt lat="48.8035935" lon="2.6406466"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

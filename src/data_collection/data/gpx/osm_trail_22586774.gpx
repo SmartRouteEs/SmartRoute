@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Dammarie</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.481767</time>
+</metadata>
+<trk>
+    <name>Route de Dammarie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4938671" lon="2.6417718"></trkpt>
+        <trkpt lat="48.4895758" lon="2.6435378"></trkpt>
+        <trkpt lat="48.488569" lon="2.644027"></trkpt>
+        <trkpt lat="48.4879546" lon="2.6444991"></trkpt>
+        <trkpt lat="48.4858235" lon="2.6463592"></trkpt>
+        <trkpt lat="48.48331" lon="2.6484921"></trkpt>
+        <trkpt lat="48.481137" lon="2.6503209"></trkpt>
+        <trkpt lat="48.4796985" lon="2.6514814"></trkpt>
+        <trkpt lat="48.4788516" lon="2.6522719"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

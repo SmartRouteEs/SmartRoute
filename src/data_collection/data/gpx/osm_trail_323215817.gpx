@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Marché Marais</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.388342</time>
+</metadata>
+<trk>
+    <name>Allée de Marché Marais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5476093" lon="2.6320981"></trkpt>
+        <trkpt lat="48.5486722" lon="2.6323182"></trkpt>
+        <trkpt lat="48.5497606" lon="2.6325791"></trkpt>
+        <trkpt lat="48.5509347" lon="2.6329177"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Mont Rouget</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.199632</time>
+</metadata>
+<trk>
+    <name>Chemin du Mont Rouget</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4283312" lon="2.5123547"></trkpt>
+        <trkpt lat="48.4282541" lon="2.5122979"></trkpt>
+        <trkpt lat="48.4280525" lon="2.5120118"></trkpt>
+        <trkpt lat="48.427817" lon="2.5118325"></trkpt>
+        <trkpt lat="48.4274109" lon="2.5118861"></trkpt>
+        <trkpt lat="48.4270278" lon="2.5117913"></trkpt>
+        <trkpt lat="48.4267896" lon="2.5116283"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

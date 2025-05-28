@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vaches</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.110153</time>
+</metadata>
+<trk>
+    <name>Chemin des Vaches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4258007" lon="2.7756471"></trkpt>
+        <trkpt lat="48.4262243" lon="2.7751804"></trkpt>
+        <trkpt lat="48.4266764" lon="2.7747727"></trkpt>
+        <trkpt lat="48.4273919" lon="2.7742094"></trkpt>
+        <trkpt lat="48.4278333" lon="2.7737588"></trkpt>
+        <trkpt lat="48.4284526" lon="2.7728683"></trkpt>
+        <trkpt lat="48.4285986" lon="2.7726752"></trkpt>
+        <trkpt lat="48.4287516" lon="2.7725786"></trkpt>
+        <trkpt lat="48.4289261" lon="2.7725465"></trkpt>
+        <trkpt lat="48.4297396" lon="2.7726008"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

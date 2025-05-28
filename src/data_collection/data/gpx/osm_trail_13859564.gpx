@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Porte Jaune</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.376463</time>
+</metadata>
+<trk>
+    <name>Allée de la Porte Jaune</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8393738" lon="2.1989895"></trkpt>
+        <trkpt lat="48.8393409" lon="2.1989925"></trkpt>
+        <trkpt lat="48.8392035" lon="2.1990051"></trkpt>
+        <trkpt lat="48.8385276" lon="2.1990668"></trkpt>
+        <trkpt lat="48.8381871" lon="2.1990979"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

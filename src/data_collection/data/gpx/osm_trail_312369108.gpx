@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Aumale</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.225556</time>
+</metadata>
+<trk>
+    <name>Route d'Aumale</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4485187" lon="2.7282226"></trkpt>
+        <trkpt lat="48.4479439" lon="2.7277252"></trkpt>
+        <trkpt lat="48.4470328" lon="2.7269619"></trkpt>
+        <trkpt lat="48.4459058" lon="2.7260091"></trkpt>
+        <trkpt lat="48.4419181" lon="2.7226394"></trkpt>
+        <trkpt lat="48.4391634" lon="2.7202472"></trkpt>
+        <trkpt lat="48.4389756" lon="2.7201124"></trkpt>
+        <trkpt lat="48.4384163" lon="2.7196525"></trkpt>
+        <trkpt lat="48.4371862" lon="2.71876"></trkpt>
+        <trkpt lat="48.4365812" lon="2.7185078"></trkpt>
+        <trkpt lat="48.43571" lon="2.7180934"></trkpt>
+        <trkpt lat="48.4356551" lon="2.7180697"></trkpt>
+        <trkpt lat="48.4349789" lon="2.7177513"></trkpt>
+        <trkpt lat="48.4346382" lon="2.7175601"></trkpt>
+        <trkpt lat="48.4337687" lon="2.7171534"></trkpt>
+        <trkpt lat="48.4307442" lon="2.7154906"></trkpt>
+        <trkpt lat="48.4294794" lon="2.7157066"></trkpt>
+        <trkpt lat="48.4294404" lon="2.7157132"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

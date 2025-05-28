@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare de l'Auvergne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.254059</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare de l'Auvergne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4050271" lon="2.5489159"></trkpt>
+        <trkpt lat="48.4058745" lon="2.5496132"></trkpt>
+        <trkpt lat="48.40685" lon="2.5503076"></trkpt>
+        <trkpt lat="48.4070236" lon="2.5504279"></trkpt>
+        <trkpt lat="48.4074511" lon="2.5507241"></trkpt>
+        <trkpt lat="48.4079022" lon="2.5510098"></trkpt>
+        <trkpt lat="48.4083007" lon="2.5510888"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

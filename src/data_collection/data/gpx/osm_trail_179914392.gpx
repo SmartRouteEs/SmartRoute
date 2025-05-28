@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Rouillardes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.233198</time>
+</metadata>
+<trk>
+    <name>Rue des Rouillardes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9057635" lon="2.7932601"></trkpt>
+        <trkpt lat="48.905789" lon="2.7933172"></trkpt>
+        <trkpt lat="48.9057984" lon="2.7934632"></trkpt>
+        <trkpt lat="48.9058241" lon="2.7938613"></trkpt>
+        <trkpt lat="48.9058806" lon="2.7952729"></trkpt>
+        <trkpt lat="48.9059094" lon="2.7966389"></trkpt>
+        <trkpt lat="48.9059125" lon="2.7967853"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

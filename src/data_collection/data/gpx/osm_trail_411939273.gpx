@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Cubisse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.859526</time>
+</metadata>
+<trk>
+    <name>Chemin de Cubisse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2862569" lon="3.1278966"></trkpt>
+        <trkpt lat="48.2860955" lon="3.1284918"></trkpt>
+        <trkpt lat="48.2859279" lon="3.1288574"></trkpt>
+        <trkpt lat="48.2855172" lon="3.1295527"></trkpt>
+        <trkpt lat="48.284883" lon="3.1306255"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

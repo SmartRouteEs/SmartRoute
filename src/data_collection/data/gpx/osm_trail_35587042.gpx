@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Lacs à Madrid</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.997494</time>
+</metadata>
+<trk>
+    <name>Route des Lacs à Madrid</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.868535" lon="2.2624216"></trkpt>
+        <trkpt lat="48.8685914" lon="2.2621422"></trkpt>
+        <trkpt lat="48.8686163" lon="2.2619977"></trkpt>
+        <trkpt lat="48.8686558" lon="2.2618757"></trkpt>
+        <trkpt lat="48.8687082" lon="2.26179"></trkpt>
+        <trkpt lat="48.8688885" lon="2.2616011"></trkpt>
+        <trkpt lat="48.8689517" lon="2.2615323"></trkpt>
+        <trkpt lat="48.8691738" lon="2.261254"></trkpt>
+        <trkpt lat="48.8693843" lon="2.2609247"></trkpt>
+        <trkpt lat="48.8695847" lon="2.2606675"></trkpt>
+        <trkpt lat="48.8697741" lon="2.260496"></trkpt>
+        <trkpt lat="48.8699425" lon="2.2603435"></trkpt>
+        <trkpt lat="48.8701138" lon="2.2601515"></trkpt>
+        <trkpt lat="48.8703129" lon="2.2599284"></trkpt>
+        <trkpt lat="48.8704975" lon="2.2596598"></trkpt>
+        <trkpt lat="48.8705744" lon="2.2595164"></trkpt>
+        <trkpt lat="48.8706162" lon="2.2594385"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

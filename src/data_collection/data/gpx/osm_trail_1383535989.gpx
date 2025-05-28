@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Latéral au Chemin de Fer</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.329167</time>
+</metadata>
+<trk>
+    <name>Chemin Latéral au Chemin de Fer</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2438717" lon="2.4142303"></trkpt>
+        <trkpt lat="48.2435015" lon="2.414778"></trkpt>
+        <trkpt lat="48.2432818" lon="2.4151227"></trkpt>
+        <trkpt lat="48.2430383" lon="2.4155248"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

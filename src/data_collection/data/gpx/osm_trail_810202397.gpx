@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Le Fer à Cheval</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.302642</time>
+</metadata>
+<trk>
+    <name>Le Fer à Cheval</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8352206" lon="2.2170706"></trkpt>
+        <trkpt lat="48.8352175" lon="2.2172531"></trkpt>
+        <trkpt lat="48.8351808" lon="2.2173274"></trkpt>
+        <trkpt lat="48.8351331" lon="2.2174098"></trkpt>
+        <trkpt lat="48.8350819" lon="2.2174776"></trkpt>
+        <trkpt lat="48.8350218" lon="2.217532"></trkpt>
+        <trkpt lat="48.8349391" lon="2.2175875"></trkpt>
+        <trkpt lat="48.834858" lon="2.2176178"></trkpt>
+        <trkpt lat="48.8347831" lon="2.2176067"></trkpt>
+        <trkpt lat="48.8347638" lon="2.2175966"></trkpt>
+        <trkpt lat="48.8347046" lon="2.2175656"></trkpt>
+        <trkpt lat="48.8345256" lon="2.2174401"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

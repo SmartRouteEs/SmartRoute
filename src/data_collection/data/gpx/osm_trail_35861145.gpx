@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grande Mare</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.016563</time>
+</metadata>
+<trk>
+    <name>Route de la Grande Mare</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3498128" lon="2.7093313"></trkpt>
+        <trkpt lat="48.3514329" lon="2.7092194"></trkpt>
+        <trkpt lat="48.3535402" lon="2.7093501"></trkpt>
+        <trkpt lat="48.354357" lon="2.7093302"></trkpt>
+        <trkpt lat="48.3547715" lon="2.7096673"></trkpt>
+        <trkpt lat="48.3551513" lon="2.7093026"></trkpt>
+        <trkpt lat="48.3561365" lon="2.7093011"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

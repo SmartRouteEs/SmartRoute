@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Faisanderie</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.457928</time>
+</metadata>
+<trk>
+    <name>Allée de la Faisanderie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7651164" lon="2.3002246"></trkpt>
+        <trkpt lat="48.7651822" lon="2.3006811"></trkpt>
+        <trkpt lat="48.7652745" lon="2.3012559"></trkpt>
+        <trkpt lat="48.765404" lon="2.3020263"></trkpt>
+        <trkpt lat="48.7655698" lon="2.3029923"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

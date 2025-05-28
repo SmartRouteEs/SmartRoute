@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Hôpital</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.326949</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Hôpital</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6587632" lon="2.7649786"></trkpt>
+        <trkpt lat="48.6586818" lon="2.7649707"></trkpt>
+        <trkpt lat="48.6583712" lon="2.7649377"></trkpt>
+        <trkpt lat="48.657119" lon="2.7647574"></trkpt>
+        <trkpt lat="48.6559573" lon="2.7645897"></trkpt>
+        <trkpt lat="48.6559014" lon="2.7645713"></trkpt>
+        <trkpt lat="48.655875" lon="2.7645627"></trkpt>
+        <trkpt lat="48.6558496" lon="2.7645888"></trkpt>
+        <trkpt lat="48.655698" lon="2.7653213"></trkpt>
+        <trkpt lat="48.6553043" lon="2.7672445"></trkpt>
+        <trkpt lat="48.6550058" lon="2.7687119"></trkpt>
+        <trkpt lat="48.6547298" lon="2.7700674"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

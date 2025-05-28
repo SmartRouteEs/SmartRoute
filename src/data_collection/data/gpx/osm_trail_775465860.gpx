@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Brunette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.962729</time>
+</metadata>
+<trk>
+    <name>Chemin de la Brunette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4579225" lon="2.7429631"></trkpt>
+        <trkpt lat="48.4587759" lon="2.7424114"></trkpt>
+        <trkpt lat="48.4595664" lon="2.7418683"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Clermont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route de Clermont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3680784" lon="2.7014393"></trkpt>
+        <trkpt lat="48.3683049" lon="2.6982303"></trkpt>
+        <trkpt lat="48.3685737" lon="2.6943203"></trkpt>
+        <trkpt lat="48.3686866" lon="2.6930305"></trkpt>
+        <trkpt lat="48.3687546" lon="2.6917107"></trkpt>
+        <trkpt lat="48.3687038" lon="2.6904815"></trkpt>
+        <trkpt lat="48.3686972" lon="2.6903086"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

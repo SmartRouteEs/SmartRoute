@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villiers à Orsay</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.276877</time>
+</metadata>
+<trk>
+    <name>Chemin de Villiers à Orsay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6704533" lon="2.2018988"></trkpt>
+        <trkpt lat="48.6705597" lon="2.20286"></trkpt>
+        <trkpt lat="48.6706534" lon="2.2038071"></trkpt>
+        <trkpt lat="48.6706635" lon="2.2044954"></trkpt>
+        <trkpt lat="48.6706575" lon="2.2060512"></trkpt>
+        <trkpt lat="48.6706699" lon="2.2076417"></trkpt>
+        <trkpt lat="48.6706317" lon="2.2081673"></trkpt>
+        <trkpt lat="48.670558" lon="2.2086308"></trkpt>
+        <trkpt lat="48.6703483" lon="2.2092917"></trkpt>
+        <trkpt lat="48.6701272" lon="2.2099097"></trkpt>
+        <trkpt lat="48.6699118" lon="2.2106907"></trkpt>
+        <trkpt lat="48.6697928" lon="2.2111113"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

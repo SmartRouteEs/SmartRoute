@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Bois de Bussy</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.580436</time>
+</metadata>
+<trk>
+    <name>Allée des Bois de Bussy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8280844" lon="2.732467"></trkpt>
+        <trkpt lat="48.827826" lon="2.7325942"></trkpt>
+        <trkpt lat="48.8275823" lon="2.7327336"></trkpt>
+        <trkpt lat="48.8274481" lon="2.7328516"></trkpt>
+        <trkpt lat="48.8273153" lon="2.7330129"></trkpt>
+        <trkpt lat="48.8268632" lon="2.7337854"></trkpt>
+        <trkpt lat="48.8265116" lon="2.7344912"></trkpt>
+        <trkpt lat="48.8260979" lon="2.7353396"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

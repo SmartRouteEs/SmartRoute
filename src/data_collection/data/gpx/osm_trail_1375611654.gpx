@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Garenne</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.029560</time>
+</metadata>
+<trk>
+    <name>Route de la Garenne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8000223" lon="2.248413"></trkpt>
+        <trkpt lat="48.7999807" lon="2.2483368"></trkpt>
+        <trkpt lat="48.7999448" lon="2.2482804"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

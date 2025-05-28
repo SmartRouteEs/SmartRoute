@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Arpajonnais</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.870445</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Arpajonnais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6783372" lon="2.2757724"></trkpt>
+        <trkpt lat="48.6783701" lon="2.275731"></trkpt>
+        <trkpt lat="48.6815014" lon="2.2717937"></trkpt>
+        <trkpt lat="48.6821384" lon="2.2711248"></trkpt>
+        <trkpt lat="48.6824061" lon="2.2708437"></trkpt>
+        <trkpt lat="48.6830322" lon="2.2703068"></trkpt>
+        <trkpt lat="48.6832981" lon="2.2701369"></trkpt>
+        <trkpt lat="48.6839745" lon="2.2697047"></trkpt>
+        <trkpt lat="48.6851968" lon="2.2691754"></trkpt>
+        <trkpt lat="48.6859898" lon="2.2690173"></trkpt>
+        <trkpt lat="48.6869825" lon="2.2689694"></trkpt>
+        <trkpt lat="48.6872529" lon="2.2689386"></trkpt>
+        <trkpt lat="48.6875382" lon="2.268986"></trkpt>
+        <trkpt lat="48.6877904" lon="2.2690442"></trkpt>
+        <trkpt lat="48.6881027" lon="2.269157"></trkpt>
+        <trkpt lat="48.6885613" lon="2.2693223"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Danjoux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.264004</time>
+</metadata>
+<trk>
+    <name>Chemin des Danjoux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3992895" lon="2.7793983"></trkpt>
+        <trkpt lat="48.399924" lon="2.7794659"></trkpt>
+        <trkpt lat="48.4003827" lon="2.7795049"></trkpt>
+        <trkpt lat="48.4008618" lon="2.7795116"></trkpt>
+        <trkpt lat="48.4009623" lon="2.7795112"></trkpt>
+        <trkpt lat="48.4011116" lon="2.779471"></trkpt>
+        <trkpt lat="48.4013806" lon="2.7793379"></trkpt>
+        <trkpt lat="48.401491" lon="2.7793009"></trkpt>
+        <trkpt lat="48.4016003" lon="2.7792569"></trkpt>
+        <trkpt lat="48.4017082" lon="2.779206"></trkpt>
+        <trkpt lat="48.401832" lon="2.7791381"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

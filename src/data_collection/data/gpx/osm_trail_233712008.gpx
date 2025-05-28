@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Mathurins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.001931</time>
+</metadata>
+<trk>
+    <name>Route des Mathurins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4146541" lon="2.5992988"></trkpt>
+        <trkpt lat="48.416168" lon="2.6017281"></trkpt>
+        <trkpt lat="48.4162615" lon="2.6018791"></trkpt>
+        <trkpt lat="48.4164066" lon="2.6020916"></trkpt>
+        <trkpt lat="48.4165468" lon="2.6023143"></trkpt>
+        <trkpt lat="48.4179805" lon="2.6045921"></trkpt>
+        <trkpt lat="48.4190742" lon="2.6063361"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

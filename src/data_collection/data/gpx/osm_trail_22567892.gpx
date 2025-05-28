@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Marchais Artois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.473560</time>
+</metadata>
+<trk>
+    <name>Route du Marchais Artois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.47742" lon="2.6415508"></trkpt>
+        <trkpt lat="48.4757173" lon="2.6480102"></trkpt>
+        <trkpt lat="48.4748681" lon="2.6515559"></trkpt>
+        <trkpt lat="48.4744079" lon="2.6534741"></trkpt>
+        <trkpt lat="48.4737991" lon="2.6559804"></trkpt>
+        <trkpt lat="48.4736363" lon="2.6567295"></trkpt>
+        <trkpt lat="48.4730593" lon="2.6582806"></trkpt>
+        <trkpt lat="48.4722558" lon="2.6607856"></trkpt>
+        <trkpt lat="48.4705471" lon="2.6638945"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

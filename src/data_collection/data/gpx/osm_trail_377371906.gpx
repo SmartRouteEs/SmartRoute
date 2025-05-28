@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Chanoy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.141447</time>
+</metadata>
+<trk>
+    <name>Chemin du Chanoy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1603313" lon="2.7360436"></trkpt>
+        <trkpt lat="48.1604724" lon="2.736258"></trkpt>
+        <trkpt lat="48.1606239" lon="2.7364109"></trkpt>
+        <trkpt lat="48.1607896" lon="2.7365357"></trkpt>
+        <trkpt lat="48.1609396" lon="2.7366324"></trkpt>
+        <trkpt lat="48.1610221" lon="2.7366627"></trkpt>
+        <trkpt lat="48.161056" lon="2.7366572"></trkpt>
+        <trkpt lat="48.1612466" lon="2.7365202"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

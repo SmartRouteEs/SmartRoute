@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Valence</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.137549</time>
+</metadata>
+<trk>
+    <name>Route de Valence</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5005224" lon="2.9103644"></trkpt>
+        <trkpt lat="48.5009108" lon="2.910387"></trkpt>
+        <trkpt lat="48.5020749" lon="2.9105346"></trkpt>
+        <trkpt lat="48.5055216" lon="2.9109513"></trkpt>
+        <trkpt lat="48.5097734" lon="2.9114654"></trkpt>
+        <trkpt lat="48.5134318" lon="2.9119078"></trkpt>
+        <trkpt lat="48.5135926" lon="2.9119269"></trkpt>
+        <trkpt lat="48.5152837" lon="2.9121275"></trkpt>
+        <trkpt lat="48.5155005" lon="2.9121533"></trkpt>
+        <trkpt lat="48.5208072" lon="2.9127829"></trkpt>
+        <trkpt lat="48.5219368" lon="2.9129169"></trkpt>
+        <trkpt lat="48.5248194" lon="2.9132589"></trkpt>
+        <trkpt lat="48.5249385" lon="2.9132738"></trkpt>
+        <trkpt lat="48.5292586" lon="2.9138139"></trkpt>
+        <trkpt lat="48.5295832" lon="2.9138545"></trkpt>
+        <trkpt lat="48.5318189" lon="2.914134"></trkpt>
+        <trkpt lat="48.5336501" lon="2.914363"></trkpt>
+        <trkpt lat="48.5344915" lon="2.9144682"></trkpt>
+        <trkpt lat="48.5361824" lon="2.9146797"></trkpt>
+        <trkpt lat="48.5398763" lon="2.9151843"></trkpt>
+        <trkpt lat="48.5433421" lon="2.9155955"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

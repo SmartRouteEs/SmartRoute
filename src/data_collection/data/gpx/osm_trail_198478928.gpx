@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Érable</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.748320</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Érable</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3526669" lon="2.4468778"></trkpt>
+        <trkpt lat="48.3521406" lon="2.4524342"></trkpt>
+        <trkpt lat="48.3519089" lon="2.4551252"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

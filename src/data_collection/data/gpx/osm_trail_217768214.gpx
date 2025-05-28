@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint Pierre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.109149</time>
+</metadata>
+<trk>
+    <name>Route de Saint Pierre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2963292" lon="2.6721621"></trkpt>
+        <trkpt lat="48.2967062" lon="2.6724992"></trkpt>
+        <trkpt lat="48.2969453" lon="2.6729176"></trkpt>
+        <trkpt lat="48.2971238" lon="2.6737759"></trkpt>
+        <trkpt lat="48.2972533" lon="2.6739838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

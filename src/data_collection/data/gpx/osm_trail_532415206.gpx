@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Mainville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.917764</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Mainville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6777074" lon="2.4422324"></trkpt>
+        <trkpt lat="48.6777537" lon="2.4422076"></trkpt>
+        <trkpt lat="48.6778263" lon="2.4421379"></trkpt>
+        <trkpt lat="48.678115" lon="2.4415934"></trkpt>
+        <trkpt lat="48.6784002" lon="2.4407726"></trkpt>
+        <trkpt lat="48.6788588" lon="2.439453"></trkpt>
+        <trkpt lat="48.6799381" lon="2.4362501"></trkpt>
+        <trkpt lat="48.6800183" lon="2.4360841"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

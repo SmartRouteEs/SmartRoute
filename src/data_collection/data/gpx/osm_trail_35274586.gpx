@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Quai de la Charente</name>
+    <desc>Sentier VTT - Type: path - Surface: sett - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.994136</time>
+</metadata>
+<trk>
+    <name>Quai de la Charente</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8940138" lon="2.385611"></trkpt>
+        <trkpt lat="48.8934632" lon="2.3859544"></trkpt>
+        <trkpt lat="48.8932537" lon="2.3860782"></trkpt>
+        <trkpt lat="48.8932321" lon="2.386016"></trkpt>
+        <trkpt lat="48.8926897" lon="2.3863544"></trkpt>
+        <trkpt lat="48.892608" lon="2.386643"></trkpt>
+        <trkpt lat="48.8924894" lon="2.3870617"></trkpt>
+        <trkpt lat="48.8924573" lon="2.3872545"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

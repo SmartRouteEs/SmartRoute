@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Cambard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.146959</time>
+</metadata>
+<trk>
+    <name>Route de Cambard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4277717" lon="2.718603"></trkpt>
+        <trkpt lat="48.4279753" lon="2.7189245"></trkpt>
+        <trkpt lat="48.42817" lon="2.7193719"></trkpt>
+        <trkpt lat="48.4282556" lon="2.7199068"></trkpt>
+        <trkpt lat="48.4282534" lon="2.7204245"></trkpt>
+        <trkpt lat="48.4281994" lon="2.720704"></trkpt>
+        <trkpt lat="48.4281351" lon="2.7210154"></trkpt>
+        <trkpt lat="48.4282033" lon="2.7212306"></trkpt>
+        <trkpt lat="48.4282005" lon="2.7215318"></trkpt>
+        <trkpt lat="48.4282095" lon="2.7219472"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4605</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.431088</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4605</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7765825" lon="2.3024444"></trkpt>
+        <trkpt lat="48.7765463" lon="2.3026087"></trkpt>
+        <trkpt lat="48.7765542" lon="2.3026642"></trkpt>
+        <trkpt lat="48.7765747" lon="2.3028293"></trkpt>
+        <trkpt lat="48.7767532" lon="2.3027584"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

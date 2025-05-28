@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de l'Essonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.541903</time>
+</metadata>
+<trk>
+    <name>Allée de l'Essonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2317292" lon="2.433305"></trkpt>
+        <trkpt lat="48.2319753" lon="2.4333014"></trkpt>
+        <trkpt lat="48.2321934" lon="2.4332869"></trkpt>
+        <trkpt lat="48.23224" lon="2.4332539"></trkpt>
+        <trkpt lat="48.2324503" lon="2.433105"></trkpt>
+        <trkpt lat="48.2327557" lon="2.4329085"></trkpt>
+        <trkpt lat="48.2331219" lon="2.4328134"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

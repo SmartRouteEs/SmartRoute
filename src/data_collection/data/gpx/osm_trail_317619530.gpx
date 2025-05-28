@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Flaix</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Rue de la Flaix</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6495821" lon="3.3581086"></trkpt>
+        <trkpt lat="48.649541" lon="3.3582411"></trkpt>
+        <trkpt lat="48.6495181" lon="3.3584055"></trkpt>
+        <trkpt lat="48.6494941" lon="3.3589525"></trkpt>
+        <trkpt lat="48.6494673" lon="3.3596997"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

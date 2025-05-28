@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Abreuvoir</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.759165</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Abreuvoir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9234341" lon="2.8010773"></trkpt>
+        <trkpt lat="48.9234367" lon="2.801142"></trkpt>
+        <trkpt lat="48.9234308" lon="2.8012063"></trkpt>
+        <trkpt lat="48.923371" lon="2.8016429"></trkpt>
+        <trkpt lat="48.923353" lon="2.8017234"></trkpt>
+        <trkpt lat="48.9233303" lon="2.8017556"></trkpt>
+        <trkpt lat="48.9232986" lon="2.8017833"></trkpt>
+        <trkpt lat="48.9223432" lon="2.8024393"></trkpt>
+        <trkpt lat="48.922313" lon="2.8024647"></trkpt>
+        <trkpt lat="48.9222707" lon="2.8025246"></trkpt>
+        <trkpt lat="48.9221907" lon="2.8026328"></trkpt>
+        <trkpt lat="48.9221741" lon="2.8026696"></trkpt>
+        <trkpt lat="48.9221621" lon="2.802711"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

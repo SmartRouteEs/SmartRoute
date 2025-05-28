@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Mariniers</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.280788</time>
+</metadata>
+<trk>
+    <name>Chemin des Mariniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3989434" lon="2.5675876"></trkpt>
+        <trkpt lat="48.3996192" lon="2.5678153"></trkpt>
+        <trkpt lat="48.3997678" lon="2.5678628"></trkpt>
+        <trkpt lat="48.4001338" lon="2.5679605"></trkpt>
+        <trkpt lat="48.4002744" lon="2.5680645"></trkpt>
+        <trkpt lat="48.4004" lon="2.5680888"></trkpt>
+        <trkpt lat="48.4005264" lon="2.5680837"></trkpt>
+        <trkpt lat="48.4007445" lon="2.5680377"></trkpt>
+        <trkpt lat="48.4010281" lon="2.5679384"></trkpt>
+        <trkpt lat="48.4015072" lon="2.5677086"></trkpt>
+        <trkpt lat="48.4017902" lon="2.5675913"></trkpt>
+        <trkpt lat="48.4024294" lon="2.5673265"></trkpt>
+        <trkpt lat="48.4026334" lon="2.5673013"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

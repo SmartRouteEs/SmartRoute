@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Saint-Denis</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.157731</time>
+</metadata>
+<trk>
+    <name>Allée Saint-Denis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.870152" lon="2.2653195"></trkpt>
+        <trkpt lat="48.8702453" lon="2.2654755"></trkpt>
+        <trkpt lat="48.8702771" lon="2.265528"></trkpt>
+        <trkpt lat="48.8703695" lon="2.2656481"></trkpt>
+        <trkpt lat="48.8704762" lon="2.2657611"></trkpt>
+        <trkpt lat="48.8705763" lon="2.2658724"></trkpt>
+        <trkpt lat="48.870675" lon="2.265987"></trkpt>
+        <trkpt lat="48.8707564" lon="2.2661223"></trkpt>
+        <trkpt lat="48.8708136" lon="2.2662261"></trkpt>
+        <trkpt lat="48.8708682" lon="2.2663394"></trkpt>
+        <trkpt lat="48.8709496" lon="2.2665202"></trkpt>
+        <trkpt lat="48.8709974" lon="2.2666453"></trkpt>
+        <trkpt lat="48.8710632" lon="2.2667983"></trkpt>
+        <trkpt lat="48.8711082" lon="2.2669008"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

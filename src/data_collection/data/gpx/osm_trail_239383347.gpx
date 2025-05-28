@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chapelle-la Reine à Larchant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.290989</time>
+</metadata>
+<trk>
+    <name>Chemin de Chapelle-la Reine à Larchant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2978433" lon="2.5944327"></trkpt>
+        <trkpt lat="48.2975447" lon="2.5948085"></trkpt>
+        <trkpt lat="48.297188" lon="2.5950241"></trkpt>
+        <trkpt lat="48.296973" lon="2.5951827"></trkpt>
+        <trkpt lat="48.2968729" lon="2.5952912"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Limon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.227839</time>
+</metadata>
+<trk>
+    <name>Chemin de Limon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7308163" lon="2.2043831"></trkpt>
+        <trkpt lat="48.7307579" lon="2.2043387"></trkpt>
+        <trkpt lat="48.7306558" lon="2.2042713"></trkpt>
+        <trkpt lat="48.7305383" lon="2.2042903"></trkpt>
+        <trkpt lat="48.7301616" lon="2.2048087"></trkpt>
+        <trkpt lat="48.730063" lon="2.2049697"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

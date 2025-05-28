@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Halage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.725817</time>
+</metadata>
+<trk>
+    <name>Chemin de Halage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3929565" lon="2.8252118"></trkpt>
+        <trkpt lat="48.392903" lon="2.8251206"></trkpt>
+        <trkpt lat="48.3930942" lon="2.8237546"></trkpt>
+        <trkpt lat="48.393213" lon="2.8231302"></trkpt>
+        <trkpt lat="48.3933198" lon="2.8225028"></trkpt>
+        <trkpt lat="48.3935862" lon="2.820278"></trkpt>
+        <trkpt lat="48.3936164" lon="2.8192014"></trkpt>
+        <trkpt lat="48.3936759" lon="2.8188164"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

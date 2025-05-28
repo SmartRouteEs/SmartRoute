@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vallées</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.239425</time>
+</metadata>
+<trk>
+    <name>Chemin des Vallées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6573461" lon="2.6261963"></trkpt>
+        <trkpt lat="48.657534" lon="2.6267954"></trkpt>
+        <trkpt lat="48.6576347" lon="2.627008"></trkpt>
+        <trkpt lat="48.6585379" lon="2.6285616"></trkpt>
+        <trkpt lat="48.6585889" lon="2.6286951"></trkpt>
+        <trkpt lat="48.6586549" lon="2.6287686"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

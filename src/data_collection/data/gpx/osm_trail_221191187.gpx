@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Grande Ceinture</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:50.301575</time>
+</metadata>
+<trk>
+    <name>Route de la Grande Ceinture</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7570039" lon="2.2268588"></trkpt>
+        <trkpt lat="48.7567162" lon="2.2265997"></trkpt>
+        <trkpt lat="48.7563683" lon="2.2264129"></trkpt>
+        <trkpt lat="48.7561491" lon="2.2263717"></trkpt>
+        <trkpt lat="48.7557939" lon="2.2262941"></trkpt>
+        <trkpt lat="48.7557311" lon="2.2262804"></trkpt>
+        <trkpt lat="48.755267" lon="2.2264192"></trkpt>
+        <trkpt lat="48.7549309" lon="2.226635"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

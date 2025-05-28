@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Lacs à Bagatelle</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.912289</time>
+</metadata>
+<trk>
+    <name>Route des Lacs à Bagatelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8665584" lon="2.2543354"></trkpt>
+        <trkpt lat="48.8667306" lon="2.254116"></trkpt>
+        <trkpt lat="48.8668359" lon="2.2539015"></trkpt>
+        <trkpt lat="48.8669088" lon="2.2536972"></trkpt>
+        <trkpt lat="48.8669351" lon="2.2536089"></trkpt>
+        <trkpt lat="48.8669664" lon="2.2534699"></trkpt>
+        <trkpt lat="48.8670009" lon="2.2532137"></trkpt>
+        <trkpt lat="48.8670233" lon="2.2530409"></trkpt>
+        <trkpt lat="48.8670478" lon="2.2528669"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Hase</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.920023</time>
+</metadata>
+<trk>
+    <name>Route de la Hase</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3768598" lon="2.5796083"></trkpt>
+        <trkpt lat="48.3767266" lon="2.5795858"></trkpt>
+        <trkpt lat="48.3765674" lon="2.5795585"></trkpt>
+        <trkpt lat="48.3763962" lon="2.5794802"></trkpt>
+        <trkpt lat="48.376244" lon="2.579365"></trkpt>
+        <trkpt lat="48.3757249" lon="2.5792865"></trkpt>
+        <trkpt lat="48.3754078" lon="2.5790975"></trkpt>
+        <trkpt lat="48.3751914" lon="2.5790734"></trkpt>
+        <trkpt lat="48.3748176" lon="2.5791976"></trkpt>
+        <trkpt lat="48.3744776" lon="2.5789758"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

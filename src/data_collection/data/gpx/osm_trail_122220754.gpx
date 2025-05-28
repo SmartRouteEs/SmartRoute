@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie BP/17</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.889947</time>
+</metadata>
+<trk>
+    <name>Voie BP/17</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8930582" lon="2.3045482"></trkpt>
+        <trkpt lat="48.8928548" lon="2.3047922"></trkpt>
+        <trkpt lat="48.8927589" lon="2.3049333"></trkpt>
+        <trkpt lat="48.8926534" lon="2.3051856"></trkpt>
+        <trkpt lat="48.892479" lon="2.3055168"></trkpt>
+        <trkpt lat="48.8921552" lon="2.3059356"></trkpt>
+        <trkpt lat="48.8919827" lon="2.3062043"></trkpt>
+        <trkpt lat="48.8919739" lon="2.3062439"></trkpt>
+        <trkpt lat="48.8919769" lon="2.3063001"></trkpt>
+        <trkpt lat="48.8919739" lon="2.3063532"></trkpt>
+        <trkpt lat="48.8919548" lon="2.3064044"></trkpt>
+        <trkpt lat="48.8919236" lon="2.3064759"></trkpt>
+        <trkpt lat="48.8918861" lon="2.3065653"></trkpt>
+        <trkpt lat="48.8917643" lon="2.3067753"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

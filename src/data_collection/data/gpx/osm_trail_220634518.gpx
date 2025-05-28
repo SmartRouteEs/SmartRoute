@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Briquet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.275567</time>
+</metadata>
+<trk>
+    <name>Route Briquet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.464365" lon="2.6388619"></trkpt>
+        <trkpt lat="48.4672399" lon="2.6384353"></trkpt>
+        <trkpt lat="48.4685612" lon="2.6382493"></trkpt>
+        <trkpt lat="48.471843" lon="2.6377959"></trkpt>
+        <trkpt lat="48.4756359" lon="2.6372737"></trkpt>
+        <trkpt lat="48.4767918" lon="2.6370992"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

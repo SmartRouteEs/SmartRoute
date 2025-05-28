@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 24196</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.797352</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 24196</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1772913" lon="3.1185542"></trkpt>
+        <trkpt lat="48.1768484" lon="3.1184972"></trkpt>
+        <trkpt lat="48.1760799" lon="3.1184635"></trkpt>
+        <trkpt lat="48.1757246" lon="3.1184011"></trkpt>
+        <trkpt lat="48.1748345" lon="3.1181467"></trkpt>
+        <trkpt lat="48.1745495" lon="3.1181227"></trkpt>
+        <trkpt lat="48.1742229" lon="3.1181611"></trkpt>
+        <trkpt lat="48.1737649" lon="3.1182402"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

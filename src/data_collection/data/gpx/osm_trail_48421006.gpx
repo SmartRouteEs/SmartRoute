@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Tavannes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.623924</time>
+</metadata>
+<trk>
+    <name>Route de Tavannes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4059777" lon="2.6313514"></trkpt>
+        <trkpt lat="48.4060716" lon="2.631349"></trkpt>
+        <trkpt lat="48.4061783" lon="2.6313818"></trkpt>
+        <trkpt lat="48.406413" lon="2.631454"></trkpt>
+        <trkpt lat="48.4064964" lon="2.6315681"></trkpt>
+        <trkpt lat="48.4066178" lon="2.6318042"></trkpt>
+        <trkpt lat="48.4068494" lon="2.6321054"></trkpt>
+        <trkpt lat="48.4070123" lon="2.632321"></trkpt>
+        <trkpt lat="48.4072256" lon="2.6324706"></trkpt>
+        <trkpt lat="48.4073247" lon="2.6324734"></trkpt>
+        <trkpt lat="48.4074272" lon="2.6324004"></trkpt>
+        <trkpt lat="48.4076435" lon="2.6324471"></trkpt>
+        <trkpt lat="48.407744" lon="2.6324423"></trkpt>
+        <trkpt lat="48.407938" lon="2.6323671"></trkpt>
+        <trkpt lat="48.408242" lon="2.632347"></trkpt>
+        <trkpt lat="48.4085475" lon="2.6322731"></trkpt>
+        <trkpt lat="48.408713" lon="2.6322786"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Egrenay</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.255935</time>
+</metadata>
+<trk>
+    <name>Chemin des Egrenay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6454056" lon="2.5716906"></trkpt>
+        <trkpt lat="48.6453186" lon="2.5716874"></trkpt>
+        <trkpt lat="48.6452105" lon="2.5717297"></trkpt>
+        <trkpt lat="48.6449733" lon="2.5718814"></trkpt>
+        <trkpt lat="48.644689" lon="2.5721162"></trkpt>
+        <trkpt lat="48.6444519" lon="2.5723394"></trkpt>
+        <trkpt lat="48.6443507" lon="2.5722569"></trkpt>
+        <trkpt lat="48.64406" lon="2.5719877"></trkpt>
+        <trkpt lat="48.6439204" lon="2.5718597"></trkpt>
+        <trkpt lat="48.6438605" lon="2.5718048"></trkpt>
+        <trkpt lat="48.6437972" lon="2.5717486"></trkpt>
+        <trkpt lat="48.6437761" lon="2.5717235"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

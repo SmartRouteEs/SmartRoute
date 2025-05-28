@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Terre aux Mottes</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.738422</time>
+</metadata>
+<trk>
+    <name>Chemin de la Terre aux Mottes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6850941" lon="2.2758529"></trkpt>
+        <trkpt lat="48.684561" lon="2.2751368"></trkpt>
+        <trkpt lat="48.6845494" lon="2.2751213"></trkpt>
+        <trkpt lat="48.6844978" lon="2.275033"></trkpt>
+        <trkpt lat="48.6841846" lon="2.2747201"></trkpt>
+        <trkpt lat="48.6837133" lon="2.2743093"></trkpt>
+        <trkpt lat="48.6835266" lon="2.2741666"></trkpt>
+        <trkpt lat="48.6833146" lon="2.2739561"></trkpt>
+        <trkpt lat="48.6830407" lon="2.2735949"></trkpt>
+        <trkpt lat="48.6828505" lon="2.2731881"></trkpt>
+        <trkpt lat="48.6826827" lon="2.2727564"></trkpt>
+        <trkpt lat="48.6825419" lon="2.2722962"></trkpt>
+        <trkpt lat="48.6821384" lon="2.2711248"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

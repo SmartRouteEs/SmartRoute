@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente du Grand Val</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.037583</time>
+</metadata>
+<trk>
+    <name>Sente du Grand Val</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6775673" lon="2.5720491"></trkpt>
+        <trkpt lat="48.6781324" lon="2.5725497"></trkpt>
+        <trkpt lat="48.6784658" lon="2.5730529"></trkpt>
+        <trkpt lat="48.6786736" lon="2.5733651"></trkpt>
+        <trkpt lat="48.67879" lon="2.5741888"></trkpt>
+        <trkpt lat="48.6789332" lon="2.5747801"></trkpt>
+        <trkpt lat="48.6792449" lon="2.577188"></trkpt>
+        <trkpt lat="48.679361" lon="2.5773078"></trkpt>
+        <trkpt lat="48.679571" lon="2.5773452"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

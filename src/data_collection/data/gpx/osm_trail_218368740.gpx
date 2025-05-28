@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Cloîtres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.174116</time>
+</metadata>
+<trk>
+    <name>Route des Cloîtres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8017271" lon="2.220948"></trkpt>
+        <trkpt lat="48.8016192" lon="2.2204977"></trkpt>
+        <trkpt lat="48.8009245" lon="2.2183784"></trkpt>
+        <trkpt lat="48.8007054" lon="2.217704"></trkpt>
+        <trkpt lat="48.8002353" lon="2.2162667"></trkpt>
+        <trkpt lat="48.8002084" lon="2.216184"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

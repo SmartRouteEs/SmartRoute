@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Jardins du Mesnil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.851886</time>
+</metadata>
+<trk>
+    <name>Chemin des Jardins du Mesnil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6500607" lon="2.2882871"></trkpt>
+        <trkpt lat="48.6501199" lon="2.2880602"></trkpt>
+        <trkpt lat="48.6501575" lon="2.2879359"></trkpt>
+        <trkpt lat="48.650726" lon="2.286055"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

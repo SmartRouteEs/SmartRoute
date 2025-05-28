@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin Neuf</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.522722</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin Neuf</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4048565" lon="2.382643"></trkpt>
+        <trkpt lat="48.4049046" lon="2.3827018"></trkpt>
+        <trkpt lat="48.4050034" lon="2.3827632"></trkpt>
+        <trkpt lat="48.4051322" lon="2.3828247"></trkpt>
+        <trkpt lat="48.4052447" lon="2.3828616"></trkpt>
+        <trkpt lat="48.4053589" lon="2.3828794"></trkpt>
+        <trkpt lat="48.4054959" lon="2.3828807"></trkpt>
+        <trkpt lat="48.405817" lon="2.3828858"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

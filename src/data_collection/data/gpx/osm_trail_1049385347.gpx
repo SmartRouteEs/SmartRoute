@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie des Oies</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.693348</time>
+</metadata>
+<trk>
+    <name>Voie des Oies</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2719261" lon="3.2407604"></trkpt>
+        <trkpt lat="48.2718284" lon="3.2406792"></trkpt>
+        <trkpt lat="48.2716196" lon="3.2403662"></trkpt>
+        <trkpt lat="48.2708256" lon="3.2390382"></trkpt>
+        <trkpt lat="48.270038" lon="3.2377208"></trkpt>
+        <trkpt lat="48.2693464" lon="3.2370872"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

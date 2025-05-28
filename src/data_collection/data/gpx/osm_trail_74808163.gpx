@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4210</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.124689</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4210</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2264029" lon="3.1688488"></trkpt>
+        <trkpt lat="48.2255767" lon="3.1687309"></trkpt>
+        <trkpt lat="48.2249239" lon="3.1685021"></trkpt>
+        <trkpt lat="48.2246489" lon="3.1684928"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

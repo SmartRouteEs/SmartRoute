@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Vaux la Reine</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.729883</time>
+</metadata>
+<trk>
+    <name>Route de Vaux la Reine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6535102" lon="2.5379316"></trkpt>
+        <trkpt lat="48.6537021" lon="2.5382386"></trkpt>
+        <trkpt lat="48.6551164" lon="2.5403175"></trkpt>
+        <trkpt lat="48.6558181" lon="2.5413877"></trkpt>
+        <trkpt lat="48.656514" lon="2.5423557"></trkpt>
+        <trkpt lat="48.6569874" lon="2.5430292"></trkpt>
+        <trkpt lat="48.6575093" lon="2.5438298"></trkpt>
+        <trkpt lat="48.6580994" lon="2.5447366"></trkpt>
+        <trkpt lat="48.6586548" lon="2.54551"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

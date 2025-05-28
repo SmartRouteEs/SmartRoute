@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Prairies</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.693589</time>
+</metadata>
+<trk>
+    <name>Allée des Prairies</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6386924" lon="2.3006625"></trkpt>
+        <trkpt lat="48.6387888" lon="2.3006845"></trkpt>
+        <trkpt lat="48.6396929" lon="2.3008905"></trkpt>
+        <trkpt lat="48.6398461" lon="2.3008887"></trkpt>
+        <trkpt lat="48.6398892" lon="2.3009053"></trkpt>
+        <trkpt lat="48.6406038" lon="2.3009731"></trkpt>
+        <trkpt lat="48.6442677" lon="2.3010474"></trkpt>
+        <trkpt lat="48.6445915" lon="2.3010532"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

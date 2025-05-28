@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle Biron</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.110153</time>
+</metadata>
+<trk>
+    <name>Ruelle Biron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.438203" lon="2.7684525"></trkpt>
+        <trkpt lat="48.4389611" lon="2.7668592"></trkpt>
+        <trkpt lat="48.4390322" lon="2.7656361"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

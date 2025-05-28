@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 29908</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: 2</desc>
+    <time>2025-05-28T01:15:59.974958</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 29908</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8817373" lon="2.5600236"></trkpt>
+        <trkpt lat="48.8818518" lon="2.5600398"></trkpt>
+        <trkpt lat="48.8821475" lon="2.5600243"></trkpt>
+        <trkpt lat="48.8827444" lon="2.5598798"></trkpt>
+        <trkpt lat="48.8828521" lon="2.5598452"></trkpt>
+        <trkpt lat="48.8828918" lon="2.5598397"></trkpt>
+        <trkpt lat="48.8830535" lon="2.5598207"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de La Fleur de Line</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.301271</time>
+</metadata>
+<trk>
+    <name>Chemin de La Fleur de Line</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3256505" lon="3.1606221"></trkpt>
+        <trkpt lat="48.3243082" lon="3.1628974"></trkpt>
+        <trkpt lat="48.3240542" lon="3.1633017"></trkpt>
+        <trkpt lat="48.3239732" lon="3.1635203"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

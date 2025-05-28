@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Faux-Fuyant</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.633841</time>
+</metadata>
+<trk>
+    <name>Chemin du Faux-Fuyant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7687515" lon="2.2637695"></trkpt>
+        <trkpt lat="48.768838" lon="2.2634005"></trkpt>
+        <trkpt lat="48.7688697" lon="2.2632103"></trkpt>
+        <trkpt lat="48.7689014" lon="2.2629537"></trkpt>
+        <trkpt lat="48.7691291" lon="2.262602"></trkpt>
+        <trkpt lat="48.7692471" lon="2.2623571"></trkpt>
+        <trkpt lat="48.7693068" lon="2.2621496"></trkpt>
+        <trkpt lat="48.769314" lon="2.2619934"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

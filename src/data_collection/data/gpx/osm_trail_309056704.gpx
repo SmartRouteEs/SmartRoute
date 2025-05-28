@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Pont du Thiel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.083811</time>
+</metadata>
+<trk>
+    <name>Rue du Pont du Thiel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8218909" lon="3.109583"></trkpt>
+        <trkpt lat="48.8218184" lon="3.1102807"></trkpt>
+        <trkpt lat="48.8218266" lon="3.1106339"></trkpt>
+        <trkpt lat="48.8218295" lon="3.1107283"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

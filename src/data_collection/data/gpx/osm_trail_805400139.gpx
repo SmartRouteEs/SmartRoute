@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Grand Jarrier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.220332</time>
+</metadata>
+<trk>
+    <name>Route du Grand Jarrier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4066967" lon="2.7443266"></trkpt>
+        <trkpt lat="48.4073439" lon="2.7459284"></trkpt>
+        <trkpt lat="48.4079668" lon="2.7476487"></trkpt>
+        <trkpt lat="48.4079866" lon="2.7477034"></trkpt>
+        <trkpt lat="48.408092" lon="2.7479731"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Marie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.892642</time>
+</metadata>
+<trk>
+    <name>Route Marie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4088313" lon="2.7550247"></trkpt>
+        <trkpt lat="48.4084287" lon="2.7543016"></trkpt>
+        <trkpt lat="48.4073438" lon="2.7530505"></trkpt>
+        <trkpt lat="48.4071495" lon="2.7527378"></trkpt>
+        <trkpt lat="48.4067879" lon="2.750962"></trkpt>
+        <trkpt lat="48.4067946" lon="2.7503163"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

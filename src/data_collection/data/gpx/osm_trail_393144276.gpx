@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vieille Marmotte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.479925</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vieille Marmotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3484813" lon="2.3941129"></trkpt>
+        <trkpt lat="48.3484392" lon="2.3942699"></trkpt>
+        <trkpt lat="48.3484099" lon="2.3946118"></trkpt>
+        <trkpt lat="48.3483814" lon="2.3949069"></trkpt>
+        <trkpt lat="48.3483993" lon="2.3951751"></trkpt>
+        <trkpt lat="48.3484278" lon="2.3954433"></trkpt>
+        <trkpt lat="48.3484713" lon="2.3956914"></trkpt>
+        <trkpt lat="48.3484876" lon="2.395838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

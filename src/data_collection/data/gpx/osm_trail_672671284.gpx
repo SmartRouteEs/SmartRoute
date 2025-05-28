@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Larry Saint-Pierre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.954437</time>
+</metadata>
+<trk>
+    <name>Chemin du Larry Saint-Pierre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.373557" lon="2.3759644"></trkpt>
+        <trkpt lat="48.3735281" lon="2.3757235"></trkpt>
+        <trkpt lat="48.373424" lon="2.375578"></trkpt>
+        <trkpt lat="48.3732411" lon="2.375428"></trkpt>
+        <trkpt lat="48.3731765" lon="2.3753469"></trkpt>
+        <trkpt lat="48.3730797" lon="2.3751567"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

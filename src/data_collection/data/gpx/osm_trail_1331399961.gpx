@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Plaine Nandy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.623749</time>
+</metadata>
+<trk>
+    <name>Route de la Plaine Nandy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5942821" lon="2.5384204"></trkpt>
+        <trkpt lat="48.5945353" lon="2.5380996"></trkpt>
+        <trkpt lat="48.5953848" lon="2.5370236"></trkpt>
+        <trkpt lat="48.5955709" lon="2.5367878"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

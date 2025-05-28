@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente de la Fontaine-la-Reine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.120270</time>
+</metadata>
+<trk>
+    <name>Sente de la Fontaine-la-Reine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.733107" lon="3.0144389"></trkpt>
+        <trkpt lat="48.7331635" lon="3.0145833"></trkpt>
+        <trkpt lat="48.7331838" lon="3.014961"></trkpt>
+        <trkpt lat="48.733479" lon="3.0160882"></trkpt>
+        <trkpt lat="48.7336376" lon="3.0167427"></trkpt>
+        <trkpt lat="48.7336967" lon="3.0172826"></trkpt>
+        <trkpt lat="48.7337641" lon="3.017402"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

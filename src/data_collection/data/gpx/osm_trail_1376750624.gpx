@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Petites Maisons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.055465</time>
+</metadata>
+<trk>
+    <name>Route des Petites Maisons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.375423" lon="2.6469339"></trkpt>
+        <trkpt lat="48.3753859" lon="2.6471108"></trkpt>
+        <trkpt lat="48.3753478" lon="2.6472305"></trkpt>
+        <trkpt lat="48.3753433" lon="2.6472447"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

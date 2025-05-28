@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Élagueur</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.286525</time>
+</metadata>
+<trk>
+    <name>Route de l'Élagueur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4834055" lon="2.7501695"></trkpt>
+        <trkpt lat="48.4834393" lon="2.7504268"></trkpt>
+        <trkpt lat="48.4826133" lon="2.7536038"></trkpt>
+        <trkpt lat="48.482081" lon="2.7556357"></trkpt>
+        <trkpt lat="48.4813517" lon="2.7576567"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

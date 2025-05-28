@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Fond de la Bâte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.464916</time>
+</metadata>
+<trk>
+    <name>Chemin du Fond de la Bâte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3322749" lon="2.4665795"></trkpt>
+        <trkpt lat="48.3326283" lon="2.4717798"></trkpt>
+        <trkpt lat="48.3329621" lon="2.4764968"></trkpt>
+        <trkpt lat="48.3330765" lon="2.4785523"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

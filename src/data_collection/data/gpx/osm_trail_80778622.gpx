@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Verville</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.409581</time>
+</metadata>
+<trk>
+    <name>Allée de la Verville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5620508" lon="2.4225331"></trkpt>
+        <trkpt lat="48.560419" lon="2.4242033"></trkpt>
+        <trkpt lat="48.5599314" lon="2.4247078"></trkpt>
+        <trkpt lat="48.559911" lon="2.4247276"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

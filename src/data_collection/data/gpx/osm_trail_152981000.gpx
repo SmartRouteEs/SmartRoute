@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de l'Yonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.586968</time>
+</metadata>
+<trk>
+    <name>Rue de l'Yonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3206322" lon="3.1946738"></trkpt>
+        <trkpt lat="48.320284" lon="3.1952358"></trkpt>
+        <trkpt lat="48.3200319" lon="3.1957261"></trkpt>
+        <trkpt lat="48.3198433" lon="3.1962199"></trkpt>
+        <trkpt lat="48.3196286" lon="3.1968116"></trkpt>
+        <trkpt lat="48.3194396" lon="3.1972434"></trkpt>
+        <trkpt lat="48.3192621" lon="3.1976161"></trkpt>
+        <trkpt lat="48.3190276" lon="3.198054"></trkpt>
+        <trkpt lat="48.3187429" lon="3.198495"></trkpt>
+        <trkpt lat="48.3185382" lon="3.1988164"></trkpt>
+        <trkpt lat="48.3182962" lon="3.1991221"></trkpt>
+        <trkpt lat="48.3179306" lon="3.1996152"></trkpt>
+        <trkpt lat="48.3175996" lon="3.1999549"></trkpt>
+        <trkpt lat="48.3175738" lon="3.1999814"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

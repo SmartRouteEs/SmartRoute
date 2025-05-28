@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Clémentine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.600172</time>
+</metadata>
+<trk>
+    <name>Route Clémentine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3721718" lon="2.6187799"></trkpt>
+        <trkpt lat="48.3753026" lon="2.6230501"></trkpt>
+        <trkpt lat="48.3753504" lon="2.6231038"></trkpt>
+        <trkpt lat="48.3754986" lon="2.6232904"></trkpt>
+        <trkpt lat="48.3756169" lon="2.6234552"></trkpt>
+        <trkpt lat="48.3757106" lon="2.6235894"></trkpt>
+        <trkpt lat="48.3788557" lon="2.6277848"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

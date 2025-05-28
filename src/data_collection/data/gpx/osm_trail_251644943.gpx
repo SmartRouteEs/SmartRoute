@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Plâtrières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.612846</time>
+</metadata>
+<trk>
+    <name>Chemin des Plâtrières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8991908" lon="2.8828419"></trkpt>
+        <trkpt lat="48.8992397" lon="2.8830592"></trkpt>
+        <trkpt lat="48.8993063" lon="2.8831807"></trkpt>
+        <trkpt lat="48.8994232" lon="2.8832569"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

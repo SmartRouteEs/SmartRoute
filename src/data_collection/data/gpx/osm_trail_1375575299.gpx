@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Sully</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.013457</time>
+</metadata>
+<trk>
+    <name>Route de Sully</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4316375" lon="2.6301133"></trkpt>
+        <trkpt lat="48.4318265" lon="2.6296236"></trkpt>
+        <trkpt lat="48.4319842" lon="2.6290375"></trkpt>
+        <trkpt lat="48.432302" lon="2.6287324"></trkpt>
+        <trkpt lat="48.4325562" lon="2.628372"></trkpt>
+        <trkpt lat="48.4327597" lon="2.6280018"></trkpt>
+        <trkpt lat="48.4330223" lon="2.6276856"></trkpt>
+        <trkpt lat="48.4335652" lon="2.6274299"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

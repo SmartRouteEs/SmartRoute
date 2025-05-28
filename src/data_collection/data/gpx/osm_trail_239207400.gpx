@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Busseau à Puiselet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.211041</time>
+</metadata>
+<trk>
+    <name>Chemin de Busseau à Puiselet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2930133" lon="2.6560285"></trkpt>
+        <trkpt lat="48.2945187" lon="2.6535928"></trkpt>
+        <trkpt lat="48.2950805" lon="2.6526272"></trkpt>
+        <trkpt lat="48.2959688" lon="2.6511003"></trkpt>
+        <trkpt lat="48.2964894" lon="2.6501785"></trkpt>
+        <trkpt lat="48.2977129" lon="2.6481537"></trkpt>
+        <trkpt lat="48.2991226" lon="2.6456867"></trkpt>
+        <trkpt lat="48.3006013" lon="2.6432736"></trkpt>
+        <trkpt lat="48.3014297" lon="2.6419726"></trkpt>
+        <trkpt lat="48.3028255" lon="2.6394193"></trkpt>
+        <trkpt lat="48.3039858" lon="2.6371744"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

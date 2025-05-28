@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Moulins</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.193458</time>
+</metadata>
+<trk>
+    <name>Route des Moulins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8660541" lon="2.2420146"></trkpt>
+        <trkpt lat="48.86604" lon="2.2422349"></trkpt>
+        <trkpt lat="48.8660112" lon="2.2427898"></trkpt>
+        <trkpt lat="48.866006" lon="2.2429528"></trkpt>
+        <trkpt lat="48.8659905" lon="2.2434412"></trkpt>
+        <trkpt lat="48.8659691" lon="2.2439874"></trkpt>
+        <trkpt lat="48.8659423" lon="2.2440724"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

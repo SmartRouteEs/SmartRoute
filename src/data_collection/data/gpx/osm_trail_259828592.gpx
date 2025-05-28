@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saulx à Champlan</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.727371</time>
+</metadata>
+<trk>
+    <name>Chemin de Saulx à Champlan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6937972" lon="2.266334"></trkpt>
+        <trkpt lat="48.6938716" lon="2.2662656"></trkpt>
+        <trkpt lat="48.6939635" lon="2.2662246"></trkpt>
+        <trkpt lat="48.6940416" lon="2.26622"></trkpt>
+        <trkpt lat="48.6941209" lon="2.2662355"></trkpt>
+        <trkpt lat="48.6943668" lon="2.2662911"></trkpt>
+        <trkpt lat="48.6946801" lon="2.266246"></trkpt>
+        <trkpt lat="48.6950871" lon="2.2662323"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

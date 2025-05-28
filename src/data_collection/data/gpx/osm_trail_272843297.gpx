@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de Vorpillière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.151116</time>
+</metadata>
+<trk>
+    <name>chemin de Vorpillière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9310819" lon="3.1599802"></trkpt>
+        <trkpt lat="48.9312202" lon="3.1594047"></trkpt>
+        <trkpt lat="48.9313585" lon="3.1582392"></trkpt>
+        <trkpt lat="48.9313598" lon="3.1578784"></trkpt>
+        <trkpt lat="48.9313952" lon="3.1575045"></trkpt>
+        <trkpt lat="48.9314626" lon="3.1572146"></trkpt>
+        <trkpt lat="48.9314758" lon="3.1569979"></trkpt>
+        <trkpt lat="48.9314989" lon="3.156742"></trkpt>
+        <trkpt lat="48.9315468" lon="3.1566226"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

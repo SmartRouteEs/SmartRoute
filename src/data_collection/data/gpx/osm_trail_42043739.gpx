@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Grand Val</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.310673</time>
+</metadata>
+<trk>
+    <name>Chemin du Grand Val</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9317539" lon="2.9039648"></trkpt>
+        <trkpt lat="48.9316097" lon="2.9044982"></trkpt>
+        <trkpt lat="48.9314941" lon="2.9048809"></trkpt>
+        <trkpt lat="48.9314639" lon="2.9050365"></trkpt>
+        <trkpt lat="48.9314463" lon="2.9051746"></trkpt>
+        <trkpt lat="48.9314722" lon="2.9052959"></trkpt>
+        <trkpt lat="48.9315231" lon="2.9055356"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

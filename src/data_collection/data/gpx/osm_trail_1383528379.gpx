@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Essarts</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.329167</time>
+</metadata>
+<trk>
+    <name>Chemin des Essarts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1966288" lon="2.291035"></trkpt>
+        <trkpt lat="48.1966508" lon="2.29118"></trkpt>
+        <trkpt lat="48.1966906" lon="2.2914733"></trkpt>
+        <trkpt lat="48.19672" lon="2.2916327"></trkpt>
+        <trkpt lat="48.1967464" lon="2.29174"></trkpt>
+        <trkpt lat="48.1968387" lon="2.2921095"></trkpt>
+        <trkpt lat="48.1969013" lon="2.2922936"></trkpt>
+        <trkpt lat="48.1970097" lon="2.2925074"></trkpt>
+        <trkpt lat="48.1971174" lon="2.2926709"></trkpt>
+        <trkpt lat="48.1971952" lon="2.2927427"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

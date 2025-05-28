@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Étangs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.496501</time>
+</metadata>
+<trk>
+    <name>Allée des Étangs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9130892" lon="2.5614569"></trkpt>
+        <trkpt lat="48.9130246" lon="2.5615354"></trkpt>
+        <trkpt lat="48.9123772" lon="2.5623218"></trkpt>
+        <trkpt lat="48.9119853" lon="2.5630086"></trkpt>
+        <trkpt lat="48.9118661" lon="2.5631769"></trkpt>
+        <trkpt lat="48.911306" lon="2.5640934"></trkpt>
+        <trkpt lat="48.9112889" lon="2.564123"></trkpt>
+        <trkpt lat="48.9106046" lon="2.5653041"></trkpt>
+        <trkpt lat="48.9104913" lon="2.5654855"></trkpt>
+        <trkpt lat="48.9101099" lon="2.5663772"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

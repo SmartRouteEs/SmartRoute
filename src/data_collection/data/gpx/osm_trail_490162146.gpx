@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 22079</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.579285</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 22079</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6559244" lon="3.2738239"></trkpt>
+        <trkpt lat="48.6560187" lon="3.2738641"></trkpt>
+        <trkpt lat="48.6560479" lon="3.2739177"></trkpt>
+        <trkpt lat="48.6560533" lon="3.2741819"></trkpt>
+        <trkpt lat="48.656086" lon="3.2747271"></trkpt>
+        <trkpt lat="48.6561702" lon="3.2751355"></trkpt>
+        <trkpt lat="48.6563053" lon="3.2755217"></trkpt>
+        <trkpt lat="48.6567553" lon="3.2762003"></trkpt>
+        <trkpt lat="48.6568794" lon="3.2762378"></trkpt>
+        <trkpt lat="48.6573205" lon="3.2762553"></trkpt>
+        <trkpt lat="48.6575739" lon="3.2761909"></trkpt>
+        <trkpt lat="48.6580833" lon="3.2759415"></trkpt>
+        <trkpt lat="48.6584739" lon="3.2756558"></trkpt>
+        <trkpt lat="48.6588929" lon="3.2751918"></trkpt>
+        <trkpt lat="48.6592163" lon="3.2749718"></trkpt>
+        <trkpt lat="48.6602495" lon="3.2739458"></trkpt>
+        <trkpt lat="48.6611707" lon="3.2731733"></trkpt>
+        <trkpt lat="48.662937" lon="3.2717491"></trkpt>
+        <trkpt lat="48.664744" lon="3.2717705"></trkpt>
+        <trkpt lat="48.6655925" lon="3.2718268"></trkpt>
+        <trkpt lat="48.6657184" lon="3.2718916"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse de la Rue de la Chaume</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.315469</time>
+</metadata>
+<trk>
+    <name>Impasse de la Rue de la Chaume</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.290149" lon="3.3675818"></trkpt>
+        <trkpt lat="48.2910582" lon="3.3674893"></trkpt>
+        <trkpt lat="48.2911778" lon="3.3674965"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

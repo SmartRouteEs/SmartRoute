@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Noailles</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.915215</time>
+</metadata>
+<trk>
+    <name>Route de Noailles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7518937" lon="2.2409478"></trkpt>
+        <trkpt lat="48.7519695" lon="2.2408319"></trkpt>
+        <trkpt lat="48.7524296" lon="2.2404802"></trkpt>
+        <trkpt lat="48.7529708" lon="2.240014"></trkpt>
+        <trkpt lat="48.754294" lon="2.2389409"></trkpt>
+        <trkpt lat="48.7543192" lon="2.2388486"></trkpt>
+        <trkpt lat="48.7552234" lon="2.2381427"></trkpt>
+        <trkpt lat="48.7560734" lon="2.237434"></trkpt>
+        <trkpt lat="48.7562047" lon="2.2373245"></trkpt>
+        <trkpt lat="48.7565865" lon="2.2370488"></trkpt>
+        <trkpt lat="48.7566819" lon="2.237018"></trkpt>
+        <trkpt lat="48.7581604" lon="2.237069"></trkpt>
+        <trkpt lat="48.758786" lon="2.237099"></trkpt>
+        <trkpt lat="48.7600798" lon="2.2371633"></trkpt>
+        <trkpt lat="48.7606641" lon="2.2371867"></trkpt>
+        <trkpt lat="48.760749" lon="2.237208"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

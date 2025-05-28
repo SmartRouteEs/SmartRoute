@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 885</name>
+    <desc>Sentier VTT - Type: track - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.645983</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 885</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8566348" lon="2.619178"></trkpt>
+        <trkpt lat="48.8566864" lon="2.61915"></trkpt>
+        <trkpt lat="48.8567315" lon="2.6191412"></trkpt>
+        <trkpt lat="48.8567995" lon="2.6191495"></trkpt>
+        <trkpt lat="48.8568893" lon="2.6192352"></trkpt>
+        <trkpt lat="48.8570937" lon="2.6193624"></trkpt>
+        <trkpt lat="48.8572631" lon="2.6194427"></trkpt>
+        <trkpt lat="48.8575367" lon="2.6195646"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

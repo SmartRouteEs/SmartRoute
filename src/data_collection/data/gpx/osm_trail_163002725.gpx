@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chantrennes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.821932</time>
+</metadata>
+<trk>
+    <name>Chemin des Chantrennes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8611655" lon="2.919097"></trkpt>
+        <trkpt lat="48.8614401" lon="2.9175993"></trkpt>
+        <trkpt lat="48.8615036" lon="2.9175134"></trkpt>
+        <trkpt lat="48.8619483" lon="2.9174383"></trkpt>
+        <trkpt lat="48.8620118" lon="2.9172988"></trkpt>
+        <trkpt lat="48.8623012" lon="2.9161401"></trkpt>
+        <trkpt lat="48.8623647" lon="2.9159899"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

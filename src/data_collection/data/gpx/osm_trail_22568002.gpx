@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chêne aux Chiens</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.473560</time>
+</metadata>
+<trk>
+    <name>Route du Chêne aux Chiens</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4807674" lon="2.666364"></trkpt>
+        <trkpt lat="48.4808181" lon="2.6662068"></trkpt>
+        <trkpt lat="48.4815645" lon="2.6638931"></trkpt>
+        <trkpt lat="48.4820949" lon="2.6621367"></trkpt>
+        <trkpt lat="48.4833452" lon="2.6584233"></trkpt>
+        <trkpt lat="48.4837822" lon="2.6570003"></trkpt>
+        <trkpt lat="48.4838091" lon="2.6568353"></trkpt>
+        <trkpt lat="48.4835787" lon="2.6532005"></trkpt>
+        <trkpt lat="48.48331" lon="2.6484921"></trkpt>
+        <trkpt lat="48.4828909" lon="2.6450121"></trkpt>
+        <trkpt lat="48.4815903" lon="2.6401009"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

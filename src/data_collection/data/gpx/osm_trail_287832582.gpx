@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Bois des Écoliers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.493897</time>
+</metadata>
+<trk>
+    <name>Sentier du Bois des Écoliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6525484" lon="2.7407329"></trkpt>
+        <trkpt lat="48.6524474" lon="2.7406053"></trkpt>
+        <trkpt lat="48.652052" lon="2.7397028"></trkpt>
+        <trkpt lat="48.6517704" lon="2.7391718"></trkpt>
+        <trkpt lat="48.6516924" lon="2.7388731"></trkpt>
+        <trkpt lat="48.6516945" lon="2.7385128"></trkpt>
+        <trkpt lat="48.6517242" lon="2.7381229"></trkpt>
+        <trkpt lat="48.6516105" lon="2.7368638"></trkpt>
+        <trkpt lat="48.651578" lon="2.7360352"></trkpt>
+        <trkpt lat="48.6514887" lon="2.7352392"></trkpt>
+        <trkpt lat="48.6514734" lon="2.7350606"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

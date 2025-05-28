@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Lézard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.216430</time>
+</metadata>
+<trk>
+    <name>Route du Lézard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3860203" lon="2.6418934"></trkpt>
+        <trkpt lat="48.3864471" lon="2.6403237"></trkpt>
+        <trkpt lat="48.3869461" lon="2.6386399"></trkpt>
+        <trkpt lat="48.3875803" lon="2.6372758"></trkpt>
+        <trkpt lat="48.3881277" lon="2.6363581"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

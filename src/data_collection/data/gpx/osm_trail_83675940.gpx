@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Amédée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.439322</time>
+</metadata>
+<trk>
+    <name>Route Amédée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4080833" lon="2.6182535"></trkpt>
+        <trkpt lat="48.4080235" lon="2.6185573"></trkpt>
+        <trkpt lat="48.4080032" lon="2.6187598"></trkpt>
+        <trkpt lat="48.4079989" lon="2.6188601"></trkpt>
+        <trkpt lat="48.4080175" lon="2.6192134"></trkpt>
+        <trkpt lat="48.4080378" lon="2.619605"></trkpt>
+        <trkpt lat="48.4080742" lon="2.6203512"></trkpt>
+        <trkpt lat="48.4081115" lon="2.6208534"></trkpt>
+        <trkpt lat="48.4081446" lon="2.6212616"></trkpt>
+        <trkpt lat="48.4081381" lon="2.6214548"></trkpt>
+        <trkpt lat="48.4079675" lon="2.6219942"></trkpt>
+        <trkpt lat="48.407831" lon="2.6223867"></trkpt>
+        <trkpt lat="48.4074605" lon="2.6234517"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

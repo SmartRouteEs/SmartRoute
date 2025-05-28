@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Percée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.432017</time>
+</metadata>
+<trk>
+    <name>Route de la Percée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3935627" lon="2.7218807"></trkpt>
+        <trkpt lat="48.3933114" lon="2.7220707"></trkpt>
+        <trkpt lat="48.392859" lon="2.7223237"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

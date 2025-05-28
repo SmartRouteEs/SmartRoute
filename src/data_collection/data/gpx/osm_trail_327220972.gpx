@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante de la Mare aux Evées</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.596227</time>
+</metadata>
+<trk>
+    <name>Route Tournante de la Mare aux Evées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4734094" lon="2.6583794"></trkpt>
+        <trkpt lat="48.4736206" lon="2.6568214"></trkpt>
+        <trkpt lat="48.4736363" lon="2.6567295"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

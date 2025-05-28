@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lady</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.748109</time>
+</metadata>
+<trk>
+    <name>Chemin de Lady</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5795877" lon="2.8872399"></trkpt>
+        <trkpt lat="48.5792494" lon="2.8883716"></trkpt>
+        <trkpt lat="48.5791317" lon="2.8888009"></trkpt>
+        <trkpt lat="48.578946" lon="2.8895947"></trkpt>
+        <trkpt lat="48.5788732" lon="2.8899515"></trkpt>
+        <trkpt lat="48.5788112" lon="2.8902839"></trkpt>
+        <trkpt lat="48.5787685" lon="2.8906864"></trkpt>
+        <trkpt lat="48.5787579" lon="2.8909223"></trkpt>
+        <trkpt lat="48.5787579" lon="2.8915955"></trkpt>
+        <trkpt lat="48.5787589" lon="2.8916631"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

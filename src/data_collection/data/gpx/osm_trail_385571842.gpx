@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Montauzin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.314156</time>
+</metadata>
+<trk>
+    <name>Allée Montauzin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7497065" lon="2.2536545"></trkpt>
+        <trkpt lat="48.7499001" lon="2.2533484"></trkpt>
+        <trkpt lat="48.7500138" lon="2.2531722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

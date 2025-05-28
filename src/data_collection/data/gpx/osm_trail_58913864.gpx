@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de la Grange des Bois à Orgemont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.036338</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de la Grange des Bois à Orgemont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4933675" lon="2.2670746"></trkpt>
+        <trkpt lat="48.4933416" lon="2.2671631"></trkpt>
+        <trkpt lat="48.4931854" lon="2.2678909"></trkpt>
+        <trkpt lat="48.4931452" lon="2.2679793"></trkpt>
+        <trkpt lat="48.4929208" lon="2.2683402"></trkpt>
+        <trkpt lat="48.4925559" lon="2.2690442"></trkpt>
+        <trkpt lat="48.4924938" lon="2.2693169"></trkpt>
+        <trkpt lat="48.4924707" lon="2.2695489"></trkpt>
+        <trkpt lat="48.4924472" lon="2.2701214"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

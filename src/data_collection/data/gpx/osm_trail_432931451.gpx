@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Pierre Couvée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.059847</time>
+</metadata>
+<trk>
+    <name>Chemin de la Pierre Couvée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6529674" lon="2.9018908"></trkpt>
+        <trkpt lat="48.6529744" lon="2.9013037"></trkpt>
+        <trkpt lat="48.6529763" lon="2.9011453"></trkpt>
+        <trkpt lat="48.6529112" lon="2.9005417"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

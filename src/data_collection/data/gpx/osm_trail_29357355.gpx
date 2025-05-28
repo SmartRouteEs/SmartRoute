@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Prés de la Ville</name>
+    <desc>Sentier VTT - Type: service - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.753252</time>
+</metadata>
+<trk>
+    <name>Chemin des Prés de la Ville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9002121" lon="2.7751531"></trkpt>
+        <trkpt lat="48.9002116" lon="2.7752"></trkpt>
+        <trkpt lat="48.9003003" lon="2.7756901"></trkpt>
+        <trkpt lat="48.9003007" lon="2.7758802"></trkpt>
+        <trkpt lat="48.9003737" lon="2.7763121"></trkpt>
+        <trkpt lat="48.9003615" lon="2.7766067"></trkpt>
+        <trkpt lat="48.9002476" lon="2.7769265"></trkpt>
+        <trkpt lat="48.9001907" lon="2.7770959"></trkpt>
+        <trkpt lat="48.9001843" lon="2.777115"></trkpt>
+        <trkpt lat="48.9000757" lon="2.7773024"></trkpt>
+        <trkpt lat="48.8999205" lon="2.7775599"></trkpt>
+        <trkpt lat="48.8998086" lon="2.777635"></trkpt>
+        <trkpt lat="48.8995542" lon="2.7774226"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

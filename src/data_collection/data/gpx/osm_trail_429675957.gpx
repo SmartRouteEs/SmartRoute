@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Rochefort</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.998101</time>
+</metadata>
+<trk>
+    <name>Chemin de Rochefort</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5997055" lon="2.1749405"></trkpt>
+        <trkpt lat="48.5997963" lon="2.1760199"></trkpt>
+        <trkpt lat="48.6000852" lon="2.1771286"></trkpt>
+        <trkpt lat="48.600324" lon="2.1776114"></trkpt>
+        <trkpt lat="48.6005481" lon="2.1784065"></trkpt>
+        <trkpt lat="48.6005979" lon="2.1785831"></trkpt>
+        <trkpt lat="48.6007339" lon="2.1789298"></trkpt>
+        <trkpt lat="48.6009107" lon="2.1793831"></trkpt>
+        <trkpt lat="48.6011947" lon="2.1803662"></trkpt>
+        <trkpt lat="48.6022168" lon="2.1831305"></trkpt>
+        <trkpt lat="48.6025088" lon="2.1841275"></trkpt>
+        <trkpt lat="48.6025829" lon="2.1844267"></trkpt>
+        <trkpt lat="48.6041756" lon="2.1874027"></trkpt>
+        <trkpt lat="48.6055131" lon="2.1898919"></trkpt>
+        <trkpt lat="48.6055374" lon="2.1899372"></trkpt>
+        <trkpt lat="48.6057538" lon="2.190333"></trkpt>
+        <trkpt lat="48.6064588" lon="2.1917675"></trkpt>
+        <trkpt lat="48.6071012" lon="2.1931669"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Dauberon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route Dauberon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4151578" lon="2.7462252"></trkpt>
+        <trkpt lat="48.4142722" lon="2.7442532"></trkpt>
+        <trkpt lat="48.4132959" lon="2.7421245"></trkpt>
+        <trkpt lat="48.4132704" lon="2.7420516"></trkpt>
+        <trkpt lat="48.4132258" lon="2.7419143"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

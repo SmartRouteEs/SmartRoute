@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Recherche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.685919</time>
+</metadata>
+<trk>
+    <name>Route de la Recherche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4356382" lon="2.6709093"></trkpt>
+        <trkpt lat="48.435823" lon="2.6715314"></trkpt>
+        <trkpt lat="48.4360273" lon="2.6721"></trkpt>
+        <trkpt lat="48.4361273" lon="2.6724072"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

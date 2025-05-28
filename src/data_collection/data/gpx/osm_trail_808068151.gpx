@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Montceau</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.245427</time>
+</metadata>
+<trk>
+    <name>Allée du Montceau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.41173" lon="2.7166625"></trkpt>
+        <trkpt lat="48.4117115" lon="2.7166787"></trkpt>
+        <trkpt lat="48.4112283" lon="2.7171003"></trkpt>
+        <trkpt lat="48.4110564" lon="2.7172816"></trkpt>
+        <trkpt lat="48.4104614" lon="2.7177137"></trkpt>
+        <trkpt lat="48.4083372" lon="2.7192562"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

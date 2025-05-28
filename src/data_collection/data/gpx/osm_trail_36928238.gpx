@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cinq Arpents</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.088535</time>
+</metadata>
+<trk>
+    <name>Chemin des Cinq Arpents</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3233548" lon="2.9740069"></trkpt>
+        <trkpt lat="48.3206329" lon="2.9750068"></trkpt>
+        <trkpt lat="48.3203763" lon="2.9762513"></trkpt>
+        <trkpt lat="48.3202413" lon="2.9769827"></trkpt>
+        <trkpt lat="48.3187537" lon="2.9778512"></trkpt>
+        <trkpt lat="48.3186543" lon="2.9779092"></trkpt>
+        <trkpt lat="48.3171237" lon="2.9785191"></trkpt>
+        <trkpt lat="48.3140305" lon="2.979677"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

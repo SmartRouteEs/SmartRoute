@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Morelle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.473129</time>
+</metadata>
+<trk>
+    <name>Chemin de la Morelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.319361" lon="2.5675699"></trkpt>
+        <trkpt lat="48.3194224" lon="2.5670417"></trkpt>
+        <trkpt lat="48.3194282" lon="2.5667305"></trkpt>
+        <trkpt lat="48.3193943" lon="2.566288"></trkpt>
+        <trkpt lat="48.3192765" lon="2.5655343"></trkpt>
+        <trkpt lat="48.3191125" lon="2.5646478"></trkpt>
+        <trkpt lat="48.3189029" lon="2.5635186"></trkpt>
+        <trkpt lat="48.3187031" lon="2.5626308"></trkpt>
+        <trkpt lat="48.3173676" lon="2.557265"></trkpt>
+        <trkpt lat="48.3173249" lon="2.5572073"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

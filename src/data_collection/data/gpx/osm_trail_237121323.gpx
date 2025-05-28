@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Gâtinais Beauce</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.062005</time>
+</metadata>
+<trk>
+    <name>Chemin Gâtinais Beauce</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3966736" lon="2.3482589"></trkpt>
+        <trkpt lat="48.3966798" lon="2.3492647"></trkpt>
+        <trkpt lat="48.3966368" lon="2.3529308"></trkpt>
+        <trkpt lat="48.3966154" lon="2.3552908"></trkpt>
+        <trkpt lat="48.3964866" lon="2.3578513"></trkpt>
+        <trkpt lat="48.3964853" lon="2.3578694"></trkpt>
+        <trkpt lat="48.3964093" lon="2.3593319"></trkpt>
+        <trkpt lat="48.3963921" lon="2.3601078"></trkpt>
+        <trkpt lat="48.396456" lon="2.360536"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

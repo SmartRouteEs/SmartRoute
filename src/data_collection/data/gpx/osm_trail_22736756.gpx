@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Esplanade</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.490296</time>
+</metadata>
+<trk>
+    <name>Route de l'Esplanade</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8405194" lon="2.4289633"></trkpt>
+        <trkpt lat="48.8404066" lon="2.4306801"></trkpt>
+        <trkpt lat="48.840392" lon="2.4314213"></trkpt>
+        <trkpt lat="48.8403854" lon="2.4318197"></trkpt>
+        <trkpt lat="48.8404238" lon="2.4321061"></trkpt>
+        <trkpt lat="48.8405063" lon="2.4323394"></trkpt>
+        <trkpt lat="48.8405577" lon="2.4324597"></trkpt>
+        <trkpt lat="48.8407732" lon="2.4327421"></trkpt>
+        <trkpt lat="48.8408852" lon="2.4327881"></trkpt>
+        <trkpt lat="48.8409664" lon="2.4328391"></trkpt>
+        <trkpt lat="48.841036" lon="2.4328827"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

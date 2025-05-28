@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural de Villeneuve Saint Georges à la Grange</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.617800</time>
+</metadata>
+<trk>
+    <name>Chemin rural de Villeneuve Saint Georges à la Grange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7292025" lon="2.4846651"></trkpt>
+        <trkpt lat="48.728364" lon="2.4812685"></trkpt>
+        <trkpt lat="48.7277601" lon="2.4788225"></trkpt>
+        <trkpt lat="48.7277154" lon="2.4780434"></trkpt>
+        <trkpt lat="48.727699" lon="2.4777783"></trkpt>
+        <trkpt lat="48.7276219" lon="2.4764139"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

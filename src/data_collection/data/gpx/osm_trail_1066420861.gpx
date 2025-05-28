@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Boursidière</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.833484</time>
+</metadata>
+<trk>
+    <name>Route de la Boursidière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7738064" lon="2.2353278"></trkpt>
+        <trkpt lat="48.7742998" lon="2.2350874"></trkpt>
+        <trkpt lat="48.7744537" lon="2.23506"></trkpt>
+        <trkpt lat="48.7745245" lon="2.2349317"></trkpt>
+        <trkpt lat="48.7745675" lon="2.2348537"></trkpt>
+        <trkpt lat="48.77597" lon="2.2339542"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

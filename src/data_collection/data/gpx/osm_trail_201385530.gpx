@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 9964</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.826140</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 9964</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3333072" lon="2.6649384"></trkpt>
+        <trkpt lat="48.3336031" lon="2.6649696"></trkpt>
+        <trkpt lat="48.3339409" lon="2.6651188"></trkpt>
+        <trkpt lat="48.3344125" lon="2.6654487"></trkpt>
+        <trkpt lat="48.3359275" lon="2.6667857"></trkpt>
+        <trkpt lat="48.3369083" lon="2.667525"></trkpt>
+        <trkpt lat="48.3370337" lon="2.667579"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

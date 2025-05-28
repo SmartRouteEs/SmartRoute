@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4223</name>
+    <desc>Sentier VTT - Type: path - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.129404</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4223</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7304121" lon="2.6692144"></trkpt>
+        <trkpt lat="48.7303868" lon="2.6692305"></trkpt>
+        <trkpt lat="48.7303691" lon="2.6693458"></trkpt>
+        <trkpt lat="48.7303604" lon="2.6694651"></trkpt>
+        <trkpt lat="48.7303367" lon="2.6695974"></trkpt>
+        <trkpt lat="48.7303316" lon="2.6696833"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

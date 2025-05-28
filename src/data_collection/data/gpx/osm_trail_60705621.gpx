@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Fourneaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.052652</time>
+</metadata>
+<trk>
+    <name>Allée des Fourneaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5366016" lon="2.2736604"></trkpt>
+        <trkpt lat="48.5362734" lon="2.2756178"></trkpt>
+        <trkpt lat="48.5360752" lon="2.2767874"></trkpt>
+        <trkpt lat="48.5360211" lon="2.2771067"></trkpt>
+        <trkpt lat="48.5357956" lon="2.2784369"></trkpt>
+        <trkpt lat="48.5357495" lon="2.2787091"></trkpt>
+        <trkpt lat="48.5357277" lon="2.2788379"></trkpt>
+        <trkpt lat="48.5352737" lon="2.2815162"></trkpt>
+        <trkpt lat="48.5350926" lon="2.2825492"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

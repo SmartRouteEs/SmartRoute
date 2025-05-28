@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural des Bois de Baulne</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.172524</time>
+</metadata>
+<trk>
+    <name>Chemin rural des Bois de Baulne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4780609" lon="2.3993093"></trkpt>
+        <trkpt lat="48.4791443" lon="2.3978528"></trkpt>
+        <trkpt lat="48.479223" lon="2.3975979"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

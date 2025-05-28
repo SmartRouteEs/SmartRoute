@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chevreuil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route du Chevreuil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3742501" lon="2.7029913"></trkpt>
+        <trkpt lat="48.3728881" lon="2.7010746"></trkpt>
+        <trkpt lat="48.3712092" lon="2.6982037"></trkpt>
+        <trkpt lat="48.3704714" lon="2.6971935"></trkpt>
+        <trkpt lat="48.3692203" lon="2.6951584"></trkpt>
+        <trkpt lat="48.3685737" lon="2.6943203"></trkpt>
+        <trkpt lat="48.3669891" lon="2.6911486"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

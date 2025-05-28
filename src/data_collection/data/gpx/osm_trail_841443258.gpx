@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Sitelles</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.520906</time>
+</metadata>
+<trk>
+    <name>Sentier des Sitelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7519742" lon="2.2520702"></trkpt>
+        <trkpt lat="48.7519766" lon="2.2520852"></trkpt>
+        <trkpt lat="48.7519744" lon="2.2521306"></trkpt>
+        <trkpt lat="48.7520044" lon="2.2521582"></trkpt>
+        <trkpt lat="48.7522166" lon="2.2523279"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

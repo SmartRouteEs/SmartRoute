@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Tacot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.588423</time>
+</metadata>
+<trk>
+    <name>Chemin du Tacot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4472163" lon="2.5511575"></trkpt>
+        <trkpt lat="48.4471796" lon="2.5512186"></trkpt>
+        <trkpt lat="48.44702" lon="2.5513467"></trkpt>
+        <trkpt lat="48.4467877" lon="2.551496"></trkpt>
+        <trkpt lat="48.4462607" lon="2.5518236"></trkpt>
+        <trkpt lat="48.4457186" lon="2.5521567"></trkpt>
+        <trkpt lat="48.4454615" lon="2.5524084"></trkpt>
+        <trkpt lat="48.4453111" lon="2.5525557"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

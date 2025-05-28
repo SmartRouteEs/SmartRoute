@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Quincy</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.578124</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Quincy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6486171" lon="2.4859196"></trkpt>
+        <trkpt lat="48.648414" lon="2.485306"></trkpt>
+        <trkpt lat="48.6482816" lon="2.4849085"></trkpt>
+        <trkpt lat="48.6458447" lon="2.4776264"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

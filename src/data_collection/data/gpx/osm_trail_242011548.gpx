@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Place de l'Église</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.456770</time>
+</metadata>
+<trk>
+    <name>Place de l'Église</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3183203" lon="2.505345"></trkpt>
+        <trkpt lat="48.3182745" lon="2.5052534"></trkpt>
+        <trkpt lat="48.3182822" lon="2.5051381"></trkpt>
+        <trkpt lat="48.3183021" lon="2.5050743"></trkpt>
+        <trkpt lat="48.3183806" lon="2.5049399"></trkpt>
+        <trkpt lat="48.3184136" lon="2.5048284"></trkpt>
+        <trkpt lat="48.3184342" lon="2.5046811"></trkpt>
+        <trkpt lat="48.3184343" lon="2.5045487"></trkpt>
+        <trkpt lat="48.3184141" lon="2.5044651"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

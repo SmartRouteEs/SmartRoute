@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Montée des Sapins</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.824484</time>
+</metadata>
+<trk>
+    <name>Montée des Sapins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5070333" lon="2.3328921"></trkpt>
+        <trkpt lat="48.5085289" lon="2.3330036"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

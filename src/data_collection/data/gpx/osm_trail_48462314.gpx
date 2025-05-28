@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Trompe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route de la Trompe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3781847" lon="2.7079126"></trkpt>
+        <trkpt lat="48.3813653" lon="2.7051423"></trkpt>
+        <trkpt lat="48.3822381" lon="2.7043604"></trkpt>
+        <trkpt lat="48.3826124" lon="2.7041603"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

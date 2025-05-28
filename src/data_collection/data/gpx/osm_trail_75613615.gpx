@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Martyrs</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.136434</time>
+</metadata>
+<trk>
+    <name>Chemin des Martyrs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4363524" lon="2.8008292"></trkpt>
+        <trkpt lat="48.4369242" lon="2.8021413"></trkpt>
+        <trkpt lat="48.4370298" lon="2.8024432"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

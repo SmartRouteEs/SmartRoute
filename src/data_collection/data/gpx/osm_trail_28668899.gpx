@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Wagram</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.654249</time>
+</metadata>
+<trk>
+    <name>Allée Wagram</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.744289" lon="2.5385489"></trkpt>
+        <trkpt lat="48.7443405" lon="2.5384864"></trkpt>
+        <trkpt lat="48.744549" lon="2.538132"></trkpt>
+        <trkpt lat="48.7460652" lon="2.5353792"></trkpt>
+        <trkpt lat="48.7461213" lon="2.5353044"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

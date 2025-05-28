@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Célie</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.490296</time>
+</metadata>
+<trk>
+    <name>Allée de Célie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8136017" lon="2.6036366"></trkpt>
+        <trkpt lat="48.8147772" lon="2.6048248"></trkpt>
+        <trkpt lat="48.8148713" lon="2.6049136"></trkpt>
+        <trkpt lat="48.8149343" lon="2.6049519"></trkpt>
+        <trkpt lat="48.8162314" lon="2.6050015"></trkpt>
+        <trkpt lat="48.8162928" lon="2.6050039"></trkpt>
+        <trkpt lat="48.8201102" lon="2.6051563"></trkpt>
+        <trkpt lat="48.8220806" lon="2.6052266"></trkpt>
+        <trkpt lat="48.8244868" lon="2.6053016"></trkpt>
+        <trkpt lat="48.824823" lon="2.6053112"></trkpt>
+        <trkpt lat="48.8260922" lon="2.6053437"></trkpt>
+        <trkpt lat="48.8263449" lon="2.6053502"></trkpt>
+        <trkpt lat="48.8264119" lon="2.6053584"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

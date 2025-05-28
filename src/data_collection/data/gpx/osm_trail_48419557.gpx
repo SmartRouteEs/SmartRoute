@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Caylus</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.612982</time>
+</metadata>
+<trk>
+    <name>Route de Caylus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3965592" lon="2.6318652"></trkpt>
+        <trkpt lat="48.396533" lon="2.6315925"></trkpt>
+        <trkpt lat="48.396166" lon="2.6284067"></trkpt>
+        <trkpt lat="48.395871" lon="2.6259391"></trkpt>
+        <trkpt lat="48.395367" lon="2.621565"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

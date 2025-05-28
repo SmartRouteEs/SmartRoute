@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pavé de la Cave</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.605079</time>
+</metadata>
+<trk>
+    <name>Route du Pavé de la Cave</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4659363" lon="2.6893183"></trkpt>
+        <trkpt lat="48.4653792" lon="2.6886533"></trkpt>
+        <trkpt lat="48.4634713" lon="2.6863571"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

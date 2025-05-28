@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Garenne de Gratereau</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.166879</time>
+</metadata>
+<trk>
+    <name>Chemin de la Garenne de Gratereau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3188048" lon="2.7663468"></trkpt>
+        <trkpt lat="48.3217363" lon="2.7656253"></trkpt>
+        <trkpt lat="48.3264406" lon="2.7657275"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

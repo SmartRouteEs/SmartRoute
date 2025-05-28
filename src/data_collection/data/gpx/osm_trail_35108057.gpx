@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vaugnants</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.988096</time>
+</metadata>
+<trk>
+    <name>Chemin des Vaugnants</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1531302" lon="3.3134563"></trkpt>
+        <trkpt lat="48.1531217" lon="3.3137515"></trkpt>
+        <trkpt lat="48.1531355" lon="3.3141285"></trkpt>
+        <trkpt lat="48.1530423" lon="3.3153469"></trkpt>
+        <trkpt lat="48.1530306" lon="3.3156003"></trkpt>
+        <trkpt lat="48.1529812" lon="3.316231"></trkpt>
+        <trkpt lat="48.1529676" lon="3.316875"></trkpt>
+        <trkpt lat="48.1529827" lon="3.3172676"></trkpt>
+        <trkpt lat="48.1529917" lon="3.3175022"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle des Barres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.018158</time>
+</metadata>
+<trk>
+    <name>Ruelle des Barres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8997634" lon="2.7051404"></trkpt>
+        <trkpt lat="48.8995305" lon="2.7038401"></trkpt>
+        <trkpt lat="48.8995191" lon="2.7037765"></trkpt>
+        <trkpt lat="48.8995296" lon="2.7036934"></trkpt>
+        <trkpt lat="48.8996037" lon="2.7035834"></trkpt>
+        <trkpt lat="48.9000849" lon="2.7032006"></trkpt>
+        <trkpt lat="48.9001969" lon="2.7031116"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

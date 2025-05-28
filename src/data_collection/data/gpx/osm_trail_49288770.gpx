@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Saint-Jean</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.837897</time>
+</metadata>
+<trk>
+    <name>Allée Saint-Jean</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8012592" lon="2.6761275"></trkpt>
+        <trkpt lat="48.8032212" lon="2.6700576"></trkpt>
+        <trkpt lat="48.8033749" lon="2.6698645"></trkpt>
+        <trkpt lat="48.803707" lon="2.6695185"></trkpt>
+        <trkpt lat="48.8037509" lon="2.6694568"></trkpt>
+        <trkpt lat="48.8038043" lon="2.6693817"></trkpt>
+        <trkpt lat="48.8038634" lon="2.6691953"></trkpt>
+        <trkpt lat="48.8038961" lon="2.669092"></trkpt>
+        <trkpt lat="48.8039105" lon="2.6690159"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

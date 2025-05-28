@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Foucher</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.643859</time>
+</metadata>
+<trk>
+    <name>Chemin de Foucher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3377684" lon="3.0611621"></trkpt>
+        <trkpt lat="48.338289" lon="3.0606312"></trkpt>
+        <trkpt lat="48.3383068" lon="3.0605614"></trkpt>
+        <trkpt lat="48.3380216" lon="3.0597085"></trkpt>
+        <trkpt lat="48.3378183" lon="3.0591479"></trkpt>
+        <trkpt lat="48.3374617" lon="3.0584317"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

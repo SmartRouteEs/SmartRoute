@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Joigneaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.330663</time>
+</metadata>
+<trk>
+    <name>Chemin des Joigneaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1955835" lon="3.2162765"></trkpt>
+        <trkpt lat="48.1957164" lon="3.2173666"></trkpt>
+        <trkpt lat="48.1958707" lon="3.2210319"></trkpt>
+        <trkpt lat="48.1959135" lon="3.221225"></trkpt>
+        <trkpt lat="48.1960605" lon="3.2214951"></trkpt>
+        <trkpt lat="48.1964413" lon="3.2220147"></trkpt>
+        <trkpt lat="48.1964957" lon="3.2221242"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

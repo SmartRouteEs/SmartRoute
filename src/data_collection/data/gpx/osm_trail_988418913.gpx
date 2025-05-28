@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Brosses-Martin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.033839</time>
+</metadata>
+<trk>
+    <name>Chemin des Brosses-Martin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7928461" lon="3.4025833"></trkpt>
+        <trkpt lat="48.7924856" lon="3.4027576"></trkpt>
+        <trkpt lat="48.7919962" lon="3.4035328"></trkpt>
+        <trkpt lat="48.7916657" lon="3.4038976"></trkpt>
+        <trkpt lat="48.7909147" lon="3.4042865"></trkpt>
+        <trkpt lat="48.7891596" lon="3.4056095"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Côte Inverse</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.116463</time>
+</metadata>
+<trk>
+    <name>Sentier de la Côte Inverse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4440157" lon="2.7692416"></trkpt>
+        <trkpt lat="48.4446035" lon="2.7696026"></trkpt>
+        <trkpt lat="48.4446889" lon="2.769655"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Bacchus</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.424845</time>
+</metadata>
+<trk>
+    <name>Route de Bacchus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4858235" lon="2.6463592"></trkpt>
+        <trkpt lat="48.4872321" lon="2.6464389"></trkpt>
+        <trkpt lat="48.488842" lon="2.6465688"></trkpt>
+        <trkpt lat="48.4924661" lon="2.6462951"></trkpt>
+        <trkpt lat="48.4925497" lon="2.6462725"></trkpt>
+        <trkpt lat="48.4926467" lon="2.6462532"></trkpt>
+        <trkpt lat="48.4937857" lon="2.6462056"></trkpt>
+        <trkpt lat="48.4952823" lon="2.6460684"></trkpt>
+        <trkpt lat="48.4990731" lon="2.6458321"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

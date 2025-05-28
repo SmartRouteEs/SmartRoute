@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fossette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.117487</time>
+</metadata>
+<trk>
+    <name>Route de la Fossette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3977491" lon="2.7788459"></trkpt>
+        <trkpt lat="48.3965877" lon="2.7774633"></trkpt>
+        <trkpt lat="48.3955315" lon="2.7762618"></trkpt>
+        <trkpt lat="48.3954411" lon="2.7761595"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

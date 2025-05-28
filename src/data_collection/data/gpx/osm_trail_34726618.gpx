@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Buttes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.964285</time>
+</metadata>
+<trk>
+    <name>Chemin des Buttes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9260147" lon="2.8990695"></trkpt>
+        <trkpt lat="48.9258859" lon="2.8991301"></trkpt>
+        <trkpt lat="48.92556" lon="2.8990156"></trkpt>
+        <trkpt lat="48.923876" lon="2.8979498"></trkpt>
+        <trkpt lat="48.9226571" lon="2.8970473"></trkpt>
+        <trkpt lat="48.922298" lon="2.8966693"></trkpt>
+        <trkpt lat="48.9220504" lon="2.8964829"></trkpt>
+        <trkpt lat="48.9218755" lon="2.8964383"></trkpt>
+        <trkpt lat="48.9209785" lon="2.8964511"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

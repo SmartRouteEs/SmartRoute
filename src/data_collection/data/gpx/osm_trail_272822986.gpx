@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Bitorderie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.143821</time>
+</metadata>
+<trk>
+    <name>Chemin de la Bitorderie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9436102" lon="3.1484126"></trkpt>
+        <trkpt lat="48.9437646" lon="3.1483283"></trkpt>
+        <trkpt lat="48.9437869" lon="3.1478109"></trkpt>
+        <trkpt lat="48.943766" lon="3.1472963"></trkpt>
+        <trkpt lat="48.9437372" lon="3.1469401"></trkpt>
+        <trkpt lat="48.9436871" lon="3.1467577"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

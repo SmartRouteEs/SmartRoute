@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Cavalière du Fourneau David</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.972330</time>
+</metadata>
+<trk>
+    <name>Route Cavalière du Fourneau David</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4150371" lon="2.6319838"></trkpt>
+        <trkpt lat="48.4150898" lon="2.6321111"></trkpt>
+        <trkpt lat="48.4168742" lon="2.6370574"></trkpt>
+        <trkpt lat="48.4176888" lon="2.6392414"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

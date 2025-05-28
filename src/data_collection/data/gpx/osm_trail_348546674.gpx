@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Corbeville au Buisson-Pycard</name>
+    <desc>Sentier VTT - Type: track - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.858538</time>
+</metadata>
+<trk>
+    <name>Chemin de Corbeville au Buisson-Pycard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7094631" lon="2.1909144"></trkpt>
+        <trkpt lat="48.7093654" lon="2.1909654"></trkpt>
+        <trkpt lat="48.7090535" lon="2.1911182"></trkpt>
+        <trkpt lat="48.7089105" lon="2.1911949"></trkpt>
+        <trkpt lat="48.7087772" lon="2.1913498"></trkpt>
+        <trkpt lat="48.7086014" lon="2.1916511"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

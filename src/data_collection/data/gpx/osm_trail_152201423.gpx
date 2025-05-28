@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue d'Herbe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.551605</time>
+</metadata>
+<trk>
+    <name>Rue d'Herbe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7910991" lon="3.0190467"></trkpt>
+        <trkpt lat="48.7910597" lon="3.0198327"></trkpt>
+        <trkpt lat="48.7910483" lon="3.0202836"></trkpt>
+        <trkpt lat="48.791019" lon="3.0207719"></trkpt>
+        <trkpt lat="48.7910572" lon="3.0210543"></trkpt>
+        <trkpt lat="48.7912005" lon="3.0215946"></trkpt>
+        <trkpt lat="48.7912403" lon="3.0219561"></trkpt>
+        <trkpt lat="48.7911951" lon="3.0229871"></trkpt>
+        <trkpt lat="48.7911894" lon="3.0234567"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

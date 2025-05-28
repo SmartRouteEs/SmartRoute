@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 1993</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.168072</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 1993</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3337575" lon="2.7536633"></trkpt>
+        <trkpt lat="48.3336306" lon="2.7549223"></trkpt>
+        <trkpt lat="48.3334234" lon="2.7566685"></trkpt>
+        <trkpt lat="48.3335446" lon="2.7579272"></trkpt>
+        <trkpt lat="48.3336894" lon="2.7589046"></trkpt>
+        <trkpt lat="48.3342106" lon="2.759653"></trkpt>
+        <trkpt lat="48.3343473" lon="2.7604792"></trkpt>
+        <trkpt lat="48.3346829" lon="2.7615385"></trkpt>
+        <trkpt lat="48.3356575" lon="2.7651259"></trkpt>
+        <trkpt lat="48.335302" lon="2.7654693"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Fond de la Garenne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.268510</time>
+</metadata>
+<trk>
+    <name>Chemin du Fond de la Garenne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.358851" lon="2.5363851"></trkpt>
+        <trkpt lat="48.3588688" lon="2.5364321"></trkpt>
+        <trkpt lat="48.3588997" lon="2.536534"></trkpt>
+        <trkpt lat="48.3592127" lon="2.5375673"></trkpt>
+        <trkpt lat="48.3593711" lon="2.5382613"></trkpt>
+        <trkpt lat="48.3594433" lon="2.5387765"></trkpt>
+        <trkpt lat="48.3595126" lon="2.5390071"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

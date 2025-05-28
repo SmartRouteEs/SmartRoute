@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Cure</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.809186</time>
+</metadata>
+<trk>
+    <name>Sentier de la Cure</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3665633" lon="2.5089632"></trkpt>
+        <trkpt lat="48.3666586" lon="2.5092516"></trkpt>
+        <trkpt lat="48.3667292" lon="2.5093447"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

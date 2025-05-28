@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 35403</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.029560</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 35403</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7671613" lon="2.2937328"></trkpt>
+        <trkpt lat="48.7672929" lon="2.2937525"></trkpt>
+        <trkpt lat="48.7674138" lon="2.2938514"></trkpt>
+        <trkpt lat="48.7674534" lon="2.2939357"></trkpt>
+        <trkpt lat="48.7674798" lon="2.2940281"></trkpt>
+        <trkpt lat="48.7675163" lon="2.2942557"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

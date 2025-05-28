@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cordon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.538228</time>
+</metadata>
+<trk>
+    <name>Route du Cordon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3486832" lon="2.7009542"></trkpt>
+        <trkpt lat="48.3489213" lon="2.6994406"></trkpt>
+        <trkpt lat="48.3488428" lon="2.6989786"></trkpt>
+        <trkpt lat="48.3487518" lon="2.6984626"></trkpt>
+        <trkpt lat="48.3484655" lon="2.697383"></trkpt>
+        <trkpt lat="48.3484305" lon="2.6972608"></trkpt>
+        <trkpt lat="48.348385" lon="2.6968619"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

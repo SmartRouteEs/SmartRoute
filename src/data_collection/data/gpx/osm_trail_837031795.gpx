@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Haut des Brettes</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.416925</time>
+</metadata>
+<trk>
+    <name>Chemin du Haut des Brettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.582234" lon="2.4555319"></trkpt>
+        <trkpt lat="48.582253" lon="2.4555091"></trkpt>
+        <trkpt lat="48.5822776" lon="2.4554923"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

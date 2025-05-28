@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural des Meuniers</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.003131</time>
+</metadata>
+<trk>
+    <name>Chemin rural des Meuniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5298206" lon="2.2293832"></trkpt>
+        <trkpt lat="48.529799" lon="2.229463"></trkpt>
+        <trkpt lat="48.5293686" lon="2.2305059"></trkpt>
+        <trkpt lat="48.5288333" lon="2.2317224"></trkpt>
+        <trkpt lat="48.5286025" lon="2.2322726"></trkpt>
+        <trkpt lat="48.5285295" lon="2.2324936"></trkpt>
+        <trkpt lat="48.5285229" lon="2.2326186"></trkpt>
+        <trkpt lat="48.528503" lon="2.232743"></trkpt>
+        <trkpt lat="48.5284385" lon="2.2335657"></trkpt>
+        <trkpt lat="48.5283853" lon="2.2340857"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

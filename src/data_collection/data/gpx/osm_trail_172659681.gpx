@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Pont-sur-Yonne à Gisy-les-Nobles</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.977566</time>
+</metadata>
+<trk>
+    <name>Chemin de Pont-sur-Yonne à Gisy-les-Nobles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.283825" lon="3.2214397"></trkpt>
+        <trkpt lat="48.2835531" lon="3.2223762"></trkpt>
+        <trkpt lat="48.28345" lon="3.2227488"></trkpt>
+        <trkpt lat="48.2828788" lon="3.2253237"></trkpt>
+        <trkpt lat="48.2823996" lon="3.2274752"></trkpt>
+        <trkpt lat="48.2823762" lon="3.2275512"></trkpt>
+        <trkpt lat="48.2805963" lon="3.2327213"></trkpt>
+        <trkpt lat="48.2802943" lon="3.2339497"></trkpt>
+        <trkpt lat="48.2802147" lon="3.2340371"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mystère</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.104418</time>
+</metadata>
+<trk>
+    <name>Route du Mystère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3755621" lon="2.6674971"></trkpt>
+        <trkpt lat="48.3763604" lon="2.6678311"></trkpt>
+        <trkpt lat="48.376483" lon="2.6678693"></trkpt>
+        <trkpt lat="48.3770216" lon="2.6676366"></trkpt>
+        <trkpt lat="48.3775246" lon="2.6673821"></trkpt>
+        <trkpt lat="48.3779178" lon="2.6668434"></trkpt>
+        <trkpt lat="48.3782248" lon="2.6665183"></trkpt>
+        <trkpt lat="48.3783591" lon="2.6663296"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

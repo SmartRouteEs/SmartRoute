@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente de Villeneuve-Le-Comte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.223999</time>
+</metadata>
+<trk>
+    <name>Sente de Villeneuve-Le-Comte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8012863" lon="2.9716168"></trkpt>
+        <trkpt lat="48.8013517" lon="2.9706217"></trkpt>
+        <trkpt lat="48.8013446" lon="2.9700853"></trkpt>
+        <trkpt lat="48.801313" lon="2.969796"></trkpt>
+        <trkpt lat="48.8012021" lon="2.9689907"></trkpt>
+        <trkpt lat="48.8012006" lon="2.9689002"></trkpt>
+        <trkpt lat="48.8012107" lon="2.9687465"></trkpt>
+        <trkpt lat="48.8012396" lon="2.9672972"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

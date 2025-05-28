@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 13751</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.196526</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 13751</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4768089" lon="3.199848"></trkpt>
+        <trkpt lat="48.4767482" lon="3.1998917"></trkpt>
+        <trkpt lat="48.476596" lon="3.2000109"></trkpt>
+        <trkpt lat="48.4760766" lon="3.200418"></trkpt>
+        <trkpt lat="48.4755196" lon="3.2008009"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

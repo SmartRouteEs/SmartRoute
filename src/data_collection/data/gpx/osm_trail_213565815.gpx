@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 11421</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.898366</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 11421</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7268471" lon="3.2868688"></trkpt>
+        <trkpt lat="48.7259726" lon="3.2833057"></trkpt>
+        <trkpt lat="48.7248776" lon="3.2788445"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

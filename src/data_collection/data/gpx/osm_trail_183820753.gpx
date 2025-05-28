@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'exploitation dit des Terres Noires</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.352447</time>
+</metadata>
+<trk>
+    <name>Chemin d'exploitation dit des Terres Noires</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.321647" lon="2.6180204"></trkpt>
+        <trkpt lat="48.3234611" lon="2.6185709"></trkpt>
+        <trkpt lat="48.3252351" lon="2.6191051"></trkpt>
+        <trkpt lat="48.3267346" lon="2.6195617"></trkpt>
+        <trkpt lat="48.3286962" lon="2.6201357"></trkpt>
+        <trkpt lat="48.3307077" lon="2.6207579"></trkpt>
+        <trkpt lat="48.3312213" lon="2.6209028"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

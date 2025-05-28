@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pierrot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.311546</time>
+</metadata>
+<trk>
+    <name>Route du Pierrot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4054259" lon="2.741183"></trkpt>
+        <trkpt lat="48.4054335" lon="2.7410402"></trkpt>
+        <trkpt lat="48.4052969" lon="2.7402694"></trkpt>
+        <trkpt lat="48.4047295" lon="2.7366577"></trkpt>
+        <trkpt lat="48.4047023" lon="2.7363406"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

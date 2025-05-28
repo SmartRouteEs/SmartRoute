@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bosquet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.840878</time>
+</metadata>
+<trk>
+    <name>Chemin du Bosquet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3115296" lon="3.1286362"></trkpt>
+        <trkpt lat="48.3116887" lon="3.1288156"></trkpt>
+        <trkpt lat="48.3124379" lon="3.1293539"></trkpt>
+        <trkpt lat="48.3137174" lon="3.1299321"></trkpt>
+        <trkpt lat="48.3138765" lon="3.1300019"></trkpt>
+        <trkpt lat="48.3151887" lon="3.131065"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

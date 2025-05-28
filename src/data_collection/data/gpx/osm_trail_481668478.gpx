@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Zamet</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.528928</time>
+</metadata>
+<trk>
+    <name>Route de Zamet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3524084" lon="2.7820837"></trkpt>
+        <trkpt lat="48.3534326" lon="2.7826157"></trkpt>
+        <trkpt lat="48.3542186" lon="2.7826087"></trkpt>
+        <trkpt lat="48.356224" lon="2.7825571"></trkpt>
+        <trkpt lat="48.3591767" lon="2.7823866"></trkpt>
+        <trkpt lat="48.3629978" lon="2.782346"></trkpt>
+        <trkpt lat="48.3664105" lon="2.7822543"></trkpt>
+        <trkpt lat="48.3675389" lon="2.7822051"></trkpt>
+        <trkpt lat="48.3689058" lon="2.7821311"></trkpt>
+        <trkpt lat="48.3689836" lon="2.7821379"></trkpt>
+        <trkpt lat="48.3697156" lon="2.782083"></trkpt>
+        <trkpt lat="48.3700352" lon="2.7820451"></trkpt>
+        <trkpt lat="48.3716711" lon="2.7820558"></trkpt>
+        <trkpt lat="48.3727244" lon="2.7819411"></trkpt>
+        <trkpt lat="48.3731258" lon="2.7819637"></trkpt>
+        <trkpt lat="48.3733435" lon="2.7819382"></trkpt>
+        <trkpt lat="48.3734387" lon="2.7819218"></trkpt>
+        <trkpt lat="48.3756102" lon="2.781884"></trkpt>
+        <trkpt lat="48.3769585" lon="2.7819619"></trkpt>
+        <trkpt lat="48.3773218" lon="2.781943"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

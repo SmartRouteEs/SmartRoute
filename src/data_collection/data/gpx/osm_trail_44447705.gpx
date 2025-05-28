@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie d'Orly</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.367601</time>
+</metadata>
+<trk>
+    <name>Voie d'Orly</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7110299" lon="2.3439249"></trkpt>
+        <trkpt lat="48.7110893" lon="2.3441605"></trkpt>
+        <trkpt lat="48.7113736" lon="2.3452886"></trkpt>
+        <trkpt lat="48.7116232" lon="2.3464691"></trkpt>
+        <trkpt lat="48.7117019" lon="2.3467446"></trkpt>
+        <trkpt lat="48.7118621" lon="2.3475179"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

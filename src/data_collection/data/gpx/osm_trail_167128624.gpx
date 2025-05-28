@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d e Gravoteau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.887978</time>
+</metadata>
+<trk>
+    <name>Chemin d e Gravoteau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6780654" lon="2.8366902"></trkpt>
+        <trkpt lat="48.6770889" lon="2.8351563"></trkpt>
+        <trkpt lat="48.6763721" lon="2.8340059"></trkpt>
+        <trkpt lat="48.6756932" lon="2.8332573"></trkpt>
+        <trkpt lat="48.6749198" lon="2.8325844"></trkpt>
+        <trkpt lat="48.6746306" lon="2.8323025"></trkpt>
+        <trkpt lat="48.6741086" lon="2.8321284"></trkpt>
+        <trkpt lat="48.6737615" lon="2.8317625"></trkpt>
+        <trkpt lat="48.6735092" lon="2.8314451"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

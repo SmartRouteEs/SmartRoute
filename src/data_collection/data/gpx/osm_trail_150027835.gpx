@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Gannes</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.276262</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Gannes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6673866" lon="2.527459"></trkpt>
+        <trkpt lat="48.6675663" lon="2.5274072"></trkpt>
+        <trkpt lat="48.667679" lon="2.5273183"></trkpt>
+        <trkpt lat="48.6677307" lon="2.5271867"></trkpt>
+        <trkpt lat="48.6678209" lon="2.5270058"></trkpt>
+        <trkpt lat="48.6710578" lon="2.5226169"></trkpt>
+        <trkpt lat="48.6713188" lon="2.5223037"></trkpt>
+        <trkpt lat="48.6713682" lon="2.5222381"></trkpt>
+        <trkpt lat="48.6724292" lon="2.5208283"></trkpt>
+        <trkpt lat="48.6752694" lon="2.5169806"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

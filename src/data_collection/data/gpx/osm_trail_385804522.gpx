@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grande Haie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.314156</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grande Haie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8704042" lon="2.9277915"></trkpt>
+        <trkpt lat="48.8724875" lon="2.9276593"></trkpt>
+        <trkpt lat="48.8725466" lon="2.9275869"></trkpt>
+        <trkpt lat="48.8720694" lon="2.9253875"></trkpt>
+        <trkpt lat="48.8719245" lon="2.9246901"></trkpt>
+        <trkpt lat="48.8717451" lon="2.9232487"></trkpt>
+        <trkpt lat="48.8716057" lon="2.9215488"></trkpt>
+        <trkpt lat="48.871483" lon="2.9203111"></trkpt>
+        <trkpt lat="48.8714084" lon="2.9195615"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

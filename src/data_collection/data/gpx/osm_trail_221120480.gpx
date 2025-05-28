@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Yèbles à Vulaines</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.301575</time>
+</metadata>
+<trk>
+    <name>Chemin de Yèbles à Vulaines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6354791" lon="2.7751845"></trkpt>
+        <trkpt lat="48.6353271" lon="2.7752797"></trkpt>
+        <trkpt lat="48.6327278" lon="2.7782674"></trkpt>
+        <trkpt lat="48.6311041" lon="2.7801618"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

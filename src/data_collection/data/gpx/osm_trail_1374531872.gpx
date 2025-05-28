@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de la Génisse</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.859832</time>
+</metadata>
+<trk>
+    <name>Route Forestière de la Génisse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3540565" lon="2.6230769"></trkpt>
+        <trkpt lat="48.35407" lon="2.6232159"></trkpt>
+        <trkpt lat="48.3542441" lon="2.6241564"></trkpt>
+        <trkpt lat="48.3550728" lon="2.6280237"></trkpt>
+        <trkpt lat="48.355165" lon="2.6284411"></trkpt>
+        <trkpt lat="48.3554643" lon="2.6302331"></trkpt>
+        <trkpt lat="48.3557457" lon="2.6319185"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Rocherfort</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.611067</time>
+</metadata>
+<trk>
+    <name>Route de Rocherfort</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4277178" lon="2.605508"></trkpt>
+        <trkpt lat="48.4276747" lon="2.6054682"></trkpt>
+        <trkpt lat="48.4276026" lon="2.6054955"></trkpt>
+        <trkpt lat="48.4275264" lon="2.605577"></trkpt>
+        <trkpt lat="48.4274095" lon="2.605567"></trkpt>
+        <trkpt lat="48.4272703" lon="2.6052908"></trkpt>
+        <trkpt lat="48.4270841" lon="2.6046369"></trkpt>
+        <trkpt lat="48.4269417" lon="2.6038551"></trkpt>
+        <trkpt lat="48.4268594" lon="2.6033584"></trkpt>
+        <trkpt lat="48.4263571" lon="2.6021913"></trkpt>
+        <trkpt lat="48.4256226" lon="2.6020406"></trkpt>
+        <trkpt lat="48.4250734" lon="2.6018412"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

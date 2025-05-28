@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Varennes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.908453</time>
+</metadata>
+<trk>
+    <name>Sentier des Varennes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1695397" lon="2.7407232"></trkpt>
+        <trkpt lat="48.1696026" lon="2.7406858"></trkpt>
+        <trkpt lat="48.1696774" lon="2.740619"></trkpt>
+        <trkpt lat="48.1697381" lon="2.7405438"></trkpt>
+        <trkpt lat="48.1697834" lon="2.7404548"></trkpt>
+        <trkpt lat="48.1698229" lon="2.7403341"></trkpt>
+        <trkpt lat="48.1698666" lon="2.7402312"></trkpt>
+        <trkpt lat="48.1699195" lon="2.7401198"></trkpt>
+        <trkpt lat="48.1700348" lon="2.73993"></trkpt>
+        <trkpt lat="48.170182" lon="2.7397183"></trkpt>
+        <trkpt lat="48.1702834" lon="2.7395782"></trkpt>
+        <trkpt lat="48.1703861" lon="2.7394527"></trkpt>
+        <trkpt lat="48.1705797" lon="2.7392585"></trkpt>
+        <trkpt lat="48.1706853" lon="2.739144"></trkpt>
+        <trkpt lat="48.1708831" lon="2.7389273"></trkpt>
+        <trkpt lat="48.1710978" lon="2.7386891"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

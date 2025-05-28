@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Victor</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.511736</time>
+</metadata>
+<trk>
+    <name>Route Victor</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4524555" lon="2.6978009"></trkpt>
+        <trkpt lat="48.4532507" lon="2.6992683"></trkpt>
+        <trkpt lat="48.4553087" lon="2.7032774"></trkpt>
+        <trkpt lat="48.4554221" lon="2.7034453"></trkpt>
+        <trkpt lat="48.4555716" lon="2.7036667"></trkpt>
+        <trkpt lat="48.4556134" lon="2.7037447"></trkpt>
+        <trkpt lat="48.457366" lon="2.7070195"></trkpt>
+        <trkpt lat="48.4597035" lon="2.7113864"></trkpt>
+        <trkpt lat="48.4606817" lon="2.7132487"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

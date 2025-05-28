@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Usuelles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.572160</time>
+</metadata>
+<trk>
+    <name>Route des Usuelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7915061" lon="2.6970612"></trkpt>
+        <trkpt lat="48.7914269" lon="2.6970555"></trkpt>
+        <trkpt lat="48.7879572" lon="2.6979577"></trkpt>
+        <trkpt lat="48.7865079" lon="2.6983345"></trkpt>
+        <trkpt lat="48.7848373" lon="2.6987688"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin des Vignes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.679460</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin des Vignes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3449221" lon="3.1693557"></trkpt>
+        <trkpt lat="48.3447754" lon="3.1689246"></trkpt>
+        <trkpt lat="48.3446838" lon="3.1685303"></trkpt>
+        <trkpt lat="48.3445943" lon="3.1682001"></trkpt>
+        <trkpt lat="48.3444728" lon="3.1679628"></trkpt>
+        <trkpt lat="48.3442534" lon="3.167482"></trkpt>
+        <trkpt lat="48.3440637" lon="3.1670973"></trkpt>
+        <trkpt lat="48.3438826" lon="3.1667799"></trkpt>
+        <trkpt lat="48.3437377" lon="3.1665298"></trkpt>
+        <trkpt lat="48.343661" lon="3.1663439"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

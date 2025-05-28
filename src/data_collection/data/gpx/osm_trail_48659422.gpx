@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Corneilles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.733333</time>
+</metadata>
+<trk>
+    <name>Chemin des Corneilles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4941864" lon="2.5465813"></trkpt>
+        <trkpt lat="48.4939989" lon="2.546966"></trkpt>
+        <trkpt lat="48.4934362" lon="2.5483482"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

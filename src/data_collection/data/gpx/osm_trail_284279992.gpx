@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Ancienne Ligne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.356105</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Ancienne Ligne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2785819" lon="2.4174728"></trkpt>
+        <trkpt lat="48.2788167" lon="2.4156268"></trkpt>
+        <trkpt lat="48.2788316" lon="2.4152243"></trkpt>
+        <trkpt lat="48.2788428" lon="2.414652"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

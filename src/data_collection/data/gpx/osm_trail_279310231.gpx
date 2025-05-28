@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Grands Mals</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.241702</time>
+</metadata>
+<trk>
+    <name>Sentier des Grands Mals</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5992654" lon="2.256121"></trkpt>
+        <trkpt lat="48.599237" lon="2.2562122"></trkpt>
+        <trkpt lat="48.5992163" lon="2.2562759"></trkpt>
+        <trkpt lat="48.5989054" lon="2.2572342"></trkpt>
+        <trkpt lat="48.5988773" lon="2.2574335"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

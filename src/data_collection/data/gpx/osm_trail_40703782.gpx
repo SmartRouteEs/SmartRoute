@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Lapin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.236562</time>
+</metadata>
+<trk>
+    <name>Allée du Lapin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7417718" lon="2.515207"></trkpt>
+        <trkpt lat="48.7419238" lon="2.515408"></trkpt>
+        <trkpt lat="48.7440345" lon="2.5181992"></trkpt>
+        <trkpt lat="48.744831" lon="2.5192227"></trkpt>
+        <trkpt lat="48.7463986" lon="2.5213257"></trkpt>
+        <trkpt lat="48.7481802" lon="2.5236492"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Germaine Lelièvre</name>
+    <desc>Sentier VTT - Type: footway - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.583931</time>
+</metadata>
+<trk>
+    <name>Rue Germaine Lelièvre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5358985" lon="2.2930045"></trkpt>
+        <trkpt lat="48.5362384" lon="2.2930934"></trkpt>
+        <trkpt lat="48.5367599" lon="2.2932709"></trkpt>
+        <trkpt lat="48.5372819" lon="2.2934054"></trkpt>
+        <trkpt lat="48.5375574" lon="2.2934589"></trkpt>
+        <trkpt lat="48.5376354" lon="2.2934906"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vallée des Ronces</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.923110</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vallée des Ronces</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1724492" lon="3.1425264"></trkpt>
+        <trkpt lat="48.1729733" lon="3.141957"></trkpt>
+        <trkpt lat="48.1733103" lon="3.1416051"></trkpt>
+        <trkpt lat="48.1737693" lon="3.1412651"></trkpt>
+        <trkpt lat="48.1747251" lon="3.1405573"></trkpt>
+        <trkpt lat="48.1748491" lon="3.139936"></trkpt>
+        <trkpt lat="48.1751156" lon="3.1392558"></trkpt>
+        <trkpt lat="48.1753447" lon="3.1386878"></trkpt>
+        <trkpt lat="48.1755645" lon="3.1378253"></trkpt>
+        <trkpt lat="48.1756487" lon="3.1372573"></trkpt>
+        <trkpt lat="48.1756393" lon="3.1367944"></trkpt>
+        <trkpt lat="48.1754934" lon="3.1356591"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

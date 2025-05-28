@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural des Terres Fortes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.922735</time>
+</metadata>
+<trk>
+    <name>Chemin Rural des Terres Fortes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6227175" lon="2.1795267"></trkpt>
+        <trkpt lat="48.6225491" lon="2.1800058"></trkpt>
+        <trkpt lat="48.6216146" lon="2.1826895"></trkpt>
+        <trkpt lat="48.6209809" lon="2.1845095"></trkpt>
+        <trkpt lat="48.6208352" lon="2.1849279"></trkpt>
+        <trkpt lat="48.6203316" lon="2.1864338"></trkpt>
+        <trkpt lat="48.6191827" lon="2.1898691"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

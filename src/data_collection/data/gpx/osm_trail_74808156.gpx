@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Masures à Nailly</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.124689</time>
+</metadata>
+<trk>
+    <name>Chemin des Masures à Nailly</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1991366" lon="3.1997749"></trkpt>
+        <trkpt lat="48.1996962" lon="3.2006747"></trkpt>
+        <trkpt lat="48.2000972" lon="3.2014297"></trkpt>
+        <trkpt lat="48.2002249" lon="3.2018541"></trkpt>
+        <trkpt lat="48.200264" lon="3.2024486"></trkpt>
+        <trkpt lat="48.2003941" lon="3.2026284"></trkpt>
+        <trkpt lat="48.2014599" lon="3.2031373"></trkpt>
+        <trkpt lat="48.2018974" lon="3.2033857"></trkpt>
+        <trkpt lat="48.2021347" lon="3.2034971"></trkpt>
+        <trkpt lat="48.2024316" lon="3.2038718"></trkpt>
+        <trkpt lat="48.2040573" lon="3.2051083"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Bossière</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.976390</time>
+</metadata>
+<trk>
+    <name>Chemin de la Bossière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7881874" lon="2.9355322"></trkpt>
+        <trkpt lat="48.7880981" lon="2.9346738"></trkpt>
+        <trkpt lat="48.7878804" lon="2.933735"></trkpt>
+        <trkpt lat="48.787527" lon="2.9330484"></trkpt>
+        <trkpt lat="48.7870322" lon="2.9325119"></trkpt>
+        <trkpt lat="48.7867635" lon="2.9321042"></trkpt>
+        <trkpt lat="48.785986" lon="2.9301516"></trkpt>
+        <trkpt lat="48.7855618" lon="2.9287354"></trkpt>
+        <trkpt lat="48.7854629" lon="2.9281346"></trkpt>
+        <trkpt lat="48.7854538" lon="2.9264537"></trkpt>
+        <trkpt lat="48.7853843" lon="2.9240244"></trkpt>
+        <trkpt lat="48.785328" lon="2.9237004"></trkpt>
+        <trkpt lat="48.7852649" lon="2.9235212"></trkpt>
+        <trkpt lat="48.7850339" lon="2.9229907"></trkpt>
+        <trkpt lat="48.7850072" lon="2.9227566"></trkpt>
+        <trkpt lat="48.784919" lon="2.9210864"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

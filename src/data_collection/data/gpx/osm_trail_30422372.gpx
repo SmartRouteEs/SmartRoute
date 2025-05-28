@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Tapisseries</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.811407</time>
+</metadata>
+<trk>
+    <name>Route des Tapisseries</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3516787" lon="2.6616861"></trkpt>
+        <trkpt lat="48.3517675" lon="2.6615389"></trkpt>
+        <trkpt lat="48.3532501" lon="2.6591341"></trkpt>
+        <trkpt lat="48.354495" lon="2.6570656"></trkpt>
+        <trkpt lat="48.3551965" lon="2.6559498"></trkpt>
+        <trkpt lat="48.3563201" lon="2.6540615"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

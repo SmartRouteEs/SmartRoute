@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Monthléry</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.836169</time>
+</metadata>
+<trk>
+    <name>Allée de Monthléry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7724756" lon="2.2997234"></trkpt>
+        <trkpt lat="48.7711181" lon="2.2994406"></trkpt>
+        <trkpt lat="48.7701252" lon="2.2992475"></trkpt>
+        <trkpt lat="48.7700093" lon="2.2990194"></trkpt>
+        <trkpt lat="48.7699986" lon="2.2989492"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

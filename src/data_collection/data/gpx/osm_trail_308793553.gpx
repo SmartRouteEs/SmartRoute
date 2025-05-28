@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Barbiettes</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.014504</time>
+</metadata>
+<trk>
+    <name>Chemin des Barbiettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5164728" lon="2.2213518"></trkpt>
+        <trkpt lat="48.516429" lon="2.2207185"></trkpt>
+        <trkpt lat="48.5159575" lon="2.2194441"></trkpt>
+        <trkpt lat="48.5158795" lon="2.219095"></trkpt>
+        <trkpt lat="48.515588" lon="2.2182433"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

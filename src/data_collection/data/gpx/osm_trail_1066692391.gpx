@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier Jean Bouille</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.845485</time>
+</metadata>
+<trk>
+    <name>Sentier Jean Bouille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6987374" lon="2.3789662"></trkpt>
+        <trkpt lat="48.6986866" lon="2.3789269"></trkpt>
+        <trkpt lat="48.6985935" lon="2.3788898"></trkpt>
+        <trkpt lat="48.6985715" lon="2.378881"></trkpt>
+        <trkpt lat="48.6985232" lon="2.3788617"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Vambres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.234912</time>
+</metadata>
+<trk>
+    <name>Chemin des Vambres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9106788" lon="2.7830169"></trkpt>
+        <trkpt lat="48.910651" lon="2.7831236"></trkpt>
+        <trkpt lat="48.910275" lon="2.7845986"></trkpt>
+        <trkpt lat="48.9102646" lon="2.7846524"></trkpt>
+        <trkpt lat="48.9102636" lon="2.7846852"></trkpt>
+        <trkpt lat="48.9102805" lon="2.7847458"></trkpt>
+        <trkpt lat="48.9105195" lon="2.7849893"></trkpt>
+        <trkpt lat="48.9116368" lon="2.7860086"></trkpt>
+        <trkpt lat="48.9126805" lon="2.7869447"></trkpt>
+        <trkpt lat="48.9129121" lon="2.7871262"></trkpt>
+        <trkpt lat="48.9121454" lon="2.7892198"></trkpt>
+        <trkpt lat="48.9115115" lon="2.7929029"></trkpt>
+        <trkpt lat="48.9114692" lon="2.7950465"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

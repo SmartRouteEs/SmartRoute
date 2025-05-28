@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Acacias</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.818719</time>
+</metadata>
+<trk>
+    <name>Route des Acacias</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3308479" lon="2.6821477"></trkpt>
+        <trkpt lat="48.330913" lon="2.6820488"></trkpt>
+        <trkpt lat="48.3309511" lon="2.6819908"></trkpt>
+        <trkpt lat="48.3314216" lon="2.6817738"></trkpt>
+        <trkpt lat="48.3316283" lon="2.6814081"></trkpt>
+        <trkpt lat="48.3319228" lon="2.6811606"></trkpt>
+        <trkpt lat="48.3320046" lon="2.6810975"></trkpt>
+        <trkpt lat="48.3324562" lon="2.6806601"></trkpt>
+        <trkpt lat="48.3330949" lon="2.6788341"></trkpt>
+        <trkpt lat="48.333497" lon="2.6779728"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

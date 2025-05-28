@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Hautes Pâtures</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.422943</time>
+</metadata>
+<trk>
+    <name>Chemin des Hautes Pâtures</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8111605" lon="3.1889603"></trkpt>
+        <trkpt lat="48.8117435" lon="3.1908343"></trkpt>
+        <trkpt lat="48.8120664" lon="3.1920938"></trkpt>
+        <trkpt lat="48.812259" lon="3.1929416"></trkpt>
+        <trkpt lat="48.812278" lon="3.1934792"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

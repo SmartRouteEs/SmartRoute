@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.690365</time>
+</metadata>
+<trk>
+    <name>Route du Mont</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9168186" lon="3.1572666"></trkpt>
+        <trkpt lat="48.9157866" lon="3.1567655"></trkpt>
+        <trkpt lat="48.9144514" lon="3.1561319"></trkpt>
+        <trkpt lat="48.913942" lon="3.1560293"></trkpt>
+        <trkpt lat="48.9123661" lon="3.1555801"></trkpt>
+        <trkpt lat="48.9123747" lon="3.1554533"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

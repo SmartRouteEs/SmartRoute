@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du collet</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.409700</time>
+</metadata>
+<trk>
+    <name>Route du collet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3769606" lon="2.570533"></trkpt>
+        <trkpt lat="48.3769709" lon="2.5702298"></trkpt>
+        <trkpt lat="48.3771057" lon="2.5698022"></trkpt>
+        <trkpt lat="48.3771282" lon="2.5695786"></trkpt>
+        <trkpt lat="48.3772576" lon="2.5691839"></trkpt>
+        <trkpt lat="48.377434" lon="2.5687881"></trkpt>
+        <trkpt lat="48.3775904" lon="2.5684529"></trkpt>
+        <trkpt lat="48.3776492" lon="2.5683352"></trkpt>
+        <trkpt lat="48.3777147" lon="2.5681256"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

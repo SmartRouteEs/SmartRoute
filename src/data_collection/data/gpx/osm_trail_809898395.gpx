@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Tête Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.286525</time>
+</metadata>
+<trk>
+    <name>Chemin de la Tête Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2398773" lon="3.2232753"></trkpt>
+        <trkpt lat="48.2395287" lon="3.2228543"></trkpt>
+        <trkpt lat="48.2387847" lon="3.2226082"></trkpt>
+        <trkpt lat="48.2371239" lon="3.2212069"></trkpt>
+        <trkpt lat="48.2370429" lon="3.2211488"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

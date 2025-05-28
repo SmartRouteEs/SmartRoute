@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Voirie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.596855</time>
+</metadata>
+<trk>
+    <name>Chemin de la Voirie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4942941" lon="2.702165"></trkpt>
+        <trkpt lat="48.4937733" lon="2.7006793"></trkpt>
+        <trkpt lat="48.492733" lon="2.6981639"></trkpt>
+        <trkpt lat="48.4922518" lon="2.6974769"></trkpt>
+        <trkpt lat="48.491594" lon="2.696468"></trkpt>
+        <trkpt lat="48.4915331" lon="2.6963093"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

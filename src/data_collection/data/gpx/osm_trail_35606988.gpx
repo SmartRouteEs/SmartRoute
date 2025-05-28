@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Pompadour</name>
+    <desc>Sentier VTT - Type: bridleway - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.997494</time>
+</metadata>
+<trk>
+    <name>Route de la Pompadour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8241762" lon="2.4273133"></trkpt>
+        <trkpt lat="48.8242172" lon="2.4272355"></trkpt>
+        <trkpt lat="48.8242768" lon="2.4271551"></trkpt>
+        <trkpt lat="48.8243386" lon="2.4271115"></trkpt>
+        <trkpt lat="48.8244967" lon="2.4270679"></trkpt>
+        <trkpt lat="48.8248428" lon="2.4271356"></trkpt>
+        <trkpt lat="48.8249655" lon="2.4273415"></trkpt>
+        <trkpt lat="48.8252299" lon="2.4277103"></trkpt>
+        <trkpt lat="48.8255845" lon="2.4280934"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

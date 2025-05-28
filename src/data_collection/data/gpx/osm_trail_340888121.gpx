@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Cordon de Vélizy</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.779574</time>
+</metadata>
+<trk>
+    <name>Cordon de Vélizy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7825353" lon="2.1975027"></trkpt>
+        <trkpt lat="48.7825529" lon="2.1967825"></trkpt>
+        <trkpt lat="48.7827279" lon="2.1964673"></trkpt>
+        <trkpt lat="48.7828264" lon="2.1962908"></trkpt>
+        <trkpt lat="48.7829168" lon="2.1961587"></trkpt>
+        <trkpt lat="48.783257" lon="2.195597"></trkpt>
+        <trkpt lat="48.7839832" lon="2.1944174"></trkpt>
+        <trkpt lat="48.7849883" lon="2.1927846"></trkpt>
+        <trkpt lat="48.7852637" lon="2.1923372"></trkpt>
+        <trkpt lat="48.7853324" lon="2.1922257"></trkpt>
+        <trkpt lat="48.7857771" lon="2.1915305"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

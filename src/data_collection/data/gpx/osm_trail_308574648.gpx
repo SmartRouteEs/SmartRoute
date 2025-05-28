@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier Derrière l'Église</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.013442</time>
+</metadata>
+<trk>
+    <name>Sentier Derrière l'Église</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3194739" lon="2.9953419"></trkpt>
+        <trkpt lat="48.3195251" lon="2.9957705"></trkpt>
+        <trkpt lat="48.3195943" lon="2.9960709"></trkpt>
+        <trkpt lat="48.3196986" lon="2.9963737"></trkpt>
+        <trkpt lat="48.3197873" lon="2.9968539"></trkpt>
+        <trkpt lat="48.3198845" lon="2.9974165"></trkpt>
+        <trkpt lat="48.3199736" lon="2.9982735"></trkpt>
+        <trkpt lat="48.320002" lon="2.9984993"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

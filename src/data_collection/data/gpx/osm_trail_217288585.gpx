@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 11840</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.086001</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 11840</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4635579" lon="3.1640348"></trkpt>
+        <trkpt lat="48.4639492" lon="3.1638847"></trkpt>
+        <trkpt lat="48.4647116" lon="3.163568"></trkpt>
+        <trkpt lat="48.4653847" lon="3.163286"></trkpt>
+        <trkpt lat="48.4657415" lon="3.1631385"></trkpt>
+        <trkpt lat="48.4660665" lon="3.1629562"></trkpt>
+        <trkpt lat="48.4664808" lon="3.1626829"></trkpt>
+        <trkpt lat="48.4668691" lon="3.1625788"></trkpt>
+        <trkpt lat="48.4670537" lon="3.1625176"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

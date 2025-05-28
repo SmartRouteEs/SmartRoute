@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Ronde</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 1</desc>
+    <time>2025-05-28T01:16:01.618788</time>
+</metadata>
+<trk>
+    <name>Chemin de Ronde</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.889205" lon="2.570935"></trkpt>
+        <trkpt lat="48.8892182" lon="2.5708703"></trkpt>
+        <trkpt lat="48.8892135" lon="2.5708366"></trkpt>
+        <trkpt lat="48.8891995" lon="2.5708088"></trkpt>
+        <trkpt lat="48.8891766" lon="2.570744"></trkpt>
+        <trkpt lat="48.8891531" lon="2.5706682"></trkpt>
+        <trkpt lat="48.8891242" lon="2.5706288"></trkpt>
+        <trkpt lat="48.889074" lon="2.5706046"></trkpt>
+        <trkpt lat="48.8890292" lon="2.5705814"></trkpt>
+        <trkpt lat="48.8889729" lon="2.5705715"></trkpt>
+        <trkpt lat="48.8889369" lon="2.5705471"></trkpt>
+        <trkpt lat="48.8889254" lon="2.5705179"></trkpt>
+        <trkpt lat="48.8889198" lon="2.5704822"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural des Châtaigniers</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.906127</time>
+</metadata>
+<trk>
+    <name>Chemin rural des Châtaigniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.530268" lon="2.2362876"></trkpt>
+        <trkpt lat="48.5299667" lon="2.2364637"></trkpt>
+        <trkpt lat="48.5295817" lon="2.2366876"></trkpt>
+        <trkpt lat="48.5293893" lon="2.2367314"></trkpt>
+        <trkpt lat="48.5291956" lon="2.2367289"></trkpt>
+        <trkpt lat="48.5290024" lon="2.2366666"></trkpt>
+        <trkpt lat="48.5287801" lon="2.2365544"></trkpt>
+        <trkpt lat="48.5285008" lon="2.2364612"></trkpt>
+        <trkpt lat="48.5282777" lon="2.2364618"></trkpt>
+        <trkpt lat="48.5280743" lon="2.2365426"></trkpt>
+        <trkpt lat="48.5279789" lon="2.23657"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 7473</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.642343</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 7473</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7452349" lon="2.662425"></trkpt>
+        <trkpt lat="48.7450421" lon="2.6625033"></trkpt>
+        <trkpt lat="48.7446406" lon="2.6626664"></trkpt>
+        <trkpt lat="48.7445805" lon="2.6627356"></trkpt>
+        <trkpt lat="48.7445557" lon="2.6628542"></trkpt>
+        <trkpt lat="48.7445734" lon="2.663138"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

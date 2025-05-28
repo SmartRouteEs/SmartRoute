@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Sapin Blanc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.656376</time>
+</metadata>
+<trk>
+    <name>Route du Sapin Blanc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3858189" lon="2.6076966"></trkpt>
+        <trkpt lat="48.3863203" lon="2.6083652"></trkpt>
+        <trkpt lat="48.3874976" lon="2.6097509"></trkpt>
+        <trkpt lat="48.3875882" lon="2.609839"></trkpt>
+        <trkpt lat="48.390439" lon="2.6124671"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

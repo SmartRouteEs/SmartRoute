@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière Tournante</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.823580</time>
+</metadata>
+<trk>
+    <name>Route Forestière Tournante</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5898101" lon="2.5635561"></trkpt>
+        <trkpt lat="48.5901461" lon="2.5627028"></trkpt>
+        <trkpt lat="48.5903521" lon="2.5621604"></trkpt>
+        <trkpt lat="48.5907493" lon="2.5611149"></trkpt>
+        <trkpt lat="48.5909125" lon="2.5602781"></trkpt>
+        <trkpt lat="48.5911254" lon="2.5599455"></trkpt>
+        <trkpt lat="48.5923457" lon="2.5568517"></trkpt>
+        <trkpt lat="48.5942725" lon="2.5519641"></trkpt>
+        <trkpt lat="48.5945589" lon="2.5512068"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

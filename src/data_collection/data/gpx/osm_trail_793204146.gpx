@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de l'Ermitage</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.099126</time>
+</metadata>
+<trk>
+    <name>Route Forestière de l'Ermitage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6714885" lon="2.4409982"></trkpt>
+        <trkpt lat="48.6715343" lon="2.4410664"></trkpt>
+        <trkpt lat="48.671563" lon="2.4411144"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois des Seigneurs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.593359</time>
+</metadata>
+<trk>
+    <name>Route du Bois des Seigneurs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3549203" lon="2.6117209"></trkpt>
+        <trkpt lat="48.3550263" lon="2.6118516"></trkpt>
+        <trkpt lat="48.3551803" lon="2.6120646"></trkpt>
+        <trkpt lat="48.355681" lon="2.6127317"></trkpt>
+        <trkpt lat="48.3588763" lon="2.6169903"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

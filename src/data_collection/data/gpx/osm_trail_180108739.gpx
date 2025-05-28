@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Fosses Rouges</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.236566</time>
+</metadata>
+<trk>
+    <name>Route des Fosses Rouges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4194965" lon="2.6847703"></trkpt>
+        <trkpt lat="48.4191608" lon="2.6854303"></trkpt>
+        <trkpt lat="48.4176607" lon="2.6885743"></trkpt>
+        <trkpt lat="48.4165277" lon="2.6909489"></trkpt>
+        <trkpt lat="48.4163254" lon="2.6915422"></trkpt>
+        <trkpt lat="48.4162757" lon="2.691695"></trkpt>
+        <trkpt lat="48.416232" lon="2.6925358"></trkpt>
+        <trkpt lat="48.4163834" lon="2.6933899"></trkpt>
+        <trkpt lat="48.4165415" lon="2.6938629"></trkpt>
+        <trkpt lat="48.4165633" lon="2.6940907"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

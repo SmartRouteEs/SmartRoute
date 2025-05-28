@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vauchère</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.259699</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vauchère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2932724" lon="3.1372721"></trkpt>
+        <trkpt lat="48.2932209" lon="3.1371346"></trkpt>
+        <trkpt lat="48.2931575" lon="3.1368643"></trkpt>
+        <trkpt lat="48.2930711" lon="3.1365409"></trkpt>
+        <trkpt lat="48.2928961" lon="3.1363241"></trkpt>
+        <trkpt lat="48.2927937" lon="3.1361955"></trkpt>
+        <trkpt lat="48.2926124" lon="3.1360757"></trkpt>
+        <trkpt lat="48.2924713" lon="3.1359137"></trkpt>
+        <trkpt lat="48.2923062" lon="3.1356288"></trkpt>
+        <trkpt lat="48.2921533" lon="3.1354453"></trkpt>
+        <trkpt lat="48.292002" lon="3.1353105"></trkpt>
+        <trkpt lat="48.2918294" lon="3.1350915"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

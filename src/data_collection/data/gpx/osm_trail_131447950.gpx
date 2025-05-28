@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Larmières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.037288</time>
+</metadata>
+<trk>
+    <name>Route des Larmières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4583267" lon="2.7001112"></trkpt>
+        <trkpt lat="48.4582574" lon="2.6999953"></trkpt>
+        <trkpt lat="48.4576482" lon="2.6989668"></trkpt>
+        <trkpt lat="48.4570712" lon="2.6979522"></trkpt>
+        <trkpt lat="48.4565053" lon="2.6970022"></trkpt>
+        <trkpt lat="48.4561358" lon="2.6963311"></trkpt>
+        <trkpt lat="48.4555749" lon="2.6953417"></trkpt>
+        <trkpt lat="48.4554912" lon="2.6952051"></trkpt>
+        <trkpt lat="48.454892" lon="2.6940915"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

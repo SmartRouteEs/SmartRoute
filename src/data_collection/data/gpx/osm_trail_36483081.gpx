@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante des Monts Girard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.065307</time>
+</metadata>
+<trk>
+    <name>Route Tournante des Monts Girard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4328435" lon="2.620247"></trkpt>
+        <trkpt lat="48.4319031" lon="2.6219245"></trkpt>
+        <trkpt lat="48.4315007" lon="2.6227081"></trkpt>
+        <trkpt lat="48.4314797" lon="2.6228405"></trkpt>
+        <trkpt lat="48.4315254" lon="2.624404"></trkpt>
+        <trkpt lat="48.4315065" lon="2.6251959"></trkpt>
+        <trkpt lat="48.4313852" lon="2.6257714"></trkpt>
+        <trkpt lat="48.4312046" lon="2.626097"></trkpt>
+        <trkpt lat="48.4309813" lon="2.6266636"></trkpt>
+        <trkpt lat="48.4309019" lon="2.6274824"></trkpt>
+        <trkpt lat="48.43072" lon="2.6285161"></trkpt>
+        <trkpt lat="48.4305574" lon="2.6291116"></trkpt>
+        <trkpt lat="48.430415" lon="2.6305021"></trkpt>
+        <trkpt lat="48.4304668" lon="2.6310801"></trkpt>
+        <trkpt lat="48.430769" lon="2.6321458"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

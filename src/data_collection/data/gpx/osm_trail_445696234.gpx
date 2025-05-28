@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Plaine Verte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.315211</time>
+</metadata>
+<trk>
+    <name>Route de la Plaine Verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3548142" lon="2.7346491"></trkpt>
+        <trkpt lat="48.3550305" lon="2.734756"></trkpt>
+        <trkpt lat="48.3551794" lon="2.7347283"></trkpt>
+        <trkpt lat="48.3551945" lon="2.7347255"></trkpt>
+        <trkpt lat="48.3553028" lon="2.734735"></trkpt>
+        <trkpt lat="48.3556062" lon="2.7346018"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

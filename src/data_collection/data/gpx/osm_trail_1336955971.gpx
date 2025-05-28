@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Fontaine à Sens</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.648960</time>
+</metadata>
+<trk>
+    <name>Chemin de Fontaine à Sens</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1881236" lon="3.1536352"></trkpt>
+        <trkpt lat="48.1874426" lon="3.1559817"></trkpt>
+        <trkpt lat="48.1870295" lon="3.1573448"></trkpt>
+        <trkpt lat="48.1865942" lon="3.1585834"></trkpt>
+        <trkpt lat="48.1854735" lon="3.1617654"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

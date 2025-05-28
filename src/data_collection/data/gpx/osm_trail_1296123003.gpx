@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Liteau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.485441</time>
+</metadata>
+<trk>
+    <name>Route du Liteau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3964021" lon="2.5888853"></trkpt>
+        <trkpt lat="48.395179" lon="2.585798"></trkpt>
+        <trkpt lat="48.394945" lon="2.585293"></trkpt>
+        <trkpt lat="48.394752" lon="2.584749"></trkpt>
+        <trkpt lat="48.3944282" lon="2.5839744"></trkpt>
+        <trkpt lat="48.3941943" lon="2.583415"></trkpt>
+        <trkpt lat="48.3941127" lon="2.5832716"></trkpt>
+        <trkpt lat="48.3939554" lon="2.5831675"></trkpt>
+        <trkpt lat="48.393491" lon="2.582853"></trkpt>
+        <trkpt lat="48.392525" lon="2.582233"></trkpt>
+        <trkpt lat="48.392272" lon="2.582097"></trkpt>
+        <trkpt lat="48.3917956" lon="2.5817854"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

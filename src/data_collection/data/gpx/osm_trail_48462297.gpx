@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Anvers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route d'Anvers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3779302" lon="2.7161314"></trkpt>
+        <trkpt lat="48.3788544" lon="2.713316"></trkpt>
+        <trkpt lat="48.3799596" lon="2.7096546"></trkpt>
+        <trkpt lat="48.3813653" lon="2.7051423"></trkpt>
+        <trkpt lat="48.3818203" lon="2.7036366"></trkpt>
+        <trkpt lat="48.3830227" lon="2.6998984"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

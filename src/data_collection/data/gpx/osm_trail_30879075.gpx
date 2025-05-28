@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Montagne Pavée</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.843394</time>
+</metadata>
+<trk>
+    <name>Sentier de la Montagne Pavée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6811405" lon="2.3597388"></trkpt>
+        <trkpt lat="48.6811738" lon="2.3598559"></trkpt>
+        <trkpt lat="48.6812149" lon="2.3599854"></trkpt>
+        <trkpt lat="48.681437" lon="2.3606153"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

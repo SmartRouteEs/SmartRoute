@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Brocard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.866970</time>
+</metadata>
+<trk>
+    <name>Route du Brocard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3523466" lon="2.6819352"></trkpt>
+        <trkpt lat="48.3501897" lon="2.6809836"></trkpt>
+        <trkpt lat="48.3491978" lon="2.6804406"></trkpt>
+        <trkpt lat="48.3479069" lon="2.6781732"></trkpt>
+        <trkpt lat="48.3464245" lon="2.6762069"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

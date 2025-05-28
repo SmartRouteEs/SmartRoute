@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Loges</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.522722</time>
+</metadata>
+<trk>
+    <name>Rue des Loges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3964895" lon="2.3925427"></trkpt>
+        <trkpt lat="48.3965047" lon="2.3924274"></trkpt>
+        <trkpt lat="48.3965145" lon="2.3921323"></trkpt>
+        <trkpt lat="48.396502" lon="2.3914484"></trkpt>
+        <trkpt lat="48.3964771" lon="2.3910192"></trkpt>
+        <trkpt lat="48.3964094" lon="2.3905927"></trkpt>
+        <trkpt lat="48.3963061" lon="2.3901086"></trkpt>
+        <trkpt lat="48.3961859" lon="2.3896352"></trkpt>
+        <trkpt lat="48.3961164" lon="2.389375"></trkpt>
+        <trkpt lat="48.3960479" lon="2.3892007"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Boigneville à Argerville</name>
+    <desc>Sentier VTT - Type: track - Surface: cobblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.487116</time>
+</metadata>
+<trk>
+    <name>Chemin de Boigneville à Argerville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3315191" lon="2.3919925"></trkpt>
+        <trkpt lat="48.331575" lon="2.3918298"></trkpt>
+        <trkpt lat="48.3316055" lon="2.3916045"></trkpt>
+        <trkpt lat="48.3316298" lon="2.3913444"></trkpt>
+        <trkpt lat="48.3317589" lon="2.3909396"></trkpt>
+        <trkpt lat="48.3318722" lon="2.390619"></trkpt>
+        <trkpt lat="48.3319108" lon="2.3904601"></trkpt>
+        <trkpt lat="48.3317793" lon="2.3898793"></trkpt>
+        <trkpt lat="48.3315802" lon="2.3893172"></trkpt>
+        <trkpt lat="48.3314581" lon="2.3890463"></trkpt>
+        <trkpt lat="48.3313091" lon="2.3887928"></trkpt>
+        <trkpt lat="48.331138" lon="2.3885098"></trkpt>
+        <trkpt lat="48.3310408" lon="2.3880713"></trkpt>
+        <trkpt lat="48.331012" lon="2.3876288"></trkpt>
+        <trkpt lat="48.3310001" lon="2.3874876"></trkpt>
+        <trkpt lat="48.3309225" lon="2.386567"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

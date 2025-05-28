@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Clos Héron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.593359</time>
+</metadata>
+<trk>
+    <name>Route du Clos Héron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3531931" lon="2.6284784"></trkpt>
+        <trkpt lat="48.3539347" lon="2.6282475"></trkpt>
+        <trkpt lat="48.3550728" lon="2.6280237"></trkpt>
+        <trkpt lat="48.3557224" lon="2.6281127"></trkpt>
+        <trkpt lat="48.3564897" lon="2.6282179"></trkpt>
+        <trkpt lat="48.3569867" lon="2.6282394"></trkpt>
+        <trkpt lat="48.3587059" lon="2.6284743"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

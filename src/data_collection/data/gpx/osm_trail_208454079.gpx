@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Neuillis à Bois-Baudry</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.791983</time>
+</metadata>
+<trk>
+    <name>Chemin des Neuillis à Bois-Baudry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.889947" lon="3.2081922"></trkpt>
+        <trkpt lat="48.8894769" lon="3.2095947"></trkpt>
+        <trkpt lat="48.8895248" lon="3.211388"></trkpt>
+        <trkpt lat="48.8891119" lon="3.2147806"></trkpt>
+        <trkpt lat="48.8887392" lon="3.2161083"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

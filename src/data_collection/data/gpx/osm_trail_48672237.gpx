@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Serpolet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.746828</time>
+</metadata>
+<trk>
+    <name>Route du Serpolet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4620178" lon="2.6608464"></trkpt>
+        <trkpt lat="48.4621509" lon="2.6603358"></trkpt>
+        <trkpt lat="48.4624399" lon="2.6591179"></trkpt>
+        <trkpt lat="48.4624703" lon="2.6585139"></trkpt>
+        <trkpt lat="48.4625503" lon="2.6582005"></trkpt>
+        <trkpt lat="48.462665" lon="2.6579365"></trkpt>
+        <trkpt lat="48.4626476" lon="2.6569448"></trkpt>
+        <trkpt lat="48.4626555" lon="2.6568619"></trkpt>
+        <trkpt lat="48.462669" lon="2.6567201"></trkpt>
+        <trkpt lat="48.462626" lon="2.6557586"></trkpt>
+        <trkpt lat="48.4627383" lon="2.6551725"></trkpt>
+        <trkpt lat="48.4636511" lon="2.6529217"></trkpt>
+        <trkpt lat="48.4637735" lon="2.6520551"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

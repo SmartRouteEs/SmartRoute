@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente Rurale dit des Pessards</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.850064</time>
+</metadata>
+<trk>
+    <name>Sente Rurale dit des Pessards</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5580527" lon="2.5602656"></trkpt>
+        <trkpt lat="48.557913" lon="2.560686"></trkpt>
+        <trkpt lat="48.5578409" lon="2.5610769"></trkpt>
+        <trkpt lat="48.5577286" lon="2.5613751"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

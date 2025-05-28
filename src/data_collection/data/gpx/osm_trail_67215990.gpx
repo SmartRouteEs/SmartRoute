@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Canal</name>
+    <desc>Sentier VTT - Type: path - Surface: sett - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.093448</time>
+</metadata>
+<trk>
+    <name>Allée du Canal</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8949309" lon="2.3920678"></trkpt>
+        <trkpt lat="48.8949418" lon="2.392085"></trkpt>
+        <trkpt lat="48.8949618" lon="2.3920836"></trkpt>
+        <trkpt lat="48.89508" lon="2.3920216"></trkpt>
+        <trkpt lat="48.8951163" lon="2.3921112"></trkpt>
+        <trkpt lat="48.8956341" lon="2.3932745"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

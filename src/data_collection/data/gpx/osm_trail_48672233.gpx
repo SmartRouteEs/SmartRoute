@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Barbizon à Samois et Brolles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.746828</time>
+</metadata>
+<trk>
+    <name>Route de Barbizon à Samois et Brolles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.463601" lon="2.6462941"></trkpt>
+        <trkpt lat="48.4625165" lon="2.6450972"></trkpt>
+        <trkpt lat="48.4621747" lon="2.644491"></trkpt>
+        <trkpt lat="48.4620109" lon="2.6438361"></trkpt>
+        <trkpt lat="48.4619097" lon="2.6430127"></trkpt>
+        <trkpt lat="48.4614823" lon="2.6420666"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

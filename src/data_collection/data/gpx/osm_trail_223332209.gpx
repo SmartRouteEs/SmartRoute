@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Hauts de Busseau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.501998</time>
+</metadata>
+<trk>
+    <name>Chemin des Hauts de Busseau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3150889" lon="2.6187601"></trkpt>
+        <trkpt lat="48.315049" lon="2.6189984"></trkpt>
+        <trkpt lat="48.3149705" lon="2.6194786"></trkpt>
+        <trkpt lat="48.3149192" lon="2.6195232"></trkpt>
+        <trkpt lat="48.3144572" lon="2.6199246"></trkpt>
+        <trkpt lat="48.3143997" lon="2.6210532"></trkpt>
+        <trkpt lat="48.3143887" lon="2.6212798"></trkpt>
+        <trkpt lat="48.3145125" lon="2.6235284"></trkpt>
+        <trkpt lat="48.3145629" lon="2.6243933"></trkpt>
+        <trkpt lat="48.3146759" lon="2.6254347"></trkpt>
+        <trkpt lat="48.3146766" lon="2.6261345"></trkpt>
+        <trkpt lat="48.3145924" lon="2.6268122"></trkpt>
+        <trkpt lat="48.3145567" lon="2.6281983"></trkpt>
+        <trkpt lat="48.3145437" lon="2.6287009"></trkpt>
+        <trkpt lat="48.3145377" lon="2.6289335"></trkpt>
+        <trkpt lat="48.3145242" lon="2.6290594"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

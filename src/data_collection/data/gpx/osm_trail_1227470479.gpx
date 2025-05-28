@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Grand Parc</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.229281</time>
+</metadata>
+<trk>
+    <name>Chemin du Grand Parc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.646423" lon="2.2334025"></trkpt>
+        <trkpt lat="48.6463613" lon="2.2336654"></trkpt>
+        <trkpt lat="48.6463374" lon="2.2338384"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

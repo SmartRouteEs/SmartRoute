@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rû de Chantereine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.761461</time>
+</metadata>
+<trk>
+    <name>Chemin du Rû de Chantereine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9097956" lon="2.6284745"></trkpt>
+        <trkpt lat="48.9098629" lon="2.6285483"></trkpt>
+        <trkpt lat="48.9110622" lon="2.6297152"></trkpt>
+        <trkpt lat="48.911171" lon="2.62981"></trkpt>
+        <trkpt lat="48.9113724" lon="2.6299747"></trkpt>
+        <trkpt lat="48.91175" lon="2.6303531"></trkpt>
+        <trkpt lat="48.9119611" lon="2.6306255"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

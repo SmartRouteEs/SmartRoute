@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Corbeau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.635140</time>
+</metadata>
+<trk>
+    <name>Route du Corbeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3827474" lon="2.6427426"></trkpt>
+        <trkpt lat="48.3827342" lon="2.6425542"></trkpt>
+        <trkpt lat="48.3828767" lon="2.6417399"></trkpt>
+        <trkpt lat="48.382777" lon="2.6408172"></trkpt>
+        <trkpt lat="48.3831902" lon="2.6397229"></trkpt>
+        <trkpt lat="48.3830905" lon="2.6379204"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

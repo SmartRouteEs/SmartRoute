@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint-Louis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.639498</time>
+</metadata>
+<trk>
+    <name>Route de Saint-Louis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7326119" lon="2.6984896"></trkpt>
+        <trkpt lat="48.7345476" lon="2.7007191"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

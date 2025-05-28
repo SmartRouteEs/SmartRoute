@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Écoles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.105736</time>
+</metadata>
+<trk>
+    <name>Chemin des Écoles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9136671" lon="2.6612854"></trkpt>
+        <trkpt lat="48.9136678" lon="2.6616695"></trkpt>
+        <trkpt lat="48.9136637" lon="2.6617858"></trkpt>
+        <trkpt lat="48.9136476" lon="2.6622441"></trkpt>
+        <trkpt lat="48.9136652" lon="2.6626287"></trkpt>
+        <trkpt lat="48.9137039" lon="2.6628915"></trkpt>
+        <trkpt lat="48.913778" lon="2.6632778"></trkpt>
+        <trkpt lat="48.9137956" lon="2.6635513"></trkpt>
+        <trkpt lat="48.9140203" lon="2.6647111"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

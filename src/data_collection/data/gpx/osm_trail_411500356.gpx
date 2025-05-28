@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rein</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.840878</time>
+</metadata>
+<trk>
+    <name>Chemin du Rein</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3043221" lon="3.1313339"></trkpt>
+        <trkpt lat="48.3042165" lon="3.1319488"></trkpt>
+        <trkpt lat="48.3041367" lon="3.1321408"></trkpt>
+        <trkpt lat="48.3040622" lon="3.1322367"></trkpt>
+        <trkpt lat="48.3037537" lon="3.1327645"></trkpt>
+        <trkpt lat="48.3036633" lon="3.1328285"></trkpt>
+        <trkpt lat="48.3034505" lon="3.1328125"></trkpt>
+        <trkpt lat="48.3031473" lon="3.1325006"></trkpt>
+        <trkpt lat="48.302993" lon="3.1324446"></trkpt>
+        <trkpt lat="48.3025196" lon="3.1323967"></trkpt>
+        <trkpt lat="48.301977" lon="3.131645"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

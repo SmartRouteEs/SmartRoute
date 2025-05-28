@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Auvergne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.978226</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Auvergne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4064355" lon="2.5473356"></trkpt>
+        <trkpt lat="48.406506" lon="2.54716"></trkpt>
+        <trkpt lat="48.406528" lon="2.546841"></trkpt>
+        <trkpt lat="48.406556" lon="2.546687"></trkpt>
+        <trkpt lat="48.406707" lon="2.546213"></trkpt>
+        <trkpt lat="48.406763" lon="2.545905"></trkpt>
+        <trkpt lat="48.406755" lon="2.545226"></trkpt>
+        <trkpt lat="48.40677" lon="2.544689"></trkpt>
+        <trkpt lat="48.406748" lon="2.544428"></trkpt>
+        <trkpt lat="48.406669" lon="2.543928"></trkpt>
+        <trkpt lat="48.406464" lon="2.543316"></trkpt>
+        <trkpt lat="48.406312" lon="2.542732"></trkpt>
+        <trkpt lat="48.406224" lon="2.542143"></trkpt>
+        <trkpt lat="48.406184" lon="2.541672"></trkpt>
+        <trkpt lat="48.406139" lon="2.541468"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Gorge aux Poivres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.979742</time>
+</metadata>
+<trk>
+    <name>Chemin de la Gorge aux Poivres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3797937" lon="2.5429453"></trkpt>
+        <trkpt lat="48.3798105" lon="2.5430761"></trkpt>
+        <trkpt lat="48.3798339" lon="2.5432568"></trkpt>
+        <trkpt lat="48.3798378" lon="2.543674"></trkpt>
+        <trkpt lat="48.3798724" lon="2.5438851"></trkpt>
+        <trkpt lat="48.3801225" lon="2.5443461"></trkpt>
+        <trkpt lat="48.3801819" lon="2.544486"></trkpt>
+        <trkpt lat="48.3802064" lon="2.5447288"></trkpt>
+        <trkpt lat="48.3802436" lon="2.5449262"></trkpt>
+        <trkpt lat="48.3802563" lon="2.5452216"></trkpt>
+        <trkpt lat="48.3802316" lon="2.5455439"></trkpt>
+        <trkpt lat="48.3801655" lon="2.545795"></trkpt>
+        <trkpt lat="48.3801737" lon="2.5460705"></trkpt>
+        <trkpt lat="48.380171" lon="2.5462114"></trkpt>
+        <trkpt lat="48.3801301" lon="2.5463238"></trkpt>
+        <trkpt lat="48.3801074" lon="2.5464106"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

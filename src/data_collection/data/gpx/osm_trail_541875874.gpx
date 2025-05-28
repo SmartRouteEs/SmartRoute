@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin Particulier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.963426</time>
+</metadata>
+<trk>
+    <name>chemin Particulier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8981141" lon="3.1862851"></trkpt>
+        <trkpt lat="48.8985958" lon="3.1857417"></trkpt>
+        <trkpt lat="48.8990291" lon="3.1852053"></trkpt>
+        <trkpt lat="48.8991348" lon="3.1849547"></trkpt>
+        <trkpt lat="48.8993198" lon="3.1841419"></trkpt>
+        <trkpt lat="48.8994338" lon="3.1838052"></trkpt>
+        <trkpt lat="48.8996698" lon="3.1835067"></trkpt>
+        <trkpt lat="48.899855" lon="3.183331"></trkpt>
+        <trkpt lat="48.9003189" lon="3.1830798"></trkpt>
+        <trkpt lat="48.9005066" lon="3.1829192"></trkpt>
+        <trkpt lat="48.9006944" lon="3.1827376"></trkpt>
+        <trkpt lat="48.9013492" lon="3.1818616"></trkpt>
+        <trkpt lat="48.9015977" lon="3.1818191"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

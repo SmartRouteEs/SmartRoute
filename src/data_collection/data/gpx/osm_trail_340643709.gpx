@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lardy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.779097</time>
+</metadata>
+<trk>
+    <name>Chemin de Lardy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5455583" lon="2.2208318"></trkpt>
+        <trkpt lat="48.5456257" lon="2.2208603"></trkpt>
+        <trkpt lat="48.5457295" lon="2.2208232"></trkpt>
+        <trkpt lat="48.5461369" lon="2.2204973"></trkpt>
+        <trkpt lat="48.5463761" lon="2.2202195"></trkpt>
+        <trkpt lat="48.5465279" lon="2.2200094"></trkpt>
+        <trkpt lat="48.5468971" lon="2.2194594"></trkpt>
+        <trkpt lat="48.5470151" lon="2.2193274"></trkpt>
+        <trkpt lat="48.5470735" lon="2.2193154"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

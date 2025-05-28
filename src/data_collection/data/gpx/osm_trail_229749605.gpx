@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>La Coulée Verte</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.648379</time>
+</metadata>
+<trk>
+    <name>La Coulée Verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7351763" lon="2.2721896"></trkpt>
+        <trkpt lat="48.7351391" lon="2.2721916"></trkpt>
+        <trkpt lat="48.735015" lon="2.2721822"></trkpt>
+        <trkpt lat="48.7349288" lon="2.2721784"></trkpt>
+        <trkpt lat="48.7348632" lon="2.2721864"></trkpt>
+        <trkpt lat="48.7348094" lon="2.2722426"></trkpt>
+        <trkpt lat="48.7347855" lon="2.2723375"></trkpt>
+        <trkpt lat="48.7347792" lon="2.2724286"></trkpt>
+        <trkpt lat="48.734804" lon="2.2727035"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

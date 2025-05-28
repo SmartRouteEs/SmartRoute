@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Hippolyte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.714526</time>
+</metadata>
+<trk>
+    <name>Route d'Hippolyte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3720303" lon="2.6895227"></trkpt>
+        <trkpt lat="48.3720258" lon="2.6896113"></trkpt>
+        <trkpt lat="48.3719854" lon="2.6904157"></trkpt>
+        <trkpt lat="48.3718941" lon="2.6910525"></trkpt>
+        <trkpt lat="48.371648" lon="2.6939128"></trkpt>
+        <trkpt lat="48.3712092" lon="2.6982037"></trkpt>
+        <trkpt lat="48.3709253" lon="2.7012377"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

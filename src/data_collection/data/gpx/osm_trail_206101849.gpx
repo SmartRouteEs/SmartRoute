@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Varsovie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.644209</time>
+</metadata>
+<trk>
+    <name>Route de Varsovie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.35465" lon="2.7499029"></trkpt>
+        <trkpt lat="48.3545153" lon="2.7499693"></trkpt>
+        <trkpt lat="48.3544174" lon="2.7500817"></trkpt>
+        <trkpt lat="48.3543457" lon="2.7502394"></trkpt>
+        <trkpt lat="48.3541775" lon="2.7504104"></trkpt>
+        <trkpt lat="48.3539104" lon="2.7504955"></trkpt>
+        <trkpt lat="48.3533677" lon="2.7505104"></trkpt>
+        <trkpt lat="48.3528657" lon="2.7508196"></trkpt>
+        <trkpt lat="48.3528085" lon="2.7507109"></trkpt>
+        <trkpt lat="48.3527214" lon="2.7506567"></trkpt>
+        <trkpt lat="48.3526236" lon="2.7503712"></trkpt>
+        <trkpt lat="48.3525509" lon="2.7503039"></trkpt>
+        <trkpt lat="48.3524288" lon="2.7502076"></trkpt>
+        <trkpt lat="48.3521851" lon="2.7502063"></trkpt>
+        <trkpt lat="48.3518358" lon="2.7497771"></trkpt>
+        <trkpt lat="48.3515577" lon="2.749289"></trkpt>
+        <trkpt lat="48.3513014" lon="2.7486012"></trkpt>
+        <trkpt lat="48.3508966" lon="2.7478189"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

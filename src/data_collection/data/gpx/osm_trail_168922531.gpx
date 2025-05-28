@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de David</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.921768</time>
+</metadata>
+<trk>
+    <name>Allée de David</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5571232" lon="2.4171996"></trkpt>
+        <trkpt lat="48.5571612" lon="2.416872"></trkpt>
+        <trkpt lat="48.5572848" lon="2.4154772"></trkpt>
+        <trkpt lat="48.557629" lon="2.4126121"></trkpt>
+        <trkpt lat="48.5582846" lon="2.4097741"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

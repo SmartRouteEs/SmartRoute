@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Neuf</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.377889</time>
+</metadata>
+<trk>
+    <name>Chemin Neuf</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9206777" lon="2.8702537"></trkpt>
+        <trkpt lat="48.9208716" lon="2.8701286"></trkpt>
+        <trkpt lat="48.9218295" lon="2.8694701"></trkpt>
+        <trkpt lat="48.922427" lon="2.8689712"></trkpt>
+        <trkpt lat="48.9227072" lon="2.8685796"></trkpt>
+        <trkpt lat="48.9228905" lon="2.8681612"></trkpt>
+        <trkpt lat="48.923213" lon="2.8674826"></trkpt>
+        <trkpt lat="48.9233717" lon="2.8671071"></trkpt>
+        <trkpt lat="48.9234236" lon="2.8668898"></trkpt>
+        <trkpt lat="48.9234337" lon="2.8667834"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

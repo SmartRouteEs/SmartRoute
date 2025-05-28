@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 467</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.498586</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 467</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6657396" lon="2.2463892"></trkpt>
+        <trkpt lat="48.6656636" lon="2.2462241"></trkpt>
+        <trkpt lat="48.6656176" lon="2.2460677"></trkpt>
+        <trkpt lat="48.6655951" lon="2.2459114"></trkpt>
+        <trkpt lat="48.6656305" lon="2.2457249"></trkpt>
+        <trkpt lat="48.6657555" lon="2.245218"></trkpt>
+        <trkpt lat="48.6665432" lon="2.2412102"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

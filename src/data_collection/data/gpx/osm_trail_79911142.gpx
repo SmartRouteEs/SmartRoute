@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Croix du Grand Maître</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route de la Croix du Grand Maître</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3768501" lon="2.7395142"></trkpt>
+        <trkpt lat="48.3787697" lon="2.7377842"></trkpt>
+        <trkpt lat="48.379874" lon="2.7368373"></trkpt>
+        <trkpt lat="48.3802989" lon="2.7364594"></trkpt>
+        <trkpt lat="48.3815205" lon="2.7354993"></trkpt>
+        <trkpt lat="48.3834209" lon="2.7338378"></trkpt>
+        <trkpt lat="48.3850864" lon="2.7324986"></trkpt>
+        <trkpt lat="48.3851046" lon="2.7324829"></trkpt>
+        <trkpt lat="48.3866715" lon="2.7311309"></trkpt>
+        <trkpt lat="48.3873675" lon="2.7305249"></trkpt>
+        <trkpt lat="48.3890111" lon="2.7292015"></trkpt>
+        <trkpt lat="48.390857" lon="2.7277971"></trkpt>
+        <trkpt lat="48.3910584" lon="2.7276319"></trkpt>
+        <trkpt lat="48.3912403" lon="2.7274598"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

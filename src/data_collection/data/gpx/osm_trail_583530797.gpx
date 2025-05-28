@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chevrettes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.386307</time>
+</metadata>
+<trk>
+    <name>Chemin des Chevrettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2523188" lon="2.658193"></trkpt>
+        <trkpt lat="48.2522887" lon="2.6585131"></trkpt>
+        <trkpt lat="48.2523337" lon="2.6589145"></trkpt>
+        <trkpt lat="48.2523891" lon="2.6591232"></trkpt>
+        <trkpt lat="48.2526208" lon="2.661346"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

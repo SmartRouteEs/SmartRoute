@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Pisserotte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.087109</time>
+</metadata>
+<trk>
+    <name>Chemin de la Pisserotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4834642" lon="2.5434382"></trkpt>
+        <trkpt lat="48.4836758" lon="2.5429809"></trkpt>
+        <trkpt lat="48.4838278" lon="2.542659"></trkpt>
+        <trkpt lat="48.4838918" lon="2.542545"></trkpt>
+        <trkpt lat="48.4840322" lon="2.5423774"></trkpt>
+        <trkpt lat="48.4841647" lon="2.5422527"></trkpt>
+        <trkpt lat="48.4843594" lon="2.5421065"></trkpt>
+        <trkpt lat="48.4846429" lon="2.5419201"></trkpt>
+        <trkpt lat="48.484738" lon="2.5419027"></trkpt>
+        <trkpt lat="48.4848314" lon="2.5419375"></trkpt>
+        <trkpt lat="48.4851292" lon="2.5420971"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

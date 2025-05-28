@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Ligne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.273310</time>
+</metadata>
+<trk>
+    <name>Chemin de la Ligne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.906003" lon="3.211304"></trkpt>
+        <trkpt lat="48.9060783" lon="3.2114919"></trkpt>
+        <trkpt lat="48.9063445" lon="3.2120129"></trkpt>
+        <trkpt lat="48.9064348" lon="3.2121906"></trkpt>
+        <trkpt lat="48.9064917" lon="3.2123555"></trkpt>
+        <trkpt lat="48.9065402" lon="3.212556"></trkpt>
+        <trkpt lat="48.9065701" lon="3.2126995"></trkpt>
+        <trkpt lat="48.9065913" lon="3.2130013"></trkpt>
+        <trkpt lat="48.9065746" lon="3.2133882"></trkpt>
+        <trkpt lat="48.9065538" lon="3.2135565"></trkpt>
+        <trkpt lat="48.9064948" lon="3.2137885"></trkpt>
+        <trkpt lat="48.9064119" lon="3.2139991"></trkpt>
+        <trkpt lat="48.9063678" lon="3.214097"></trkpt>
+        <trkpt lat="48.9062978" lon="3.214225"></trkpt>
+        <trkpt lat="48.9061898" lon="3.2143726"></trkpt>
+        <trkpt lat="48.9034979" lon="3.2171776"></trkpt>
+        <trkpt lat="48.9030315" lon="3.2178924"></trkpt>
+        <trkpt lat="48.9028129" lon="3.2181772"></trkpt>
+        <trkpt lat="48.9024262" lon="3.2185054"></trkpt>
+        <trkpt lat="48.9018958" lon="3.2190617"></trkpt>
+        <trkpt lat="48.901332" lon="3.2196191"></trkpt>
+        <trkpt lat="48.9011944" lon="3.2198382"></trkpt>
+        <trkpt lat="48.9001453" lon="3.2219482"></trkpt>
+        <trkpt lat="48.8998512" lon="3.2226749"></trkpt>
+        <trkpt lat="48.8997516" lon="3.2230045"></trkpt>
+        <trkpt lat="48.8995807" lon="3.2239528"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

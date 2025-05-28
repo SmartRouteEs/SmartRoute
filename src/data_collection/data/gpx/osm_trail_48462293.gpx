@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ventes Cumier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.632118</time>
+</metadata>
+<trk>
+    <name>Route des Ventes Cumier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3521237" lon="2.668943"></trkpt>
+        <trkpt lat="48.3548978" lon="2.6745438"></trkpt>
+        <trkpt lat="48.3567917" lon="2.6783412"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

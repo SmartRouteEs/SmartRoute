@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Porte des Champs</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.710135</time>
+</metadata>
+<trk>
+    <name>Chemin de la Porte des Champs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6871605" lon="2.261259"></trkpt>
+        <trkpt lat="48.6860276" lon="2.2590805"></trkpt>
+        <trkpt lat="48.6858433" lon="2.2587641"></trkpt>
+        <trkpt lat="48.6849093" lon="2.2577768"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

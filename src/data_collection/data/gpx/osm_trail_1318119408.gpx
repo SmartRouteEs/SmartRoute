@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de l'allée de l'Hermitière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.543915</time>
+</metadata>
+<trk>
+    <name>chemin de l'allée de l'Hermitière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9212431" lon="3.1907588"></trkpt>
+        <trkpt lat="48.9192007" lon="3.190713"></trkpt>
+        <trkpt lat="48.9150262" lon="3.1907087"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

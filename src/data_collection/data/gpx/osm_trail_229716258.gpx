@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Villebon à Villacoublay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.640722</time>
+</metadata>
+<trk>
+    <name>Route de Villebon à Villacoublay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7966673" lon="2.2206215"></trkpt>
+        <trkpt lat="48.7965115" lon="2.2206135"></trkpt>
+        <trkpt lat="48.7964381" lon="2.2204912"></trkpt>
+        <trkpt lat="48.796346" lon="2.220113"></trkpt>
+        <trkpt lat="48.7960114" lon="2.2187384"></trkpt>
+        <trkpt lat="48.7958304" lon="2.2183894"></trkpt>
+        <trkpt lat="48.7957807" lon="2.2182515"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

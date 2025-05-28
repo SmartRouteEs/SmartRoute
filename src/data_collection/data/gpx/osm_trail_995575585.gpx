@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier d'Arbonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.070385</time>
+</metadata>
+<trk>
+    <name>Sentier d'Arbonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3670162" lon="2.5558069"></trkpt>
+        <trkpt lat="48.367725" lon="2.5551393"></trkpt>
+        <trkpt lat="48.3683879" lon="2.5548282"></trkpt>
+        <trkpt lat="48.3687567" lon="2.5549528"></trkpt>
+        <trkpt lat="48.369073" lon="2.5554227"></trkpt>
+        <trkpt lat="48.3695575" lon="2.5558812"></trkpt>
+        <trkpt lat="48.369631" lon="2.5559893"></trkpt>
+        <trkpt lat="48.3697355" lon="2.5561293"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

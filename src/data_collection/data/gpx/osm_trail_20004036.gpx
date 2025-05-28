@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Terres Fortes</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.424845</time>
+</metadata>
+<trk>
+    <name>Chemin des Terres Fortes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4982486" lon="2.7922811"></trkpt>
+        <trkpt lat="48.4978155" lon="2.7916873"></trkpt>
+        <trkpt lat="48.4976053" lon="2.790793"></trkpt>
+        <trkpt lat="48.4974922" lon="2.7899639"></trkpt>
+        <trkpt lat="48.4974385" lon="2.7890796"></trkpt>
+        <trkpt lat="48.4971917" lon="2.7882583"></trkpt>
+        <trkpt lat="48.4967058" lon="2.7856994"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

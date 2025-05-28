@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin du champ de la Borde</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.601446</time>
+</metadata>
+<trk>
+    <name>chemin du champ de la Borde</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8976287" lon="3.1330203"></trkpt>
+        <trkpt lat="48.8970266" lon="3.1351357"></trkpt>
+        <trkpt lat="48.8967351" lon="3.1362497"></trkpt>
+        <trkpt lat="48.8964385" lon="3.137249"></trkpt>
+        <trkpt lat="48.8962235" lon="3.1380435"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des 40 Mines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Chemin des 40 Mines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2099757" lon="2.3512248"></trkpt>
+        <trkpt lat="48.2099823" lon="2.3513535"></trkpt>
+        <trkpt lat="48.2099951" lon="2.3519625"></trkpt>
+        <trkpt lat="48.2102375" lon="2.3533036"></trkpt>
+        <trkpt lat="48.2105817" lon="2.3551747"></trkpt>
+        <trkpt lat="48.2106221" lon="2.3552876"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

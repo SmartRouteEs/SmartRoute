@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cavaliers</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.558368</time>
+</metadata>
+<trk>
+    <name>Chemin des Cavaliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.768258" lon="2.2372085"></trkpt>
+        <trkpt lat="48.7683103" lon="2.2372735"></trkpt>
+        <trkpt lat="48.7694719" lon="2.2387179"></trkpt>
+        <trkpt lat="48.7698628" lon="2.239147"></trkpt>
+        <trkpt lat="48.7699627" lon="2.2392851"></trkpt>
+        <trkpt lat="48.7700281" lon="2.2393535"></trkpt>
+        <trkpt lat="48.7701045" lon="2.2393911"></trkpt>
+        <trkpt lat="48.7711975" lon="2.2403485"></trkpt>
+        <trkpt lat="48.7713132" lon="2.2404472"></trkpt>
+        <trkpt lat="48.771818" lon="2.2408622"></trkpt>
+        <trkpt lat="48.772092" lon="2.241101"></trkpt>
+        <trkpt lat="48.7721874" lon="2.2411707"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

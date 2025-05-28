@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Germain-sur-École aux Fontaines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.773383</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Germain-sur-École aux Fontaines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4926749" lon="2.5134917"></trkpt>
+        <trkpt lat="48.4927989" lon="2.5140071"></trkpt>
+        <trkpt lat="48.4935661" lon="2.5171956"></trkpt>
+        <trkpt lat="48.4938781" lon="2.518347"></trkpt>
+        <trkpt lat="48.4938955" lon="2.5184113"></trkpt>
+        <trkpt lat="48.4942735" lon="2.5199483"></trkpt>
+        <trkpt lat="48.4947503" lon="2.5217761"></trkpt>
+        <trkpt lat="48.4948412" lon="2.5220053"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

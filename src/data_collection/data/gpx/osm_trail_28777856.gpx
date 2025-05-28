@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Gué de Melun</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.696867</time>
+</metadata>
+<trk>
+    <name>Chemin du Gué de Melun</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6623975" lon="2.6192841"></trkpt>
+        <trkpt lat="48.6626495" lon="2.6192017"></trkpt>
+        <trkpt lat="48.6628844" lon="2.6192469"></trkpt>
+        <trkpt lat="48.6632115" lon="2.6193189"></trkpt>
+        <trkpt lat="48.663575" lon="2.6194782"></trkpt>
+        <trkpt lat="48.6637305" lon="2.6195154"></trkpt>
+        <trkpt lat="48.6641454" lon="2.619484"></trkpt>
+        <trkpt lat="48.6644162" lon="2.6195091"></trkpt>
+        <trkpt lat="48.6645521" lon="2.6195679"></trkpt>
+        <trkpt lat="48.664682" lon="2.6196403"></trkpt>
+        <trkpt lat="48.6648709" lon="2.6198039"></trkpt>
+        <trkpt lat="48.6649471" lon="2.6198562"></trkpt>
+        <trkpt lat="48.6650318" lon="2.6198921"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

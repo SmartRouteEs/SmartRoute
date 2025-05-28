@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue Louis Breguet</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.226763</time>
+</metadata>
+<trk>
+    <name>Avenue Louis Breguet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7795666" lon="2.2028583"></trkpt>
+        <trkpt lat="48.7795597" lon="2.2029418"></trkpt>
+        <trkpt lat="48.7795473" lon="2.2030892"></trkpt>
+        <trkpt lat="48.7795433" lon="2.2031343"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

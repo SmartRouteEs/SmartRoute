@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont d'Ussy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.985676</time>
+</metadata>
+<trk>
+    <name>Route du Mont d'Ussy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4207545" lon="2.699343"></trkpt>
+        <trkpt lat="48.4206245" lon="2.6998711"></trkpt>
+        <trkpt lat="48.4200981" lon="2.7026598"></trkpt>
+        <trkpt lat="48.4200801" lon="2.702755"></trkpt>
+        <trkpt lat="48.4198736" lon="2.7032431"></trkpt>
+        <trkpt lat="48.4196402" lon="2.7040843"></trkpt>
+        <trkpt lat="48.4195904" lon="2.7047924"></trkpt>
+        <trkpt lat="48.4195543" lon="2.7052918"></trkpt>
+        <trkpt lat="48.4194465" lon="2.7061437"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

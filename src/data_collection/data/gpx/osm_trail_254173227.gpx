@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Hacots</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.634590</time>
+</metadata>
+<trk>
+    <name>Rue des Hacots</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8759486" lon="3.2993319"></trkpt>
+        <trkpt lat="48.8760504" lon="3.2996047"></trkpt>
+        <trkpt lat="48.8764308" lon="3.3005779"></trkpt>
+        <trkpt lat="48.8765786" lon="3.3010012"></trkpt>
+        <trkpt lat="48.8769216" lon="3.3019242"></trkpt>
+        <trkpt lat="48.8769876" lon="3.3021097"></trkpt>
+        <trkpt lat="48.877022" lon="3.3022799"></trkpt>
+        <trkpt lat="48.8770306" lon="3.3024261"></trkpt>
+        <trkpt lat="48.8770493" lon="3.3026749"></trkpt>
+        <trkpt lat="48.8771168" lon="3.3028604"></trkpt>
+        <trkpt lat="48.8777181" lon="3.304342"></trkpt>
+        <trkpt lat="48.8777669" lon="3.3044664"></trkpt>
+        <trkpt lat="48.8777721" lon="3.3044999"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

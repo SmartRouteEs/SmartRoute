@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Carrieres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.096453</time>
+</metadata>
+<trk>
+    <name>Chemin des Carrieres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3161303" lon="3.0037774"></trkpt>
+        <trkpt lat="48.3159938" lon="3.0037283"></trkpt>
+        <trkpt lat="48.3153976" lon="3.001903"></trkpt>
+        <trkpt lat="48.3150031" lon="3.0005353"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

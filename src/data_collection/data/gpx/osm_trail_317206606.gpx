@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Potence</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.322456</time>
+</metadata>
+<trk>
+    <name>Chemin de la Potence</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2011793" lon="2.9115852"></trkpt>
+        <trkpt lat="48.2012357" lon="2.9116889"></trkpt>
+        <trkpt lat="48.2013772" lon="2.9121773"></trkpt>
+        <trkpt lat="48.2014471" lon="2.9125204"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

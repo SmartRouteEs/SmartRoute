@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Clabots</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.103609</time>
+</metadata>
+<trk>
+    <name>Chemin des Clabots</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4051853" lon="2.2404372"></trkpt>
+        <trkpt lat="48.4051425" lon="2.2404688"></trkpt>
+        <trkpt lat="48.4050521" lon="2.2406842"></trkpt>
+        <trkpt lat="48.4048111" lon="2.2413919"></trkpt>
+        <trkpt lat="48.4040304" lon="2.2432756"></trkpt>
+        <trkpt lat="48.403697" lon="2.2439935"></trkpt>
+        <trkpt lat="48.4015703" lon="2.2479653"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

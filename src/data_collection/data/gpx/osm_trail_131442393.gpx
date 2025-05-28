@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Four à Chaux</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.030902</time>
+</metadata>
+<trk>
+    <name>Route du Four à Chaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8053" lon="2.1905848"></trkpt>
+        <trkpt lat="48.8056155" lon="2.1911918"></trkpt>
+        <trkpt lat="48.8056327" lon="2.1912253"></trkpt>
+        <trkpt lat="48.8056323" lon="2.1912816"></trkpt>
+        <trkpt lat="48.8056146" lon="2.1913339"></trkpt>
+        <trkpt lat="48.8055219" lon="2.1915431"></trkpt>
+        <trkpt lat="48.8050414" lon="2.1924106"></trkpt>
+        <trkpt lat="48.8049208" lon="2.1927753"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

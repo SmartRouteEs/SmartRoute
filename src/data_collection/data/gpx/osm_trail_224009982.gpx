@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Muguets</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:50.514710</time>
+</metadata>
+<trk>
+    <name>Route des Muguets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7582021" lon="2.2594981"></trkpt>
+        <trkpt lat="48.7576788" lon="2.2594633"></trkpt>
+        <trkpt lat="48.757466" lon="2.2594491"></trkpt>
+        <trkpt lat="48.7573029" lon="2.2593431"></trkpt>
+        <trkpt lat="48.7571721" lon="2.259258"></trkpt>
+        <trkpt lat="48.7569593" lon="2.2591196"></trkpt>
+        <trkpt lat="48.7569497" lon="2.2591134"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

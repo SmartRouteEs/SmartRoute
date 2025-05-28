@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Chevauchée</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.625627</time>
+</metadata>
+<trk>
+    <name>Chemin de la Chevauchée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6814491" lon="2.3204074"></trkpt>
+        <trkpt lat="48.6814811" lon="2.3204085"></trkpt>
+        <trkpt lat="48.6816086" lon="2.3203327"></trkpt>
+        <trkpt lat="48.681677" lon="2.320326"></trkpt>
+        <trkpt lat="48.6817445" lon="2.3203298"></trkpt>
+        <trkpt lat="48.6818125" lon="2.3203404"></trkpt>
+        <trkpt lat="48.6818475" lon="2.3203961"></trkpt>
+        <trkpt lat="48.6818575" lon="2.3204043"></trkpt>
+        <trkpt lat="48.6819366" lon="2.3204057"></trkpt>
+        <trkpt lat="48.6819956" lon="2.3203944"></trkpt>
+        <trkpt lat="48.6820412" lon="2.3203683"></trkpt>
+        <trkpt lat="48.6820438" lon="2.3203584"></trkpt>
+        <trkpt lat="48.6820564" lon="2.3203107"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

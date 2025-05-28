@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Long Boyau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.842415</time>
+</metadata>
+<trk>
+    <name>Chemin du Long Boyau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5276916" lon="2.2548256"></trkpt>
+        <trkpt lat="48.5270782" lon="2.2537743"></trkpt>
+        <trkpt lat="48.5268263" lon="2.2534292"></trkpt>
+        <trkpt lat="48.5261819" lon="2.2525889"></trkpt>
+        <trkpt lat="48.5257801" lon="2.2525563"></trkpt>
+        <trkpt lat="48.5256076" lon="2.2522566"></trkpt>
+        <trkpt lat="48.5252795" lon="2.2516229"></trkpt>
+        <trkpt lat="48.5251645" lon="2.2511556"></trkpt>
+        <trkpt lat="48.5251404" lon="2.2507836"></trkpt>
+        <trkpt lat="48.5251199" lon="2.2506496"></trkpt>
+        <trkpt lat="48.5245421" lon="2.2492981"></trkpt>
+        <trkpt lat="48.5238097" lon="2.2475404"></trkpt>
+        <trkpt lat="48.5235867" lon="2.2469301"></trkpt>
+        <trkpt lat="48.5235597" lon="2.2466638"></trkpt>
+        <trkpt lat="48.5234304" lon="2.2460598"></trkpt>
+        <trkpt lat="48.5229041" lon="2.2442512"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

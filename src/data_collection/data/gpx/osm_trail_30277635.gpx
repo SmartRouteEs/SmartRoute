@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Alisier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.794900</time>
+</metadata>
+<trk>
+    <name>Route de l'Alisier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3572168" lon="2.6597006"></trkpt>
+        <trkpt lat="48.3560043" lon="2.6586731"></trkpt>
+        <trkpt lat="48.3552312" lon="2.657542"></trkpt>
+        <trkpt lat="48.354495" lon="2.6570656"></trkpt>
+        <trkpt lat="48.3539988" lon="2.6568081"></trkpt>
+        <trkpt lat="48.3527668" lon="2.6551773"></trkpt>
+        <trkpt lat="48.3525386" lon="2.6550743"></trkpt>
+        <trkpt lat="48.3517788" lon="2.6545623"></trkpt>
+        <trkpt lat="48.3516769" lon="2.6542542"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

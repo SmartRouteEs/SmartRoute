@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Église</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.006492</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Église</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.539626" lon="3.2795711"></trkpt>
+        <trkpt lat="48.5396331" lon="3.2794933"></trkpt>
+        <trkpt lat="48.5396669" lon="3.2794316"></trkpt>
+        <trkpt lat="48.5397379" lon="3.2793753"></trkpt>
+        <trkpt lat="48.5398242" lon="3.2793222"></trkpt>
+        <trkpt lat="48.5400913" lon="3.2791286"></trkpt>
+        <trkpt lat="48.5403037" lon="3.2789896"></trkpt>
+        <trkpt lat="48.5404429" lon="3.2789247"></trkpt>
+        <trkpt lat="48.540553" lon="3.2788603"></trkpt>
+        <trkpt lat="48.5405974" lon="3.2788334"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

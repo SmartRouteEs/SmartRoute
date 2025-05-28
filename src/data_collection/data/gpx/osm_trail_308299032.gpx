@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Varenne du Tremblay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.985952</time>
+</metadata>
+<trk>
+    <name>Chemin de la Varenne du Tremblay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.651166" lon="2.718728"></trkpt>
+        <trkpt lat="48.6514336" lon="2.7191476"></trkpt>
+        <trkpt lat="48.6521239" lon="2.7204225"></trkpt>
+        <trkpt lat="48.6525653" lon="2.7212378"></trkpt>
+        <trkpt lat="48.6526299" lon="2.721462"></trkpt>
+        <trkpt lat="48.6527873" lon="2.722447"></trkpt>
+        <trkpt lat="48.6530184" lon="2.7231165"></trkpt>
+        <trkpt lat="48.6535054" lon="2.7243074"></trkpt>
+        <trkpt lat="48.6535388" lon="2.7243891"></trkpt>
+        <trkpt lat="48.6538166" lon="2.7248287"></trkpt>
+        <trkpt lat="48.6539015" lon="2.7249631"></trkpt>
+        <trkpt lat="48.6539043" lon="2.7250285"></trkpt>
+        <trkpt lat="48.6539475" lon="2.7253605"></trkpt>
+        <trkpt lat="48.6540292" lon="2.7255027"></trkpt>
+        <trkpt lat="48.6545416" lon="2.7256094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

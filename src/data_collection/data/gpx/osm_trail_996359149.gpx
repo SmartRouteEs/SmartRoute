@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Epinerie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.078665</time>
+</metadata>
+<trk>
+    <name>Route de l'Epinerie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8028618" lon="2.7470859"></trkpt>
+        <trkpt lat="48.802971" lon="2.7466008"></trkpt>
+        <trkpt lat="48.8029726" lon="2.7465937"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

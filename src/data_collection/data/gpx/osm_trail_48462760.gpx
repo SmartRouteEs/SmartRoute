@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Écuries de la Reine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route des Écuries de la Reine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3742357" lon="2.6951639"></trkpt>
+        <trkpt lat="48.3739439" lon="2.6957895"></trkpt>
+        <trkpt lat="48.3734809" lon="2.6982258"></trkpt>
+        <trkpt lat="48.3728881" lon="2.7010746"></trkpt>
+        <trkpt lat="48.3720933" lon="2.7028496"></trkpt>
+        <trkpt lat="48.3704318" lon="2.7063087"></trkpt>
+        <trkpt lat="48.3676273" lon="2.7078135"></trkpt>
+        <trkpt lat="48.3670657" lon="2.7077383"></trkpt>
+        <trkpt lat="48.3667028" lon="2.7077404"></trkpt>
+        <trkpt lat="48.3651952" lon="2.7077448"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

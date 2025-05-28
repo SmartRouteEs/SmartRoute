@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Acacias</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.190725</time>
+</metadata>
+<trk>
+    <name>Chemin des Acacias</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4293161" lon="2.5098955"></trkpt>
+        <trkpt lat="48.4292707" lon="2.5098874"></trkpt>
+        <trkpt lat="48.4277525" lon="2.5096183"></trkpt>
+        <trkpt lat="48.4278645" lon="2.5084721"></trkpt>
+        <trkpt lat="48.4259453" lon="2.5083823"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ventes à Galène</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.901438</time>
+</metadata>
+<trk>
+    <name>Route des Ventes à Galène</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3725727" lon="2.6432733"></trkpt>
+        <trkpt lat="48.3723843" lon="2.6432928"></trkpt>
+        <trkpt lat="48.3723562" lon="2.6432956"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

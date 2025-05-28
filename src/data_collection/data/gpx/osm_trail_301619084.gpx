@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.856641</time>
+</metadata>
+<trk>
+    <name>Route Tournante</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5892514" lon="2.5157311"></trkpt>
+        <trkpt lat="48.58963" lon="2.5169193"></trkpt>
+        <trkpt lat="48.5903241" lon="2.5193184"></trkpt>
+        <trkpt lat="48.5909386" lon="2.5213874"></trkpt>
+        <trkpt lat="48.5915839" lon="2.5234852"></trkpt>
+        <trkpt lat="48.5917373" lon="2.5239845"></trkpt>
+        <trkpt lat="48.5918552" lon="2.524418"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

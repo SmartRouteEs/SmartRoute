@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Champs Devant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.292412</time>
+</metadata>
+<trk>
+    <name>Sentier des Champs Devant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2902788" lon="3.33806"></trkpt>
+        <trkpt lat="48.2899714" lon="3.3380212"></trkpt>
+        <trkpt lat="48.2898465" lon="3.3379528"></trkpt>
+        <trkpt lat="48.289204" lon="3.337348"></trkpt>
+        <trkpt lat="48.2890371" lon="3.337073"></trkpt>
+        <trkpt lat="48.2890353" lon="3.3368625"></trkpt>
+        <trkpt lat="48.2890887" lon="3.3364459"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

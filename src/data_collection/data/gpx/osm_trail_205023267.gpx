@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Ortolan</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route de l'Ortolan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.409456" lon="2.7459337"></trkpt>
+        <trkpt lat="48.4093353" lon="2.7457543"></trkpt>
+        <trkpt lat="48.4076603" lon="2.7432636"></trkpt>
+        <trkpt lat="48.4072245" lon="2.7424765"></trkpt>
+        <trkpt lat="48.4068642" lon="2.7413801"></trkpt>
+        <trkpt lat="48.4066639" lon="2.7398297"></trkpt>
+        <trkpt lat="48.407048" lon="2.7375481"></trkpt>
+        <trkpt lat="48.4072478" lon="2.7364113"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

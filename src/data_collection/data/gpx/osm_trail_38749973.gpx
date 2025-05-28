@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vallée Close</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.129112</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vallée Close</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3876043" lon="2.5304818"></trkpt>
+        <trkpt lat="48.3876265" lon="2.5308424"></trkpt>
+        <trkpt lat="48.387635" lon="2.5310212"></trkpt>
+        <trkpt lat="48.3881212" lon="2.5324597"></trkpt>
+        <trkpt lat="48.3885988" lon="2.5336785"></trkpt>
+        <trkpt lat="48.3886363" lon="2.533778"></trkpt>
+        <trkpt lat="48.3886511" lon="2.5340711"></trkpt>
+        <trkpt lat="48.3886522" lon="2.5342383"></trkpt>
+        <trkpt lat="48.3887021" lon="2.5348045"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

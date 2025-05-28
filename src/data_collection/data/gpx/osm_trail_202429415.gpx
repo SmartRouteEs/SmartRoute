@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 10053</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:48.874547</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 10053</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5755348" lon="2.8167558"></trkpt>
+        <trkpt lat="48.575669" lon="2.8172552"></trkpt>
+        <trkpt lat="48.5758868" lon="2.8182164"></trkpt>
+        <trkpt lat="48.576025" lon="2.8186692"></trkpt>
+        <trkpt lat="48.576521" lon="2.8198336"></trkpt>
+        <trkpt lat="48.5759255" lon="2.8208135"></trkpt>
+        <trkpt lat="48.5756679" lon="2.8212283"></trkpt>
+        <trkpt lat="48.5755304" lon="2.8214497"></trkpt>
+        <trkpt lat="48.5753146" lon="2.8217972"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

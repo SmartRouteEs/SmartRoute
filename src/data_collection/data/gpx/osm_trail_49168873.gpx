@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Carrière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.830161</time>
+</metadata>
+<trk>
+    <name>Chemin de la Carrière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4731774" lon="2.5631559"></trkpt>
+        <trkpt lat="48.4740675" lon="2.5640307"></trkpt>
+        <trkpt lat="48.4744037" lon="2.564634"></trkpt>
+        <trkpt lat="48.4757643" lon="2.5672913"></trkpt>
+        <trkpt lat="48.4763316" lon="2.567998"></trkpt>
+        <trkpt lat="48.4751641" lon="2.5727884"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

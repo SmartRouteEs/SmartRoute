@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Hautes Buttes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.636711</time>
+</metadata>
+<trk>
+    <name>Sentier des Hautes Buttes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4068899" lon="2.7771249"></trkpt>
+        <trkpt lat="48.4069792" lon="2.7774113"></trkpt>
+        <trkpt lat="48.4070085" lon="2.7775029"></trkpt>
+        <trkpt lat="48.4070404" lon="2.7776075"></trkpt>
+        <trkpt lat="48.4072124" lon="2.7781682"></trkpt>
+        <trkpt lat="48.4072218" lon="2.7782167"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

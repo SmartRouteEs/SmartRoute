@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Juniperaie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.166118</time>
+</metadata>
+<trk>
+    <name>Chemin de la Juniperaie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4193336" lon="2.5351009"></trkpt>
+        <trkpt lat="48.4186211" lon="2.5351509"></trkpt>
+        <trkpt lat="48.4184536" lon="2.5349545"></trkpt>
+        <trkpt lat="48.4181239" lon="2.5344846"></trkpt>
+        <trkpt lat="48.4179357" lon="2.5340548"></trkpt>
+        <trkpt lat="48.4178413" lon="2.5338491"></trkpt>
+        <trkpt lat="48.4177811" lon="2.5335527"></trkpt>
+        <trkpt lat="48.4177976" lon="2.5327531"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.138125</time>
+</metadata>
+<trk>
+    <name>Chemin Rural</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3340559" lon="2.7122772"></trkpt>
+        <trkpt lat="48.3341448" lon="2.7127671"></trkpt>
+        <trkpt lat="48.3349739" lon="2.7157927"></trkpt>
+        <trkpt lat="48.3350345" lon="2.7160502"></trkpt>
+        <trkpt lat="48.3350523" lon="2.7163077"></trkpt>
+        <trkpt lat="48.3357941" lon="2.7204597"></trkpt>
+        <trkpt lat="48.3352841" lon="2.7248425"></trkpt>
+        <trkpt lat="48.3352395" lon="2.7252689"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

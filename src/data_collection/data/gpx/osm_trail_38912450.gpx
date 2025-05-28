@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Cornier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.194767</time>
+</metadata>
+<trk>
+    <name>Chemin du Cornier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4489172" lon="2.6110885"></trkpt>
+        <trkpt lat="48.449119" lon="2.6111792"></trkpt>
+        <trkpt lat="48.4493668" lon="2.611292"></trkpt>
+        <trkpt lat="48.4497768" lon="2.6094956"></trkpt>
+        <trkpt lat="48.449535" lon="2.6093736"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

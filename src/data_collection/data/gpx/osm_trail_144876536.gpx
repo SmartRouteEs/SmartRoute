@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Marché</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.199386</time>
+</metadata>
+<trk>
+    <name>Chemin du Marché</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7296824" lon="2.3356026"></trkpt>
+        <trkpt lat="48.7296271" lon="2.335315"></trkpt>
+        <trkpt lat="48.7295584" lon="2.3351151"></trkpt>
+        <trkpt lat="48.7294487" lon="2.3349917"></trkpt>
+        <trkpt lat="48.7287903" lon="2.334667"></trkpt>
+        <trkpt lat="48.7287703" lon="2.3346335"></trkpt>
+        <trkpt lat="48.7287652" lon="2.3345905"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

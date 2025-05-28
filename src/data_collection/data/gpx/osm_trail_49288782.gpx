@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Porte aux Lièvres</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.837897</time>
+</metadata>
+<trk>
+    <name>Allée de la Porte aux Lièvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8128887" lon="2.6537912"></trkpt>
+        <trkpt lat="48.8122613" lon="2.6542719"></trkpt>
+        <trkpt lat="48.8101118" lon="2.655787"></trkpt>
+        <trkpt lat="48.8100524" lon="2.6558428"></trkpt>
+        <trkpt lat="48.8099156" lon="2.6559713"></trkpt>
+        <trkpt lat="48.8097686" lon="2.6562288"></trkpt>
+        <trkpt lat="48.8097096" lon="2.656319"></trkpt>
+        <trkpt lat="48.8085806" lon="2.6580452"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Repaire</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.669139</time>
+</metadata>
+<trk>
+    <name>Route du Repaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3727851" lon="2.655216"></trkpt>
+        <trkpt lat="48.3724815" lon="2.6554123"></trkpt>
+        <trkpt lat="48.3718241" lon="2.6556172"></trkpt>
+        <trkpt lat="48.3715128" lon="2.655801"></trkpt>
+        <trkpt lat="48.3686718" lon="2.6598638"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

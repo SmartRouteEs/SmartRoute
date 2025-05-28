@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Matroy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.052099</time>
+</metadata>
+<trk>
+    <name>Chemin du Matroy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3495197" lon="3.1455601"></trkpt>
+        <trkpt lat="48.349638" lon="3.1455367"></trkpt>
+        <trkpt lat="48.3501914" lon="3.145828"></trkpt>
+        <trkpt lat="48.3502335" lon="3.1458033"></trkpt>
+        <trkpt lat="48.3502609" lon="3.1457605"></trkpt>
+        <trkpt lat="48.3503076" lon="3.1454983"></trkpt>
+        <trkpt lat="48.3503453" lon="3.145401"></trkpt>
+        <trkpt lat="48.3503867" lon="3.1453559"></trkpt>
+        <trkpt lat="48.3504298" lon="3.145342"></trkpt>
+        <trkpt lat="48.3508437" lon="3.1454484"></trkpt>
+        <trkpt lat="48.3510727" lon="3.14553"></trkpt>
+        <trkpt lat="48.3512757" lon="3.1456434"></trkpt>
+        <trkpt lat="48.3515331" lon="3.1458085"></trkpt>
+        <trkpt lat="48.3518276" lon="3.1459976"></trkpt>
+        <trkpt lat="48.3530231" lon="3.1466362"></trkpt>
+        <trkpt lat="48.353086" lon="3.146686"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

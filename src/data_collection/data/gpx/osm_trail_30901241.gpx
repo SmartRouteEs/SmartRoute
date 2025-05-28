@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle de Nozay</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.853915</time>
+</metadata>
+<trk>
+    <name>Ruelle de Nozay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6443762" lon="2.2930034"></trkpt>
+        <trkpt lat="48.6444559" lon="2.2950198"></trkpt>
+        <trkpt lat="48.6444587" lon="2.2950816"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

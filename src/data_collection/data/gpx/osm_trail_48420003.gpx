@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Débucher</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.615340</time>
+</metadata>
+<trk>
+    <name>Route Débucher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4010119" lon="2.6602336"></trkpt>
+        <trkpt lat="48.4023974" lon="2.6593882"></trkpt>
+        <trkpt lat="48.4025601" lon="2.6590758"></trkpt>
+        <trkpt lat="48.4026432" lon="2.6587949"></trkpt>
+        <trkpt lat="48.4037549" lon="2.6556958"></trkpt>
+        <trkpt lat="48.4038188" lon="2.6554079"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

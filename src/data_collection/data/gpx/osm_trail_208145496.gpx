@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Pont de Try de Trilbardou</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.759165</time>
+</metadata>
+<trk>
+    <name>Rue du Pont de Try de Trilbardou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9057635" lon="2.7932601"></trkpt>
+        <trkpt lat="48.905894" lon="2.7932967"></trkpt>
+        <trkpt lat="48.9061472" lon="2.7933934"></trkpt>
+        <trkpt lat="48.9062434" lon="2.7934374"></trkpt>
+        <trkpt lat="48.9068201" lon="2.7936731"></trkpt>
+        <trkpt lat="48.9071917" lon="2.7937995"></trkpt>
+        <trkpt lat="48.9081112" lon="2.7941009"></trkpt>
+        <trkpt lat="48.9081939" lon="2.7941387"></trkpt>
+        <trkpt lat="48.9082886" lon="2.7941892"></trkpt>
+        <trkpt lat="48.9085968" lon="2.7943388"></trkpt>
+        <trkpt lat="48.9086495" lon="2.7943622"></trkpt>
+        <trkpt lat="48.9092008" lon="2.7945162"></trkpt>
+        <trkpt lat="48.9105587" lon="2.7949032"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

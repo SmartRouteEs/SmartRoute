@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Prés des Grils</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.450229</time>
+</metadata>
+<trk>
+    <name>Chemin des Prés des Grils</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3304279" lon="2.8505089"></trkpt>
+        <trkpt lat="48.3291526" lon="2.8512168"></trkpt>
+        <trkpt lat="48.3285729" lon="2.8513853"></trkpt>
+        <trkpt lat="48.3281446" lon="2.8511861"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

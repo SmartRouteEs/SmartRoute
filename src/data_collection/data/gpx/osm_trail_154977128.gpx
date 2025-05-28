@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Blanche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.609700</time>
+</metadata>
+<trk>
+    <name>Rue Blanche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9526886" lon="3.1077128"></trkpt>
+        <trkpt lat="48.9525997" lon="3.1077897"></trkpt>
+        <trkpt lat="48.952448" lon="3.1082243"></trkpt>
+        <trkpt lat="48.9522784" lon="3.1085323"></trkpt>
+        <trkpt lat="48.9521088" lon="3.1088055"></trkpt>
+        <trkpt lat="48.9519098" lon="3.1091705"></trkpt>
+        <trkpt lat="48.9517076" lon="3.1093096"></trkpt>
+        <trkpt lat="48.9516147" lon="3.1093319"></trkpt>
+        <trkpt lat="48.9513473" lon="3.1106182"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

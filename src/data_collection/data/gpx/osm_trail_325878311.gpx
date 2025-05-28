@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chêne Tordu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.511736</time>
+</metadata>
+<trk>
+    <name>Route du Chêne Tordu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4708169" lon="2.750335"></trkpt>
+        <trkpt lat="48.4709085" lon="2.7526307"></trkpt>
+        <trkpt lat="48.4710145" lon="2.7561074"></trkpt>
+        <trkpt lat="48.4711148" lon="2.7589893"></trkpt>
+        <trkpt lat="48.4712304" lon="2.7625071"></trkpt>
+        <trkpt lat="48.4712584" lon="2.7630472"></trkpt>
+        <trkpt lat="48.4713276" lon="2.7656031"></trkpt>
+        <trkpt lat="48.4714257" lon="2.7691287"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

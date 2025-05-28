@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2103</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.222696</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2103</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6669443" lon="2.3861181"></trkpt>
+        <trkpt lat="48.6668872" lon="2.3860676"></trkpt>
+        <trkpt lat="48.6657739" lon="2.3843006"></trkpt>
+        <trkpt lat="48.6655717" lon="2.3840057"></trkpt>
+        <trkpt lat="48.6655063" lon="2.3839026"></trkpt>
+        <trkpt lat="48.6654314" lon="2.3838437"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

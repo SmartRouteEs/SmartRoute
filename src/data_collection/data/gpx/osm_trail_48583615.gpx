@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Bézout</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.704051</time>
+</metadata>
+<trk>
+    <name>Route Bézout</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4472584" lon="2.729913"></trkpt>
+        <trkpt lat="48.4432928" lon="2.7309314"></trkpt>
+        <trkpt lat="48.442695" lon="2.7310121"></trkpt>
+        <trkpt lat="48.440538" lon="2.7316886"></trkpt>
+        <trkpt lat="48.4383604" lon="2.7323311"></trkpt>
+        <trkpt lat="48.4371864" lon="2.7326189"></trkpt>
+        <trkpt lat="48.4369555" lon="2.7326063"></trkpt>
+        <trkpt lat="48.4352375" lon="2.7325119"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

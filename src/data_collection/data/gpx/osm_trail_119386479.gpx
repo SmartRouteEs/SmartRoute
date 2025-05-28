@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Sèvres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.851230</time>
+</metadata>
+<trk>
+    <name>Route de Sèvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.810152" lon="2.20029"></trkpt>
+        <trkpt lat="48.809557" lon="2.2016342"></trkpt>
+        <trkpt lat="48.809053" lon="2.202773"></trkpt>
+        <trkpt lat="48.8088628" lon="2.203256"></trkpt>
+        <trkpt lat="48.8086942" lon="2.2034929"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

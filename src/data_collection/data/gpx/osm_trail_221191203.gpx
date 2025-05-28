@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 12345</name>
+    <desc>Sentier VTT - Type: track - Surface: pebblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.301575</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 12345</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.761959" lon="2.230025"></trkpt>
+        <trkpt lat="48.7621544" lon="2.2290611"></trkpt>
+        <trkpt lat="48.7620716" lon="2.2286472"></trkpt>
+        <trkpt lat="48.7619988" lon="2.2284419"></trkpt>
+        <trkpt lat="48.7617018" lon="2.2282978"></trkpt>
+        <trkpt lat="48.7610208" lon="2.2273392"></trkpt>
+        <trkpt lat="48.7605721" lon="2.2268017"></trkpt>
+        <trkpt lat="48.7604487" lon="2.226442"></trkpt>
+        <trkpt lat="48.7603921" lon="2.2263291"></trkpt>
+        <trkpt lat="48.7603235" lon="2.2261948"></trkpt>
+        <trkpt lat="48.7602152" lon="2.2260724"></trkpt>
+        <trkpt lat="48.7600949" lon="2.2260734"></trkpt>
+        <trkpt lat="48.7597791" lon="2.2261186"></trkpt>
+        <trkpt lat="48.7595905" lon="2.2260319"></trkpt>
+        <trkpt lat="48.7593484" lon="2.2257279"></trkpt>
+        <trkpt lat="48.7592419" lon="2.2255941"></trkpt>
+        <trkpt lat="48.759059" lon="2.2254944"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

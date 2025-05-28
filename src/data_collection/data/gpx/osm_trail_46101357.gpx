@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Marguerites</name>
+    <desc>Sentier VTT - Type: track - Surface: paving_stones - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.465510</time>
+</metadata>
+<trk>
+    <name>Rue des Marguerites</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8534175" lon="2.5909469"></trkpt>
+        <trkpt lat="48.8532847" lon="2.5909853"></trkpt>
+        <trkpt lat="48.8532529" lon="2.5909904"></trkpt>
+        <trkpt lat="48.8532066" lon="2.5909689"></trkpt>
+        <trkpt lat="48.8531777" lon="2.5909613"></trkpt>
+        <trkpt lat="48.8531454" lon="2.5909726"></trkpt>
+        <trkpt lat="48.8531074" lon="2.5910029"></trkpt>
+        <trkpt lat="48.8530168" lon="2.5910653"></trkpt>
+        <trkpt lat="48.8519678" lon="2.591366"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

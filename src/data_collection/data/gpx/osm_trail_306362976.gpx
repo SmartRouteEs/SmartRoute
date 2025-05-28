@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Grisy-Suisnes à Coubert</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.928689</time>
+</metadata>
+<trk>
+    <name>Chemin de Grisy-Suisnes à Coubert</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.680431" lon="2.6724239"></trkpt>
+        <trkpt lat="48.6814201" lon="2.673543"></trkpt>
+        <trkpt lat="48.6814493" lon="2.6736469"></trkpt>
+        <trkpt lat="48.6814275" lon="2.6737915"></trkpt>
+        <trkpt lat="48.6800207" lon="2.6774346"></trkpt>
+        <trkpt lat="48.6788414" lon="2.680324"></trkpt>
+        <trkpt lat="48.6770682" lon="2.6841337"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

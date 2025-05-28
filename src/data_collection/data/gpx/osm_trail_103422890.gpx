@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Système Solaire</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.628830</time>
+</metadata>
+<trk>
+    <name>Allée du Système Solaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7407355" lon="2.7426517"></trkpt>
+        <trkpt lat="48.7407903" lon="2.7427961"></trkpt>
+        <trkpt lat="48.7411058" lon="2.7436274"></trkpt>
+        <trkpt lat="48.7415359" lon="2.7447606"></trkpt>
+        <trkpt lat="48.7415845" lon="2.7448887"></trkpt>
+        <trkpt lat="48.7426635" lon="2.7477292"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

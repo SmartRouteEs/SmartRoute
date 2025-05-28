@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Fond des Vignes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.328341</time>
+</metadata>
+<trk>
+    <name>Sentier du Fond des Vignes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9228789" lon="2.8658191"></trkpt>
+        <trkpt lat="48.9229624" lon="2.8656433"></trkpt>
+        <trkpt lat="48.9231379" lon="2.8656335"></trkpt>
+        <trkpt lat="48.9234203" lon="2.8651026"></trkpt>
+        <trkpt lat="48.9238647" lon="2.8643156"></trkpt>
+        <trkpt lat="48.9240959" lon="2.8639809"></trkpt>
+        <trkpt lat="48.9245019" lon="2.8635002"></trkpt>
+        <trkpt lat="48.9245288" lon="2.8634458"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

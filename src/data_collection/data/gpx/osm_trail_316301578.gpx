@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lilandry</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.306429</time>
+</metadata>
+<trk>
+    <name>Chemin de Lilandry</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8609466" lon="2.8356897"></trkpt>
+        <trkpt lat="48.8605124" lon="2.8353752"></trkpt>
+        <trkpt lat="48.8601962" lon="2.835141"></trkpt>
+        <trkpt lat="48.8596431" lon="2.8347368"></trkpt>
+        <trkpt lat="48.8594047" lon="2.8345667"></trkpt>
+        <trkpt lat="48.8592716" lon="2.8344722"></trkpt>
+        <trkpt lat="48.8589041" lon="2.8342553"></trkpt>
+        <trkpt lat="48.8583975" lon="2.8340145"></trkpt>
+        <trkpt lat="48.8581932" lon="2.8338961"></trkpt>
+        <trkpt lat="48.8580837" lon="2.8338074"></trkpt>
+        <trkpt lat="48.8578153" lon="2.8335855"></trkpt>
+        <trkpt lat="48.8573903" lon="2.8331245"></trkpt>
+        <trkpt lat="48.8572064" lon="2.8328701"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

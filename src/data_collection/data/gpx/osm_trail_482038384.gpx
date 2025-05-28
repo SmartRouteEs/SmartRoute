@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Étang de Trivaux</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.539516</time>
+</metadata>
+<trk>
+    <name>Route de l'Étang de Trivaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7953376" lon="2.2324221"></trkpt>
+        <trkpt lat="48.7953542" lon="2.2323074"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Champ de Mars</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.436159</time>
+</metadata>
+<trk>
+    <name>Chemin du Champ de Mars</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4568873" lon="2.7407328"></trkpt>
+        <trkpt lat="48.4573533" lon="2.7399698"></trkpt>
+        <trkpt lat="48.4575799" lon="2.7394081"></trkpt>
+        <trkpt lat="48.4577558" lon="2.7389722"></trkpt>
+        <trkpt lat="48.4581465" lon="2.7376286"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

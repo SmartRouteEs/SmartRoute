@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Bouleaux</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.144502</time>
+</metadata>
+<trk>
+    <name>Allée des Bouleaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8754144" lon="2.266685"></trkpt>
+        <trkpt lat="48.8754508" lon="2.2669311"></trkpt>
+        <trkpt lat="48.8754571" lon="2.2669679"></trkpt>
+        <trkpt lat="48.8754734" lon="2.2670741"></trkpt>
+        <trkpt lat="48.8755" lon="2.2672542"></trkpt>
+        <trkpt lat="48.8755242" lon="2.2674148"></trkpt>
+        <trkpt lat="48.8756023" lon="2.2678865"></trkpt>
+        <trkpt lat="48.8756397" lon="2.2681239"></trkpt>
+        <trkpt lat="48.8756854" lon="2.2685165"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Brise Panier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.226763</time>
+</metadata>
+<trk>
+    <name>Chemin du Brise Panier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2666784" lon="2.8983977"></trkpt>
+        <trkpt lat="48.2668319" lon="2.8983012"></trkpt>
+        <trkpt lat="48.2669283" lon="2.8982797"></trkpt>
+        <trkpt lat="48.266998" lon="2.8983173"></trkpt>
+        <trkpt lat="48.2675746" lon="2.8987357"></trkpt>
+        <trkpt lat="48.2680156" lon="2.8989798"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

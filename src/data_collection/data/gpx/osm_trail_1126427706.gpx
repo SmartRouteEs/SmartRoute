@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la mare Chauvet</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.498357</time>
+</metadata>
+<trk>
+    <name>Chemin de la mare Chauvet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5020144" lon="2.5271646"></trkpt>
+        <trkpt lat="48.5024531" lon="2.5255778"></trkpt>
+        <trkpt lat="48.502826" lon="2.5245833"></trkpt>
+        <trkpt lat="48.5027675" lon="2.5241813"></trkpt>
+        <trkpt lat="48.5025379" lon="2.5237146"></trkpt>
+        <trkpt lat="48.5026651" lon="2.5222032"></trkpt>
+        <trkpt lat="48.5027989" lon="2.5217334"></trkpt>
+        <trkpt lat="48.5040851" lon="2.5174291"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

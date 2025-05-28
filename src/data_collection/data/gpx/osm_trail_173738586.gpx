@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Clos Boulloy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.034575</time>
+</metadata>
+<trk>
+    <name>Chemin du Clos Boulloy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.350186" lon="3.149946"></trkpt>
+        <trkpt lat="48.351066" lon="3.150886"></trkpt>
+        <trkpt lat="48.352546" lon="3.152226"></trkpt>
+        <trkpt lat="48.3527144" lon="3.1523082"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

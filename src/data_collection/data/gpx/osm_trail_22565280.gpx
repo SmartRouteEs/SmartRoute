@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Perspective Hanovre Grenouillère</name>
+    <desc>Sentier VTT - Type: track - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.458489</time>
+</metadata>
+<trk>
+    <name>Perspective Hanovre Grenouillère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.764584" lon="2.2971842"></trkpt>
+        <trkpt lat="48.7642217" lon="2.2982363"></trkpt>
+        <trkpt lat="48.7639827" lon="2.2989144"></trkpt>
+        <trkpt lat="48.7639701" lon="2.2989503"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

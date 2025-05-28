@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Table du Grand Maître</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.738804</time>
+</metadata>
+<trk>
+    <name>Route de la Table du Grand Maître</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4527757" lon="2.6690152"></trkpt>
+        <trkpt lat="48.4517067" lon="2.6656221"></trkpt>
+        <trkpt lat="48.4509522" lon="2.663287"></trkpt>
+        <trkpt lat="48.4503573" lon="2.6614262"></trkpt>
+        <trkpt lat="48.4496294" lon="2.6590253"></trkpt>
+        <trkpt lat="48.4485792" lon="2.6558543"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

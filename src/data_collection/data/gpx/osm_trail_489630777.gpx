@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Meylets</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:55.579285</time>
+</metadata>
+<trk>
+    <name>Rue des Meylets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8491635" lon="2.8962996"></trkpt>
+        <trkpt lat="48.8489349" lon="2.8962598"></trkpt>
+        <trkpt lat="48.8487776" lon="2.8962342"></trkpt>
+        <trkpt lat="48.8485453" lon="2.8961915"></trkpt>
+        <trkpt lat="48.8483617" lon="2.8961488"></trkpt>
+        <trkpt lat="48.8482404" lon="2.8961099"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

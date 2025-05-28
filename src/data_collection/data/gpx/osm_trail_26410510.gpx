@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente des Chènevis</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Sente des Chènevis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4557029" lon="2.7695433"></trkpt>
+        <trkpt lat="48.4556955" lon="2.7694558"></trkpt>
+        <trkpt lat="48.4556526" lon="2.769372"></trkpt>
+        <trkpt lat="48.455626" lon="2.7693303"></trkpt>
+        <trkpt lat="48.4554337" lon="2.7690737"></trkpt>
+        <trkpt lat="48.4553031" lon="2.7688996"></trkpt>
+        <trkpt lat="48.4550065" lon="2.7686153"></trkpt>
+        <trkpt lat="48.4545987" lon="2.7681746"></trkpt>
+        <trkpt lat="48.4542044" lon="2.7676832"></trkpt>
+        <trkpt lat="48.4536593" lon="2.7669822"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

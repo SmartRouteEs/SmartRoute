@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pucelles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.350140</time>
+</metadata>
+<trk>
+    <name>Chemin des Pucelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9338531" lon="2.871111"></trkpt>
+        <trkpt lat="48.9351072" lon="2.8679227"></trkpt>
+        <trkpt lat="48.9351457" lon="2.8678173"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

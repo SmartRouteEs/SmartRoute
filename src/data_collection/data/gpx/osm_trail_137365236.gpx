@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Fief Grillon</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.120270</time>
+</metadata>
+<trk>
+    <name>Chemin du Fief Grillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.742531" lon="3.0206447"></trkpt>
+        <trkpt lat="48.7426085" lon="3.0200573"></trkpt>
+        <trkpt lat="48.7427357" lon="3.0191622"></trkpt>
+        <trkpt lat="48.7430235" lon="3.0175875"></trkpt>
+        <trkpt lat="48.7433094" lon="3.01594"></trkpt>
+        <trkpt lat="48.7435952" lon="3.0138112"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

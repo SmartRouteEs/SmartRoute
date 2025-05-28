@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Marion des Roches</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.095987</time>
+</metadata>
+<trk>
+    <name>Route de Marion des Roches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3800164" lon="2.7777323"></trkpt>
+        <trkpt lat="48.3803352" lon="2.7777949"></trkpt>
+        <trkpt lat="48.3820522" lon="2.7781987"></trkpt>
+        <trkpt lat="48.3823852" lon="2.778275"></trkpt>
+        <trkpt lat="48.382646" lon="2.7783663"></trkpt>
+        <trkpt lat="48.3827563" lon="2.7784312"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

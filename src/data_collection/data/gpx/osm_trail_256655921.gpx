@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Morangis à Paray-Vieille-Poste</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.697853</time>
+</metadata>
+<trk>
+    <name>Chemin de Morangis à Paray-Vieille-Poste</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7093155" lon="2.3370399"></trkpt>
+        <trkpt lat="48.7093923" lon="2.3370758"></trkpt>
+        <trkpt lat="48.7095046" lon="2.3371762"></trkpt>
+        <trkpt lat="48.7095727" lon="2.3372882"></trkpt>
+        <trkpt lat="48.7104799" lon="2.3380058"></trkpt>
+        <trkpt lat="48.710929" lon="2.3383656"></trkpt>
+        <trkpt lat="48.711388" lon="2.3386933"></trkpt>
+        <trkpt lat="48.7124417" lon="2.3396047"></trkpt>
+        <trkpt lat="48.7135523" lon="2.3406456"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

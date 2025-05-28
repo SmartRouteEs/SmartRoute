@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Aisances</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.571868</time>
+</metadata>
+<trk>
+    <name>Rue des Aisances</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8263485" lon="3.1032758"></trkpt>
+        <trkpt lat="48.826431" lon="3.1029679"></trkpt>
+        <trkpt lat="48.8264931" lon="3.102687"></trkpt>
+        <trkpt lat="48.8265449" lon="3.1025645"></trkpt>
+        <trkpt lat="48.826599" lon="3.1025136"></trkpt>
+        <trkpt lat="48.8266867" lon="3.1024814"></trkpt>
+        <trkpt lat="48.8268014" lon="3.1024799"></trkpt>
+        <trkpt lat="48.8271488" lon="3.1024994"></trkpt>
+        <trkpt lat="48.8274523" lon="3.1025443"></trkpt>
+        <trkpt lat="48.8277065" lon="3.1025158"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

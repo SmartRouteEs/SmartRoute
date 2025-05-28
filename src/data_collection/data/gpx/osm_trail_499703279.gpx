@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bouchet au Saussay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.679677</time>
+</metadata>
+<trk>
+    <name>Chemin du Bouchet au Saussay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5245172" lon="2.3565486"></trkpt>
+        <trkpt lat="48.5246007" lon="2.356613"></trkpt>
+        <trkpt lat="48.5261905" lon="2.356672"></trkpt>
+        <trkpt lat="48.5273416" lon="2.3565137"></trkpt>
+        <trkpt lat="48.5278816" lon="2.3566559"></trkpt>
+        <trkpt lat="48.5284518" lon="2.3569724"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

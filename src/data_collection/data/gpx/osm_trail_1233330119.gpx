@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural dit des Mauniers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.274592</time>
+</metadata>
+<trk>
+    <name>Chemin rural dit des Mauniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9154482" lon="3.2604852"></trkpt>
+        <trkpt lat="48.9155478" lon="3.2604879"></trkpt>
+        <trkpt lat="48.9156747" lon="3.2604933"></trkpt>
+        <trkpt lat="48.9158369" lon="3.2605845"></trkpt>
+        <trkpt lat="48.9158721" lon="3.2604477"></trkpt>
+        <trkpt lat="48.9160889" lon="3.2604584"></trkpt>
+        <trkpt lat="48.916697" lon="3.2584602"></trkpt>
+        <trkpt lat="48.9168751" lon="3.25798"></trkpt>
+        <trkpt lat="48.9171676" lon="3.2570305"></trkpt>
+        <trkpt lat="48.9172491" lon="3.2563897"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

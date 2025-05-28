@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Carrefour de la Butte à Guay</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.416848</time>
+</metadata>
+<trk>
+    <name>Carrefour de la Butte à Guay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.429622" lon="2.7183834"></trkpt>
+        <trkpt lat="48.4296138" lon="2.7184366"></trkpt>
+        <trkpt lat="48.4296001" lon="2.7184796"></trkpt>
+        <trkpt lat="48.4295601" lon="2.7185553"></trkpt>
+        <trkpt lat="48.4295106" lon="2.7186106"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

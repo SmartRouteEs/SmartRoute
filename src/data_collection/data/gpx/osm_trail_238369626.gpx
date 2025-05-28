@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Falotte</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.088509</time>
+</metadata>
+<trk>
+    <name>Chemin de la Falotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4631149" lon="2.2621496"></trkpt>
+        <trkpt lat="48.4612232" lon="2.264911"></trkpt>
+        <trkpt lat="48.4608313" lon="2.2655309"></trkpt>
+        <trkpt lat="48.4602917" lon="2.2661979"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

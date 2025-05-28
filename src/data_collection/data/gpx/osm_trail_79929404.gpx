@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Soupirs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.204634</time>
+</metadata>
+<trk>
+    <name>Route des Soupirs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3779701" lon="2.6724868"></trkpt>
+        <trkpt lat="48.3770671" lon="2.6702951"></trkpt>
+        <trkpt lat="48.3763604" lon="2.6678311"></trkpt>
+        <trkpt lat="48.3764943" lon="2.666879"></trkpt>
+        <trkpt lat="48.3760628" lon="2.6635421"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

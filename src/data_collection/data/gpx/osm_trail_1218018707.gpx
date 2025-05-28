@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Melun au Vaudoué</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.870786</time>
+</metadata>
+<trk>
+    <name>Chemin de Melun au Vaudoué</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3745375" lon="2.5434703"></trkpt>
+        <trkpt lat="48.3746218" lon="2.543037"></trkpt>
+        <trkpt lat="48.3746806" lon="2.5426056"></trkpt>
+        <trkpt lat="48.3746868" lon="2.5424605"></trkpt>
+        <trkpt lat="48.3746808" lon="2.5422422"></trkpt>
+        <trkpt lat="48.3746059" lon="2.5416325"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

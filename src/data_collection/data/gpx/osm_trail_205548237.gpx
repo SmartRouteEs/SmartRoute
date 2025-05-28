@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sen des Fossés</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.627667</time>
+</metadata>
+<trk>
+    <name>Sen des Fossés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5130059" lon="3.1651495"></trkpt>
+        <trkpt lat="48.51291" lon="3.1646345"></trkpt>
+        <trkpt lat="48.5127465" lon="3.1636743"></trkpt>
+        <trkpt lat="48.5125925" lon="3.1630754"></trkpt>
+        <trkpt lat="48.5123828" lon="3.1623512"></trkpt>
+        <trkpt lat="48.5121211" lon="3.1614212"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

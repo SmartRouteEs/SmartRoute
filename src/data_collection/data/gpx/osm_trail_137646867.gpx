@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois Prieur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.128263</time>
+</metadata>
+<trk>
+    <name>Route du Bois Prieur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3774997" lon="2.780871"></trkpt>
+        <trkpt lat="48.3763299" lon="2.779606"></trkpt>
+        <trkpt lat="48.375197" lon="2.7783872"></trkpt>
+        <trkpt lat="48.3747678" lon="2.7778714"></trkpt>
+        <trkpt lat="48.37416" lon="2.7771489"></trkpt>
+        <trkpt lat="48.3740353" lon="2.7769272"></trkpt>
+        <trkpt lat="48.3739894" lon="2.7768673"></trkpt>
+        <trkpt lat="48.3738767" lon="2.7767203"></trkpt>
+        <trkpt lat="48.3734782" lon="2.776309"></trkpt>
+        <trkpt lat="48.3723922" lon="2.7749808"></trkpt>
+        <trkpt lat="48.3721812" lon="2.7747464"></trkpt>
+        <trkpt lat="48.37165" lon="2.7741917"></trkpt>
+        <trkpt lat="48.3714625" lon="2.7739026"></trkpt>
+        <trkpt lat="48.370794" lon="2.7730891"></trkpt>
+        <trkpt lat="48.3707033" lon="2.7730263"></trkpt>
+        <trkpt lat="48.370417" lon="2.772012"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

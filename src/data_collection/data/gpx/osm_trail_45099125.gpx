@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Redoutes</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.383527</time>
+</metadata>
+<trk>
+    <name>Chemin des Redoutes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5778999" lon="2.4846087"></trkpt>
+        <trkpt lat="48.5779233" lon="2.4846843"></trkpt>
+        <trkpt lat="48.5779388" lon="2.4847384"></trkpt>
+        <trkpt lat="48.5779469" lon="2.4848204"></trkpt>
+        <trkpt lat="48.5778939" lon="2.486465"></trkpt>
+        <trkpt lat="48.5778431" lon="2.4887358"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

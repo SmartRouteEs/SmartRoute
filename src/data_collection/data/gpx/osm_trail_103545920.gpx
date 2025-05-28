@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Télégraphe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.635140</time>
+</metadata>
+<trk>
+    <name>Chemin du Télégraphe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3927553" lon="2.5337963"></trkpt>
+        <trkpt lat="48.393834" lon="2.5376445"></trkpt>
+        <trkpt lat="48.3942474" lon="2.5394122"></trkpt>
+        <trkpt lat="48.3941838" lon="2.5408244"></trkpt>
+        <trkpt lat="48.3941488" lon="2.5412532"></trkpt>
+        <trkpt lat="48.394092" lon="2.541464"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

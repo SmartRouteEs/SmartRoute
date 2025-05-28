@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Goulotte</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.761250</time>
+</metadata>
+<trk>
+    <name>Sentier de la Goulotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8944581" lon="2.7917114"></trkpt>
+        <trkpt lat="48.8943406" lon="2.7907989"></trkpt>
+        <trkpt lat="48.8942091" lon="2.7896923"></trkpt>
+        <trkpt lat="48.8942263" lon="2.7893398"></trkpt>
+        <trkpt lat="48.8942753" lon="2.7890325"></trkpt>
+        <trkpt lat="48.8943512" lon="2.7889093"></trkpt>
+        <trkpt lat="48.8944053" lon="2.7877912"></trkpt>
+        <trkpt lat="48.8944784" lon="2.7870048"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

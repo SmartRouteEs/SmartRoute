@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie des Jumeaux</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.324546</time>
+</metadata>
+<trk>
+    <name>Voie des Jumeaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7382211" lon="2.3370916"></trkpt>
+        <trkpt lat="48.7382681" lon="2.3371892"></trkpt>
+        <trkpt lat="48.7383524" lon="2.3372568"></trkpt>
+        <trkpt lat="48.738437" lon="2.3372867"></trkpt>
+        <trkpt lat="48.7385749" lon="2.3373205"></trkpt>
+        <trkpt lat="48.7386781" lon="2.3373624"></trkpt>
+        <trkpt lat="48.7388589" lon="2.3374359"></trkpt>
+        <trkpt lat="48.7390588" lon="2.3375513"></trkpt>
+        <trkpt lat="48.7390469" lon="2.3376787"></trkpt>
+        <trkpt lat="48.7389663" lon="2.3379857"></trkpt>
+        <trkpt lat="48.7388524" lon="2.3384984"></trkpt>
+        <trkpt lat="48.7387788" lon="2.3389728"></trkpt>
+        <trkpt lat="48.7387311" lon="2.3394033"></trkpt>
+        <trkpt lat="48.7386756" lon="2.339939"></trkpt>
+        <trkpt lat="48.7386686" lon="2.3403929"></trkpt>
+        <trkpt lat="48.7386672" lon="2.3404176"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie des Grandes Noues</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.693348</time>
+</metadata>
+<trk>
+    <name>Voie des Grandes Noues</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2748014" lon="3.2400722"></trkpt>
+        <trkpt lat="48.2746942" lon="3.2400407"></trkpt>
+        <trkpt lat="48.2744698" lon="3.239988"></trkpt>
+        <trkpt lat="48.2743181" lon="3.2400054"></trkpt>
+        <trkpt lat="48.273341" lon="3.2404178"></trkpt>
+        <trkpt lat="48.2728253" lon="3.2405322"></trkpt>
+        <trkpt lat="48.2719261" lon="3.2407604"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

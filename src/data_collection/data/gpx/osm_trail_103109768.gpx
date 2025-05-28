@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Quai de la Passerelle</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.613828</time>
+</metadata>
+<trk>
+    <name>Quai de la Passerelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3932212" lon="2.7904036"></trkpt>
+        <trkpt lat="48.393156" lon="2.7903845"></trkpt>
+        <trkpt lat="48.3930812" lon="2.7903812"></trkpt>
+        <trkpt lat="48.3930104" lon="2.7903872"></trkpt>
+        <trkpt lat="48.3927138" lon="2.790408"></trkpt>
+        <trkpt lat="48.3920753" lon="2.7904563"></trkpt>
+        <trkpt lat="48.3918522" lon="2.7904911"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

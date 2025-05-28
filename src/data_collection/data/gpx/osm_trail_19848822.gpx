@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Table du Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.416848</time>
+</metadata>
+<trk>
+    <name>Route de la Table du Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4722558" lon="2.6607856"></trkpt>
+        <trkpt lat="48.4708094" lon="2.6615123"></trkpt>
+        <trkpt lat="48.4699257" lon="2.6619804"></trkpt>
+        <trkpt lat="48.4691735" lon="2.6623471"></trkpt>
+        <trkpt lat="48.46775" lon="2.6630672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Impératrice</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.177583</time>
+</metadata>
+<trk>
+    <name>Route de l'Impératrice</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3796213" lon="2.7435732"></trkpt>
+        <trkpt lat="48.3797016" lon="2.743292"></trkpt>
+        <trkpt lat="48.3819595" lon="2.743298"></trkpt>
+        <trkpt lat="48.3843785" lon="2.7433345"></trkpt>
+        <trkpt lat="48.3851013" lon="2.7433528"></trkpt>
+        <trkpt lat="48.3895658" lon="2.7434045"></trkpt>
+        <trkpt lat="48.3949246" lon="2.7436195"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

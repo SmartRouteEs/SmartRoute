@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 7005</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.374113</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 7005</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7658101" lon="3.0949271"></trkpt>
+        <trkpt lat="48.7656376" lon="3.094264"></trkpt>
+        <trkpt lat="48.7655715" lon="3.0940827"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

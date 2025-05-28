@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Abbaye</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.278902</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Abbaye</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6624674" lon="2.8374321"></trkpt>
+        <trkpt lat="48.6623679" lon="2.83711"></trkpt>
+        <trkpt lat="48.6618724" lon="2.8355662"></trkpt>
+        <trkpt lat="48.6616173" lon="2.8348152"></trkpt>
+        <trkpt lat="48.6613196" lon="2.8342143"></trkpt>
+        <trkpt lat="48.6612771" lon="2.8338925"></trkpt>
+        <trkpt lat="48.6616885" lon="2.8323034"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

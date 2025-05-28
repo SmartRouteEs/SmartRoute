@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Brisée</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.016563</time>
+</metadata>
+<trk>
+    <name>Route de la Brisée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3567917" lon="2.6783412"></trkpt>
+        <trkpt lat="48.3583533" lon="2.6808408"></trkpt>
+        <trkpt lat="48.3584589" lon="2.68163"></trkpt>
+        <trkpt lat="48.3589732" lon="2.6843683"></trkpt>
+        <trkpt lat="48.3597334" lon="2.6880978"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

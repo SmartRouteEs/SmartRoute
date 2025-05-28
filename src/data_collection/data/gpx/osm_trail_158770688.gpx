@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Patte d'Oie</name>
+    <desc>Sentier VTT - Type: track - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.659470</time>
+</metadata>
+<trk>
+    <name>Allée de la Patte d'Oie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7670556" lon="2.3024587"></trkpt>
+        <trkpt lat="48.7669773" lon="2.3024804"></trkpt>
+        <trkpt lat="48.7662145" lon="2.3027578"></trkpt>
+        <trkpt lat="48.7655698" lon="2.3029923"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

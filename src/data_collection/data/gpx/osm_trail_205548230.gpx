@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 10800</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.627667</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 10800</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5073773" lon="3.1606238"></trkpt>
+        <trkpt lat="48.5076739" lon="3.1607848"></trkpt>
+        <trkpt lat="48.5080151" lon="3.1611549"></trkpt>
+        <trkpt lat="48.5084096" lon="3.1615733"></trkpt>
+        <trkpt lat="48.5086655" lon="3.1617343"></trkpt>
+        <trkpt lat="48.50906" lon="3.1619166"></trkpt>
+        <trkpt lat="48.5093834" lon="3.1621527"></trkpt>
+        <trkpt lat="48.5095517" lon="3.1625102"></trkpt>
+        <trkpt lat="48.5096299" lon="3.1631164"></trkpt>
+        <trkpt lat="48.5097181" lon="3.1636961"></trkpt>
+        <trkpt lat="48.5098004" lon="3.1642376"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

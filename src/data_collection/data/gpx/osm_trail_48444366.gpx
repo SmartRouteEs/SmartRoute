@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Travers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.627504</time>
+</metadata>
+<trk>
+    <name>Allée de Travers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8067951" lon="2.7136923"></trkpt>
+        <trkpt lat="48.8083668" lon="2.7106197"></trkpt>
+        <trkpt lat="48.8098591" lon="2.7075899"></trkpt>
+        <trkpt lat="48.8106891" lon="2.7058681"></trkpt>
+        <trkpt lat="48.8134377" lon="2.7006842"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

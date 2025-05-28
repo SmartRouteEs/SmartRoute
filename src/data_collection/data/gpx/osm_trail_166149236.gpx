@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Choisel</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.870574</time>
+</metadata>
+<trk>
+    <name>Rue de Choisel</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9052995" lon="3.1531358"></trkpt>
+        <trkpt lat="48.905095" lon="3.1549322"></trkpt>
+        <trkpt lat="48.9050933" lon="3.1549472"></trkpt>
+        <trkpt lat="48.9050238" lon="3.1555164"></trkpt>
+        <trkpt lat="48.9049967" lon="3.1566806"></trkpt>
+        <trkpt lat="48.9049473" lon="3.1569381"></trkpt>
+        <trkpt lat="48.9049228" lon="3.1571493"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

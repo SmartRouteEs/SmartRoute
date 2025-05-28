@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Saint-Marc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.277983</time>
+</metadata>
+<trk>
+    <name>Rue de Saint-Marc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4646641" lon="2.7612388"></trkpt>
+        <trkpt lat="48.4644745" lon="2.7623066"></trkpt>
+        <trkpt lat="48.464266" lon="2.7637031"></trkpt>
+        <trkpt lat="48.4639696" lon="2.766668"></trkpt>
+        <trkpt lat="48.4638525" lon="2.7678952"></trkpt>
+        <trkpt lat="48.4637907" lon="2.768735"></trkpt>
+        <trkpt lat="48.4637458" lon="2.769084"></trkpt>
+        <trkpt lat="48.4637392" lon="2.7694344"></trkpt>
+        <trkpt lat="48.4637148" lon="2.7695558"></trkpt>
+        <trkpt lat="48.4636913" lon="2.7696183"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

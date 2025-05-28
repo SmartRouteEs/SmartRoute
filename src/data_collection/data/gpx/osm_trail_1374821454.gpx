@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fontaine Sainte Marguerite</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.920023</time>
+</metadata>
+<trk>
+    <name>Route de la Fontaine Sainte Marguerite</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3774821" lon="2.5740143"></trkpt>
+        <trkpt lat="48.3773799" lon="2.5749458"></trkpt>
+        <trkpt lat="48.3772575" lon="2.5758613"></trkpt>
+        <trkpt lat="48.3771731" lon="2.5766099"></trkpt>
+        <trkpt lat="48.3771042" lon="2.5772729"></trkpt>
+        <trkpt lat="48.3770114" lon="2.578055"></trkpt>
+        <trkpt lat="48.3769739" lon="2.5783299"></trkpt>
+        <trkpt lat="48.3769483" lon="2.5785748"></trkpt>
+        <trkpt lat="48.3768925" lon="2.5793717"></trkpt>
+        <trkpt lat="48.3768598" lon="2.5796083"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

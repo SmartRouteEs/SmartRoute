@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Girolle</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.481767</time>
+</metadata>
+<trk>
+    <name>Route de la Girolle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4402918" lon="2.736453"></trkpt>
+        <trkpt lat="48.4403174" lon="2.7363324"></trkpt>
+        <trkpt lat="48.4409444" lon="2.7351621"></trkpt>
+        <trkpt lat="48.4414085" lon="2.7343106"></trkpt>
+        <trkpt lat="48.4417082" lon="2.7337607"></trkpt>
+        <trkpt lat="48.4422138" lon="2.732725"></trkpt>
+        <trkpt lat="48.4428612" lon="2.7316436"></trkpt>
+        <trkpt lat="48.4430608" lon="2.731308"></trkpt>
+        <trkpt lat="48.4432928" lon="2.7309314"></trkpt>
+        <trkpt lat="48.4445152" lon="2.728548"></trkpt>
+        <trkpt lat="48.4459058" lon="2.7260091"></trkpt>
+        <trkpt lat="48.4479867" lon="2.7219983"></trkpt>
+        <trkpt lat="48.4487422" lon="2.7207577"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

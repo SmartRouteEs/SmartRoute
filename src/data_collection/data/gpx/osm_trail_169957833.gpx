@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Étangs Neuf</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.936676</time>
+</metadata>
+<trk>
+    <name>Route de l'Étangs Neuf</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7661952" lon="2.7252918"></trkpt>
+        <trkpt lat="48.7672327" lon="2.7297149"></trkpt>
+        <trkpt lat="48.7675517" lon="2.7310886"></trkpt>
+        <trkpt lat="48.7677334" lon="2.7318711"></trkpt>
+        <trkpt lat="48.7679296" lon="2.7327157"></trkpt>
+        <trkpt lat="48.7683428" lon="2.734495"></trkpt>
+        <trkpt lat="48.7689677" lon="2.7371858"></trkpt>
+        <trkpt lat="48.7692403" lon="2.7383594"></trkpt>
+        <trkpt lat="48.7698908" lon="2.7411248"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

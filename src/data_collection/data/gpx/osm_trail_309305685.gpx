@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Mocquetonneau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.181569</time>
+</metadata>
+<trk>
+    <name>Chemin du Mocquetonneau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.511229" lon="2.328878"></trkpt>
+        <trkpt lat="48.5113515" lon="2.3285292"></trkpt>
+        <trkpt lat="48.5113921" lon="2.3283839"></trkpt>
+        <trkpt lat="48.5114524" lon="2.3281022"></trkpt>
+        <trkpt lat="48.5114956" lon="2.3278028"></trkpt>
+        <trkpt lat="48.5115329" lon="2.3276209"></trkpt>
+        <trkpt lat="48.5116357" lon="2.3271366"></trkpt>
+        <trkpt lat="48.5117638" lon="2.3263592"></trkpt>
+        <trkpt lat="48.5118215" lon="2.3260216"></trkpt>
+        <trkpt lat="48.5119128" lon="2.3256097"></trkpt>
+        <trkpt lat="48.512074" lon="2.3249169"></trkpt>
+        <trkpt lat="48.5121598" lon="2.3242748"></trkpt>
+        <trkpt lat="48.5123089" lon="2.3235299"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

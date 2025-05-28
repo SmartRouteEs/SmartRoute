@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin du Fort des Morts</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.581205</time>
+</metadata>
+<trk>
+    <name>chemin du Fort des Morts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8992448" lon="3.1673184"></trkpt>
+        <trkpt lat="48.90008" lon="3.166959"></trkpt>
+        <trkpt lat="48.9010907" lon="3.16666"></trkpt>
+        <trkpt lat="48.9013854" lon="3.1667882"></trkpt>
+        <trkpt lat="48.902277" lon="3.16666"></trkpt>
+        <trkpt lat="48.9026845" lon="3.1664545"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

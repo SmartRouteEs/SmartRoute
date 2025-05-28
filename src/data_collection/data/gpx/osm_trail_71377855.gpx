@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4193</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.119265</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4193</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7018452" lon="2.2302382"></trkpt>
+        <trkpt lat="48.7018483" lon="2.2302903"></trkpt>
+        <trkpt lat="48.7018356" lon="2.2303899"></trkpt>
+        <trkpt lat="48.7013202" lon="2.2324052"></trkpt>
+        <trkpt lat="48.7013126" lon="2.2324554"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

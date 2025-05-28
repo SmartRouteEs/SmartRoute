@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Couard</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.152839</time>
+</metadata>
+<trk>
+    <name>Chemin de Couard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6227019" lon="2.2200367"></trkpt>
+        <trkpt lat="48.6226845" lon="2.2197681"></trkpt>
+        <trkpt lat="48.6226224" lon="2.2193608"></trkpt>
+        <trkpt lat="48.6225623" lon="2.2189201"></trkpt>
+        <trkpt lat="48.6225623" lon="2.2180706"></trkpt>
+        <trkpt lat="48.6228745" lon="2.216128"></trkpt>
+        <trkpt lat="48.6233787" lon="2.2120115"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

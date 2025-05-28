@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Mésange</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.896189</time>
+</metadata>
+<trk>
+    <name>Sentier de la Mésange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7576645" lon="2.2163997"></trkpt>
+        <trkpt lat="48.7580302" lon="2.2163498"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

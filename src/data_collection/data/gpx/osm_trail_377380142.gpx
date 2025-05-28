@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Bigonneau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.142652</time>
+</metadata>
+<trk>
+    <name>Chemin de Bigonneau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1495258" lon="2.7228229"></trkpt>
+        <trkpt lat="48.1496694" lon="2.722666"></trkpt>
+        <trkpt lat="48.1499118" lon="2.7224021"></trkpt>
+        <trkpt lat="48.1501027" lon="2.7221484"></trkpt>
+        <trkpt lat="48.1502582" lon="2.7219496"></trkpt>
+        <trkpt lat="48.1503604" lon="2.7217815"></trkpt>
+        <trkpt lat="48.1503851" lon="2.7217428"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

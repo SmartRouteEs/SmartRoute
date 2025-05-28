@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Verrières</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.915215</time>
+</metadata>
+<trk>
+    <name>Chemin de Verrières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7542639" lon="2.2428659"></trkpt>
+        <trkpt lat="48.7541599" lon="2.2429942"></trkpt>
+        <trkpt lat="48.7537966" lon="2.2432091"></trkpt>
+        <trkpt lat="48.7534273" lon="2.2433693"></trkpt>
+        <trkpt lat="48.7533354" lon="2.2434211"></trkpt>
+        <trkpt lat="48.7530944" lon="2.243926"></trkpt>
+        <trkpt lat="48.7529669" lon="2.2452965"></trkpt>
+        <trkpt lat="48.752925" lon="2.2458421"></trkpt>
+        <trkpt lat="48.7529314" lon="2.2459817"></trkpt>
+        <trkpt lat="48.7530295" lon="2.2463663"></trkpt>
+        <trkpt lat="48.7530465" lon="2.2465458"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Caves</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.250644</time>
+</metadata>
+<trk>
+    <name>Chemin des Caves</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1934194" lon="3.2380923"></trkpt>
+        <trkpt lat="48.1937453" lon="3.2375207"></trkpt>
+        <trkpt lat="48.1940077" lon="3.2368971"></trkpt>
+        <trkpt lat="48.1942132" lon="3.2362142"></trkpt>
+        <trkpt lat="48.1944613" lon="3.2349113"></trkpt>
+        <trkpt lat="48.1945965" lon="3.234681"></trkpt>
+        <trkpt lat="48.1949537" lon="3.2342415"></trkpt>
+        <trkpt lat="48.195249" lon="3.2338615"></trkpt>
+        <trkpt lat="48.1954335" lon="3.2336305"></trkpt>
+        <trkpt lat="48.1956184" lon="3.2334912"></trkpt>
+        <trkpt lat="48.1963625" lon="3.2330641"></trkpt>
+        <trkpt lat="48.1964587" lon="3.232941"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

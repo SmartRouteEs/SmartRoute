@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chilly</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.411534</time>
+</metadata>
+<trk>
+    <name>Chemin de Chilly</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7088801" lon="2.2908117"></trkpt>
+        <trkpt lat="48.7089997" lon="2.290864"></trkpt>
+        <trkpt lat="48.7092646" lon="2.2909799"></trkpt>
+        <trkpt lat="48.7099097" lon="2.2915916"></trkpt>
+        <trkpt lat="48.7100779" lon="2.2917895"></trkpt>
+        <trkpt lat="48.7100806" lon="2.2922037"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Bosquets</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.088535</time>
+</metadata>
+<trk>
+    <name>Route des Bosquets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8351429" lon="2.461109"></trkpt>
+        <trkpt lat="48.8353612" lon="2.4611955"></trkpt>
+        <trkpt lat="48.835544" lon="2.4613544"></trkpt>
+        <trkpt lat="48.8357379" lon="2.4612842"></trkpt>
+        <trkpt lat="48.8359377" lon="2.4611951"></trkpt>
+        <trkpt lat="48.8362325" lon="2.4610204"></trkpt>
+        <trkpt lat="48.8364959" lon="2.4608529"></trkpt>
+        <trkpt lat="48.8367869" lon="2.4606246"></trkpt>
+        <trkpt lat="48.8372006" lon="2.4603024"></trkpt>
+        <trkpt lat="48.8373953" lon="2.4602243"></trkpt>
+        <trkpt lat="48.8374865" lon="2.4602286"></trkpt>
+        <trkpt lat="48.8375717" lon="2.4602692"></trkpt>
+        <trkpt lat="48.8377309" lon="2.4603579"></trkpt>
+        <trkpt lat="48.8379556" lon="2.4604524"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

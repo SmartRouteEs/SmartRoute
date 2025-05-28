@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Merisiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.100792</time>
+</metadata>
+<trk>
+    <name>Chemin des Merisiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9147002" lon="2.6654714"></trkpt>
+        <trkpt lat="48.9146876" lon="2.6655192"></trkpt>
+        <trkpt lat="48.9143702" lon="2.6667271"></trkpt>
+        <trkpt lat="48.9142977" lon="2.6668391"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

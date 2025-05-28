@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Lemoine</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.961186</time>
+</metadata>
+<trk>
+    <name>Route Lemoine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.840052" lon="2.4246427"></trkpt>
+        <trkpt lat="48.8400214" lon="2.4245858"></trkpt>
+        <trkpt lat="48.8399512" lon="2.424517"></trkpt>
+        <trkpt lat="48.8398912" lon="2.424447"></trkpt>
+        <trkpt lat="48.8398339" lon="2.4243302"></trkpt>
+        <trkpt lat="48.8397725" lon="2.4240625"></trkpt>
+        <trkpt lat="48.8397194" lon="2.4238953"></trkpt>
+        <trkpt lat="48.8396809" lon="2.4237795"></trkpt>
+        <trkpt lat="48.8396208" lon="2.4236316"></trkpt>
+        <trkpt lat="48.8395256" lon="2.4234194"></trkpt>
+        <trkpt lat="48.839466" lon="2.423304"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

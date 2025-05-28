@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Pierre</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.556017</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Pierre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3986779" lon="2.4540381"></trkpt>
+        <trkpt lat="48.3986081" lon="2.4540535"></trkpt>
+        <trkpt lat="48.3983771" lon="2.4540898"></trkpt>
+        <trkpt lat="48.3981836" lon="2.454111"></trkpt>
+        <trkpt lat="48.3978637" lon="2.4541804"></trkpt>
+        <trkpt lat="48.3976168" lon="2.4542636"></trkpt>
+        <trkpt lat="48.3971892" lon="2.4543812"></trkpt>
+        <trkpt lat="48.3966797" lon="2.4544991"></trkpt>
+        <trkpt lat="48.396472" lon="2.4545219"></trkpt>
+        <trkpt lat="48.3964135" lon="2.4545966"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

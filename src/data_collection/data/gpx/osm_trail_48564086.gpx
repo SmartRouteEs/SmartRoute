@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Hibou</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.701133</time>
+</metadata>
+<trk>
+    <name>Route du Hibou</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4122778" lon="2.6530481"></trkpt>
+        <trkpt lat="48.4172716" lon="2.6480593"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

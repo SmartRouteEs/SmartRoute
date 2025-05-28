@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chaudrons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.471685</time>
+</metadata>
+<trk>
+    <name>Chemin des Chaudrons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8797718" lon="2.746392"></trkpt>
+        <trkpt lat="48.8799993" lon="2.7475119"></trkpt>
+        <trkpt lat="48.8802148" lon="2.7483207"></trkpt>
+        <trkpt lat="48.8802664" lon="2.7485472"></trkpt>
+        <trkpt lat="48.8803004" lon="2.7488242"></trkpt>
+        <trkpt lat="48.8802954" lon="2.7492424"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

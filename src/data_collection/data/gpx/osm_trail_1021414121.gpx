@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de Saint-Cyr-sur-Morin à Jouarre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.402457</time>
+</metadata>
+<trk>
+    <name>chemin de Saint-Cyr-sur-Morin à Jouarre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9056648" lon="3.145014"></trkpt>
+        <trkpt lat="48.9056697" lon="3.1451248"></trkpt>
+        <trkpt lat="48.905809" lon="3.1454976"></trkpt>
+        <trkpt lat="48.9059227" lon="3.1460649"></trkpt>
+        <trkpt lat="48.9059861" lon="3.1467435"></trkpt>
+        <trkpt lat="48.9059844" lon="3.1474033"></trkpt>
+        <trkpt lat="48.9058134" lon="3.1482723"></trkpt>
+        <trkpt lat="48.9056363" lon="3.1490676"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

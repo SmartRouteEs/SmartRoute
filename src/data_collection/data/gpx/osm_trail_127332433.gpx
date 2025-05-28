@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier Lecoq</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.931439</time>
+</metadata>
+<trk>
+    <name>Sentier Lecoq</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3757203" lon="2.7910488"></trkpt>
+        <trkpt lat="48.3758313" lon="2.7912827"></trkpt>
+        <trkpt lat="48.3759272" lon="2.7914569"></trkpt>
+        <trkpt lat="48.3761415" lon="2.7917793"></trkpt>
+        <trkpt lat="48.376296" lon="2.7920275"></trkpt>
+        <trkpt lat="48.3763722" lon="2.7921466"></trkpt>
+        <trkpt lat="48.3764693" lon="2.7923243"></trkpt>
+        <trkpt lat="48.376736" lon="2.7928647"></trkpt>
+        <trkpt lat="48.3769072" lon="2.793222"></trkpt>
+        <trkpt lat="48.3771347" lon="2.792987"></trkpt>
+        <trkpt lat="48.3772219" lon="2.7929949"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

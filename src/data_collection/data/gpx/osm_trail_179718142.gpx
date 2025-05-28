@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Tronchet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.224599</time>
+</metadata>
+<trk>
+    <name>Rue du Tronchet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.821925" lon="3.013893"></trkpt>
+        <trkpt lat="48.8220701" lon="3.0137894"></trkpt>
+        <trkpt lat="48.8223686" lon="3.0135722"></trkpt>
+        <trkpt lat="48.8226441" lon="3.0133629"></trkpt>
+        <trkpt lat="48.8229972" lon="3.0130679"></trkpt>
+        <trkpt lat="48.8230626" lon="3.012915"></trkpt>
+        <trkpt lat="48.8234228" lon="3.0126629"></trkpt>
+        <trkpt lat="48.8239032" lon="3.01251"></trkpt>
+        <trkpt lat="48.824274" lon="3.0123196"></trkpt>
+        <trkpt lat="48.824493" lon="3.0121962"></trkpt>
+        <trkpt lat="48.8250251" lon="3.0118821"></trkpt>
+        <trkpt lat="48.8251852" lon="3.0118207"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

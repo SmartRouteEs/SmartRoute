@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tête à l'Âne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.699459</time>
+</metadata>
+<trk>
+    <name>Route de la Tête à l'Âne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4110801" lon="2.6683406"></trkpt>
+        <trkpt lat="48.4123763" lon="2.6692445"></trkpt>
+        <trkpt lat="48.4130045" lon="2.6697092"></trkpt>
+        <trkpt lat="48.4165632" lon="2.6723017"></trkpt>
+        <trkpt lat="48.4169423" lon="2.6724562"></trkpt>
+        <trkpt lat="48.4173315" lon="2.672737"></trkpt>
+        <trkpt lat="48.4175338" lon="2.672881"></trkpt>
+        <trkpt lat="48.4177318" lon="2.673022"></trkpt>
+        <trkpt lat="48.4179756" lon="2.6731871"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

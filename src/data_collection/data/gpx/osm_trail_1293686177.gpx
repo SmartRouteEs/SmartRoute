@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Colline de Jeux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.474433</time>
+</metadata>
+<trk>
+    <name>Allée de la Colline de Jeux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9121459" lon="2.5757553"></trkpt>
+        <trkpt lat="48.9130702" lon="2.5761257"></trkpt>
+        <trkpt lat="48.9130989" lon="2.5761372"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

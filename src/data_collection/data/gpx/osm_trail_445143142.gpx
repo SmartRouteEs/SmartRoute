@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Petite Garenne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.293261</time>
+</metadata>
+<trk>
+    <name>Chemin de la Petite Garenne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2931236" lon="3.1502524"></trkpt>
+        <trkpt lat="48.2930445" lon="3.1500759"></trkpt>
+        <trkpt lat="48.2924561" lon="3.1489301"></trkpt>
+        <trkpt lat="48.2921164" lon="3.1481946"></trkpt>
+        <trkpt lat="48.2918882" lon="3.146729"></trkpt>
+        <trkpt lat="48.2916996" lon="3.146456"></trkpt>
+        <trkpt lat="48.2914077" lon="3.1461314"></trkpt>
+        <trkpt lat="48.2910985" lon="3.1456434"></trkpt>
+        <trkpt lat="48.2903683" lon="3.1448092"></trkpt>
+        <trkpt lat="48.2901476" lon="3.1443776"></trkpt>
+        <trkpt lat="48.2898323" lon="3.1440285"></trkpt>
+        <trkpt lat="48.2894268" lon="3.1433892"></trkpt>
+        <trkpt lat="48.2889411" lon="3.1427297"></trkpt>
+        <trkpt lat="48.2885372" lon="3.141925"></trkpt>
+        <trkpt lat="48.2882885" lon="3.1418282"></trkpt>
+        <trkpt lat="48.287857" lon="3.1418361"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

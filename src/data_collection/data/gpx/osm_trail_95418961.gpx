@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Prés</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.496501</time>
+</metadata>
+<trk>
+    <name>Rue des Prés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7534407" lon="2.2103021"></trkpt>
+        <trkpt lat="48.7535379" lon="2.209953"></trkpt>
+        <trkpt lat="48.7536095" lon="2.2096957"></trkpt>
+        <trkpt lat="48.7536334" lon="2.2096179"></trkpt>
+        <trkpt lat="48.7537617" lon="2.2092012"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

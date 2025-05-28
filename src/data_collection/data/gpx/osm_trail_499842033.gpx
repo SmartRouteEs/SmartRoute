@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de la Maie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.710765</time>
+</metadata>
+<trk>
+    <name>chemin de la Maie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9042213" lon="3.1609286"></trkpt>
+        <trkpt lat="48.9041724" lon="3.1610125"></trkpt>
+        <trkpt lat="48.9042271" lon="3.1611869"></trkpt>
+        <trkpt lat="48.9043815" lon="3.1616064"></trkpt>
+        <trkpt lat="48.9047313" lon="3.1625173"></trkpt>
+        <trkpt lat="48.9048124" lon="3.1627157"></trkpt>
+        <trkpt lat="48.90489" lon="3.1630001"></trkpt>
+        <trkpt lat="48.9049229" lon="3.1632276"></trkpt>
+        <trkpt lat="48.9048827" lon="3.1654229"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

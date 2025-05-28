@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Garenne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.710135</time>
+</metadata>
+<trk>
+    <name>Sentier de la Garenne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7648886" lon="2.5194227"></trkpt>
+        <trkpt lat="48.7650391" lon="2.5191844"></trkpt>
+        <trkpt lat="48.7650888" lon="2.5192112"></trkpt>
+        <trkpt lat="48.7653807" lon="2.5188965"></trkpt>
+        <trkpt lat="48.7656272" lon="2.5186424"></trkpt>
+        <trkpt lat="48.7655167" lon="2.5184321"></trkpt>
+        <trkpt lat="48.7657063" lon="2.5182196"></trkpt>
+        <trkpt lat="48.7660057" lon="2.5178843"></trkpt>
+        <trkpt lat="48.7663083" lon="2.5184018"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

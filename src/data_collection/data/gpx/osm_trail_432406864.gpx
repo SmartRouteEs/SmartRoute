@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Cheval Rue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.039212</time>
+</metadata>
+<trk>
+    <name>Rue de Cheval Rue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4359271" lon="2.3913699"></trkpt>
+        <trkpt lat="48.4359356" lon="2.3914529"></trkpt>
+        <trkpt lat="48.4360322" lon="2.3920175"></trkpt>
+        <trkpt lat="48.4361884" lon="2.3926265"></trkpt>
+        <trkpt lat="48.4362695" lon="2.3930625"></trkpt>
+        <trkpt lat="48.4363194" lon="2.3934609"></trkpt>
+        <trkpt lat="48.4363364" lon="2.3936411"></trkpt>
+        <trkpt lat="48.4363922" lon="2.3939748"></trkpt>
+        <trkpt lat="48.4365363" lon="2.394217"></trkpt>
+        <trkpt lat="48.4367391" lon="2.3944552"></trkpt>
+        <trkpt lat="48.4367648" lon="2.3945823"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

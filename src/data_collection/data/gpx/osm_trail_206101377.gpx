@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont-Chauvet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.644209</time>
+</metadata>
+<trk>
+    <name>Route du Mont-Chauvet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4229642" lon="2.6685982"></trkpt>
+        <trkpt lat="48.4233903" lon="2.6697192"></trkpt>
+        <trkpt lat="48.425111" lon="2.6742327"></trkpt>
+        <trkpt lat="48.4260832" lon="2.676783"></trkpt>
+        <trkpt lat="48.4261337" lon="2.6768074"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

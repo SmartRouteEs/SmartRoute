@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Larron</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.920023</time>
+</metadata>
+<trk>
+    <name>Route du Larron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.383529" lon="2.5876114"></trkpt>
+        <trkpt lat="48.383685" lon="2.587669"></trkpt>
+        <trkpt lat="48.3838212" lon="2.5877373"></trkpt>
+        <trkpt lat="48.3839575" lon="2.5878221"></trkpt>
+        <trkpt lat="48.3840822" lon="2.5878657"></trkpt>
+        <trkpt lat="48.3841646" lon="2.5878582"></trkpt>
+        <trkpt lat="48.3843048" lon="2.5878261"></trkpt>
+        <trkpt lat="48.3843818" lon="2.5878251"></trkpt>
+        <trkpt lat="48.3845819" lon="2.5879514"></trkpt>
+        <trkpt lat="48.3846978" lon="2.5880246"></trkpt>
+        <trkpt lat="48.385025" lon="2.587977"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

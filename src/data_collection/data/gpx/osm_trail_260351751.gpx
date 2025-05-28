@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ancienne Route d'Orléans à Paris</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.736801</time>
+</metadata>
+<trk>
+    <name>Ancienne Route d'Orléans à Paris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5509401" lon="2.2235779"></trkpt>
+        <trkpt lat="48.5499119" lon="2.2235713"></trkpt>
+        <trkpt lat="48.5496847" lon="2.2235728"></trkpt>
+        <trkpt lat="48.548503" lon="2.2236541"></trkpt>
+        <trkpt lat="48.5475253" lon="2.223744"></trkpt>
+        <trkpt lat="48.5456719" lon="2.2238939"></trkpt>
+        <trkpt lat="48.5452604" lon="2.2239301"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

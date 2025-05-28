@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de Franche-Comté</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.133656</time>
+</metadata>
+<trk>
+    <name>Rue de Franche-Comté</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6851041" lon="2.2895471"></trkpt>
+        <trkpt lat="48.6849709" lon="2.289459"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

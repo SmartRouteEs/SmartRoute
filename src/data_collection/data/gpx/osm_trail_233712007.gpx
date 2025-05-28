@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Hautes Plaines</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.001931</time>
+</metadata>
+<trk>
+    <name>Route des Hautes Plaines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.403775" lon="2.607106"></trkpt>
+        <trkpt lat="48.403818" lon="2.606805"></trkpt>
+        <trkpt lat="48.40397" lon="2.606286"></trkpt>
+        <trkpt lat="48.404219" lon="2.605621"></trkpt>
+        <trkpt lat="48.404395" lon="2.605091"></trkpt>
+        <trkpt lat="48.404529" lon="2.604763"></trkpt>
+        <trkpt lat="48.404686" lon="2.604168"></trkpt>
+        <trkpt lat="48.404704" lon="2.603944"></trkpt>
+        <trkpt lat="48.404703" lon="2.603466"></trkpt>
+        <trkpt lat="48.404724" lon="2.603268"></trkpt>
+        <trkpt lat="48.404716" lon="2.602964"></trkpt>
+        <trkpt lat="48.404758" lon="2.60247"></trkpt>
+        <trkpt lat="48.404774" lon="2.6023444"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

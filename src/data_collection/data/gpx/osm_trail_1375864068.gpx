@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Luxembourg</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.045631</time>
+</metadata>
+<trk>
+    <name>Route du Luxembourg</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4393381" lon="2.7192497"></trkpt>
+        <trkpt lat="48.4397974" lon="2.7164611"></trkpt>
+        <trkpt lat="48.4398175" lon="2.716339"></trkpt>
+        <trkpt lat="48.4398626" lon="2.7160857"></trkpt>
+        <trkpt lat="48.4399625" lon="2.7155248"></trkpt>
+        <trkpt lat="48.4399997" lon="2.7153157"></trkpt>
+        <trkpt lat="48.4400852" lon="2.714946"></trkpt>
+        <trkpt lat="48.4407607" lon="2.7121833"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

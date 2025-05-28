@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Rapin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.458667</time>
+</metadata>
+<trk>
+    <name>Route Rapin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4303079" lon="2.6546652"></trkpt>
+        <trkpt lat="48.4303289" lon="2.6548964"></trkpt>
+        <trkpt lat="48.4302683" lon="2.655265"></trkpt>
+        <trkpt lat="48.4302532" lon="2.6555603"></trkpt>
+        <trkpt lat="48.4302714" lon="2.6563775"></trkpt>
+        <trkpt lat="48.4300504" lon="2.6568224"></trkpt>
+        <trkpt lat="48.4299073" lon="2.6572687"></trkpt>
+        <trkpt lat="48.4298691" lon="2.6574524"></trkpt>
+        <trkpt lat="48.4297429" lon="2.65806"></trkpt>
+        <trkpt lat="48.4297709" lon="2.6584149"></trkpt>
+        <trkpt lat="48.4297261" lon="2.6586084"></trkpt>
+        <trkpt lat="48.4295108" lon="2.6589697"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

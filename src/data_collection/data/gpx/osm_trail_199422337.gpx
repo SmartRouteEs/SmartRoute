@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Brisaciers</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.778504</time>
+</metadata>
+<trk>
+    <name>Chemin des Brisaciers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8385074" lon="2.6752531"></trkpt>
+        <trkpt lat="48.8381466" lon="2.6756683"></trkpt>
+        <trkpt lat="48.8382978" lon="2.6759286"></trkpt>
+        <trkpt lat="48.8383068" lon="2.6759865"></trkpt>
+        <trkpt lat="48.8382683" lon="2.6760835"></trkpt>
+        <trkpt lat="48.8377108" lon="2.6766356"></trkpt>
+        <trkpt lat="48.8368539" lon="2.6774842"></trkpt>
+        <trkpt lat="48.8364069" lon="2.677912"></trkpt>
+        <trkpt lat="48.8362789" lon="2.6780345"></trkpt>
+        <trkpt lat="48.8362507" lon="2.6780639"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

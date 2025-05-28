@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle du Cimetière</name>
+    <desc>Sentier VTT - Type: track - Surface: grass_paver - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.525667</time>
+</metadata>
+<trk>
+    <name>Ruelle du Cimetière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3426905" lon="3.0613011"></trkpt>
+        <trkpt lat="48.3428909" lon="3.0613518"></trkpt>
+        <trkpt lat="48.3430278" lon="3.0614737"></trkpt>
+        <trkpt lat="48.3432008" lon="3.0616088"></trkpt>
+        <trkpt lat="48.3432928" lon="3.0616653"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

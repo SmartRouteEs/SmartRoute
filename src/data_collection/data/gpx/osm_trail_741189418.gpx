@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Bruyères</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.830281</time>
+</metadata>
+<trk>
+    <name>Chemin des Bruyères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2495096" lon="2.6621454"></trkpt>
+        <trkpt lat="48.2496956" lon="2.6623539"></trkpt>
+        <trkpt lat="48.2504486" lon="2.6636719"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

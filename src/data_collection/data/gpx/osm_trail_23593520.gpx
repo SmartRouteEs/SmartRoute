@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 551</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.531473</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 551</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6706901" lon="2.2609243"></trkpt>
+        <trkpt lat="48.671414" lon="2.2573855"></trkpt>
+        <trkpt lat="48.6714764" lon="2.2571366"></trkpt>
+        <trkpt lat="48.6715501" lon="2.2569736"></trkpt>
+        <trkpt lat="48.6716124" lon="2.2568191"></trkpt>
+        <trkpt lat="48.6716634" lon="2.2566045"></trkpt>
+        <trkpt lat="48.6717031" lon="2.2542098"></trkpt>
+        <trkpt lat="48.6716691" lon="2.2537807"></trkpt>
+        <trkpt lat="48.6715671" lon="2.2524074"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

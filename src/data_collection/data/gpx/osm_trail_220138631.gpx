@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Enclave</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.254059</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Enclave</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4064355" lon="2.5473356"></trkpt>
+        <trkpt lat="48.4066966" lon="2.5473894"></trkpt>
+        <trkpt lat="48.4068055" lon="2.5473654"></trkpt>
+        <trkpt lat="48.4072973" lon="2.5475116"></trkpt>
+        <trkpt lat="48.4079645" lon="2.5478253"></trkpt>
+        <trkpt lat="48.4086981" lon="2.5480884"></trkpt>
+        <trkpt lat="48.4094875" lon="2.5484632"></trkpt>
+        <trkpt lat="48.4100909" lon="2.5486652"></trkpt>
+        <trkpt lat="48.4102637" lon="2.5486413"></trkpt>
+        <trkpt lat="48.4105002" lon="2.5484287"></trkpt>
+        <trkpt lat="48.4107209" lon="2.548224"></trkpt>
+        <trkpt lat="48.4107889" lon="2.5482008"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

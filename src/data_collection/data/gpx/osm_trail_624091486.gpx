@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Étoile</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.698189</time>
+</metadata>
+<trk>
+    <name>Route de l'Étoile</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8738452" lon="2.2641325"></trkpt>
+        <trkpt lat="48.8738111" lon="2.2643675"></trkpt>
+        <trkpt lat="48.873787" lon="2.264533"></trkpt>
+        <trkpt lat="48.8736874" lon="2.265135"></trkpt>
+        <trkpt lat="48.8735626" lon="2.2656984"></trkpt>
+        <trkpt lat="48.8734629" lon="2.2660733"></trkpt>
+        <trkpt lat="48.8734361" lon="2.2661742"></trkpt>
+        <trkpt lat="48.8733692" lon="2.2663803"></trkpt>
+        <trkpt lat="48.8733521" lon="2.2664346"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

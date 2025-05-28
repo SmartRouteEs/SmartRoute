@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Planchette</name>
+    <desc>Sentier VTT - Type: path - Surface: earth - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:56.821866</time>
+</metadata>
+<trk>
+    <name>Chemin de la Planchette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6781011" lon="2.836897"></trkpt>
+        <trkpt lat="48.6780417" lon="2.8369373"></trkpt>
+        <trkpt lat="48.6778929" lon="2.8370875"></trkpt>
+        <trkpt lat="48.6774112" lon="2.8370446"></trkpt>
+        <trkpt lat="48.6767311" lon="2.8364974"></trkpt>
+        <trkpt lat="48.6762069" lon="2.8365296"></trkpt>
+        <trkpt lat="48.6760297" lon="2.8393728"></trkpt>
+        <trkpt lat="48.6758739" lon="2.8393406"></trkpt>
+        <trkpt lat="48.6757624" lon="2.8393222"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

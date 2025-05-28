@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Éclats</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route des Éclats</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3818203" lon="2.7036366"></trkpt>
+        <trkpt lat="48.3811774" lon="2.7035323"></trkpt>
+        <trkpt lat="48.3808199" lon="2.7035112"></trkpt>
+        <trkpt lat="48.3801732" lon="2.7033399"></trkpt>
+        <trkpt lat="48.3794591" lon="2.7030386"></trkpt>
+        <trkpt lat="48.3790327" lon="2.703058"></trkpt>
+        <trkpt lat="48.3775894" lon="2.7042515"></trkpt>
+        <trkpt lat="48.3768453" lon="2.7046927"></trkpt>
+        <trkpt lat="48.376235" lon="2.7049212"></trkpt>
+        <trkpt lat="48.375909" lon="2.704706"></trkpt>
+        <trkpt lat="48.3755982" lon="2.7036162"></trkpt>
+        <trkpt lat="48.3751441" lon="2.7029516"></trkpt>
+        <trkpt lat="48.3742501" lon="2.7029913"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

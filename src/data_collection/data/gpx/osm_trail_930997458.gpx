@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Lac de Saint-Mandé</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.513564</time>
+</metadata>
+<trk>
+    <name>Route du Lac de Saint-Mandé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8341746" lon="2.4290647"></trkpt>
+        <trkpt lat="48.8337553" lon="2.4293938"></trkpt>
+        <trkpt lat="48.8333112" lon="2.4296008"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

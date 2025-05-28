@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie des Prés Neufs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.426106</time>
+</metadata>
+<trk>
+    <name>Voie des Prés Neufs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6508215" lon="2.297303"></trkpt>
+        <trkpt lat="48.6508603" lon="2.2972916"></trkpt>
+        <trkpt lat="48.6508898" lon="2.2972977"></trkpt>
+        <trkpt lat="48.6509471" lon="2.2972986"></trkpt>
+        <trkpt lat="48.6517037" lon="2.2981737"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

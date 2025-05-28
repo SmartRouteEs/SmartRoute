@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Tordu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.759165</time>
+</metadata>
+<trk>
+    <name>Chemin Tordu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4114872" lon="2.3811991"></trkpt>
+        <trkpt lat="48.4115085" lon="2.3813213"></trkpt>
+        <trkpt lat="48.4117761" lon="2.3826845"></trkpt>
+        <trkpt lat="48.4121934" lon="2.3848135"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

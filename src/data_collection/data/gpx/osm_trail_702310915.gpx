@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière du Pré Hersant</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.541574</time>
+</metadata>
+<trk>
+    <name>Route Forestière du Pré Hersant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6753266" lon="2.4866145"></trkpt>
+        <trkpt lat="48.6752978" lon="2.4865185"></trkpt>
+        <trkpt lat="48.6752908" lon="2.4864953"></trkpt>
+        <trkpt lat="48.6743326" lon="2.482888"></trkpt>
+        <trkpt lat="48.6742313" lon="2.482602"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

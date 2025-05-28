@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mare Chalot</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.625627</time>
+</metadata>
+<trk>
+    <name>Route de la Mare Chalot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7524701" lon="2.255128"></trkpt>
+        <trkpt lat="48.7525588" lon="2.2550661"></trkpt>
+        <trkpt lat="48.7525847" lon="2.2550458"></trkpt>
+        <trkpt lat="48.7527358" lon="2.2549277"></trkpt>
+        <trkpt lat="48.7530496" lon="2.2547274"></trkpt>
+        <trkpt lat="48.7536976" lon="2.2543149"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

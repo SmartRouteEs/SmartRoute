@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Sainte-Geneviève</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.884497</time>
+</metadata>
+<trk>
+    <name>Chemin de Sainte-Geneviève</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6141252" lon="2.3112458"></trkpt>
+        <trkpt lat="48.6141439" lon="2.3112692"></trkpt>
+        <trkpt lat="48.6144129" lon="2.3115562"></trkpt>
+        <trkpt lat="48.6146535" lon="2.3117434"></trkpt>
+        <trkpt lat="48.6149986" lon="2.3119384"></trkpt>
+        <trkpt lat="48.6166967" lon="2.3127688"></trkpt>
+        <trkpt lat="48.6171765" lon="2.3129933"></trkpt>
+        <trkpt lat="48.6181221" lon="2.3135658"></trkpt>
+        <trkpt lat="48.6190576" lon="2.3140647"></trkpt>
+        <trkpt lat="48.6197728" lon="2.3144164"></trkpt>
+        <trkpt lat="48.620367" lon="2.3147302"></trkpt>
+        <trkpt lat="48.6205387" lon="2.3148209"></trkpt>
+        <trkpt lat="48.620764" lon="2.314973"></trkpt>
+        <trkpt lat="48.6208799" lon="2.3150935"></trkpt>
+        <trkpt lat="48.6213133" lon="2.3155714"></trkpt>
+        <trkpt lat="48.6214854" lon="2.3157613"></trkpt>
+        <trkpt lat="48.6219046" lon="2.316366"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

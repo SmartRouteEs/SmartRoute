@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mésange</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.514473</time>
+</metadata>
+<trk>
+    <name>Route de la Mésange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3731456" lon="2.6770553"></trkpt>
+        <trkpt lat="48.3728144" lon="2.6778636"></trkpt>
+        <trkpt lat="48.3723512" lon="2.6793299"></trkpt>
+        <trkpt lat="48.3719477" lon="2.6806378"></trkpt>
+        <trkpt lat="48.3717832" lon="2.6816006"></trkpt>
+        <trkpt lat="48.3711469" lon="2.6853795"></trkpt>
+        <trkpt lat="48.371106" lon="2.685704"></trkpt>
+        <trkpt lat="48.3710733" lon="2.6876307"></trkpt>
+        <trkpt lat="48.370952" lon="2.6885794"></trkpt>
+        <trkpt lat="48.371028" lon="2.6892209"></trkpt>
+        <trkpt lat="48.3711868" lon="2.6895004"></trkpt>
+        <trkpt lat="48.3712718" lon="2.6896546"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

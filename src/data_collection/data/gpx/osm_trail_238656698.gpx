@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Courtillat</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.137562</time>
+</metadata>
+<trk>
+    <name>Chemin du Courtillat</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3486087" lon="2.3110811"></trkpt>
+        <trkpt lat="48.3485945" lon="2.3111052"></trkpt>
+        <trkpt lat="48.3485606" lon="2.3111321"></trkpt>
+        <trkpt lat="48.3477406" lon="2.3116712"></trkpt>
+        <trkpt lat="48.3476426" lon="2.3117302"></trkpt>
+        <trkpt lat="48.3467958" lon="2.3124812"></trkpt>
+        <trkpt lat="48.3464963" lon="2.312736"></trkpt>
+        <trkpt lat="48.3463965" lon="2.3128245"></trkpt>
+        <trkpt lat="48.3463198" lon="2.3128567"></trkpt>
+        <trkpt lat="48.3462485" lon="2.3128701"></trkpt>
+        <trkpt lat="48.3457371" lon="2.3128744"></trkpt>
+        <trkpt lat="48.345688" lon="2.3128742"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

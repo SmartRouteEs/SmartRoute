@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Bordeaux</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.625627</time>
+</metadata>
+<trk>
+    <name>Allée de Bordeaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7343134" lon="2.2899762"></trkpt>
+        <trkpt lat="48.7345906" lon="2.2911392"></trkpt>
+        <trkpt lat="48.734602" lon="2.2911875"></trkpt>
+        <trkpt lat="48.7347037" lon="2.2916182"></trkpt>
+        <trkpt lat="48.7348704" lon="2.2923244"></trkpt>
+        <trkpt lat="48.7349341" lon="2.2925183"></trkpt>
+        <trkpt lat="48.734976" lon="2.2926613"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

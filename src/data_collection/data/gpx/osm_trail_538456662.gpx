@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Gravier à Touffé</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.946787</time>
+</metadata>
+<trk>
+    <name>Rue du Gravier à Touffé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7778686" lon="3.3924687"></trkpt>
+        <trkpt lat="48.7773701" lon="3.3929247"></trkpt>
+        <trkpt lat="48.7767974" lon="3.3932921"></trkpt>
+        <trkpt lat="48.7764492" lon="3.3933753"></trkpt>
+        <trkpt lat="48.7753834" lon="3.3933619"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

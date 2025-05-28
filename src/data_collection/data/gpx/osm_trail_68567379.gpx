@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Grande Sommière</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.102726</time>
+</metadata>
+<trk>
+    <name>Allée de la Grande Sommière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7932508" lon="2.5873882"></trkpt>
+        <trkpt lat="48.7932743" lon="2.5873916"></trkpt>
+        <trkpt lat="48.7932859" lon="2.587385"></trkpt>
+        <trkpt lat="48.7933055" lon="2.587374"></trkpt>
+        <trkpt lat="48.7933861" lon="2.5873117"></trkpt>
+        <trkpt lat="48.7939041" lon="2.5869588"></trkpt>
+        <trkpt lat="48.7943436" lon="2.5866593"></trkpt>
+        <trkpt lat="48.7952704" lon="2.5860199"></trkpt>
+        <trkpt lat="48.7956247" lon="2.5857755"></trkpt>
+        <trkpt lat="48.7958354" lon="2.5856301"></trkpt>
+        <trkpt lat="48.7959363" lon="2.5855605"></trkpt>
+        <trkpt lat="48.796003" lon="2.5855145"></trkpt>
+        <trkpt lat="48.7974674" lon="2.5844993"></trkpt>
+        <trkpt lat="48.7981917" lon="2.5839972"></trkpt>
+        <trkpt lat="48.7984648" lon="2.5838079"></trkpt>
+        <trkpt lat="48.7986248" lon="2.583697"></trkpt>
+        <trkpt lat="48.7988188" lon="2.5835625"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

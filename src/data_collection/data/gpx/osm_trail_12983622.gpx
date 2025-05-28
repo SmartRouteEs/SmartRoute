@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route au Diable</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.368335</time>
+</metadata>
+<trk>
+    <name>Route au Diable</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3592447" lon="2.8011452"></trkpt>
+        <trkpt lat="48.3591268" lon="2.8012344"></trkpt>
+        <trkpt lat="48.3588943" lon="2.8013723"></trkpt>
+        <trkpt lat="48.3583978" lon="2.8016654"></trkpt>
+        <trkpt lat="48.3576807" lon="2.802082"></trkpt>
+        <trkpt lat="48.3574302" lon="2.8022085"></trkpt>
+        <trkpt lat="48.3573071" lon="2.8022707"></trkpt>
+        <trkpt lat="48.3569061" lon="2.8025064"></trkpt>
+        <trkpt lat="48.3550372" lon="2.8036046"></trkpt>
+        <trkpt lat="48.3546639" lon="2.803825"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

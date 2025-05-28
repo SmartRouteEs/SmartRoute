@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Petit Moisenay à Blandy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.850064</time>
+</metadata>
+<trk>
+    <name>Chemin du Petit Moisenay à Blandy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5633191" lon="2.7737672"></trkpt>
+        <trkpt lat="48.563628" lon="2.7730465"></trkpt>
+        <trkpt lat="48.5637552" lon="2.7726934"></trkpt>
+        <trkpt lat="48.5638506" lon="2.7721732"></trkpt>
+        <trkpt lat="48.5639112" lon="2.7716053"></trkpt>
+        <trkpt lat="48.5639043" lon="2.7713043"></trkpt>
+        <trkpt lat="48.5638789" lon="2.7710664"></trkpt>
+        <trkpt lat="48.5638294" lon="2.7708364"></trkpt>
+        <trkpt lat="48.5637916" lon="2.7704964"></trkpt>
+        <trkpt lat="48.5637732" lon="2.7697053"></trkpt>
+        <trkpt lat="48.563674" lon="2.7685325"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

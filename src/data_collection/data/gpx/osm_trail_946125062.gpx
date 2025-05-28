@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Grigny</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.644803</time>
+</metadata>
+<trk>
+    <name>Chemin de Grigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6734419" lon="2.3485664"></trkpt>
+        <trkpt lat="48.6734863" lon="2.3486118"></trkpt>
+        <trkpt lat="48.6736551" lon="2.3488088"></trkpt>
+        <trkpt lat="48.6736916" lon="2.3488624"></trkpt>
+        <trkpt lat="48.6738215" lon="2.3490263"></trkpt>
+        <trkpt lat="48.6739383" lon="2.3491578"></trkpt>
+        <trkpt lat="48.6740135" lon="2.3492424"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

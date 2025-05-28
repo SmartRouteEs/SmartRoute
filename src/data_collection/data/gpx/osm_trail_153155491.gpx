@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pendants</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.593473</time>
+</metadata>
+<trk>
+    <name>Chemin des Pendants</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4877188" lon="2.4164963"></trkpt>
+        <trkpt lat="48.4876485" lon="2.4162246"></trkpt>
+        <trkpt lat="48.487592" lon="2.4160276"></trkpt>
+        <trkpt lat="48.487554" lon="2.4158935"></trkpt>
+        <trkpt lat="48.4875392" lon="2.4158348"></trkpt>
+        <trkpt lat="48.4875284" lon="2.4157789"></trkpt>
+        <trkpt lat="48.4875179" lon="2.4156783"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Pierres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.166882</time>
+</metadata>
+<trk>
+    <name>Allée des Pierres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8076715" lon="2.6831021"></trkpt>
+        <trkpt lat="48.8062687" lon="2.6783322"></trkpt>
+        <trkpt lat="48.8048801" lon="2.6734292"></trkpt>
+        <trkpt lat="48.8038482" lon="2.6697296"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

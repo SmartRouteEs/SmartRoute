@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Georges Desrues</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.708686</time>
+</metadata>
+<trk>
+    <name>Allée Georges Desrues</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8917571" lon="2.2588103"></trkpt>
+        <trkpt lat="48.8917661" lon="2.25891"></trkpt>
+        <trkpt lat="48.8917812" lon="2.2590778"></trkpt>
+        <trkpt lat="48.8922576" lon="2.2596336"></trkpt>
+        <trkpt lat="48.8922729" lon="2.2596322"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

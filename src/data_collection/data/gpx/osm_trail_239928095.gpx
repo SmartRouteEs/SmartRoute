@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Videlle à La Croix Saint-Firmain</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.338020</time>
+</metadata>
+<trk>
+    <name>Chemin de Videlle à La Croix Saint-Firmain</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4668646" lon="2.4250787"></trkpt>
+        <trkpt lat="48.4672717" lon="2.4239616"></trkpt>
+        <trkpt lat="48.4675694" lon="2.4230682"></trkpt>
+        <trkpt lat="48.4679705" lon="2.4218549"></trkpt>
+        <trkpt lat="48.4683408" lon="2.4207201"></trkpt>
+        <trkpt lat="48.4686387" lon="2.4197571"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

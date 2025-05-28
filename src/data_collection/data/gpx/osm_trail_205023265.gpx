@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Linotte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route de la Linotte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4076603" lon="2.7432636"></trkpt>
+        <trkpt lat="48.4064773" lon="2.7423155"></trkpt>
+        <trkpt lat="48.4057071" lon="2.7416464"></trkpt>
+        <trkpt lat="48.4055068" lon="2.741454"></trkpt>
+        <trkpt lat="48.405428" lon="2.7414064"></trkpt>
+        <trkpt lat="48.404873" lon="2.7410708"></trkpt>
+        <trkpt lat="48.4044748" lon="2.7405419"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

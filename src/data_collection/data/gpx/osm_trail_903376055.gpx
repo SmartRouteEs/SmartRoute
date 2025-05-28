@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Mont à Grillons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.014676</time>
+</metadata>
+<trk>
+    <name>Chemin du Mont à Grillons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3417213" lon="2.5847087"></trkpt>
+        <trkpt lat="48.3416924" lon="2.5844087"></trkpt>
+        <trkpt lat="48.3415823" lon="2.5833317"></trkpt>
+        <trkpt lat="48.3424697" lon="2.5797056"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

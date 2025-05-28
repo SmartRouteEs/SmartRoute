@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Harde</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.666684</time>
+</metadata>
+<trk>
+    <name>Route de la Harde</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.445609" lon="2.6793509"></trkpt>
+        <trkpt lat="48.4455651" lon="2.6794625"></trkpt>
+        <trkpt lat="48.4455531" lon="2.6795698"></trkpt>
+        <trkpt lat="48.44553" lon="2.6796078"></trkpt>
+        <trkpt lat="48.445487" lon="2.6796271"></trkpt>
+        <trkpt lat="48.4453751" lon="2.6794125"></trkpt>
+        <trkpt lat="48.445294" lon="2.6792629"></trkpt>
+        <trkpt lat="48.4452155" lon="2.6792074"></trkpt>
+        <trkpt lat="48.4451366" lon="2.6791649"></trkpt>
+        <trkpt lat="48.4448264" lon="2.6790984"></trkpt>
+        <trkpt lat="48.4444437" lon="2.6790595"></trkpt>
+        <trkpt lat="48.4435684" lon="2.6771181"></trkpt>
+        <trkpt lat="48.4433985" lon="2.6767285"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

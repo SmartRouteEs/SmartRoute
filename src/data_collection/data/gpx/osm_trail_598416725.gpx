@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Maupertuy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.509425</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Maupertuy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6775198" lon="2.4579564"></trkpt>
+        <trkpt lat="48.6796772" lon="2.4557872"></trkpt>
+        <trkpt lat="48.6821437" lon="2.4533698"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

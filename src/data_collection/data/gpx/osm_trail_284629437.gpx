@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Muraille des Clos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.362610</time>
+</metadata>
+<trk>
+    <name>Chemin de la Muraille des Clos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2399969" lon="2.4324766"></trkpt>
+        <trkpt lat="48.2400077" lon="2.4325507"></trkpt>
+        <trkpt lat="48.2399186" lon="2.4326096"></trkpt>
+        <trkpt lat="48.2397893" lon="2.4326838"></trkpt>
+        <trkpt lat="48.2397081" lon="2.4327162"></trkpt>
+        <trkpt lat="48.2395864" lon="2.4327234"></trkpt>
+        <trkpt lat="48.2393964" lon="2.432734"></trkpt>
+        <trkpt lat="48.2390276" lon="2.4327734"></trkpt>
+        <trkpt lat="48.2388951" lon="2.4328048"></trkpt>
+        <trkpt lat="48.2387257" lon="2.4328567"></trkpt>
+        <trkpt lat="48.2385319" lon="2.4329265"></trkpt>
+        <trkpt lat="48.2382653" lon="2.4330205"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

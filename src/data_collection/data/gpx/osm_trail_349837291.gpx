@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Millet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.865882</time>
+</metadata>
+<trk>
+    <name>Chemin Millet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9161214" lon="2.8138883"></trkpt>
+        <trkpt lat="48.9153526" lon="2.8128275"></trkpt>
+        <trkpt lat="48.9150494" lon="2.8131493"></trkpt>
+        <trkpt lat="48.9137838" lon="2.813903"></trkpt>
+        <trkpt lat="48.9127234" lon="2.8145758"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

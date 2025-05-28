@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Deux Sœurs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.721892</time>
+</metadata>
+<trk>
+    <name>Route des Deux Sœurs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4313857" lon="2.6794239"></trkpt>
+        <trkpt lat="48.4301225" lon="2.6783521"></trkpt>
+        <trkpt lat="48.4296078" lon="2.6778282"></trkpt>
+        <trkpt lat="48.4291436" lon="2.6773641"></trkpt>
+        <trkpt lat="48.4282612" lon="2.6756499"></trkpt>
+        <trkpt lat="48.4281969" lon="2.6749329"></trkpt>
+        <trkpt lat="48.4279165" lon="2.6741609"></trkpt>
+        <trkpt lat="48.4276899" lon="2.6739344"></trkpt>
+        <trkpt lat="48.4275022" lon="2.6735851"></trkpt>
+        <trkpt lat="48.4272272" lon="2.6730717"></trkpt>
+        <trkpt lat="48.4267421" lon="2.6725723"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

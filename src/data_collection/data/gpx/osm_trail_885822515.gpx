@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Chantoiseau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.892642</time>
+</metadata>
+<trk>
+    <name>Route de Chantoiseau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3928209" lon="2.7792814"></trkpt>
+        <trkpt lat="48.3927598" lon="2.7793314"></trkpt>
+        <trkpt lat="48.3926964" lon="2.7794515"></trkpt>
+        <trkpt lat="48.3925933" lon="2.7794708"></trkpt>
+        <trkpt lat="48.3919851" lon="2.7795974"></trkpt>
+        <trkpt lat="48.3902316" lon="2.7799776"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Laisser-Courre</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.602893</time>
+</metadata>
+<trk>
+    <name>Route du Laisser-Courre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4596002" lon="2.6627164"></trkpt>
+        <trkpt lat="48.4598162" lon="2.6643486"></trkpt>
+        <trkpt lat="48.4599472" lon="2.6648153"></trkpt>
+        <trkpt lat="48.4603266" lon="2.6654642"></trkpt>
+        <trkpt lat="48.4605631" lon="2.6661055"></trkpt>
+        <trkpt lat="48.4607314" lon="2.6667888"></trkpt>
+        <trkpt lat="48.4607927" lon="2.6670604"></trkpt>
+        <trkpt lat="48.4611579" lon="2.6679231"></trkpt>
+        <trkpt lat="48.4612202" lon="2.6680977"></trkpt>
+        <trkpt lat="48.464296" lon="2.675234"></trkpt>
+        <trkpt lat="48.4666661" lon="2.680796"></trkpt>
+        <trkpt lat="48.4667684" lon="2.6810334"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

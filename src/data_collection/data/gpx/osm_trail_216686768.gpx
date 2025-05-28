@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Massy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.045627</time>
+</metadata>
+<trk>
+    <name>Route de Massy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.714854" lon="2.2750684"></trkpt>
+        <trkpt lat="48.7148505" lon="2.2748352"></trkpt>
+        <trkpt lat="48.7149832" lon="2.2747064"></trkpt>
+        <trkpt lat="48.7153195" lon="2.2745911"></trkpt>
+        <trkpt lat="48.7157088" lon="2.2744275"></trkpt>
+        <trkpt lat="48.7161406" lon="2.2742504"></trkpt>
+        <trkpt lat="48.7161851" lon="2.2742301"></trkpt>
+        <trkpt lat="48.7164077" lon="2.2741287"></trkpt>
+        <trkpt lat="48.7166662" lon="2.2741271"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

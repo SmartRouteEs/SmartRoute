@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pieds Pourris</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.228124</time>
+</metadata>
+<trk>
+    <name>Chemin des Pieds Pourris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3938351" lon="2.5907694"></trkpt>
+        <trkpt lat="48.394493" lon="2.590382"></trkpt>
+        <trkpt lat="48.39467" lon="2.5903"></trkpt>
+        <trkpt lat="48.3955593" lon="2.5897626"></trkpt>
+        <trkpt lat="48.396267" lon="2.589335"></trkpt>
+        <trkpt lat="48.3963351" lon="2.5892738"></trkpt>
+        <trkpt lat="48.3963707" lon="2.5892465"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

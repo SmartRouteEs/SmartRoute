@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Petit Cavalier</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.227839</time>
+</metadata>
+<trk>
+    <name>Route du Petit Cavalier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5889608" lon="2.5229113"></trkpt>
+        <trkpt lat="48.5871732" lon="2.5249608"></trkpt>
+        <trkpt lat="48.586392" lon="2.5258564"></trkpt>
+        <trkpt lat="48.5863283" lon="2.5261865"></trkpt>
+        <trkpt lat="48.586266" lon="2.5262468"></trkpt>
+        <trkpt lat="48.5862598" lon="2.5262528"></trkpt>
+        <trkpt lat="48.5851454" lon="2.5273316"></trkpt>
+        <trkpt lat="48.5839978" lon="2.5286662"></trkpt>
+        <trkpt lat="48.5814937" lon="2.5316592"></trkpt>
+        <trkpt lat="48.5812866" lon="2.5318838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

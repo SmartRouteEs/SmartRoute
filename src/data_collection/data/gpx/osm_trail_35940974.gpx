@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Renardeau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.022609</time>
+</metadata>
+<trk>
+    <name>Route du Renardeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4076655" lon="2.6086173"></trkpt>
+        <trkpt lat="48.4080814" lon="2.6081743"></trkpt>
+        <trkpt lat="48.4084574" lon="2.6079756"></trkpt>
+        <trkpt lat="48.4092366" lon="2.607813"></trkpt>
+        <trkpt lat="48.4097027" lon="2.6078176"></trkpt>
+        <trkpt lat="48.4100285" lon="2.608023"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

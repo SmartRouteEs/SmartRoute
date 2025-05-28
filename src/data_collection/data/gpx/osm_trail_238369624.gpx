@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Bouville</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.088509</time>
+</metadata>
+<trk>
+    <name>Chemin de Bouville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4532" lon="2.254584"></trkpt>
+        <trkpt lat="48.4531135" lon="2.2545238"></trkpt>
+        <trkpt lat="48.4527168" lon="2.2540642"></trkpt>
+        <trkpt lat="48.4522913" lon="2.2536884"></trkpt>
+        <trkpt lat="48.4519781" lon="2.2534613"></trkpt>
+        <trkpt lat="48.451649" lon="2.2531547"></trkpt>
+        <trkpt lat="48.4515105" lon="2.2529491"></trkpt>
+        <trkpt lat="48.4507423" lon="2.2514909"></trkpt>
+        <trkpt lat="48.4500757" lon="2.249771"></trkpt>
+        <trkpt lat="48.4496432" lon="2.2487622"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

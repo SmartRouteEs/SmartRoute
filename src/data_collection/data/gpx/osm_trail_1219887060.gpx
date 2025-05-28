@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Milly à Melun</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.165108</time>
+</metadata>
+<trk>
+    <name>Chemin de Milly à Melun</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4253347" lon="2.4776416"></trkpt>
+        <trkpt lat="48.4253758" lon="2.4767497"></trkpt>
+        <trkpt lat="48.4253369" lon="2.4761192"></trkpt>
+        <trkpt lat="48.4252844" lon="2.4757786"></trkpt>
+        <trkpt lat="48.4252079" lon="2.4754942"></trkpt>
+        <trkpt lat="48.4251964" lon="2.4752189"></trkpt>
+        <trkpt lat="48.4251982" lon="2.4737145"></trkpt>
+        <trkpt lat="48.4253037" lon="2.4731108"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

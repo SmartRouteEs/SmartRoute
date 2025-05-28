@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Chênes</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.286434</time>
+</metadata>
+<trk>
+    <name>Route des Chênes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8383729" lon="2.4629714"></trkpt>
+        <trkpt lat="48.8383436" lon="2.4629607"></trkpt>
+        <trkpt lat="48.8382991" lon="2.4629348"></trkpt>
+        <trkpt lat="48.8382203" lon="2.4629052"></trkpt>
+        <trkpt lat="48.8381511" lon="2.4630413"></trkpt>
+        <trkpt lat="48.8380301" lon="2.4630224"></trkpt>
+        <trkpt lat="48.8374255" lon="2.4629727"></trkpt>
+        <trkpt lat="48.8371776" lon="2.4629464"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

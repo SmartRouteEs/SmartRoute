@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Barbizon à Fontainebleau</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.511736</time>
+</metadata>
+<trk>
+    <name>Route de Barbizon à Fontainebleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4401073" lon="2.6341785"></trkpt>
+        <trkpt lat="48.4402703" lon="2.6328407"></trkpt>
+        <trkpt lat="48.440494" lon="2.6311445"></trkpt>
+        <trkpt lat="48.4406796" lon="2.6302204"></trkpt>
+        <trkpt lat="48.4405545" lon="2.6284902"></trkpt>
+        <trkpt lat="48.4404744" lon="2.6275196"></trkpt>
+        <trkpt lat="48.4409426" lon="2.624618"></trkpt>
+        <trkpt lat="48.4409885" lon="2.6243025"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

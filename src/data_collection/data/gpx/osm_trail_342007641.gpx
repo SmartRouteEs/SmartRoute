@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villarceau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.789967</time>
+</metadata>
+<trk>
+    <name>Chemin de Villarceau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7511367" lon="2.6196857"></trkpt>
+        <trkpt lat="48.751201" lon="2.619689"></trkpt>
+        <trkpt lat="48.7513044" lon="2.6196911"></trkpt>
+        <trkpt lat="48.7520111" lon="2.6197275"></trkpt>
+        <trkpt lat="48.7525016" lon="2.6197933"></trkpt>
+        <trkpt lat="48.7531594" lon="2.619837"></trkpt>
+        <trkpt lat="48.7538035" lon="2.619877"></trkpt>
+        <trkpt lat="48.7540018" lon="2.6198897"></trkpt>
+        <trkpt lat="48.754396" lon="2.619915"></trkpt>
+        <trkpt lat="48.7569799" lon="2.6200562"></trkpt>
+        <trkpt lat="48.7597019" lon="2.6202049"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

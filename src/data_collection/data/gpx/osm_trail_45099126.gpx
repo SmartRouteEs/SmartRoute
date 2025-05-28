@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Îles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.383527</time>
+</metadata>
+<trk>
+    <name>Chemin des Îles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5781251" lon="2.4845332"></trkpt>
+        <trkpt lat="48.5782944" lon="2.4845761"></trkpt>
+        <trkpt lat="48.578738" lon="2.4846813"></trkpt>
+        <trkpt lat="48.5793417" lon="2.4848497"></trkpt>
+        <trkpt lat="48.5797213" lon="2.4849724"></trkpt>
+        <trkpt lat="48.5804248" lon="2.4851998"></trkpt>
+        <trkpt lat="48.5806452" lon="2.4851764"></trkpt>
+        <trkpt lat="48.5815787" lon="2.4854837"></trkpt>
+        <trkpt lat="48.5816207" lon="2.4855274"></trkpt>
+        <trkpt lat="48.5816918" lon="2.4856712"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

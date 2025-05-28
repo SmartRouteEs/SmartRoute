@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Plaine Rayonnée</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.359340</time>
+</metadata>
+<trk>
+    <name>Route de la Plaine Rayonnée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3665499" lon="2.7921981"></trkpt>
+        <trkpt lat="48.3652737" lon="2.7928114"></trkpt>
+        <trkpt lat="48.3620187" lon="2.7945082"></trkpt>
+        <trkpt lat="48.3600767" lon="2.7954236"></trkpt>
+        <trkpt lat="48.3590668" lon="2.7958944"></trkpt>
+        <trkpt lat="48.3581663" lon="2.7963273"></trkpt>
+        <trkpt lat="48.3580206" lon="2.7963857"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

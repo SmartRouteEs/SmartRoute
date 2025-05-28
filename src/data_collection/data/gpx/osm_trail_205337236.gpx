@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Gaston Bonnier</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.586744</time>
+</metadata>
+<trk>
+    <name>Route Gaston Bonnier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4338949" lon="2.7378924"></trkpt>
+        <trkpt lat="48.4329405" lon="2.7376059"></trkpt>
+        <trkpt lat="48.4317334" lon="2.7373769"></trkpt>
+        <trkpt lat="48.4313531" lon="2.7372593"></trkpt>
+        <trkpt lat="48.4304627" lon="2.7369974"></trkpt>
+        <trkpt lat="48.4303183" lon="2.7369542"></trkpt>
+        <trkpt lat="48.4292484" lon="2.736621"></trkpt>
+        <trkpt lat="48.4283204" lon="2.7364182"></trkpt>
+        <trkpt lat="48.4274286" lon="2.7358949"></trkpt>
+        <trkpt lat="48.426767" lon="2.7354788"></trkpt>
+        <trkpt lat="48.4259795" lon="2.7348904"></trkpt>
+        <trkpt lat="48.4256002" lon="2.734496"></trkpt>
+        <trkpt lat="48.4244366" lon="2.733286"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

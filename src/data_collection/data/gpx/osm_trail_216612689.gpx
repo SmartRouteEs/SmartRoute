@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint-Cyr</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.045627</time>
+</metadata>
+<trk>
+    <name>Route de Saint-Cyr</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7712851" lon="2.2369007"></trkpt>
+        <trkpt lat="48.7718536" lon="2.2371841"></trkpt>
+        <trkpt lat="48.7719856" lon="2.2373126"></trkpt>
+        <trkpt lat="48.7721569" lon="2.2374795"></trkpt>
+        <trkpt lat="48.7722716" lon="2.2375855"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

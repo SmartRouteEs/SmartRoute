@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Écouettes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.481767</time>
+</metadata>
+<trk>
+    <name>Route des Écouettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4524555" lon="2.6978009"></trkpt>
+        <trkpt lat="48.4502827" lon="2.7014545"></trkpt>
+        <trkpt lat="48.4502052" lon="2.7015762"></trkpt>
+        <trkpt lat="48.448515" lon="2.7043417"></trkpt>
+        <trkpt lat="48.4480436" lon="2.7050654"></trkpt>
+        <trkpt lat="48.4473881" lon="2.7061455"></trkpt>
+        <trkpt lat="48.4466315" lon="2.707354"></trkpt>
+        <trkpt lat="48.4464419" lon="2.707673"></trkpt>
+        <trkpt lat="48.4458881" lon="2.708605"></trkpt>
+        <trkpt lat="48.4440849" lon="2.7115091"></trkpt>
+        <trkpt lat="48.44253" lon="2.7141046"></trkpt>
+        <trkpt lat="48.4409528" lon="2.7166369"></trkpt>
+        <trkpt lat="48.4408285" lon="2.7168366"></trkpt>
+        <trkpt lat="48.4406761" lon="2.7170833"></trkpt>
+        <trkpt lat="48.4393381" lon="2.7192497"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

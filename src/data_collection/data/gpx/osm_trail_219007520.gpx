@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Ferme du Mont Rouget</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.190725</time>
+</metadata>
+<trk>
+    <name>Chemin de la Ferme du Mont Rouget</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4250467" lon="2.5061022"></trkpt>
+        <trkpt lat="48.4253408" lon="2.5073521"></trkpt>
+        <trkpt lat="48.4254737" lon="2.5077488"></trkpt>
+        <trkpt lat="48.4258612" lon="2.5080723"></trkpt>
+        <trkpt lat="48.4259453" lon="2.5083823"></trkpt>
+        <trkpt lat="48.4259082" lon="2.5097937"></trkpt>
+        <trkpt lat="48.4258707" lon="2.510002"></trkpt>
+        <trkpt lat="48.4261696" lon="2.5111004"></trkpt>
+        <trkpt lat="48.4266446" lon="2.5113396"></trkpt>
+        <trkpt lat="48.4267467" lon="2.511599"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

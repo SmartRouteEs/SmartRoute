@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Buttes de Fontainebleau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.030805</time>
+</metadata>
+<trk>
+    <name>Route des Buttes de Fontainebleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4111223" lon="2.6095486"></trkpt>
+        <trkpt lat="48.4102863" lon="2.6098333"></trkpt>
+        <trkpt lat="48.4098712" lon="2.6097147"></trkpt>
+        <trkpt lat="48.4097743" lon="2.6096893"></trkpt>
+        <trkpt lat="48.4096425" lon="2.6096888"></trkpt>
+        <trkpt lat="48.4095106" lon="2.6097541"></trkpt>
+        <trkpt lat="48.4091425" lon="2.6102096"></trkpt>
+        <trkpt lat="48.4087086" lon="2.6106652"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

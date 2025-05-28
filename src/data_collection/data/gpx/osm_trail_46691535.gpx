@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Cavalière de la Tour</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.465510</time>
+</metadata>
+<trk>
+    <name>Cavalière de la Tour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.794796" lon="2.2017038"></trkpt>
+        <trkpt lat="48.7945955" lon="2.2014868"></trkpt>
+        <trkpt lat="48.7942552" lon="2.2013345"></trkpt>
+        <trkpt lat="48.7938402" lon="2.200655"></trkpt>
+        <trkpt lat="48.7935784" lon="2.200491"></trkpt>
+        <trkpt lat="48.7921354" lon="2.2003506"></trkpt>
+        <trkpt lat="48.7897414" lon="2.2000621"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

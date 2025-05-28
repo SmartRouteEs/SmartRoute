@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin des Goins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.165833</time>
+</metadata>
+<trk>
+    <name>chemin des Goins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8894149" lon="3.141265"></trkpt>
+        <trkpt lat="48.8900552" lon="3.141715"></trkpt>
+        <trkpt lat="48.8915142" lon="3.1426874"></trkpt>
+        <trkpt lat="48.8920609" lon="3.1430686"></trkpt>
+        <trkpt lat="48.892859" lon="3.1436053"></trkpt>
+        <trkpt lat="48.8941318" lon="3.1444552"></trkpt>
+        <trkpt lat="48.8952301" lon="3.1452285"></trkpt>
+        <trkpt lat="48.8957675" lon="3.1456063"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

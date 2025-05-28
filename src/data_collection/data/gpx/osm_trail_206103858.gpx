@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Layon du Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.652218</time>
+</metadata>
+<trk>
+    <name>Layon du Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4630652" lon="2.7277744"></trkpt>
+        <trkpt lat="48.4649984" lon="2.7213959"></trkpt>
+        <trkpt lat="48.4658573" lon="2.7190841"></trkpt>
+        <trkpt lat="48.4667093" lon="2.7178918"></trkpt>
+        <trkpt lat="48.4671245" lon="2.7175455"></trkpt>
+        <trkpt lat="48.4675305" lon="2.7172844"></trkpt>
+        <trkpt lat="48.4678203" lon="2.7172372"></trkpt>
+        <trkpt lat="48.4681686" lon="2.7171805"></trkpt>
+        <trkpt lat="48.4716371" lon="2.7174188"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

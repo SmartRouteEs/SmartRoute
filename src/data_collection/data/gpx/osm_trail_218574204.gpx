@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Cimetière</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.182528</time>
+</metadata>
+<trk>
+    <name>Chemin du Cimetière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.692036" lon="2.2695035"></trkpt>
+        <trkpt lat="48.6920203" lon="2.2695898"></trkpt>
+        <trkpt lat="48.6918318" lon="2.2706274"></trkpt>
+        <trkpt lat="48.6918142" lon="2.2706713"></trkpt>
+        <trkpt lat="48.6917905" lon="2.270728"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

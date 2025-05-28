@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Caille</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.261524</time>
+</metadata>
+<trk>
+    <name>Route de la Caille</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4012767" lon="2.7581299"></trkpt>
+        <trkpt lat="48.4012366" lon="2.7580853"></trkpt>
+        <trkpt lat="48.3991945" lon="2.7558145"></trkpt>
+        <trkpt lat="48.3971561" lon="2.7535641"></trkpt>
+        <trkpt lat="48.3967294" lon="2.7530372"></trkpt>
+        <trkpt lat="48.3967007" lon="2.7530017"></trkpt>
+        <trkpt lat="48.3957516" lon="2.7518596"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

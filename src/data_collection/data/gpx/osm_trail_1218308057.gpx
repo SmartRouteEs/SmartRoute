@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pied des Monts</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.002126</time>
+</metadata>
+<trk>
+    <name>Chemin du Pied des Monts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3860393" lon="2.532865"></trkpt>
+        <trkpt lat="48.3861381" lon="2.5329474"></trkpt>
+        <trkpt lat="48.3862442" lon="2.5330277"></trkpt>
+        <trkpt lat="48.3864189" lon="2.5331377"></trkpt>
+        <trkpt lat="48.3864647" lon="2.5331806"></trkpt>
+        <trkpt lat="48.3865646" lon="2.5332803"></trkpt>
+        <trkpt lat="48.3866202" lon="2.5333469"></trkpt>
+        <trkpt lat="48.3867438" lon="2.5335702"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

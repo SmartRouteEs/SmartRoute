@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Orient</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.352795</time>
+</metadata>
+<trk>
+    <name>Route d'Orient</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4011563" lon="2.7642561"></trkpt>
+        <trkpt lat="48.3993848" lon="2.7609026"></trkpt>
+        <trkpt lat="48.3972607" lon="2.7568212"></trkpt>
+        <trkpt lat="48.3960611" lon="2.7544553"></trkpt>
+        <trkpt lat="48.3959773" lon="2.7542663"></trkpt>
+        <trkpt lat="48.3953896" lon="2.7532312"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

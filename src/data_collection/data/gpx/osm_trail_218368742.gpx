@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Verte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.174116</time>
+</metadata>
+<trk>
+    <name>Allée Verte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8017271" lon="2.220948"></trkpt>
+        <trkpt lat="48.8018242" lon="2.2204144"></trkpt>
+        <trkpt lat="48.8019378" lon="2.2188359"></trkpt>
+        <trkpt lat="48.8020085" lon="2.2178533"></trkpt>
+        <trkpt lat="48.8022488" lon="2.2150538"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

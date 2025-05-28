@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ancien Chemin de Maisse</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.136645</time>
+</metadata>
+<trk>
+    <name>Ancien Chemin de Maisse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.334521" lon="2.3331693"></trkpt>
+        <trkpt lat="48.3356074" lon="2.334129"></trkpt>
+        <trkpt lat="48.3381539" lon="2.3363875"></trkpt>
+        <trkpt lat="48.3382221" lon="2.3364336"></trkpt>
+        <trkpt lat="48.3382801" lon="2.3363912"></trkpt>
+        <trkpt lat="48.3420865" lon="2.3390268"></trkpt>
+        <trkpt lat="48.3424274" lon="2.3395686"></trkpt>
+        <trkpt lat="48.3426678" lon="2.3399505"></trkpt>
+        <trkpt lat="48.3434248" lon="2.3408555"></trkpt>
+        <trkpt lat="48.3441697" lon="2.3418977"></trkpt>
+        <trkpt lat="48.3456262" lon="2.3439184"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

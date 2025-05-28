@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 10062</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.880117</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 10062</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6207946" lon="2.5870986"></trkpt>
+        <trkpt lat="48.6209195" lon="2.584791"></trkpt>
+        <trkpt lat="48.6205419" lon="2.5841643"></trkpt>
+        <trkpt lat="48.6213012" lon="2.5830839"></trkpt>
+        <trkpt lat="48.6212177" lon="2.582843"></trkpt>
+        <trkpt lat="48.6212547" lon="2.5828127"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Place Pierre Coindreau</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.516498</time>
+</metadata>
+<trk>
+    <name>Place Pierre Coindreau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7334995" lon="2.2892126"></trkpt>
+        <trkpt lat="48.7335302" lon="2.2893391"></trkpt>
+        <trkpt lat="48.7336239" lon="2.2892882"></trkpt>
+        <trkpt lat="48.7336816" lon="2.289251"></trkpt>
+        <trkpt lat="48.7337955" lon="2.28929"></trkpt>
+        <trkpt lat="48.7340269" lon="2.2895772"></trkpt>
+        <trkpt lat="48.7341272" lon="2.2899239"></trkpt>
+        <trkpt lat="48.7342272" lon="2.2898743"></trkpt>
+        <trkpt lat="48.7343134" lon="2.2899762"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

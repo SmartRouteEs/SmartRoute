@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4030</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.060836</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4030</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6653575" lon="2.3179748"></trkpt>
+        <trkpt lat="48.665342" lon="2.3180259"></trkpt>
+        <trkpt lat="48.6653129" lon="2.3180325"></trkpt>
+        <trkpt lat="48.6652595" lon="2.3180629"></trkpt>
+        <trkpt lat="48.6652127" lon="2.3180851"></trkpt>
+        <trkpt lat="48.6651378" lon="2.3181431"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

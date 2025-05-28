@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villejust à Ballainvilliers</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.627667</time>
+</metadata>
+<trk>
+    <name>Chemin de Villejust à Ballainvilliers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6777186" lon="2.2565653"></trkpt>
+        <trkpt lat="48.6774714" lon="2.2569042"></trkpt>
+        <trkpt lat="48.6772277" lon="2.257239"></trkpt>
+        <trkpt lat="48.6771119" lon="2.2574191"></trkpt>
+        <trkpt lat="48.6769306" lon="2.2576508"></trkpt>
+        <trkpt lat="48.6768617" lon="2.2583911"></trkpt>
+        <trkpt lat="48.6768509" lon="2.2587996"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

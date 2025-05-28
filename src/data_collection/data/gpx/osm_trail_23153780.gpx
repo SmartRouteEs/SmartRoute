@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Égreffins</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.514535</time>
+</metadata>
+<trk>
+    <name>Chemin des Égreffins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.460882" lon="2.4329462"></trkpt>
+        <trkpt lat="48.460799" lon="2.4328244"></trkpt>
+        <trkpt lat="48.4604294" lon="2.4323197"></trkpt>
+        <trkpt lat="48.4599787" lon="2.4317887"></trkpt>
+        <trkpt lat="48.459604" lon="2.4313593"></trkpt>
+        <trkpt lat="48.4593334" lon="2.4310686"></trkpt>
+        <trkpt lat="48.4591392" lon="2.4308598"></trkpt>
+        <trkpt lat="48.4589641" lon="2.4306604"></trkpt>
+        <trkpt lat="48.4588437" lon="2.4304844"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

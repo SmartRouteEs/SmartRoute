@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vallée Ronde</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.007909</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vallée Ronde</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.380537" lon="2.5601137"></trkpt>
+        <trkpt lat="48.3810173" lon="2.5603267"></trkpt>
+        <trkpt lat="48.3811188" lon="2.5604367"></trkpt>
+        <trkpt lat="48.3813647" lon="2.5605413"></trkpt>
+        <trkpt lat="48.3814199" lon="2.5606754"></trkpt>
+        <trkpt lat="48.3814739" lon="2.5613955"></trkpt>
+        <trkpt lat="48.3815133" lon="2.561869"></trkpt>
+        <trkpt lat="48.3816019" lon="2.5625086"></trkpt>
+        <trkpt lat="48.3816395" lon="2.5630235"></trkpt>
+        <trkpt lat="48.3814373" lon="2.564189"></trkpt>
+        <trkpt lat="48.3814288" lon="2.5644991"></trkpt>
+        <trkpt lat="48.3814512" lon="2.5646743"></trkpt>
+        <trkpt lat="48.3815007" lon="2.5647959"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

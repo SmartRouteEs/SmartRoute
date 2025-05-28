@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Michelle</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.708940</time>
+</metadata>
+<trk>
+    <name>Allée de la Michelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8260979" lon="2.7353396"></trkpt>
+        <trkpt lat="48.8259058" lon="2.7358031"></trkpt>
+        <trkpt lat="48.8256854" lon="2.7360863"></trkpt>
+        <trkpt lat="48.8252786" lon="2.7364039"></trkpt>
+        <trkpt lat="48.8246287" lon="2.736876"></trkpt>
+        <trkpt lat="48.8240241" lon="2.7371592"></trkpt>
+        <trkpt lat="48.8237359" lon="2.7372966"></trkpt>
+        <trkpt lat="48.8234647" lon="2.7375455"></trkpt>
+        <trkpt lat="48.8232047" lon="2.7378098"></trkpt>
+        <trkpt lat="48.8231639" lon="2.7378513"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

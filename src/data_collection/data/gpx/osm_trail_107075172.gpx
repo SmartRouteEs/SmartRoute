@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de la Côte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.710135</time>
+</metadata>
+<trk>
+    <name>Sentier de la Côte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7650575" lon="2.5207137"></trkpt>
+        <trkpt lat="48.7647487" lon="2.521253"></trkpt>
+        <trkpt lat="48.7646807" lon="2.521316"></trkpt>
+        <trkpt lat="48.7644203" lon="2.521597"></trkpt>
+        <trkpt lat="48.7643718" lon="2.5216566"></trkpt>
+        <trkpt lat="48.7640334" lon="2.5219325"></trkpt>
+        <trkpt lat="48.7637003" lon="2.5222289"></trkpt>
+        <trkpt lat="48.7633901" lon="2.5225795"></trkpt>
+        <trkpt lat="48.7631457" lon="2.5219796"></trkpt>
+        <trkpt lat="48.7628452" lon="2.5222706"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

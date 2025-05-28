@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Maupertuis</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.181080</time>
+</metadata>
+<trk>
+    <name>Rue Maupertuis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4856431" lon="2.3633764"></trkpt>
+        <trkpt lat="48.4865951" lon="2.3641714"></trkpt>
+        <trkpt lat="48.4871728" lon="2.3646539"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

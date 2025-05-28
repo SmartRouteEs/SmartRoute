@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Limon à Palaiseau</name>
+    <desc>Sentier VTT - Type: track - Surface: pebblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.039740</time>
+</metadata>
+<trk>
+    <name>Chemin de Limon à Palaiseau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7268283" lon="2.2088589"></trkpt>
+        <trkpt lat="48.7268579" lon="2.2086481"></trkpt>
+        <trkpt lat="48.7268405" lon="2.2082476"></trkpt>
+        <trkpt lat="48.726844" lon="2.2076931"></trkpt>
+        <trkpt lat="48.7269244" lon="2.2066718"></trkpt>
+        <trkpt lat="48.7269338" lon="2.2064233"></trkpt>
+        <trkpt lat="48.726935" lon="2.2063927"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

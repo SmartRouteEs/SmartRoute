@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Cerf</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.225880</time>
+</metadata>
+<trk>
+    <name>Route du Cerf</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9526161" lon="2.9943451"></trkpt>
+        <trkpt lat="48.9530619" lon="2.9938657"></trkpt>
+        <trkpt lat="48.9538554" lon="2.9931734"></trkpt>
+        <trkpt lat="48.9548437" lon="2.9923029"></trkpt>
+        <trkpt lat="48.9565169" lon="2.9909329"></trkpt>
+        <trkpt lat="48.9571686" lon="2.9904104"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

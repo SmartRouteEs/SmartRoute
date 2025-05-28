@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Abbaye</name>
+    <desc>Sentier VTT - Type: track - Surface: pebblestone - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:47.653435</time>
+</metadata>
+<trk>
+    <name>Route de l'Abbaye</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.761959" lon="2.230025"></trkpt>
+        <trkpt lat="48.7614749" lon="2.2330184"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

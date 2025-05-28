@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Mascara</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.611067</time>
+</metadata>
+<trk>
+    <name>Route Mascara</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4902887" lon="2.6625755"></trkpt>
+        <trkpt lat="48.4882919" lon="2.6594794"></trkpt>
+        <trkpt lat="48.4879586" lon="2.6589424"></trkpt>
+        <trkpt lat="48.4878601" lon="2.6588843"></trkpt>
+        <trkpt lat="48.4878281" lon="2.658842"></trkpt>
+        <trkpt lat="48.4851933" lon="2.6553732"></trkpt>
+        <trkpt lat="48.4835787" lon="2.6532005"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

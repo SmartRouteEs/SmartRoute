@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Fay à Bois-le-Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.712937</time>
+</metadata>
+<trk>
+    <name>Route de Fay à Bois-le-Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4768429" lon="2.6614226"></trkpt>
+        <trkpt lat="48.4756364" lon="2.6668654"></trkpt>
+        <trkpt lat="48.4756162" lon="2.666967"></trkpt>
+        <trkpt lat="48.475564" lon="2.6671974"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

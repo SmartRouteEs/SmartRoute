@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse Élisabeth</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.595148</time>
+</metadata>
+<trk>
+    <name>Impasse Élisabeth</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6804066" lon="2.4105039"></trkpt>
+        <trkpt lat="48.6805058" lon="2.411499"></trkpt>
+        <trkpt lat="48.6804978" lon="2.411672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

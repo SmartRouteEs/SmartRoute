@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Arbonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.789967</time>
+</metadata>
+<trk>
+    <name>Chemin d'Arbonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3568833" lon="2.5659624"></trkpt>
+        <trkpt lat="48.3569245" lon="2.5658786"></trkpt>
+        <trkpt lat="48.3570347" lon="2.5656252"></trkpt>
+        <trkpt lat="48.357226" lon="2.5653468"></trkpt>
+        <trkpt lat="48.3575363" lon="2.5649547"></trkpt>
+        <trkpt lat="48.3577864" lon="2.5645827"></trkpt>
+        <trkpt lat="48.3579075" lon="2.5644482"></trkpt>
+        <trkpt lat="48.3580364" lon="2.5643409"></trkpt>
+        <trkpt lat="48.3581841" lon="2.564187"></trkpt>
+        <trkpt lat="48.3582256" lon="2.5641628"></trkpt>
+        <trkpt lat="48.3582621" lon="2.5641419"></trkpt>
+        <trkpt lat="48.3583135" lon="2.5641405"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

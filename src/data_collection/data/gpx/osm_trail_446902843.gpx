@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 21445</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.317496</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 21445</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8396445" lon="2.2171904"></trkpt>
+        <trkpt lat="48.8396694" lon="2.2172789"></trkpt>
+        <trkpt lat="48.8396738" lon="2.2173553"></trkpt>
+        <trkpt lat="48.8396641" lon="2.2174358"></trkpt>
+        <trkpt lat="48.8396385" lon="2.2175095"></trkpt>
+        <trkpt lat="48.8395909" lon="2.2175779"></trkpt>
+        <trkpt lat="48.839518" lon="2.2176247"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

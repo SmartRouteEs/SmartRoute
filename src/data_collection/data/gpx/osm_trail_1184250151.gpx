@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Aire De Betteraves</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.758372</time>
+</metadata>
+<trk>
+    <name>Aire De Betteraves</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4513953" lon="2.2434828"></trkpt>
+        <trkpt lat="48.4514335" lon="2.2435048"></trkpt>
+        <trkpt lat="48.4514788" lon="2.2435292"></trkpt>
+        <trkpt lat="48.4515018" lon="2.243589"></trkpt>
+        <trkpt lat="48.451744" lon="2.245518"></trkpt>
+        <trkpt lat="48.4518746" lon="2.2464382"></trkpt>
+        <trkpt lat="48.4518825" lon="2.2465798"></trkpt>
+        <trkpt lat="48.4518274" lon="2.2467416"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Seguin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.403096</time>
+</metadata>
+<trk>
+    <name>Allée Seguin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7499008" lon="2.7183741"></trkpt>
+        <trkpt lat="48.7498349" lon="2.7190262"></trkpt>
+        <trkpt lat="48.749833" lon="2.7190454"></trkpt>
+        <trkpt lat="48.7498185" lon="2.7191967"></trkpt>
+        <trkpt lat="48.749778" lon="2.7196183"></trkpt>
+        <trkpt lat="48.7496826" lon="2.7202413"></trkpt>
+        <trkpt lat="48.7495726" lon="2.7208253"></trkpt>
+        <trkpt lat="48.7494516" lon="2.7214649"></trkpt>
+        <trkpt lat="48.7493452" lon="2.72201"></trkpt>
+        <trkpt lat="48.7492274" lon="2.7224808"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

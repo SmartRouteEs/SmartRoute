@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Morillon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.684307</time>
+</metadata>
+<trk>
+    <name>Route Morillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3824299" lon="2.6749447"></trkpt>
+        <trkpt lat="48.3840601" lon="2.6721848"></trkpt>
+        <trkpt lat="48.3845542" lon="2.671236"></trkpt>
+        <trkpt lat="48.3846014" lon="2.6711288"></trkpt>
+        <trkpt lat="48.3851126" lon="2.6699912"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

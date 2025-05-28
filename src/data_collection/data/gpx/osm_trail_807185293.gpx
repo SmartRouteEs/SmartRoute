@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Mathieu</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.237938</time>
+</metadata>
+<trk>
+    <name>Rue Mathieu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8695673" lon="3.2663568"></trkpt>
+        <trkpt lat="48.8703572" lon="3.2662815"></trkpt>
+        <trkpt lat="48.8706042" lon="3.2662466"></trkpt>
+        <trkpt lat="48.8708177" lon="3.2662144"></trkpt>
+        <trkpt lat="48.8709961" lon="3.2661042"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

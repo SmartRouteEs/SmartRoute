@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Ancien Bornage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.746828</time>
+</metadata>
+<trk>
+    <name>Route de l'Ancien Bornage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.464296" lon="2.6458035"></trkpt>
+        <trkpt lat="48.4645621" lon="2.6455984"></trkpt>
+        <trkpt lat="48.4650984" lon="2.6456602"></trkpt>
+        <trkpt lat="48.4653281" lon="2.645579"></trkpt>
+        <trkpt lat="48.4654464" lon="2.6455994"></trkpt>
+        <trkpt lat="48.4659354" lon="2.6454883"></trkpt>
+        <trkpt lat="48.4663242" lon="2.645297"></trkpt>
+        <trkpt lat="48.4669394" lon="2.6449512"></trkpt>
+        <trkpt lat="48.4688062" lon="2.6468587"></trkpt>
+        <trkpt lat="48.4691189" lon="2.6471088"></trkpt>
+        <trkpt lat="48.4692469" lon="2.647146"></trkpt>
+        <trkpt lat="48.4693684" lon="2.6471089"></trkpt>
+        <trkpt lat="48.4695371" lon="2.6468558"></trkpt>
+        <trkpt lat="48.4701748" lon="2.6460461"></trkpt>
+        <trkpt lat="48.471611" lon="2.6440642"></trkpt>
+        <trkpt lat="48.4723415" lon="2.6433037"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Ronde des Minimes</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.840680</time>
+</metadata>
+<trk>
+    <name>Route Ronde des Minimes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8388126" lon="2.4600877"></trkpt>
+        <trkpt lat="48.8387617" lon="2.4602748"></trkpt>
+        <trkpt lat="48.838729" lon="2.4603584"></trkpt>
+        <trkpt lat="48.8386793" lon="2.4604584"></trkpt>
+        <trkpt lat="48.8386175" lon="2.4605905"></trkpt>
+        <trkpt lat="48.8385861" lon="2.46065"></trkpt>
+        <trkpt lat="48.8385247" lon="2.4607754"></trkpt>
+        <trkpt lat="48.8382549" lon="2.4612967"></trkpt>
+        <trkpt lat="48.8379817" lon="2.4617322"></trkpt>
+        <trkpt lat="48.837572" lon="2.46224"></trkpt>
+        <trkpt lat="48.8373731" lon="2.4624167"></trkpt>
+        <trkpt lat="48.8371314" lon="2.4625576"></trkpt>
+        <trkpt lat="48.8368507" lon="2.4626833"></trkpt>
+        <trkpt lat="48.8368059" lon="2.462703"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

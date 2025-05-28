@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Domet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.416848</time>
+</metadata>
+<trk>
+    <name>Route Domet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4352472" lon="2.7072041"></trkpt>
+        <trkpt lat="48.4346753" lon="2.7069888"></trkpt>
+        <trkpt lat="48.4342919" lon="2.7068413"></trkpt>
+        <trkpt lat="48.4332767" lon="2.7064542"></trkpt>
+        <trkpt lat="48.4325712" lon="2.7061669"></trkpt>
+        <trkpt lat="48.4325066" lon="2.706107"></trkpt>
+        <trkpt lat="48.4318175" lon="2.7061585"></trkpt>
+        <trkpt lat="48.4302742" lon="2.7062958"></trkpt>
+        <trkpt lat="48.430081" lon="2.7063115"></trkpt>
+        <trkpt lat="48.4297463" lon="2.7069244"></trkpt>
+        <trkpt lat="48.4295489" lon="2.7072934"></trkpt>
+        <trkpt lat="48.4293807" lon="2.7076163"></trkpt>
+        <trkpt lat="48.4288666" lon="2.7084882"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

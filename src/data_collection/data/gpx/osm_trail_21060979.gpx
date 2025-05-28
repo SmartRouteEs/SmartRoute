@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois la Dame</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.442237</time>
+</metadata>
+<trk>
+    <name>Route du Bois la Dame</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4794225" lon="2.763199"></trkpt>
+        <trkpt lat="48.4789299" lon="2.7624517"></trkpt>
+        <trkpt lat="48.4769856" lon="2.7598816"></trkpt>
+        <trkpt lat="48.4738682" lon="2.7580049"></trkpt>
+        <trkpt lat="48.4716262" lon="2.7564664"></trkpt>
+        <trkpt lat="48.4710807" lon="2.7561463"></trkpt>
+        <trkpt lat="48.4710145" lon="2.7561074"></trkpt>
+        <trkpt lat="48.4684641" lon="2.754513"></trkpt>
+        <trkpt lat="48.4654844" lon="2.7526101"></trkpt>
+        <trkpt lat="48.4647621" lon="2.7521533"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

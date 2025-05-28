@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Clair Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.054064</time>
+</metadata>
+<trk>
+    <name>Route de Clair Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4363458" lon="2.6439703"></trkpt>
+        <trkpt lat="48.436177" lon="2.6443472"></trkpt>
+        <trkpt lat="48.4361156" lon="2.6444506"></trkpt>
+        <trkpt lat="48.4359508" lon="2.6447278"></trkpt>
+        <trkpt lat="48.4357888" lon="2.6452267"></trkpt>
+        <trkpt lat="48.4356482" lon="2.6455727"></trkpt>
+        <trkpt lat="48.4354636" lon="2.6458219"></trkpt>
+        <trkpt lat="48.4347224" lon="2.6462335"></trkpt>
+        <trkpt lat="48.4337503" lon="2.64679"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

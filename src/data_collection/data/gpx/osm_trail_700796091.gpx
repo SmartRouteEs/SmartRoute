@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Inspecteur</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.516498</time>
+</metadata>
+<trk>
+    <name>Route de l'Inspecteur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5807875" lon="2.5192923"></trkpt>
+        <trkpt lat="48.5807471" lon="2.5185849"></trkpt>
+        <trkpt lat="48.5806472" lon="2.5159984"></trkpt>
+        <trkpt lat="48.5805664" lon="2.5132275"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

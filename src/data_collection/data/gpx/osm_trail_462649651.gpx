@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Madeleine</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.405904</time>
+</metadata>
+<trk>
+    <name>Route de la Madeleine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4216453" lon="2.72267"></trkpt>
+        <trkpt lat="48.4247489" lon="2.7263416"></trkpt>
+        <trkpt lat="48.4248403" lon="2.7264498"></trkpt>
+        <trkpt lat="48.4274879" lon="2.7296409"></trkpt>
+        <trkpt lat="48.428374" lon="2.7308106"></trkpt>
+        <trkpt lat="48.4297572" lon="2.732551"></trkpt>
+        <trkpt lat="48.4302923" lon="2.7341227"></trkpt>
+        <trkpt lat="48.4312254" lon="2.7368631"></trkpt>
+        <trkpt lat="48.4313531" lon="2.7372593"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

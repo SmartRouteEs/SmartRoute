@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Abîmes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.386307</time>
+</metadata>
+<trk>
+    <name>Chemin des Abîmes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1762679" lon="3.0769299"></trkpt>
+        <trkpt lat="48.1758799" lon="3.0769302"></trkpt>
+        <trkpt lat="48.1753377" lon="3.0767894"></trkpt>
+        <trkpt lat="48.1744033" lon="3.0766372"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

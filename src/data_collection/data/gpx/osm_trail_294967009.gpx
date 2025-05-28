@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 16544</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.796692</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 16544</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2127861" lon="2.3327187"></trkpt>
+        <trkpt lat="48.2116114" lon="2.335354"></trkpt>
+        <trkpt lat="48.2093451" lon="2.3404468"></trkpt>
+        <trkpt lat="48.2072703" lon="2.3451484"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

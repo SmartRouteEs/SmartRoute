@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue de Maintenon</name>
+    <desc>Sentier VTT - Type: track - Surface: sett - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.954659</time>
+</metadata>
+<trk>
+    <name>Avenue de Maintenon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3970551" lon="2.7021516"></trkpt>
+        <trkpt lat="48.3971584" lon="2.7021309"></trkpt>
+        <trkpt lat="48.3971631" lon="2.70213"></trkpt>
+        <trkpt lat="48.3985107" lon="2.7016961"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

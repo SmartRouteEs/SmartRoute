@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>La Queue de Fontaine</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.524610</time>
+</metadata>
+<trk>
+    <name>La Queue de Fontaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4848751" lon="2.7521712"></trkpt>
+        <trkpt lat="48.4848108" lon="2.752335"></trkpt>
+        <trkpt lat="48.4839372" lon="2.7551925"></trkpt>
+        <trkpt lat="48.4830711" lon="2.7572378"></trkpt>
+        <trkpt lat="48.4825371" lon="2.7584987"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

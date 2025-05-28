@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Cinq Continents</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.628830</time>
+</metadata>
+<trk>
+    <name>Allée des Cinq Continents</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7390435" lon="2.7453498"></trkpt>
+        <trkpt lat="48.7391025" lon="2.7453506"></trkpt>
+        <trkpt lat="48.7391161" lon="2.745354"></trkpt>
+        <trkpt lat="48.7392335" lon="2.7453589"></trkpt>
+        <trkpt lat="48.7415845" lon="2.7448887"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

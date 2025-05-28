@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Cour du Parlement</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.708940</time>
+</metadata>
+<trk>
+    <name>Cour du Parlement</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8265782" lon="2.901705"></trkpt>
+        <trkpt lat="48.8265924" lon="2.9015052"></trkpt>
+        <trkpt lat="48.8266206" lon="2.901398"></trkpt>
+        <trkpt lat="48.8266372" lon="2.9012435"></trkpt>
+        <trkpt lat="48.826616" lon="2.9011201"></trkpt>
+        <trkpt lat="48.8265454" lon="2.9010235"></trkpt>
+        <trkpt lat="48.826496" lon="2.9007017"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

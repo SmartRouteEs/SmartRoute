@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Terrière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.552861</time>
+</metadata>
+<trk>
+    <name>Chemin de la Terrière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.188788" lon="2.2729192"></trkpt>
+        <trkpt lat="48.1859804" lon="2.2736676"></trkpt>
+        <trkpt lat="48.1823759" lon="2.2746377"></trkpt>
+        <trkpt lat="48.1816289" lon="2.2748372"></trkpt>
+        <trkpt lat="48.1815069" lon="2.2748698"></trkpt>
+        <trkpt lat="48.1813505" lon="2.2749339"></trkpt>
+        <trkpt lat="48.1807908" lon="2.2751142"></trkpt>
+        <trkpt lat="48.1806262" lon="2.2751586"></trkpt>
+        <trkpt lat="48.1804765" lon="2.2751635"></trkpt>
+        <trkpt lat="48.1798608" lon="2.2751043"></trkpt>
+        <trkpt lat="48.1796403" lon="2.2751043"></trkpt>
+        <trkpt lat="48.1793621" lon="2.275129"></trkpt>
+        <trkpt lat="48.1790493" lon="2.2751833"></trkpt>
+        <trkpt lat="48.1786334" lon="2.2752838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Plesse aux Gelles</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:46.177583</time>
+</metadata>
+<trk>
+    <name>Chemin de la Plesse aux Gelles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6932228" lon="2.2251215"></trkpt>
+        <trkpt lat="48.6932673" lon="2.2250999"></trkpt>
+        <trkpt lat="48.6933812" lon="2.2250541"></trkpt>
+        <trkpt lat="48.6934274" lon="2.225045"></trkpt>
+        <trkpt lat="48.6934666" lon="2.2250373"></trkpt>
+        <trkpt lat="48.6936837" lon="2.2249948"></trkpt>
+        <trkpt lat="48.6937655" lon="2.2249894"></trkpt>
+        <trkpt lat="48.6938563" lon="2.2250075"></trkpt>
+        <trkpt lat="48.6941426" lon="2.2250267"></trkpt>
+        <trkpt lat="48.6943296" lon="2.2250541"></trkpt>
+        <trkpt lat="48.6944186" lon="2.2250676"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

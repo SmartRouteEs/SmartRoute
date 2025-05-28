@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Hurtault</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.233419</time>
+</metadata>
+<trk>
+    <name>Route de Hurtault</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4005783" lon="2.6869652"></trkpt>
+        <trkpt lat="48.4006929" lon="2.6869441"></trkpt>
+        <trkpt lat="48.4007653" lon="2.6869017"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

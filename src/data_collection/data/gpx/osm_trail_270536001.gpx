@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Sainte-Barbe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.117152</time>
+</metadata>
+<trk>
+    <name>Chemin Sainte-Barbe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.399151" lon="2.778025"></trkpt>
+        <trkpt lat="48.3976515" lon="2.7753953"></trkpt>
+        <trkpt lat="48.3969742" lon="2.7741448"></trkpt>
+        <trkpt lat="48.3957339" lon="2.7720282"></trkpt>
+        <trkpt lat="48.3951157" lon="2.7710298"></trkpt>
+        <trkpt lat="48.3941411" lon="2.7694872"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

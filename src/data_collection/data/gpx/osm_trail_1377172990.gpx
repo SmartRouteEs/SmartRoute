@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Jeunesse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.111312</time>
+</metadata>
+<trk>
+    <name>Route de la Jeunesse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3841076" lon="2.6876379"></trkpt>
+        <trkpt lat="48.384114" lon="2.687657"></trkpt>
+        <trkpt lat="48.3841266" lon="2.687686"></trkpt>
+        <trkpt lat="48.3842524" lon="2.6877226"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

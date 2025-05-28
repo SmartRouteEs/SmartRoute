@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin n°15 de Saint-Marc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.896272</time>
+</metadata>
+<trk>
+    <name>Chemin n°15 de Saint-Marc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3178201" lon="2.3751384"></trkpt>
+        <trkpt lat="48.3182816" lon="2.3753218"></trkpt>
+        <trkpt lat="48.318705" lon="2.3754599"></trkpt>
+        <trkpt lat="48.3192511" lon="2.3766488"></trkpt>
+        <trkpt lat="48.3195859" lon="2.3773776"></trkpt>
+        <trkpt lat="48.3209817" lon="2.379935"></trkpt>
+        <trkpt lat="48.3232533" lon="2.3840972"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

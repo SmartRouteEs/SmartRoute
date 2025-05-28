@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Montée des Eaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.824484</time>
+</metadata>
+<trk>
+    <name>Montée des Eaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5091644" lon="2.3408162"></trkpt>
+        <trkpt lat="48.5086794" lon="2.3406271"></trkpt>
+        <trkpt lat="48.5081442" lon="2.3404104"></trkpt>
+        <trkpt lat="48.507664" lon="2.3403673"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

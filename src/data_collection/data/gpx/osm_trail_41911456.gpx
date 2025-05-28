@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Boussy</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.302263</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Boussy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6656958" lon="2.5118307"></trkpt>
+        <trkpt lat="48.667147" lon="2.5147404"></trkpt>
+        <trkpt lat="48.6688317" lon="2.5177696"></trkpt>
+        <trkpt lat="48.6688744" lon="2.5178459"></trkpt>
+        <trkpt lat="48.6689204" lon="2.5179304"></trkpt>
+        <trkpt lat="48.6704143" lon="2.5206543"></trkpt>
+        <trkpt lat="48.6713188" lon="2.5223037"></trkpt>
+        <trkpt lat="48.6721974" lon="2.5239071"></trkpt>
+        <trkpt lat="48.6724269" lon="2.5242129"></trkpt>
+        <trkpt lat="48.6727311" lon="2.524485"></trkpt>
+        <trkpt lat="48.6728928" lon="2.5246337"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

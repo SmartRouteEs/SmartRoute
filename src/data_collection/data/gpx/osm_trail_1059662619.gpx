@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Hélène</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.775692</time>
+</metadata>
+<trk>
+    <name>Route Hélène</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3952477" lon="2.6350899"></trkpt>
+        <trkpt lat="48.3953719" lon="2.6352091"></trkpt>
+        <trkpt lat="48.3967444" lon="2.6353102"></trkpt>
+        <trkpt lat="48.3967858" lon="2.6353611"></trkpt>
+        <trkpt lat="48.3968163" lon="2.6354535"></trkpt>
+        <trkpt lat="48.3969249" lon="2.6359919"></trkpt>
+        <trkpt lat="48.3969939" lon="2.6362839"></trkpt>
+        <trkpt lat="48.3970619" lon="2.6363903"></trkpt>
+        <trkpt lat="48.3971506" lon="2.6364727"></trkpt>
+        <trkpt lat="48.3972283" lon="2.6364867"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

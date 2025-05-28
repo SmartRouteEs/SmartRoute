@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Limaçon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.372143</time>
+</metadata>
+<trk>
+    <name>Rue du Limaçon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8521438" lon="2.8891998"></trkpt>
+        <trkpt lat="48.8524397" lon="2.8892796"></trkpt>
+        <trkpt lat="48.852865" lon="2.8895625"></trkpt>
+        <trkpt lat="48.8529012" lon="2.8896269"></trkpt>
+        <trkpt lat="48.8529144" lon="2.8896967"></trkpt>
+        <trkpt lat="48.8529144" lon="2.8897637"></trkpt>
+        <trkpt lat="48.8526532" lon="2.8911933"></trkpt>
+        <trkpt lat="48.8525844" lon="2.891255"></trkpt>
+        <trkpt lat="48.8524882" lon="2.8912872"></trkpt>
+        <trkpt lat="48.8522879" lon="2.8912362"></trkpt>
+        <trkpt lat="48.8519931" lon="2.8918478"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

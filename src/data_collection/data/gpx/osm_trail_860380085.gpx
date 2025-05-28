@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin rural de Valenton à Yerres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.617800</time>
+</metadata>
+<trk>
+    <name>Chemin rural de Valenton à Yerres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7230907" lon="2.4881767"></trkpt>
+        <trkpt lat="48.7238816" lon="2.487789"></trkpt>
+        <trkpt lat="48.7247741" lon="2.4873318"></trkpt>
+        <trkpt lat="48.7249678" lon="2.4872084"></trkpt>
+        <trkpt lat="48.7260934" lon="2.4864913"></trkpt>
+        <trkpt lat="48.7265494" lon="2.4862178"></trkpt>
+        <trkpt lat="48.7266997" lon="2.4860533"></trkpt>
+        <trkpt lat="48.7268658" lon="2.4857056"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

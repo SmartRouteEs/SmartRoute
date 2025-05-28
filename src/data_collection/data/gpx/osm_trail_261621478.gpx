@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Villedieu</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.757864</time>
+</metadata>
+<trk>
+    <name>Chemin de Villedieu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6937165" lon="2.2577324"></trkpt>
+        <trkpt lat="48.6930262" lon="2.2578408"></trkpt>
+        <trkpt lat="48.6929643" lon="2.2578334"></trkpt>
+        <trkpt lat="48.6925182" lon="2.2575967"></trkpt>
+        <trkpt lat="48.6924058" lon="2.2575475"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

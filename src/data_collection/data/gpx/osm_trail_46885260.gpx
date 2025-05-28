@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Flamme</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.506344</time>
+</metadata>
+<trk>
+    <name>Route de la Flamme</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3870326" lon="2.6668815"></trkpt>
+        <trkpt lat="48.3869301" lon="2.6668339"></trkpt>
+        <trkpt lat="48.3867812" lon="2.6668286"></trkpt>
+        <trkpt lat="48.386701" lon="2.6667364"></trkpt>
+        <trkpt lat="48.3863719" lon="2.6667055"></trkpt>
+        <trkpt lat="48.3862087" lon="2.6666661"></trkpt>
+        <trkpt lat="48.385406" lon="2.6665941"></trkpt>
+        <trkpt lat="48.3841866" lon="2.6661238"></trkpt>
+        <trkpt lat="48.3831672" lon="2.6654249"></trkpt>
+        <trkpt lat="48.3826515" lon="2.6655215"></trkpt>
+        <trkpt lat="48.3823199" lon="2.6657528"></trkpt>
+        <trkpt lat="48.3808698" lon="2.6679592"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

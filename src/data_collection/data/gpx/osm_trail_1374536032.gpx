@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Recloses à Fontainebleau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.859961</time>
+</metadata>
+<trk>
+    <name>Route de Recloses à Fontainebleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3563201" lon="2.6540615"></trkpt>
+        <trkpt lat="48.3557005" lon="2.6530567"></trkpt>
+        <trkpt lat="48.3548619" lon="2.6519754"></trkpt>
+        <trkpt lat="48.3533373" lon="2.6502697"></trkpt>
+        <trkpt lat="48.3530919" lon="2.6498558"></trkpt>
+        <trkpt lat="48.3522876" lon="2.6478732"></trkpt>
+        <trkpt lat="48.3516182" lon="2.6471104"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

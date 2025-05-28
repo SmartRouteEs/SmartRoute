@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Chaumard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.092314</time>
+</metadata>
+<trk>
+    <name>Chemin de Chaumard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4272022" lon="3.3002727"></trkpt>
+        <trkpt lat="48.4276981" lon="3.3004931"></trkpt>
+        <trkpt lat="48.4280635" lon="3.300485"></trkpt>
+        <trkpt lat="48.4285306" lon="3.3002075"></trkpt>
+        <trkpt lat="48.4288301" lon="3.2998168"></trkpt>
+        <trkpt lat="48.4288418" lon="3.2989409"></trkpt>
+        <trkpt lat="48.4287276" lon="3.2980223"></trkpt>
+        <trkpt lat="48.4286373" lon="3.2968655"></trkpt>
+        <trkpt lat="48.4285469" lon="3.2957647"></trkpt>
+        <trkpt lat="48.4284889" lon="3.2943039"></trkpt>
+        <trkpt lat="48.4284424" lon="3.2923096"></trkpt>
+        <trkpt lat="48.4285563" lon="3.2918"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

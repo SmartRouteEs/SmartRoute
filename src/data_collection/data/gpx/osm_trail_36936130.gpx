@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Sausy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.096453</time>
+</metadata>
+<trk>
+    <name>Chemin de Sausy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3182941" lon="2.986633"></trkpt>
+        <trkpt lat="48.3185222" lon="2.9876591"></trkpt>
+        <trkpt lat="48.3188438" lon="2.9886651"></trkpt>
+        <trkpt lat="48.3191166" lon="2.9889963"></trkpt>
+        <trkpt lat="48.3197967" lon="2.9891012"></trkpt>
+        <trkpt lat="48.320022" lon="2.9892817"></trkpt>
+        <trkpt lat="48.3201762" lon="2.9895169"></trkpt>
+        <trkpt lat="48.3202241" lon="2.9896779"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

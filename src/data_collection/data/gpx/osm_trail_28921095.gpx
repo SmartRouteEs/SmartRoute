@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Optère</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.728623</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Optère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9506386" lon="2.7851157"></trkpt>
+        <trkpt lat="48.9508652" lon="2.7855432"></trkpt>
+        <trkpt lat="48.9515902" lon="2.7864834"></trkpt>
+        <trkpt lat="48.9522584" lon="2.7875232"></trkpt>
+        <trkpt lat="48.9539127" lon="2.7903008"></trkpt>
+        <trkpt lat="48.9541253" lon="2.7904915"></trkpt>
+        <trkpt lat="48.9551408" lon="2.7912037"></trkpt>
+        <trkpt lat="48.9553156" lon="2.7913082"></trkpt>
+        <trkpt lat="48.9554214" lon="2.7913511"></trkpt>
+        <trkpt lat="48.9555455" lon="2.7913754"></trkpt>
+        <trkpt lat="48.9569857" lon="2.7913821"></trkpt>
+        <trkpt lat="48.957025" lon="2.7913605"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

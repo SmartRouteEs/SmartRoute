@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Carmes</name>
+    <desc>Sentier VTT - Type: path - Surface: earth - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:45.302263</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Carmes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6864022" lon="2.5036551"></trkpt>
+        <trkpt lat="48.6864952" lon="2.5038314"></trkpt>
+        <trkpt lat="48.6865563" lon="2.5039472"></trkpt>
+        <trkpt lat="48.686722" lon="2.5042614"></trkpt>
+        <trkpt lat="48.6868995" lon="2.5044811"></trkpt>
+        <trkpt lat="48.6869249" lon="2.504528"></trkpt>
+        <trkpt lat="48.6870389" lon="2.5047382"></trkpt>
+        <trkpt lat="48.687054" lon="2.5047661"></trkpt>
+        <trkpt lat="48.6870737" lon="2.5048024"></trkpt>
+        <trkpt lat="48.6872606" lon="2.505147"></trkpt>
+        <trkpt lat="48.6876193" lon="2.5058192"></trkpt>
+        <trkpt lat="48.6876814" lon="2.505954"></trkpt>
+        <trkpt lat="48.6877607" lon="2.5060963"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Bord de l'Eau</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.261225</time>
+</metadata>
+<trk>
+    <name>Allée du Bord de l'Eau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8342856" lon="2.2219205"></trkpt>
+        <trkpt lat="48.8340536" lon="2.2219254"></trkpt>
+        <trkpt lat="48.8329351" lon="2.2219105"></trkpt>
+        <trkpt lat="48.8322601" lon="2.2219255"></trkpt>
+        <trkpt lat="48.8319124" lon="2.2219123"></trkpt>
+        <trkpt lat="48.8318266" lon="2.2219307"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

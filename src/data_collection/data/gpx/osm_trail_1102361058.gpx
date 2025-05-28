@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 32086</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.096157</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 32086</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4628424" lon="2.2017882"></trkpt>
+        <trkpt lat="48.4628768" lon="2.2019595"></trkpt>
+        <trkpt lat="48.462859" lon="2.2021097"></trkpt>
+        <trkpt lat="48.4628839" lon="2.2022867"></trkpt>
+        <trkpt lat="48.4629871" lon="2.2023725"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

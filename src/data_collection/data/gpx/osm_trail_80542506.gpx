@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Ribiches</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.264004</time>
+</metadata>
+<trk>
+    <name>Chemin des Ribiches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.399677" lon="2.7828398"></trkpt>
+        <trkpt lat="48.3996217" lon="2.7824656"></trkpt>
+        <trkpt lat="48.3995934" lon="2.782261"></trkpt>
+        <trkpt lat="48.3995649" lon="2.7820549"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

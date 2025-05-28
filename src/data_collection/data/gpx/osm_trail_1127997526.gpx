@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Segretz</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.522166</time>
+</metadata>
+<trk>
+    <name>Sentier de Segretz</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.658325" lon="2.9152576"></trkpt>
+        <trkpt lat="48.6607399" lon="2.9142898"></trkpt>
+        <trkpt lat="48.6604511" lon="2.9122406"></trkpt>
+        <trkpt lat="48.6603059" lon="2.9119563"></trkpt>
+        <trkpt lat="48.6594094" lon="2.9110068"></trkpt>
+        <trkpt lat="48.6592145" lon="2.9105321"></trkpt>
+        <trkpt lat="48.6590568" lon="2.9100734"></trkpt>
+        <trkpt lat="48.6588991" lon="2.9098079"></trkpt>
+        <trkpt lat="48.6586635" lon="2.9093304"></trkpt>
+        <trkpt lat="48.6586104" lon="2.909077"></trkpt>
+        <trkpt lat="48.6585041" lon="2.9085298"></trkpt>
+        <trkpt lat="48.6578529" lon="2.9067904"></trkpt>
+        <trkpt lat="48.6572011" lon="2.9052764"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

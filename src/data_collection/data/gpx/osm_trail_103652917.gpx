@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Occident</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.643139</time>
+</metadata>
+<trk>
+    <name>Route d'Occident</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3908634" lon="2.6569538"></trkpt>
+        <trkpt lat="48.3905795" lon="2.6590883"></trkpt>
+        <trkpt lat="48.3904869" lon="2.6603006"></trkpt>
+        <trkpt lat="48.3905724" lon="2.661395"></trkpt>
+        <trkpt lat="48.3906009" lon="2.6626073"></trkpt>
+        <trkpt lat="48.3904228" lon="2.6641737"></trkpt>
+        <trkpt lat="48.3902304" lon="2.6650964"></trkpt>
+        <trkpt lat="48.3900309" lon="2.6656329"></trkpt>
+        <trkpt lat="48.3896554" lon="2.6678743"></trkpt>
+        <trkpt lat="48.3891709" lon="2.6713002"></trkpt>
+        <trkpt lat="48.3891615" lon="2.6713809"></trkpt>
+        <trkpt lat="48.3891368" lon="2.6714361"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

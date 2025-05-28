@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mail</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.997494</time>
+</metadata>
+<trk>
+    <name>Route du Mail</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.800923" lon="2.2091123"></trkpt>
+        <trkpt lat="48.8009446" lon="2.2091806"></trkpt>
+        <trkpt lat="48.8014542" lon="2.2107939"></trkpt>
+        <trkpt lat="48.8018749" lon="2.2121259"></trkpt>
+        <trkpt lat="48.8019374" lon="2.2123281"></trkpt>
+        <trkpt lat="48.8022486" lon="2.2133088"></trkpt>
+        <trkpt lat="48.8025266" lon="2.2142236"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

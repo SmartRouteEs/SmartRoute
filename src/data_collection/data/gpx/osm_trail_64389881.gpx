@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Magny</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.085450</time>
+</metadata>
+<trk>
+    <name>Chemin de Magny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8829493" lon="2.7996368"></trkpt>
+        <trkpt lat="48.8830332" lon="2.7996294"></trkpt>
+        <trkpt lat="48.8837174" lon="2.7997165"></trkpt>
+        <trkpt lat="48.8837947" lon="2.7997377"></trkpt>
+        <trkpt lat="48.8838683" lon="2.7997589"></trkpt>
+        <trkpt lat="48.8851126" lon="2.8001661"></trkpt>
+        <trkpt lat="48.8872205" lon="2.8008535"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

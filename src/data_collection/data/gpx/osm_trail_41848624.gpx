@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Moines</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.302263</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Moines</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6853487" lon="2.5139532"></trkpt>
+        <trkpt lat="48.6852762" lon="2.5138488"></trkpt>
+        <trkpt lat="48.6850853" lon="2.5135117"></trkpt>
+        <trkpt lat="48.6849121" lon="2.5132059"></trkpt>
+        <trkpt lat="48.6845297" lon="2.5125308"></trkpt>
+        <trkpt lat="48.6832416" lon="2.5102569"></trkpt>
+        <trkpt lat="48.6829028" lon="2.5096587"></trkpt>
+        <trkpt lat="48.6826709" lon="2.5092493"></trkpt>
+        <trkpt lat="48.6825996" lon="2.5091234"></trkpt>
+        <trkpt lat="48.6825692" lon="2.5090698"></trkpt>
+        <trkpt lat="48.6818927" lon="2.5078754"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

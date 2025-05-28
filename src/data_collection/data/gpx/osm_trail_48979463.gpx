@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mutesie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.821038</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mutesie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5096094" lon="2.9406854"></trkpt>
+        <trkpt lat="48.5083854" lon="2.9398044"></trkpt>
+        <trkpt lat="48.5085546" lon="2.9394113"></trkpt>
+        <trkpt lat="48.508605" lon="2.938131"></trkpt>
+        <trkpt lat="48.5084626" lon="2.9374905"></trkpt>
+        <trkpt lat="48.508656" lon="2.936195"></trkpt>
+        <trkpt lat="48.5087666" lon="2.9349714"></trkpt>
+        <trkpt lat="48.5089979" lon="2.9337105"></trkpt>
+        <trkpt lat="48.5092928" lon="2.9326149"></trkpt>
+        <trkpt lat="48.5094137" lon="2.9316403"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

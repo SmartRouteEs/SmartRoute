@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Ventes Barbier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.792261</time>
+</metadata>
+<trk>
+    <name>Route des Ventes Barbier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3988231" lon="2.6084068"></trkpt>
+        <trkpt lat="48.3989814" lon="2.6083905"></trkpt>
+        <trkpt lat="48.3991553" lon="2.6084567"></trkpt>
+        <trkpt lat="48.399684" lon="2.608633"></trkpt>
+        <trkpt lat="48.400514" lon="2.608993"></trkpt>
+        <trkpt lat="48.400765" lon="2.609078"></trkpt>
+        <trkpt lat="48.401031" lon="2.609042"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Vol</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.602893</time>
+</metadata>
+<trk>
+    <name>Route du Vol</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4718841" lon="2.6775976"></trkpt>
+        <trkpt lat="48.470548" lon="2.6784889"></trkpt>
+        <trkpt lat="48.4694706" lon="2.6788711"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

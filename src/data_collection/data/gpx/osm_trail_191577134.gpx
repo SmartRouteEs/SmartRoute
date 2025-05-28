@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 9500</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.654553</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 9500</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8113095" lon="2.7175484"></trkpt>
+        <trkpt lat="48.8113643" lon="2.7174586"></trkpt>
+        <trkpt lat="48.8114596" lon="2.7173228"></trkpt>
+        <trkpt lat="48.8115665" lon="2.7171702"></trkpt>
+        <trkpt lat="48.8116681" lon="2.7170268"></trkpt>
+        <trkpt lat="48.81185" lon="2.7167626"></trkpt>
+        <trkpt lat="48.8119587" lon="2.7166097"></trkpt>
+        <trkpt lat="48.8120196" lon="2.7165225"></trkpt>
+        <trkpt lat="48.8121177" lon="2.7163816"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Dix Cors</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.466299</time>
+</metadata>
+<trk>
+    <name>Route du Dix Cors</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4531378" lon="2.685101"></trkpt>
+        <trkpt lat="48.4531934" lon="2.68529"></trkpt>
+        <trkpt lat="48.4532387" lon="2.6854443"></trkpt>
+        <trkpt lat="48.4534429" lon="2.6860315"></trkpt>
+        <trkpt lat="48.4536145" lon="2.6873083"></trkpt>
+        <trkpt lat="48.4537744" lon="2.6884677"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

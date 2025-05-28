@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Coquibus</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.153412</time>
+</metadata>
+<trk>
+    <name>Chemin de Coquibus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4163596" lon="2.5163581"></trkpt>
+        <trkpt lat="48.4162806" lon="2.5161726"></trkpt>
+        <trkpt lat="48.4162073" lon="2.5158141"></trkpt>
+        <trkpt lat="48.4163063" lon="2.5145489"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois de la Fontaine</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.882143</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois de la Fontaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4115458" lon="2.5585853"></trkpt>
+        <trkpt lat="48.4118226" lon="2.5585826"></trkpt>
+        <trkpt lat="48.412103" lon="2.5586363"></trkpt>
+        <trkpt lat="48.412314" lon="2.5587047"></trkpt>
+        <trkpt lat="48.412529" lon="2.5587717"></trkpt>
+        <trkpt lat="48.4128045" lon="2.5588281"></trkpt>
+        <trkpt lat="48.4130373" lon="2.5588723"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

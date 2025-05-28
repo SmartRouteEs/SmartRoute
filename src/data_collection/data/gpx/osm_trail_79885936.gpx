@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Prise</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route de la Prise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.387015" lon="2.747099"></trkpt>
+        <trkpt lat="48.3850097" lon="2.7470563"></trkpt>
+        <trkpt lat="48.382407" lon="2.7470087"></trkpt>
+        <trkpt lat="48.3823021" lon="2.7470552"></trkpt>
+        <trkpt lat="48.3820186" lon="2.7475941"></trkpt>
+        <trkpt lat="48.3817105" lon="2.7482045"></trkpt>
+        <trkpt lat="48.3811122" lon="2.7493377"></trkpt>
+        <trkpt lat="48.380237" lon="2.7510841"></trkpt>
+        <trkpt lat="48.3801399" lon="2.751458"></trkpt>
+        <trkpt lat="48.3801193" lon="2.7518017"></trkpt>
+        <trkpt lat="48.3800314" lon="2.7529478"></trkpt>
+        <trkpt lat="48.3799877" lon="2.75307"></trkpt>
+        <trkpt lat="48.3797097" lon="2.7581482"></trkpt>
+        <trkpt lat="48.37951" lon="2.7623401"></trkpt>
+        <trkpt lat="48.3789718" lon="2.7635037"></trkpt>
+        <trkpt lat="48.377615" lon="2.7673841"></trkpt>
+        <trkpt lat="48.3774222" lon="2.7679031"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

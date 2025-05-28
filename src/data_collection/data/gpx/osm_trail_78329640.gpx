@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Clairières</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.172332</time>
+</metadata>
+<trk>
+    <name>Chemin des Clairières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8547893" lon="2.5470631"></trkpt>
+        <trkpt lat="48.854928" lon="2.5490843"></trkpt>
+        <trkpt lat="48.8549305" lon="2.5501315"></trkpt>
+        <trkpt lat="48.8549239" lon="2.5529024"></trkpt>
+        <trkpt lat="48.8549215" lon="2.553419"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

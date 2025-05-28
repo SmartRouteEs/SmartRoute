@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lenscanet</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:46.471828</time>
+</metadata>
+<trk>
+    <name>Chemin de Lenscanet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5198868" lon="2.3504733"></trkpt>
+        <trkpt lat="48.5195141" lon="2.3503022"></trkpt>
+        <trkpt lat="48.5189744" lon="2.3500301"></trkpt>
+        <trkpt lat="48.518811" lon="2.3499457"></trkpt>
+        <trkpt lat="48.5186509" lon="2.349835"></trkpt>
+        <trkpt lat="48.5183108" lon="2.3495368"></trkpt>
+        <trkpt lat="48.5179775" lon="2.3492672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

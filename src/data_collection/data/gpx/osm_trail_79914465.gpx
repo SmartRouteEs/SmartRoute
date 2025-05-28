@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Curée</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.197684</time>
+</metadata>
+<trk>
+    <name>Route de la Curée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3854757" lon="2.7655866"></trkpt>
+        <trkpt lat="48.3856231" lon="2.765754"></trkpt>
+        <trkpt lat="48.3859733" lon="2.7662542"></trkpt>
+        <trkpt lat="48.3879292" lon="2.7690087"></trkpt>
+        <trkpt lat="48.3907971" lon="2.7730772"></trkpt>
+        <trkpt lat="48.3909232" lon="2.7732804"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

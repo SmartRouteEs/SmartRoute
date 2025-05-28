@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Auteuil à Suresnes</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.981241</time>
+</metadata>
+<trk>
+    <name>Route d'Auteuil à Suresnes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8511233" lon="2.2492685"></trkpt>
+        <trkpt lat="48.8512952" lon="2.2491316"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

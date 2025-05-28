@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte Jaune</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.602197</time>
+</metadata>
+<trk>
+    <name>Route de la Porte Jaune</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8396845" lon="2.4572693"></trkpt>
+        <trkpt lat="48.8397369" lon="2.4572983"></trkpt>
+        <trkpt lat="48.8397901" lon="2.4573286"></trkpt>
+        <trkpt lat="48.8398352" lon="2.4573535"></trkpt>
+        <trkpt lat="48.8398732" lon="2.4573026"></trkpt>
+        <trkpt lat="48.839994" lon="2.4571452"></trkpt>
+        <trkpt lat="48.8402994" lon="2.4568422"></trkpt>
+        <trkpt lat="48.8404734" lon="2.4567022"></trkpt>
+        <trkpt lat="48.8406778" lon="2.4565715"></trkpt>
+        <trkpt lat="48.8409002" lon="2.4564749"></trkpt>
+        <trkpt lat="48.841188" lon="2.4563328"></trkpt>
+        <trkpt lat="48.8412768" lon="2.4563092"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

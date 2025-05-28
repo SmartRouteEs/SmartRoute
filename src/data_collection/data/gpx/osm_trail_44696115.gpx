@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Levraut</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.367601</time>
+</metadata>
+<trk>
+    <name>Route du Levraut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4054366" lon="2.6768036"></trkpt>
+        <trkpt lat="48.4043627" lon="2.6747693"></trkpt>
+        <trkpt lat="48.4043117" lon="2.6746601"></trkpt>
+        <trkpt lat="48.4030917" lon="2.6723538"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

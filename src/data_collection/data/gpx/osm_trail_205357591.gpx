@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Fosse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.594887</time>
+</metadata>
+<trk>
+    <name>Chemin de la Fosse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4185763" lon="2.7591099"></trkpt>
+        <trkpt lat="48.418594" lon="2.7587189"></trkpt>
+        <trkpt lat="48.4186901" lon="2.7584458"></trkpt>
+        <trkpt lat="48.418699" lon="2.7582605"></trkpt>
+        <trkpt lat="48.4187061" lon="2.7580158"></trkpt>
+        <trkpt lat="48.418745" lon="2.7576987"></trkpt>
+        <trkpt lat="48.4187756" lon="2.7570872"></trkpt>
+        <trkpt lat="48.4187754" lon="2.7570519"></trkpt>
+        <trkpt lat="48.4187776" lon="2.7570043"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

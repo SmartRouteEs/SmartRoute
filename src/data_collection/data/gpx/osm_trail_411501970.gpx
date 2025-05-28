@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Goutte d'Or</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.840878</time>
+</metadata>
+<trk>
+    <name>Chemin de la Goutte d'Or</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3000536" lon="3.130295"></trkpt>
+        <trkpt lat="48.2995768" lon="3.1300455"></trkpt>
+        <trkpt lat="48.299037" lon="3.1297901"></trkpt>
+        <trkpt lat="48.2986815" lon="3.1294513"></trkpt>
+        <trkpt lat="48.2985423" lon="3.1292003"></trkpt>
+        <trkpt lat="48.2984191" lon="3.1289161"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Promenade Leconte de Lisle</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.778697</time>
+</metadata>
+<trk>
+    <name>Promenade Leconte de Lisle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7020177" lon="2.2018437"></trkpt>
+        <trkpt lat="48.7018873" lon="2.2011617"></trkpt>
+        <trkpt lat="48.7016834" lon="2.2002034"></trkpt>
+        <trkpt lat="48.7016172" lon="2.199883"></trkpt>
+        <trkpt lat="48.7010992" lon="2.1974178"></trkpt>
+        <trkpt lat="48.7007297" lon="2.1956563"></trkpt>
+        <trkpt lat="48.7007095" lon="2.1955949"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

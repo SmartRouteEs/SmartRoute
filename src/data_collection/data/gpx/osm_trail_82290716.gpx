@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte Noire</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.426566</time>
+</metadata>
+<trk>
+    <name>Route de la Porte Noire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8323952" lon="2.4572127"></trkpt>
+        <trkpt lat="48.832465" lon="2.4573192"></trkpt>
+        <trkpt lat="48.8325184" lon="2.4572186"></trkpt>
+        <trkpt lat="48.832609" lon="2.4571059"></trkpt>
+        <trkpt lat="48.8326853" lon="2.4570841"></trkpt>
+        <trkpt lat="48.8331292" lon="2.4571047"></trkpt>
+        <trkpt lat="48.8332782" lon="2.4571081"></trkpt>
+        <trkpt lat="48.8335619" lon="2.4571267"></trkpt>
+        <trkpt lat="48.8341148" lon="2.4570033"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

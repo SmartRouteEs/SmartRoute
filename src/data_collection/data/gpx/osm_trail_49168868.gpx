@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Cely</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.830161</time>
+</metadata>
+<trk>
+    <name>Chemin de Cely</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4702206" lon="2.5493446"></trkpt>
+        <trkpt lat="48.4701827" lon="2.5493089"></trkpt>
+        <trkpt lat="48.4693944" lon="2.5485668"></trkpt>
+        <trkpt lat="48.4680829" lon="2.5477144"></trkpt>
+        <trkpt lat="48.467306" lon="2.5472062"></trkpt>
+        <trkpt lat="48.4669481" lon="2.5468192"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

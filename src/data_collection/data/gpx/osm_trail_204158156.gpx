@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Berges</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.073996</time>
+</metadata>
+<trk>
+    <name>Chemin des Berges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2257672" lon="2.7091531"></trkpt>
+        <trkpt lat="48.2259287" lon="2.7091269"></trkpt>
+        <trkpt lat="48.2270392" lon="2.7088448"></trkpt>
+        <trkpt lat="48.2274325" lon="2.7087414"></trkpt>
+        <trkpt lat="48.2277434" lon="2.7086589"></trkpt>
+        <trkpt lat="48.2284298" lon="2.7084636"></trkpt>
+        <trkpt lat="48.2285998" lon="2.7083943"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

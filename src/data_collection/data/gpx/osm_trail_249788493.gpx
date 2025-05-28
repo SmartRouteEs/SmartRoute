@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Commanderie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.601192</time>
+</metadata>
+<trk>
+    <name>Chemin de la Commanderie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3072038" lon="2.6719721"></trkpt>
+        <trkpt lat="48.3083169" lon="2.6713524"></trkpt>
+        <trkpt lat="48.3102635" lon="2.6701979"></trkpt>
+        <trkpt lat="48.3110328" lon="2.6697243"></trkpt>
+        <trkpt lat="48.312031" lon="2.6692467"></trkpt>
+        <trkpt lat="48.3123878" lon="2.6690347"></trkpt>
+        <trkpt lat="48.3130611" lon="2.6686886"></trkpt>
+        <trkpt lat="48.3143646" lon="2.6679055"></trkpt>
+        <trkpt lat="48.3154291" lon="2.6672868"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

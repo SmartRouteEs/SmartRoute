@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bas des Côtes Enverses</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.891515</time>
+</metadata>
+<trk>
+    <name>Chemin du Bas des Côtes Enverses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1994678" lon="3.2493293"></trkpt>
+        <trkpt lat="48.199267" lon="3.2486601"></trkpt>
+        <trkpt lat="48.1992498" lon="3.248199"></trkpt>
+        <trkpt lat="48.198969" lon="3.2471666"></trkpt>
+        <trkpt lat="48.1986312" lon="3.2454861"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

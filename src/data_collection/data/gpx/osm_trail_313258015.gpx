@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Savbie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.237714</time>
+</metadata>
+<trk>
+    <name>Chemin de la Savbie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6951602" lon="2.2273567"></trkpt>
+        <trkpt lat="48.6951082" lon="2.2274619"></trkpt>
+        <trkpt lat="48.6948633" lon="2.2276226"></trkpt>
+        <trkpt lat="48.6946608" lon="2.2278856"></trkpt>
+        <trkpt lat="48.6945085" lon="2.228093"></trkpt>
+        <trkpt lat="48.6943928" lon="2.2280901"></trkpt>
+        <trkpt lat="48.6942693" lon="2.2279966"></trkpt>
+        <trkpt lat="48.694117" lon="2.2278827"></trkpt>
+        <trkpt lat="48.6940384" lon="2.2278307"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

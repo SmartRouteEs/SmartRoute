@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Regard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.275567</time>
+</metadata>
+<trk>
+    <name>Route du Regard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4380439" lon="2.6650781"></trkpt>
+        <trkpt lat="48.4380569" lon="2.6652096"></trkpt>
+        <trkpt lat="48.4382137" lon="2.6671062"></trkpt>
+        <trkpt lat="48.438262" lon="2.6676201"></trkpt>
+        <trkpt lat="48.4383425" lon="2.6684545"></trkpt>
+        <trkpt lat="48.4384308" lon="2.6688599"></trkpt>
+        <trkpt lat="48.4384371" lon="2.669143"></trkpt>
+        <trkpt lat="48.4383415" lon="2.6696506"></trkpt>
+        <trkpt lat="48.4383682" lon="2.6698382"></trkpt>
+        <trkpt lat="48.4382789" lon="2.6699893"></trkpt>
+        <trkpt lat="48.4381982" lon="2.6704188"></trkpt>
+        <trkpt lat="48.4380603" lon="2.670997"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

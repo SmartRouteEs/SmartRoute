@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 18905</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.099809</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 18905</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7471939" lon="2.2856528"></trkpt>
+        <trkpt lat="48.7470285" lon="2.2858814"></trkpt>
+        <trkpt lat="48.7468839" lon="2.2860852"></trkpt>
+        <trkpt lat="48.7467403" lon="2.2862748"></trkpt>
+        <trkpt lat="48.7465911" lon="2.2863349"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

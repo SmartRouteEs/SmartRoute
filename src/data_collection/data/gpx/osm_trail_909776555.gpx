@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Saint-Jacques</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.212280</time>
+</metadata>
+<trk>
+    <name>Rue Saint-Jacques</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.798448" lon="3.0278251"></trkpt>
+        <trkpt lat="48.798386" lon="3.0284585"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

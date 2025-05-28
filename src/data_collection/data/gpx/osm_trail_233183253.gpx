@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Paris</name>
+    <desc>Sentier VTT - Type: path - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.985166</time>
+</metadata>
+<trk>
+    <name>Sentier de Paris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7807667" lon="2.2999384"></trkpt>
+        <trkpt lat="48.7808817" lon="2.2999966"></trkpt>
+        <trkpt lat="48.7809033" lon="2.3000167"></trkpt>
+        <trkpt lat="48.7809113" lon="2.3000443"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

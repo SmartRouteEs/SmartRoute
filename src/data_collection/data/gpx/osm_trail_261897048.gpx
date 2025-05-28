@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Hallebardière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.801609</time>
+</metadata>
+<trk>
+    <name>Chemin de la Hallebardière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5479689" lon="2.2017219"></trkpt>
+        <trkpt lat="48.5476475" lon="2.2015232"></trkpt>
+        <trkpt lat="48.5474984" lon="2.201431"></trkpt>
+        <trkpt lat="48.5468474" lon="2.2007997"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

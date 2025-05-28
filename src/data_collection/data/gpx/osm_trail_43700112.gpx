@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vieille Montagne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.359087</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vieille Montagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9123465" lon="2.5453101"></trkpt>
+        <trkpt lat="48.9122521" lon="2.5458458"></trkpt>
+        <trkpt lat="48.9121447" lon="2.5464555"></trkpt>
+        <trkpt lat="48.9121087" lon="2.546633"></trkpt>
+        <trkpt lat="48.9120758" lon="2.546718"></trkpt>
+        <trkpt lat="48.9118114" lon="2.5471297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

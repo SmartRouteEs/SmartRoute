@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Lunézy</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.463686</time>
+</metadata>
+<trk>
+    <name>Chemin de Lunézy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6829755" lon="2.2827278"></trkpt>
+        <trkpt lat="48.6827641" lon="2.2825436"></trkpt>
+        <trkpt lat="48.6822476" lon="2.2820901"></trkpt>
+        <trkpt lat="48.6819369" lon="2.2818138"></trkpt>
+        <trkpt lat="48.681696" lon="2.281599"></trkpt>
+        <trkpt lat="48.6806175" lon="2.2809016"></trkpt>
+        <trkpt lat="48.6798222" lon="2.2803281"></trkpt>
+        <trkpt lat="48.6792521" lon="2.2799524"></trkpt>
+        <trkpt lat="48.6788129" lon="2.279593"></trkpt>
+        <trkpt lat="48.6781789" lon="2.2790029"></trkpt>
+        <trkpt lat="48.6779132" lon="2.2788366"></trkpt>
+        <trkpt lat="48.6770171" lon="2.2782036"></trkpt>
+        <trkpt lat="48.6765306" lon="2.2779639"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

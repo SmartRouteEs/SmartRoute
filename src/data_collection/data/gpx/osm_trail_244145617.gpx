@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Cavalière des Capucins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.530223</time>
+</metadata>
+<trk>
+    <name>Cavalière des Capucins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8090345" lon="2.2224427"></trkpt>
+        <trkpt lat="48.8093902" lon="2.2223464"></trkpt>
+        <trkpt lat="48.8098232" lon="2.2222325"></trkpt>
+        <trkpt lat="48.8099548" lon="2.2222217"></trkpt>
+        <trkpt lat="48.8101766" lon="2.2221798"></trkpt>
+        <trkpt lat="48.8102614" lon="2.2221637"></trkpt>
+        <trkpt lat="48.8105038" lon="2.2221251"></trkpt>
+        <trkpt lat="48.8111815" lon="2.2219682"></trkpt>
+        <trkpt lat="48.8117011" lon="2.2218542"></trkpt>
+        <trkpt lat="48.8118914" lon="2.2218139"></trkpt>
+        <trkpt lat="48.8120825" lon="2.2217893"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

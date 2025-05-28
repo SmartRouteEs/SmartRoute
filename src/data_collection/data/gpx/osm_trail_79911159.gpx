@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rapport</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route du Rapport</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3721485" lon="2.7214768"></trkpt>
+        <trkpt lat="48.3723337" lon="2.7218476"></trkpt>
+        <trkpt lat="48.3743052" lon="2.7257937"></trkpt>
+        <trkpt lat="48.3761065" lon="2.7293726"></trkpt>
+        <trkpt lat="48.3774358" lon="2.7319535"></trkpt>
+        <trkpt lat="48.3792462" lon="2.7335063"></trkpt>
+        <trkpt lat="48.3793691" lon="2.7336262"></trkpt>
+        <trkpt lat="48.37949" lon="2.7337314"></trkpt>
+        <trkpt lat="48.3796432" lon="2.7338511"></trkpt>
+        <trkpt lat="48.3815205" lon="2.7354993"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

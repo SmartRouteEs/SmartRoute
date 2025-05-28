@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de l'Érable</name>
+    <desc>Sentier VTT - Type: path - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.998101</time>
+</metadata>
+<trk>
+    <name>Rue de l'Érable</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6464728" lon="2.9564772"></trkpt>
+        <trkpt lat="48.6464666" lon="2.9563001"></trkpt>
+        <trkpt lat="48.6464643" lon="2.9560841"></trkpt>
+        <trkpt lat="48.6464847" lon="2.9559235"></trkpt>
+        <trkpt lat="48.6465215" lon="2.955761"></trkpt>
+        <trkpt lat="48.6465764" lon="2.9556025"></trkpt>
+        <trkpt lat="48.6466602" lon="2.9554812"></trkpt>
+        <trkpt lat="48.6469124" lon="2.9552789"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

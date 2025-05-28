@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Cartigny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.359340</time>
+</metadata>
+<trk>
+    <name>Route de Cartigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3695141" lon="2.789934"></trkpt>
+        <trkpt lat="48.3693742" lon="2.7898925"></trkpt>
+        <trkpt lat="48.3692466" lon="2.7898404"></trkpt>
+        <trkpt lat="48.3691062" lon="2.7897809"></trkpt>
+        <trkpt lat="48.368943" lon="2.7897104"></trkpt>
+        <trkpt lat="48.3685697" lon="2.7896715"></trkpt>
+        <trkpt lat="48.3684199" lon="2.7897104"></trkpt>
+        <trkpt lat="48.3681715" lon="2.789709"></trkpt>
+        <trkpt lat="48.368005" lon="2.7896702"></trkpt>
+        <trkpt lat="48.3676138" lon="2.7892788"></trkpt>
+        <trkpt lat="48.3673908" lon="2.7892548"></trkpt>
+        <trkpt lat="48.3672037" lon="2.7891253"></trkpt>
+        <trkpt lat="48.3657495" lon="2.7886477"></trkpt>
+        <trkpt lat="48.3624538" lon="2.7874939"></trkpt>
+        <trkpt lat="48.3586303" lon="2.7861356"></trkpt>
+        <trkpt lat="48.3558797" lon="2.7850697"></trkpt>
+        <trkpt lat="48.3549296" lon="2.7847417"></trkpt>
+        <trkpt lat="48.3543694" lon="2.7845478"></trkpt>
+        <trkpt lat="48.3539131" lon="2.784389"></trkpt>
+        <trkpt lat="48.3532281" lon="2.7841626"></trkpt>
+        <trkpt lat="48.3529275" lon="2.7840334"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

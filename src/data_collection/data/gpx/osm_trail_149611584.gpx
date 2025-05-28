@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin rue Perdue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.276262</time>
+</metadata>
+<trk>
+    <name>chemin rue Perdue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9272253" lon="3.2004133"></trkpt>
+        <trkpt lat="48.927225" lon="3.2016637"></trkpt>
+        <trkpt lat="48.9272643" lon="3.2019954"></trkpt>
+        <trkpt lat="48.9274428" lon="3.2023629"></trkpt>
+        <trkpt lat="48.9290026" lon="3.2041935"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

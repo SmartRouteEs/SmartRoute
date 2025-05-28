@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Foucherolles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.613085</time>
+</metadata>
+<trk>
+    <name>Chemin des Foucherolles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4739307" lon="2.7098866"></trkpt>
+        <trkpt lat="48.474301" lon="2.7102443"></trkpt>
+        <trkpt lat="48.4747505" lon="2.7106563"></trkpt>
+        <trkpt lat="48.476412" lon="2.7112056"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Croix Saint-Pierre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.742151</time>
+</metadata>
+<trk>
+    <name>Chemin de la Croix Saint-Pierre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7952915" lon="2.9907945"></trkpt>
+        <trkpt lat="48.79544" lon="2.9907541"></trkpt>
+        <trkpt lat="48.7956202" lon="2.9907809"></trkpt>
+        <trkpt lat="48.7957934" lon="2.9908239"></trkpt>
+        <trkpt lat="48.7959453" lon="2.9908346"></trkpt>
+        <trkpt lat="48.7962987" lon="2.9908292"></trkpt>
+        <trkpt lat="48.7965849" lon="2.9908185"></trkpt>
+        <trkpt lat="48.7969171" lon="2.9907809"></trkpt>
+        <trkpt lat="48.7970466" lon="2.9907867"></trkpt>
+        <trkpt lat="48.7971419" lon="2.990775"></trkpt>
+        <trkpt lat="48.7972493" lon="2.9907775"></trkpt>
+        <trkpt lat="48.7975219" lon="2.990745"></trkpt>
+        <trkpt lat="48.7975669" lon="2.9907094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Bornage du Loing</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.692421</time>
+</metadata>
+<trk>
+    <name>Bornage du Loing</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3489221" lon="2.7959699"></trkpt>
+        <trkpt lat="48.3487856" lon="2.7957833"></trkpt>
+        <trkpt lat="48.348658" lon="2.7956266"></trkpt>
+        <trkpt lat="48.3478359" lon="2.794629"></trkpt>
+        <trkpt lat="48.3474626" lon="2.7941639"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

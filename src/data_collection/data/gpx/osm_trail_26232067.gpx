@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grange du Breuil</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.588565</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grange du Breuil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6812446" lon="2.3038277"></trkpt>
+        <trkpt lat="48.6812566" lon="2.3037216"></trkpt>
+        <trkpt lat="48.6814479" lon="2.3031271"></trkpt>
+        <trkpt lat="48.6815375" lon="2.3030076"></trkpt>
+        <trkpt lat="48.6816101" lon="2.3029566"></trkpt>
+        <trkpt lat="48.6817907" lon="2.3028198"></trkpt>
+        <trkpt lat="48.6821644" lon="2.3025677"></trkpt>
+        <trkpt lat="48.682839" lon="2.3020913"></trkpt>
+        <trkpt lat="48.6828628" lon="2.3020681"></trkpt>
+        <trkpt lat="48.6828734" lon="2.3020575"></trkpt>
+        <trkpt lat="48.6828978" lon="2.302033"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

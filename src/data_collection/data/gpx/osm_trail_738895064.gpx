@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Milieu des Côtes Enverses</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.813738</time>
+</metadata>
+<trk>
+    <name>Chemin du Milieu des Côtes Enverses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1962148" lon="3.2508555"></trkpt>
+        <trkpt lat="48.1965367" lon="3.2511536"></trkpt>
+        <trkpt lat="48.1969225" lon="3.2520968"></trkpt>
+        <trkpt lat="48.197466" lon="3.252881"></trkpt>
+        <trkpt lat="48.1978493" lon="3.2533317"></trkpt>
+        <trkpt lat="48.198542" lon="3.2542035"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

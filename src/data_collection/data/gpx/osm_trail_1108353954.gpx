@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Montatons</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.164978</time>
+</metadata>
+<trk>
+    <name>Rue des Montatons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6257963" lon="2.3084993"></trkpt>
+        <trkpt lat="48.6255367" lon="2.3085352"></trkpt>
+        <trkpt lat="48.6255097" lon="2.3085409"></trkpt>
+        <trkpt lat="48.625484" lon="2.3085546"></trkpt>
+        <trkpt lat="48.6254628" lon="2.3085775"></trkpt>
+        <trkpt lat="48.6254344" lon="2.3086086"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

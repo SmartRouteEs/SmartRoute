@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Grelot</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.619512</time>
+</metadata>
+<trk>
+    <name>Route du Grelot</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3683355" lon="2.6032643"></trkpt>
+        <trkpt lat="48.3679126" lon="2.6010117"></trkpt>
+        <trkpt lat="48.3671966" lon="2.598428"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

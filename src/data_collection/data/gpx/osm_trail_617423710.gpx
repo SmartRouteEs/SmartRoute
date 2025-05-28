@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Serge Antoine</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.690845</time>
+</metadata>
+<trk>
+    <name>Chemin Serge Antoine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.763001" lon="2.195559"></trkpt>
+        <trkpt lat="48.762991" lon="2.195472"></trkpt>
+        <trkpt lat="48.763047" lon="2.195332"></trkpt>
+        <trkpt lat="48.763101" lon="2.195269"></trkpt>
+        <trkpt lat="48.763232" lon="2.195183"></trkpt>
+        <trkpt lat="48.763365" lon="2.195054"></trkpt>
+        <trkpt lat="48.7634682" lon="2.1948891"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

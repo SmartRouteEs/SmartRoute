@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Tour</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.218308</time>
+</metadata>
+<trk>
+    <name>Chemin de la Tour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3916559" lon="3.1934253"></trkpt>
+        <trkpt lat="48.3916336" lon="3.193261"></trkpt>
+        <trkpt lat="48.3913558" lon="3.1917657"></trkpt>
+        <trkpt lat="48.3910601" lon="3.1902409"></trkpt>
+        <trkpt lat="48.3906801" lon="3.1882114"></trkpt>
+        <trkpt lat="48.3906182" lon="3.187853"></trkpt>
+        <trkpt lat="48.3905918" lon="3.1877653"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

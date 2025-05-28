@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Essences</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.029560</time>
+</metadata>
+<trk>
+    <name>Route des Essences</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.334145" lon="2.6779774"></trkpt>
+        <trkpt lat="48.3334196" lon="2.6816939"></trkpt>
+        <trkpt lat="48.3332369" lon="2.6830782"></trkpt>
+        <trkpt lat="48.333204" lon="2.6836268"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

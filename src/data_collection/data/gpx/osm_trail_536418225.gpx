@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Plage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.940061</time>
+</metadata>
+<trk>
+    <name>Chemin de la Plage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2626252" lon="3.2337839"></trkpt>
+        <trkpt lat="48.2627612" lon="3.2338924"></trkpt>
+        <trkpt lat="48.2628841" lon="3.2339394"></trkpt>
+        <trkpt lat="48.2630395" lon="3.2339743"></trkpt>
+        <trkpt lat="48.2638341" lon="3.2340547"></trkpt>
+        <trkpt lat="48.2647607" lon="3.2341406"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

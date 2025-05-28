@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie de Beuze</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.060836</time>
+</metadata>
+<trk>
+    <name>Voie de Beuze</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.745906" lon="2.3272857"></trkpt>
+        <trkpt lat="48.7452453" lon="2.3263935"></trkpt>
+        <trkpt lat="48.7449343" lon="2.3259452"></trkpt>
+        <trkpt lat="48.7448057" lon="2.3257663"></trkpt>
+        <trkpt lat="48.74466" lon="2.3256005"></trkpt>
+        <trkpt lat="48.7445324" lon="2.3254821"></trkpt>
+        <trkpt lat="48.7443474" lon="2.3253793"></trkpt>
+        <trkpt lat="48.7440424" lon="2.325175"></trkpt>
+        <trkpt lat="48.7439747" lon="2.3251083"></trkpt>
+        <trkpt lat="48.743927" lon="2.3250056"></trkpt>
+        <trkpt lat="48.743906" lon="2.3249418"></trkpt>
+        <trkpt lat="48.7439079" lon="2.324883"></trkpt>
+        <trkpt lat="48.7439311" lon="2.3248223"></trkpt>
+        <trkpt lat="48.7439798" lon="2.3247349"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

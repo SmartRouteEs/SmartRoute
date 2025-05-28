@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de Doue</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.165833</time>
+</metadata>
+<trk>
+    <name>chemin de Doue</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8972308" lon="3.1569579"></trkpt>
+        <trkpt lat="48.8975996" lon="3.1570923"></trkpt>
+        <trkpt lat="48.8980906" lon="3.1573067"></trkpt>
+        <trkpt lat="48.8983746" lon="3.1574119"></trkpt>
+        <trkpt lat="48.8988457" lon="3.1576103"></trkpt>
+        <trkpt lat="48.8991893" lon="3.1577808"></trkpt>
+        <trkpt lat="48.8999247" lon="3.1577851"></trkpt>
+        <trkpt lat="48.9002942" lon="3.1578426"></trkpt>
+        <trkpt lat="48.9007923" lon="3.157995"></trkpt>
+        <trkpt lat="48.9009561" lon="3.1580191"></trkpt>
+        <trkpt lat="48.9011962" lon="3.1579896"></trkpt>
+        <trkpt lat="48.9012959" lon="3.1580704"></trkpt>
+        <trkpt lat="48.9013843" lon="3.1581529"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Vallée aux Cerfs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.024817</time>
+</metadata>
+<trk>
+    <name>Route de la Vallée aux Cerfs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3564327" lon="2.6944924"></trkpt>
+        <trkpt lat="48.3569891" lon="2.6943976"></trkpt>
+        <trkpt lat="48.3572027" lon="2.6944079"></trkpt>
+        <trkpt lat="48.3590507" lon="2.6944933"></trkpt>
+        <trkpt lat="48.360797" lon="2.6945695"></trkpt>
+        <trkpt lat="48.3614049" lon="2.6945568"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

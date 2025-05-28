@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Savetiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.005436</time>
+</metadata>
+<trk>
+    <name>Chemin des Savetiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2830967" lon="3.2461697"></trkpt>
+        <trkpt lat="48.2827232" lon="3.2465097"></trkpt>
+        <trkpt lat="48.2825085" lon="3.2466508"></trkpt>
+        <trkpt lat="48.2822414" lon="3.2468348"></trkpt>
+        <trkpt lat="48.2818903" lon="3.2470885"></trkpt>
+        <trkpt lat="48.2815832" lon="3.2473465"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

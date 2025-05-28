@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Meuniers</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.948181</time>
+</metadata>
+<trk>
+    <name>Chemin des Meuniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6799215" lon="2.3313161"></trkpt>
+        <trkpt lat="48.6793657" lon="2.3308432"></trkpt>
+        <trkpt lat="48.67894" lon="2.3304709"></trkpt>
+        <trkpt lat="48.6783649" lon="2.3298431"></trkpt>
+        <trkpt lat="48.6783076" lon="2.3297294"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

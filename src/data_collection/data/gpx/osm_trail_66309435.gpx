@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Croix Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.093448</time>
+</metadata>
+<trk>
+    <name>Route de la Croix Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.366486" lon="2.8066378"></trkpt>
+        <trkpt lat="48.3664515" lon="2.80686"></trkpt>
+        <trkpt lat="48.3663756" lon="2.8072145"></trkpt>
+        <trkpt lat="48.3662984" lon="2.8073509"></trkpt>
+        <trkpt lat="48.3662459" lon="2.8074238"></trkpt>
+        <trkpt lat="48.3661851" lon="2.8074729"></trkpt>
+        <trkpt lat="48.3660284" lon="2.8074551"></trkpt>
+        <trkpt lat="48.3658859" lon="2.8073139"></trkpt>
+        <trkpt lat="48.3657973" lon="2.8073645"></trkpt>
+        <trkpt lat="48.3658162" lon="2.8074306"></trkpt>
+        <trkpt lat="48.3661375" lon="2.8076716"></trkpt>
+        <trkpt lat="48.3661156" lon="2.8077687"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Henriquez</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.069920</time>
+</metadata>
+<trk>
+    <name>Route Henriquez</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4037873" lon="2.6606599"></trkpt>
+        <trkpt lat="48.4030365" lon="2.6593995"></trkpt>
+        <trkpt lat="48.4026432" lon="2.6587949"></trkpt>
+        <trkpt lat="48.4023771" lon="2.6585424"></trkpt>
+        <trkpt lat="48.4020557" lon="2.6584634"></trkpt>
+        <trkpt lat="48.4018839" lon="2.6583068"></trkpt>
+        <trkpt lat="48.4015618" lon="2.6582163"></trkpt>
+        <trkpt lat="48.401242" lon="2.6579927"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

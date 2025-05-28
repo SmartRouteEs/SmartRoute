@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Moulin de la Fosse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.209862</time>
+</metadata>
+<trk>
+    <name>Chemin du Moulin de la Fosse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3389224" lon="2.6581793"></trkpt>
+        <trkpt lat="48.339083" lon="2.657989"></trkpt>
+        <trkpt lat="48.3393429" lon="2.6576855"></trkpt>
+        <trkpt lat="48.3398078" lon="2.657151"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

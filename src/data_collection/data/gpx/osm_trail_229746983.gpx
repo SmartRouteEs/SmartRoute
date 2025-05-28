@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Tronchet</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.640722</time>
+</metadata>
+<trk>
+    <name>Route du Tronchet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7908048" lon="2.2252327"></trkpt>
+        <trkpt lat="48.7907022" lon="2.2258204"></trkpt>
+        <trkpt lat="48.7905993" lon="2.2268289"></trkpt>
+        <trkpt lat="48.7904254" lon="2.2282565"></trkpt>
+        <trkpt lat="48.7904059" lon="2.2284168"></trkpt>
+        <trkpt lat="48.7902478" lon="2.2291539"></trkpt>
+        <trkpt lat="48.7902115" lon="2.2295916"></trkpt>
+        <trkpt lat="48.7901943" lon="2.2300927"></trkpt>
+        <trkpt lat="48.7901655" lon="2.2304124"></trkpt>
+        <trkpt lat="48.7900509" lon="2.2307621"></trkpt>
+        <trkpt lat="48.7897887" lon="2.2315627"></trkpt>
+        <trkpt lat="48.7895894" lon="2.2321489"></trkpt>
+        <trkpt lat="48.7891962" lon="2.2333129"></trkpt>
+        <trkpt lat="48.7891459" lon="2.2334513"></trkpt>
+        <trkpt lat="48.7890975" lon="2.2338416"></trkpt>
+        <trkpt lat="48.7890324" lon="2.2344358"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

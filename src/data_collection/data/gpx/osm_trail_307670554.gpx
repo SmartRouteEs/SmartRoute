@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Solférino</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.962045</time>
+</metadata>
+<trk>
+    <name>Route de Solférino</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4718841" lon="2.6775976"></trkpt>
+        <trkpt lat="48.4702642" lon="2.6770974"></trkpt>
+        <trkpt lat="48.4683192" lon="2.6764539"></trkpt>
+        <trkpt lat="48.4677906" lon="2.6763032"></trkpt>
+        <trkpt lat="48.4663274" lon="2.6758445"></trkpt>
+        <trkpt lat="48.4649956" lon="2.6753982"></trkpt>
+        <trkpt lat="48.464296" lon="2.675234"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

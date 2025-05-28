@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pinson</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.206912</time>
+</metadata>
+<trk>
+    <name>Route du Pinson</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3697082" lon="2.6743413"></trkpt>
+        <trkpt lat="48.3699603" lon="2.6752543"></trkpt>
+        <trkpt lat="48.3711573" lon="2.6809026"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

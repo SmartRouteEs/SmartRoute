@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 795</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:44.613085</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 795</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7717436" lon="2.5550374"></trkpt>
+        <trkpt lat="48.7725062" lon="2.5542569"></trkpt>
+        <trkpt lat="48.7729587" lon="2.553699"></trkpt>
+        <trkpt lat="48.7734113" lon="2.5531325"></trkpt>
+        <trkpt lat="48.7742767" lon="2.5521712"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

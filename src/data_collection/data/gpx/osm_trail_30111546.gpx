@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Moulin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.770341</time>
+</metadata>
+<trk>
+    <name>Allée du Moulin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7332242" lon="2.5395066"></trkpt>
+        <trkpt lat="48.7332688" lon="2.539452"></trkpt>
+        <trkpt lat="48.7334644" lon="2.5391358"></trkpt>
+        <trkpt lat="48.7344249" lon="2.5374749"></trkpt>
+        <trkpt lat="48.7348595" lon="2.536639"></trkpt>
+        <trkpt lat="48.7355894" lon="2.5353532"></trkpt>
+        <trkpt lat="48.7366093" lon="2.5336124"></trkpt>
+        <trkpt lat="48.7380626" lon="2.5310635"></trkpt>
+        <trkpt lat="48.7390456" lon="2.5293395"></trkpt>
+        <trkpt lat="48.7394945" lon="2.5285522"></trkpt>
+        <trkpt lat="48.7411925" lon="2.5255582"></trkpt>
+        <trkpt lat="48.7424207" lon="2.5234368"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

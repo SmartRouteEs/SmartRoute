@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Fermes</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.605079</time>
+</metadata>
+<trk>
+    <name>Chemin des Fermes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6208102" lon="2.2168519"></trkpt>
+        <trkpt lat="48.6208243" lon="2.2167003"></trkpt>
+        <trkpt lat="48.6209304" lon="2.2158445"></trkpt>
+        <trkpt lat="48.6210465" lon="2.2151977"></trkpt>
+        <trkpt lat="48.6211076" lon="2.214516"></trkpt>
+        <trkpt lat="48.6211607" lon="2.2140813"></trkpt>
+        <trkpt lat="48.6212378" lon="2.213639"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

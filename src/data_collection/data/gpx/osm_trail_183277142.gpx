@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8832</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.310265</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8832</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6036091" lon="3.1117581"></trkpt>
+        <trkpt lat="48.6008381" lon="3.1140877"></trkpt>
+        <trkpt lat="48.6013672" lon="3.1180625"></trkpt>
+        <trkpt lat="48.6013844" lon="3.1187333"></trkpt>
+        <trkpt lat="48.601427" lon="3.1189586"></trkpt>
+        <trkpt lat="48.6015997" lon="3.1193125"></trkpt>
+        <trkpt lat="48.6017132" lon="3.1217533"></trkpt>
+        <trkpt lat="48.6018799" lon="3.1228155"></trkpt>
+        <trkpt lat="48.6025515" lon="3.1262059"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

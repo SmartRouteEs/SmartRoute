@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cannes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.830161</time>
+</metadata>
+<trk>
+    <name>Chemin des Cannes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4680829" lon="2.5477144"></trkpt>
+        <trkpt lat="48.4666149" lon="2.5515669"></trkpt>
+        <trkpt lat="48.4661328" lon="2.5534401"></trkpt>
+        <trkpt lat="48.4657882" lon="2.5548097"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

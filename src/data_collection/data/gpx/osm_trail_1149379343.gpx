@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Vieux Chemin de Meaux</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: 2</desc>
+    <time>2025-05-28T01:16:01.618788</time>
+</metadata>
+<trk>
+    <name>Vieux Chemin de Meaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8796779" lon="2.5603916"></trkpt>
+        <trkpt lat="48.8797251" lon="2.5604248"></trkpt>
+        <trkpt lat="48.8797458" lon="2.5604507"></trkpt>
+        <trkpt lat="48.8800083" lon="2.5607522"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

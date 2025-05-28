@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Cavalière de Sèvres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.851230</time>
+</metadata>
+<trk>
+    <name>Allée Cavalière de Sèvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8112872" lon="2.1977206"></trkpt>
+        <trkpt lat="48.811221" lon="2.1978424"></trkpt>
+        <trkpt lat="48.811163" lon="2.197949"></trkpt>
+        <trkpt lat="48.81103" lon="2.198112"></trkpt>
+        <trkpt lat="48.810834" lon="2.198404"></trkpt>
+        <trkpt lat="48.810601" lon="2.198849"></trkpt>
+        <trkpt lat="48.810472" lon="2.199212"></trkpt>
+        <trkpt lat="48.810252" lon="2.200021"></trkpt>
+        <trkpt lat="48.810152" lon="2.20029"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

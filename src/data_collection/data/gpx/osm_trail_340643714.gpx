@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rocher Blanc</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.779574</time>
+</metadata>
+<trk>
+    <name>Chemin du Rocher Blanc</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5433899" lon="2.2070726"></trkpt>
+        <trkpt lat="48.5432018" lon="2.2075849"></trkpt>
+        <trkpt lat="48.5429594" lon="2.2083599"></trkpt>
+        <trkpt lat="48.542917" lon="2.2084059"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

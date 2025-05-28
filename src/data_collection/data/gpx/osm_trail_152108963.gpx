@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Barthélémy</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.422943</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Barthélémy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8237821" lon="3.1900088"></trkpt>
+        <trkpt lat="48.8236535" lon="3.19083"></trkpt>
+        <trkpt lat="48.823607" lon="3.1912679"></trkpt>
+        <trkpt lat="48.8236436" lon="3.1919641"></trkpt>
+        <trkpt lat="48.8236726" lon="3.1923953"></trkpt>
+        <trkpt lat="48.8236079" lon="3.1931385"></trkpt>
+        <trkpt lat="48.823525" lon="3.194476"></trkpt>
+        <trkpt lat="48.8234514" lon="3.195402"></trkpt>
+        <trkpt lat="48.8233673" lon="3.1958138"></trkpt>
+        <trkpt lat="48.8229706" lon="3.1964425"></trkpt>
+        <trkpt lat="48.8229328" lon="3.1965593"></trkpt>
+        <trkpt lat="48.8228833" lon="3.1967122"></trkpt>
+        <trkpt lat="48.8228522" lon="3.1974982"></trkpt>
+        <trkpt lat="48.8227944" lon="3.1978962"></trkpt>
+        <trkpt lat="48.8227757" lon="3.1980883"></trkpt>
+        <trkpt lat="48.8228121" lon="3.1982287"></trkpt>
+        <trkpt lat="48.8232468" lon="3.1987412"></trkpt>
+        <trkpt lat="48.8233687" lon="3.1989927"></trkpt>
+        <trkpt lat="48.8233958" lon="3.1991989"></trkpt>
+        <trkpt lat="48.8232556" lon="3.200187"></trkpt>
+        <trkpt lat="48.823195" lon="3.2009122"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

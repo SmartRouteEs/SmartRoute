@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Monts Girard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.545201</time>
+</metadata>
+<trk>
+    <name>Route des Monts Girard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4302271" lon="2.6114598"></trkpt>
+        <trkpt lat="48.4308628" lon="2.6070539"></trkpt>
+        <trkpt lat="48.4309855" lon="2.6061311"></trkpt>
+        <trkpt lat="48.4310963" lon="2.6057366"></trkpt>
+        <trkpt lat="48.4323835" lon="2.6042831"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

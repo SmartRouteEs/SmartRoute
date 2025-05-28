@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Longueraie</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.892967</time>
+</metadata>
+<trk>
+    <name>Chemin de la Longueraie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9133365" lon="2.1937083"></trkpt>
+        <trkpt lat="48.9131548" lon="2.1933778"></trkpt>
+        <trkpt lat="48.9128552" lon="2.1927474"></trkpt>
+        <trkpt lat="48.9127124" lon="2.1924497"></trkpt>
+        <trkpt lat="48.9126072" lon="2.192306"></trkpt>
+        <trkpt lat="48.9119293" lon="2.1910736"></trkpt>
+        <trkpt lat="48.9108602" lon="2.189094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

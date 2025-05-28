@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Champs de Quincy</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.578124</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Champs de Quincy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6513114" lon="2.4938958"></trkpt>
+        <trkpt lat="48.651344" lon="2.4939793"></trkpt>
+        <trkpt lat="48.6531603" lon="2.4993719"></trkpt>
+        <trkpt lat="48.6534542" lon="2.5002222"></trkpt>
+        <trkpt lat="48.6541809" lon="2.5023247"></trkpt>
+        <trkpt lat="48.6554803" lon="2.5062008"></trkpt>
+        <trkpt lat="48.6556517" lon="2.5067122"></trkpt>
+        <trkpt lat="48.6571001" lon="2.5110238"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

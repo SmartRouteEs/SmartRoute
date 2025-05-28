@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Colombe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.498214</time>
+</metadata>
+<trk>
+    <name>Route de la Colombe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3719477" lon="2.6806378"></trkpt>
+        <trkpt lat="48.3728626" lon="2.6801123"></trkpt>
+        <trkpt lat="48.3732431" lon="2.680088"></trkpt>
+        <trkpt lat="48.3736723" lon="2.6805547"></trkpt>
+        <trkpt lat="48.3747148" lon="2.6804522"></trkpt>
+        <trkpt lat="48.3759669" lon="2.6804759"></trkpt>
+        <trkpt lat="48.3767277" lon="2.6804628"></trkpt>
+        <trkpt lat="48.3771529" lon="2.6801681"></trkpt>
+        <trkpt lat="48.3772266" lon="2.6801182"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

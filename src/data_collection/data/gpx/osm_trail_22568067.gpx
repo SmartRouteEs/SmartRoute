@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Butte Saint-Louis</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.473560</time>
+</metadata>
+<trk>
+    <name>Route de la Butte Saint-Louis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4543548" lon="2.6946784"></trkpt>
+        <trkpt lat="48.4540131" lon="2.694522"></trkpt>
+        <trkpt lat="48.452994" lon="2.6943281"></trkpt>
+        <trkpt lat="48.4527093" lon="2.694276"></trkpt>
+        <trkpt lat="48.4525053" lon="2.6942057"></trkpt>
+        <trkpt lat="48.4520999" lon="2.693952"></trkpt>
+        <trkpt lat="48.4516632" lon="2.6936876"></trkpt>
+        <trkpt lat="48.4511699" lon="2.6934847"></trkpt>
+        <trkpt lat="48.450696" lon="2.6933044"></trkpt>
+        <trkpt lat="48.4502491" lon="2.6930299"></trkpt>
+        <trkpt lat="48.4498767" lon="2.6928772"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

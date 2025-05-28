@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Plaine du Pommier Sauvage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.011143</time>
+</metadata>
+<trk>
+    <name>Chemin de la Plaine du Pommier Sauvage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3970897" lon="2.5117627"></trkpt>
+        <trkpt lat="48.397027" lon="2.512027"></trkpt>
+        <trkpt lat="48.396937" lon="2.512292"></trkpt>
+        <trkpt lat="48.3967456" lon="2.5131445"></trkpt>
+        <trkpt lat="48.396618" lon="2.513713"></trkpt>
+        <trkpt lat="48.396587" lon="2.513803"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Bavette</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.261225</time>
+</metadata>
+<trk>
+    <name>Rue de la Bavette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.314906" lon="2.9965714"></trkpt>
+        <trkpt lat="48.3151797" lon="2.9960633"></trkpt>
+        <trkpt lat="48.3154901" lon="2.9955876"></trkpt>
+        <trkpt lat="48.3156922" lon="2.9954208"></trkpt>
+        <trkpt lat="48.3159431" lon="2.9952717"></trkpt>
+        <trkpt lat="48.3160783" lon="2.9951941"></trkpt>
+        <trkpt lat="48.316397" lon="2.9950199"></trkpt>
+        <trkpt lat="48.3166551" lon="2.9948241"></trkpt>
+        <trkpt lat="48.3168501" lon="2.994633"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

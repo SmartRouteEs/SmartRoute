@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Pépinière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.684050</time>
+</metadata>
+<trk>
+    <name>Route de la Pépinière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4796413" lon="2.7553645"></trkpt>
+        <trkpt lat="48.479501" lon="2.7564753"></trkpt>
+        <trkpt lat="48.4769856" lon="2.7598816"></trkpt>
+        <trkpt lat="48.4742312" lon="2.7639483"></trkpt>
+        <trkpt lat="48.4729047" lon="2.7647018"></trkpt>
+        <trkpt lat="48.4713276" lon="2.7656031"></trkpt>
+        <trkpt lat="48.4684651" lon="2.7704201"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

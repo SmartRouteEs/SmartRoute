@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Jacques Monod</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.488364</time>
+</metadata>
+<trk>
+    <name>Allée Jacques Monod</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6374051" lon="2.4216726"></trkpt>
+        <trkpt lat="48.6373399" lon="2.4217369"></trkpt>
+        <trkpt lat="48.6373067" lon="2.4220443"></trkpt>
+        <trkpt lat="48.6370307" lon="2.4221835"></trkpt>
+        <trkpt lat="48.6369543" lon="2.4221183"></trkpt>
+        <trkpt lat="48.6368496" lon="2.421936"></trkpt>
+        <trkpt lat="48.6360873" lon="2.4228266"></trkpt>
+        <trkpt lat="48.6362236" lon="2.4231284"></trkpt>
+        <trkpt lat="48.6357082" lon="2.4237835"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

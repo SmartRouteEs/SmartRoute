@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du 6 Février 1944</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.652087</time>
+</metadata>
+<trk>
+    <name>Allée du 6 Février 1944</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.733785" lon="2.3310405"></trkpt>
+        <trkpt lat="48.7337898" lon="2.331007"></trkpt>
+        <trkpt lat="48.7337943" lon="2.3309616"></trkpt>
+        <trkpt lat="48.7338415" lon="2.3304892"></trkpt>
+        <trkpt lat="48.7339228" lon="2.32998"></trkpt>
+        <trkpt lat="48.7340361" lon="2.3296353"></trkpt>
+        <trkpt lat="48.7341176" lon="2.3295016"></trkpt>
+        <trkpt lat="48.7341348" lon="2.3294271"></trkpt>
+        <trkpt lat="48.7341442" lon="2.3293075"></trkpt>
+        <trkpt lat="48.7341699" lon="2.3289826"></trkpt>
+        <trkpt lat="48.7341515" lon="2.3287924"></trkpt>
+        <trkpt lat="48.7341334" lon="2.3286603"></trkpt>
+        <trkpt lat="48.734133" lon="2.3285772"></trkpt>
+        <trkpt lat="48.7341417" lon="2.3284893"></trkpt>
+        <trkpt lat="48.7341657" lon="2.3284439"></trkpt>
+        <trkpt lat="48.7342418" lon="2.3283003"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

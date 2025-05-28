@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Grands Champs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.761461</time>
+</metadata>
+<trk>
+    <name>Rue des Grands Champs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9193309" lon="2.5672644"></trkpt>
+        <trkpt lat="48.9193289" lon="2.5673813"></trkpt>
+        <trkpt lat="48.9192662" lon="2.5676131"></trkpt>
+        <trkpt lat="48.9189682" lon="2.5687313"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

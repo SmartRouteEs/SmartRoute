@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin du midi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.152262</time>
+</metadata>
+<trk>
+    <name>chemin du midi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9241415" lon="3.1844488"></trkpt>
+        <trkpt lat="48.924313" lon="3.1863487"></trkpt>
+        <trkpt lat="48.9245301" lon="3.1885657"></trkpt>
+        <trkpt lat="48.9245339" lon="3.1890438"></trkpt>
+        <trkpt lat="48.9244563" lon="3.1910091"></trkpt>
+        <trkpt lat="48.9243309" lon="3.1945884"></trkpt>
+        <trkpt lat="48.9243216" lon="3.1947579"></trkpt>
+        <trkpt lat="48.9242493" lon="3.1960782"></trkpt>
+        <trkpt lat="48.9241239" lon="3.1993754"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

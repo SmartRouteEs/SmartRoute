@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Duchesse</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.783463</time>
+</metadata>
+<trk>
+    <name>Allée de la Duchesse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7709953" lon="2.301313"></trkpt>
+        <trkpt lat="48.7709398" lon="2.3013365"></trkpt>
+        <trkpt lat="48.7704126" lon="2.3015261"></trkpt>
+        <trkpt lat="48.7694096" lon="2.3018919"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

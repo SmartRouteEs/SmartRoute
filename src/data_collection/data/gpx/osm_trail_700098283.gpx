@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Demi-Lune</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.516498</time>
+</metadata>
+<trk>
+    <name>Route de la Demi-Lune</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8222036" lon="2.4419407"></trkpt>
+        <trkpt lat="48.8221586" lon="2.4420733"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois aux Renards</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.850064</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois aux Renards</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5591433" lon="2.560968"></trkpt>
+        <trkpt lat="48.5593307" lon="2.5595292"></trkpt>
+        <trkpt lat="48.5604346" lon="2.5557163"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

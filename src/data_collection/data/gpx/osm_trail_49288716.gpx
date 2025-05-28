@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Beau Soleil</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.837897</time>
+</metadata>
+<trk>
+    <name>Allée du Beau Soleil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.808305" lon="2.6708184"></trkpt>
+        <trkpt lat="48.8092712" lon="2.6739271"></trkpt>
+        <trkpt lat="48.8098355" lon="2.675666"></trkpt>
+        <trkpt lat="48.8101352" lon="2.6765895"></trkpt>
+        <trkpt lat="48.8102378" lon="2.6769055"></trkpt>
+        <trkpt lat="48.81095" lon="2.6791456"></trkpt>
+        <trkpt lat="48.8110348" lon="2.6793259"></trkpt>
+        <trkpt lat="48.8111252" lon="2.6793945"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

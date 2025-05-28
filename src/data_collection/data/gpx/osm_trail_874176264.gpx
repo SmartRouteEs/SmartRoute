@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Vallée au Prêtre</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.691577</time>
+</metadata>
+<trk>
+    <name>Vallée au Prêtre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1512613" lon="3.3921252"></trkpt>
+        <trkpt lat="48.1504688" lon="3.3927562"></trkpt>
+        <trkpt lat="48.1497974" lon="3.3927671"></trkpt>
+        <trkpt lat="48.1481452" lon="3.3930238"></trkpt>
+        <trkpt lat="48.1475996" lon="3.3929783"></trkpt>
+        <trkpt lat="48.146488" lon="3.3931044"></trkpt>
+        <trkpt lat="48.1457309" lon="3.3930926"></trkpt>
+        <trkpt lat="48.1456584" lon="3.393326"></trkpt>
+        <trkpt lat="48.1456587" lon="3.394217"></trkpt>
+        <trkpt lat="48.1458997" lon="3.3952586"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

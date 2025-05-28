@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Pourtour</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.713398</time>
+</metadata>
+<trk>
+    <name>Allée du Pourtour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4777476" lon="2.6572681"></trkpt>
+        <trkpt lat="48.4764973" lon="2.6557929"></trkpt>
+        <trkpt lat="48.4747954" lon="2.6565512"></trkpt>
+        <trkpt lat="48.4737094" lon="2.6584136"></trkpt>
+        <trkpt lat="48.4739778" lon="2.661051"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

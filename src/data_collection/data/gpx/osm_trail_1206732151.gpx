@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Charmeaux à Saint-Martin</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.825103</time>
+</metadata>
+<trk>
+    <name>Chemin des Charmeaux à Saint-Martin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2033389" lon="3.2267775"></trkpt>
+        <trkpt lat="48.2033123" lon="3.2266844"></trkpt>
+        <trkpt lat="48.2032205" lon="3.2188533"></trkpt>
+        <trkpt lat="48.2031486" lon="3.2180091"></trkpt>
+        <trkpt lat="48.2029332" lon="3.216756"></trkpt>
+        <trkpt lat="48.202742" lon="3.2160102"></trkpt>
+        <trkpt lat="48.2024532" lon="3.2152363"></trkpt>
+        <trkpt lat="48.2022184" lon="3.2148653"></trkpt>
+        <trkpt lat="48.201955" lon="3.2146324"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

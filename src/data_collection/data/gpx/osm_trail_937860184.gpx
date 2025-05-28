@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue des Tilleuls de Hollande</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.603162</time>
+</metadata>
+<trk>
+    <name>Avenue des Tilleuls de Hollande</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8082899" lon="2.3131091"></trkpt>
+        <trkpt lat="48.807725" lon="2.3125329"></trkpt>
+        <trkpt lat="48.8074576" lon="2.3122691"></trkpt>
+        <trkpt lat="48.8071853" lon="2.3119919"></trkpt>
+        <trkpt lat="48.8069044" lon="2.3117"></trkpt>
+        <trkpt lat="48.8066438" lon="2.3114345"></trkpt>
+        <trkpt lat="48.8063714" lon="2.3111716"></trkpt>
+        <trkpt lat="48.8060934" lon="2.3109019"></trkpt>
+        <trkpt lat="48.8058164" lon="2.3106225"></trkpt>
+        <trkpt lat="48.8055454" lon="2.3103445"></trkpt>
+        <trkpt lat="48.8052844" lon="2.3100857"></trkpt>
+        <trkpt lat="48.8049806" lon="2.3097765"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Mares</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.359340</time>
+</metadata>
+<trk>
+    <name>Route des Mares</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3941455" lon="2.7744558"></trkpt>
+        <trkpt lat="48.3942069" lon="2.7742896"></trkpt>
+        <trkpt lat="48.39449" lon="2.7738478"></trkpt>
+        <trkpt lat="48.3957339" lon="2.7720282"></trkpt>
+        <trkpt lat="48.3966459" lon="2.7708027"></trkpt>
+        <trkpt lat="48.3974696" lon="2.7695046"></trkpt>
+        <trkpt lat="48.3993877" lon="2.7668955"></trkpt>
+        <trkpt lat="48.4011563" lon="2.7642561"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

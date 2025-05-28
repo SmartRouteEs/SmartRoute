@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vallée Potard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.418822</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vallée Potard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2477966" lon="2.6683746"></trkpt>
+        <trkpt lat="48.2478404" lon="2.6700589"></trkpt>
+        <trkpt lat="48.2480701" lon="2.6740317"></trkpt>
+        <trkpt lat="48.2480665" lon="2.6743133"></trkpt>
+        <trkpt lat="48.2480226" lon="2.6743723"></trkpt>
+        <trkpt lat="48.2470867" lon="2.6744689"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

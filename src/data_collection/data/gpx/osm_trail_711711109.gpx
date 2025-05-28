@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Merisiers</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.640568</time>
+</metadata>
+<trk>
+    <name>Route des Merisiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8314534" lon="2.4655445"></trkpt>
+        <trkpt lat="48.8314669" lon="2.4653741"></trkpt>
+        <trkpt lat="48.8314911" lon="2.4651883"></trkpt>
+        <trkpt lat="48.8315672" lon="2.4645855"></trkpt>
+        <trkpt lat="48.8315782" lon="2.4644928"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

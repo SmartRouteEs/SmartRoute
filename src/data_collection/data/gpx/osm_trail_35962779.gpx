@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Bois d'Hyver</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.039075</time>
+</metadata>
+<trk>
+    <name>Route de Bois d'Hyver</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4110114" lon="2.6179626"></trkpt>
+        <trkpt lat="48.411151" lon="2.618221"></trkpt>
+        <trkpt lat="48.411444" lon="2.619075"></trkpt>
+        <trkpt lat="48.411888" lon="2.620645"></trkpt>
+        <trkpt lat="48.41194" lon="2.620753"></trkpt>
+        <trkpt lat="48.412076" lon="2.620961"></trkpt>
+        <trkpt lat="48.412504" lon="2.621504"></trkpt>
+        <trkpt lat="48.4127485" lon="2.6219119"></trkpt>
+        <trkpt lat="48.412825" lon="2.622012"></trkpt>
+        <trkpt lat="48.4134525" lon="2.6226655"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

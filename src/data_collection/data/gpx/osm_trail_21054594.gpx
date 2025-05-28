@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Secrétaire</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.436159</time>
+</metadata>
+<trk>
+    <name>Route du Secrétaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4352331" lon="2.6577342"></trkpt>
+        <trkpt lat="48.4377063" lon="2.6552794"></trkpt>
+        <trkpt lat="48.4392523" lon="2.6538803"></trkpt>
+        <trkpt lat="48.4393389" lon="2.6534799"></trkpt>
+        <trkpt lat="48.4396352" lon="2.653332"></trkpt>
+        <trkpt lat="48.4401789" lon="2.6535889"></trkpt>
+        <trkpt lat="48.4408704" lon="2.6530478"></trkpt>
+        <trkpt lat="48.4417508" lon="2.6526122"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

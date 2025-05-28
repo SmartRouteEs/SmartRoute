@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Espinard</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.110153</time>
+</metadata>
+<trk>
+    <name>Route de l'Espinard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.44604" lon="2.815291"></trkpt>
+        <trkpt lat="48.4460251" lon="2.8155575"></trkpt>
+        <trkpt lat="48.4455308" lon="2.8153622"></trkpt>
+        <trkpt lat="48.4449931" lon="2.8152274"></trkpt>
+        <trkpt lat="48.4447333" lon="2.8151697"></trkpt>
+        <trkpt lat="48.4438526" lon="2.8152878"></trkpt>
+        <trkpt lat="48.4432014" lon="2.8154031"></trkpt>
+        <trkpt lat="48.4418064" lon="2.8157384"></trkpt>
+        <trkpt lat="48.4407499" lon="2.8159466"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

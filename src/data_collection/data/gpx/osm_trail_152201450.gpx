@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Ruisseau</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.553316</time>
+</metadata>
+<trk>
+    <name>Rue du Ruisseau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7921843" lon="3.0231254"></trkpt>
+        <trkpt lat="48.7917492" lon="3.0232596"></trkpt>
+        <trkpt lat="48.7914255" lon="3.0233496"></trkpt>
+        <trkpt lat="48.7911894" lon="3.0234567"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

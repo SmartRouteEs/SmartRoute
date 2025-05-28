@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière du Détroit à Mainville</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.310673</time>
+</metadata>
+<trk>
+    <name>Route Forestière du Détroit à Mainville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6691575" lon="2.4499861"></trkpt>
+        <trkpt lat="48.6691271" lon="2.4501714"></trkpt>
+        <trkpt lat="48.6690526" lon="2.4504758"></trkpt>
+        <trkpt lat="48.6689889" lon="2.4506609"></trkpt>
+        <trkpt lat="48.6688817" lon="2.4512011"></trkpt>
+        <trkpt lat="48.668841" lon="2.4516678"></trkpt>
+        <trkpt lat="48.6687861" lon="2.4528238"></trkpt>
+        <trkpt lat="48.6687064" lon="2.4544948"></trkpt>
+        <trkpt lat="48.6685896" lon="2.456357"></trkpt>
+        <trkpt lat="48.6685251" lon="2.4575205"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

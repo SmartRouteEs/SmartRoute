@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vente de Courlon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.273310</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vente de Courlon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2932724" lon="3.1372721"></trkpt>
+        <trkpt lat="48.2930362" lon="3.1375584"></trkpt>
+        <trkpt lat="48.2929187" lon="3.1376394"></trkpt>
+        <trkpt lat="48.2926935" lon="3.137735"></trkpt>
+        <trkpt lat="48.2925613" lon="3.1378307"></trkpt>
+        <trkpt lat="48.2923312" lon="3.1380809"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

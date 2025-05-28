@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Polissoir</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.685443</time>
+</metadata>
+<trk>
+    <name>Chemin du Polissoir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4218719" lon="2.5258627"></trkpt>
+        <trkpt lat="48.4217065" lon="2.5257554"></trkpt>
+        <trkpt lat="48.4212918" lon="2.5251609"></trkpt>
+        <trkpt lat="48.4205694" lon="2.5239282"></trkpt>
+        <trkpt lat="48.4200908" lon="2.523784"></trkpt>
+        <trkpt lat="48.4197595" lon="2.5236451"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

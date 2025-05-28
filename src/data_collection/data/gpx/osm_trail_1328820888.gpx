@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin de Vrou à Saint-Cyr</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.601446</time>
+</metadata>
+<trk>
+    <name>chemin de Vrou à Saint-Cyr</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9041292" lon="3.1587008"></trkpt>
+        <trkpt lat="48.9040895" lon="3.1587031"></trkpt>
+        <trkpt lat="48.9040536" lon="3.1586587"></trkpt>
+        <trkpt lat="48.9035958" lon="3.156536"></trkpt>
+        <trkpt lat="48.9040468" lon="3.1552917"></trkpt>
+        <trkpt lat="48.9044728" lon="3.1541673"></trkpt>
+        <trkpt lat="48.9040674" lon="3.1527076"></trkpt>
+        <trkpt lat="48.9040173" lon="3.1526672"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

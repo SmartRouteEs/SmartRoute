@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Ouches</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.830281</time>
+</metadata>
+<trk>
+    <name>Rue des Ouches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8192435" lon="3.1013639"></trkpt>
+        <trkpt lat="48.8194895" lon="3.1022627"></trkpt>
+        <trkpt lat="48.8195468" lon="3.1025079"></trkpt>
+        <trkpt lat="48.8195915" lon="3.1026988"></trkpt>
+        <trkpt lat="48.8196692" lon="3.1033837"></trkpt>
+        <trkpt lat="48.819759" lon="3.1040767"></trkpt>
+        <trkpt lat="48.8198473" lon="3.1045027"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

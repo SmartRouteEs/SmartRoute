@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Malmontagne</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.211227</time>
+</metadata>
+<trk>
+    <name>Route de la Malmontagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3676657" lon="2.735265"></trkpt>
+        <trkpt lat="48.3677885" lon="2.7353822"></trkpt>
+        <trkpt lat="48.368889" lon="2.7367898"></trkpt>
+        <trkpt lat="48.3690634" lon="2.736941"></trkpt>
+        <trkpt lat="48.3694535" lon="2.7372791"></trkpt>
+        <trkpt lat="48.3698184" lon="2.7375365"></trkpt>
+        <trkpt lat="48.3698071" lon="2.7379766"></trkpt>
+        <trkpt lat="48.3697927" lon="2.7381058"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

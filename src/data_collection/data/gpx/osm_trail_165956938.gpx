@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Faluère</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.861870</time>
+</metadata>
+<trk>
+    <name>Route de la Faluère</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8336965" lon="2.4447247"></trkpt>
+        <trkpt lat="48.8337985" lon="2.4448597"></trkpt>
+        <trkpt lat="48.833825" lon="2.4448929"></trkpt>
+        <trkpt lat="48.8338347" lon="2.4449073"></trkpt>
+        <trkpt lat="48.8338816" lon="2.4450111"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

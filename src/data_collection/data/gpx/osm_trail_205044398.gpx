@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Fours à Chaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.529442</time>
+</metadata>
+<trk>
+    <name>Chemin des Fours à Chaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3143479" lon="2.6753015"></trkpt>
+        <trkpt lat="48.3143226" lon="2.6757987"></trkpt>
+        <trkpt lat="48.3143118" lon="2.6758654"></trkpt>
+        <trkpt lat="48.3142913" lon="2.6759187"></trkpt>
+        <trkpt lat="48.3141691" lon="2.6761569"></trkpt>
+        <trkpt lat="48.3141335" lon="2.6762841"></trkpt>
+        <trkpt lat="48.3141205" lon="2.6764192"></trkpt>
+        <trkpt lat="48.3141182" lon="2.6765797"></trkpt>
+        <trkpt lat="48.314236" lon="2.6778016"></trkpt>
+        <trkpt lat="48.3142704" lon="2.6785199"></trkpt>
+        <trkpt lat="48.3143111" lon="2.6792625"></trkpt>
+        <trkpt lat="48.3143171" lon="2.6799248"></trkpt>
+        <trkpt lat="48.3143059" lon="2.6806311"></trkpt>
+        <trkpt lat="48.3143252" lon="2.6807988"></trkpt>
+        <trkpt lat="48.3143615" lon="2.6809673"></trkpt>
+        <trkpt lat="48.3144446" lon="2.6812078"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

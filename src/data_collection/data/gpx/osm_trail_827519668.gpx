@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Pissottes</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.389153</time>
+</metadata>
+<trk>
+    <name>Chemin des Pissottes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8846327" lon="2.5723919"></trkpt>
+        <trkpt lat="48.8846272" lon="2.5723783"></trkpt>
+        <trkpt lat="48.8844559" lon="2.5719537"></trkpt>
+        <trkpt lat="48.8841769" lon="2.5712915"></trkpt>
+        <trkpt lat="48.8838402" lon="2.5704029"></trkpt>
+        <trkpt lat="48.8837585" lon="2.5701546"></trkpt>
+        <trkpt lat="48.8837489" lon="2.5701148"></trkpt>
+        <trkpt lat="48.8836788" lon="2.5698248"></trkpt>
+        <trkpt lat="48.8836075" lon="2.5695882"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

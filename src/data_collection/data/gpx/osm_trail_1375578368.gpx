@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Faucon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.021530</time>
+</metadata>
+<trk>
+    <name>Route du Faucon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.425131" lon="2.6301467"></trkpt>
+        <trkpt lat="48.4259346" lon="2.62835"></trkpt>
+        <trkpt lat="48.4267421" lon="2.6268073"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

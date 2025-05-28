@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Princesse Marie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.971351</time>
+</metadata>
+<trk>
+    <name>Route de la Princesse Marie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3872678" lon="2.6147752"></trkpt>
+        <trkpt lat="48.3868639" lon="2.615062"></trkpt>
+        <trkpt lat="48.386774" lon="2.6151333"></trkpt>
+        <trkpt lat="48.3855203" lon="2.6160258"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

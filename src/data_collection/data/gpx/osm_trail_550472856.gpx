@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Petites Jolivottes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.184510</time>
+</metadata>
+<trk>
+    <name>Chemin des Petites Jolivottes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1873285" lon="3.2924129"></trkpt>
+        <trkpt lat="48.1875667" lon="3.2913524"></trkpt>
+        <trkpt lat="48.1876549" lon="3.2907084"></trkpt>
+        <trkpt lat="48.1876918" lon="3.2902727"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Avenue des Châtaigniers</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.840680</time>
+</metadata>
+<trk>
+    <name>Avenue des Châtaigniers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8346328" lon="2.4692953"></trkpt>
+        <trkpt lat="48.8347681" lon="2.4690975"></trkpt>
+        <trkpt lat="48.835569" lon="2.4680303"></trkpt>
+        <trkpt lat="48.8355878" lon="2.4680053"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

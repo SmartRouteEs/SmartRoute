@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2360</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.320939</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2360</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8482611" lon="2.6011453"></trkpt>
+        <trkpt lat="48.8483006" lon="2.6014008"></trkpt>
+        <trkpt lat="48.8487233" lon="2.6041205"></trkpt>
+        <trkpt lat="48.8487363" lon="2.6042004"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

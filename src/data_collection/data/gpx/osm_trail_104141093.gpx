@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Béorlots</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.676175</time>
+</metadata>
+<trk>
+    <name>Route des Béorlots</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3501731" lon="2.5965668"></trkpt>
+        <trkpt lat="48.3561252" lon="2.596083"></trkpt>
+        <trkpt lat="48.3562774" lon="2.5960706"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

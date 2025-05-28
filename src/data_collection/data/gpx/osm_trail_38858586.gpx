@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Neuve</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.192123</time>
+</metadata>
+<trk>
+    <name>Route Neuve</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.78573" lon="2.685132"></trkpt>
+        <trkpt lat="48.7857144" lon="2.6852819"></trkpt>
+        <trkpt lat="48.7857032" lon="2.6853893"></trkpt>
+        <trkpt lat="48.7856896" lon="2.6855495"></trkpt>
+        <trkpt lat="48.7854169" lon="2.688768"></trkpt>
+        <trkpt lat="48.7851116" lon="2.6939178"></trkpt>
+        <trkpt lat="48.7848373" lon="2.6987688"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

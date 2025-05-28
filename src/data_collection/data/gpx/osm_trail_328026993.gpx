@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin dans le Bas des Clos</name>
+    <desc>Sentier VTT - Type: path - Surface: pebblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.615147</time>
+</metadata>
+<trk>
+    <name>Chemin dans le Bas des Clos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6908105" lon="2.5511487"></trkpt>
+        <trkpt lat="48.6908465" lon="2.5511266"></trkpt>
+        <trkpt lat="48.6919002" lon="2.5499248"></trkpt>
+        <trkpt lat="48.6920571" lon="2.5497584"></trkpt>
+        <trkpt lat="48.6922517" lon="2.5496957"></trkpt>
+        <trkpt lat="48.6933661" lon="2.548652"></trkpt>
+        <trkpt lat="48.693585" lon="2.5482268"></trkpt>
+        <trkpt lat="48.693612" lon="2.5481743"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

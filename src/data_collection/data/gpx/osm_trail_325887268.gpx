@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Laie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.535202</time>
+</metadata>
+<trk>
+    <name>Route de la Laie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4614823" lon="2.6420666"></trkpt>
+        <trkpt lat="48.4627757" lon="2.6423365"></trkpt>
+        <trkpt lat="48.4640258" lon="2.6426031"></trkpt>
+        <trkpt lat="48.4664591" lon="2.643048"></trkpt>
+        <trkpt lat="48.4665843" lon="2.6429667"></trkpt>
+        <trkpt lat="48.4667973" lon="2.6429522"></trkpt>
+        <trkpt lat="48.4669713" lon="2.6430402"></trkpt>
+        <trkpt lat="48.4671276" lon="2.6431818"></trkpt>
+        <trkpt lat="48.4694283" lon="2.6436353"></trkpt>
+        <trkpt lat="48.471611" lon="2.6440642"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

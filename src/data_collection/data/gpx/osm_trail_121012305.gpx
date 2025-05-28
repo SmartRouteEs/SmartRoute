@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de Vert-le-Peitit à Vert-le-Grand</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.873202</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de Vert-le-Peitit à Vert-le-Grand</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5551054" lon="2.3641564"></trkpt>
+        <trkpt lat="48.5552738" lon="2.3641503"></trkpt>
+        <trkpt lat="48.5559134" lon="2.3645785"></trkpt>
+        <trkpt lat="48.557036" lon="2.3653897"></trkpt>
+        <trkpt lat="48.558117" lon="2.3658485"></trkpt>
+        <trkpt lat="48.5607902" lon="2.3665638"></trkpt>
+        <trkpt lat="48.5615096" lon="2.3666297"></trkpt>
+        <trkpt lat="48.5618814" lon="2.3667921"></trkpt>
+        <trkpt lat="48.56404" lon="2.368399"></trkpt>
+        <trkpt lat="48.5647932" lon="2.3688672"></trkpt>
+        <trkpt lat="48.5649874" lon="2.3690086"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

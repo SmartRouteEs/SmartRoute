@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bornage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.368335</time>
+</metadata>
+<trk>
+    <name>Route du Bornage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3563054" lon="2.7994081"></trkpt>
+        <trkpt lat="48.3553751" lon="2.7993217"></trkpt>
+        <trkpt lat="48.3545261" lon="2.7991991"></trkpt>
+        <trkpt lat="48.3537203" lon="2.7991266"></trkpt>
+        <trkpt lat="48.3533671" lon="2.799181"></trkpt>
+        <trkpt lat="48.3527514" lon="2.7994254"></trkpt>
+        <trkpt lat="48.3522026" lon="2.799676"></trkpt>
+        <trkpt lat="48.3514775" lon="2.7991281"></trkpt>
+        <trkpt lat="48.3510248" lon="2.7985595"></trkpt>
+        <trkpt lat="48.3489221" lon="2.7959699"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

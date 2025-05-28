@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Paris</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.742151</time>
+</metadata>
+<trk>
+    <name>Chemin de Paris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8006945" lon="2.9596837"></trkpt>
+        <trkpt lat="48.8004935" lon="2.9603536"></trkpt>
+        <trkpt lat="48.8003623" lon="2.9608209"></trkpt>
+        <trkpt lat="48.7999772" lon="2.9619421"></trkpt>
+        <trkpt lat="48.7998747" lon="2.9623337"></trkpt>
+        <trkpt lat="48.7995744" lon="2.9648925"></trkpt>
+        <trkpt lat="48.7994754" lon="2.9657508"></trkpt>
+        <trkpt lat="48.7994118" lon="2.9665287"></trkpt>
+        <trkpt lat="48.7994154" lon="2.9668076"></trkpt>
+        <trkpt lat="48.7994295" lon="2.9671885"></trkpt>
+        <trkpt lat="48.7994648" lon="2.9676177"></trkpt>
+        <trkpt lat="48.7995602" lon="2.9681648"></trkpt>
+        <trkpt lat="48.7997652" lon="2.969227"></trkpt>
+        <trkpt lat="48.7999171" lon="2.9700477"></trkpt>
+        <trkpt lat="48.8001432" lon="2.9716413"></trkpt>
+        <trkpt lat="48.8002139" lon="2.9723866"></trkpt>
+        <trkpt lat="48.8002281" lon="2.9726817"></trkpt>
+        <trkpt lat="48.8002811" lon="2.9738297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

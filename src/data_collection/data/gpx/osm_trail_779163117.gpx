@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Caroline Aigle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.969843</time>
+</metadata>
+<trk>
+    <name>Allée Caroline Aigle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7325543" lon="2.2511117"></trkpt>
+        <trkpt lat="48.7326155" lon="2.2509219"></trkpt>
+        <trkpt lat="48.7326836" lon="2.250714"></trkpt>
+        <trkpt lat="48.7327789" lon="2.2503857"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

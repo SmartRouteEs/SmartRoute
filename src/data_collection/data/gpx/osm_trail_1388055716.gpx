@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Venelle du Pic Épeiche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.354270</time>
+</metadata>
+<trk>
+    <name>Venelle du Pic Épeiche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5699079" lon="2.4278639"></trkpt>
+        <trkpt lat="48.5695292" lon="2.4282124"></trkpt>
+        <trkpt lat="48.5695184" lon="2.4282735"></trkpt>
+        <trkpt lat="48.5697358" lon="2.4288406"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

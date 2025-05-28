@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chaussée de la Bichetterie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.352714</time>
+</metadata>
+<trk>
+    <name>Chaussée de la Bichetterie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3930237" lon="2.3862997"></trkpt>
+        <trkpt lat="48.3923086" lon="2.3858866"></trkpt>
+        <trkpt lat="48.3921198" lon="2.3857833"></trkpt>
+        <trkpt lat="48.3919685" lon="2.3859282"></trkpt>
+        <trkpt lat="48.3916862" lon="2.3870319"></trkpt>
+        <trkpt lat="48.3912712" lon="2.3887539"></trkpt>
+        <trkpt lat="48.3909755" lon="2.3897906"></trkpt>
+        <trkpt lat="48.3907858" lon="2.3902935"></trkpt>
+        <trkpt lat="48.3905619" lon="2.3906578"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

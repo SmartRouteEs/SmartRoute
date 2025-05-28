@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fosse à Râteau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.086680</time>
+</metadata>
+<trk>
+    <name>Route de la Fosse à Râteau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4088727" lon="2.647695"></trkpt>
+        <trkpt lat="48.4090117" lon="2.6480094"></trkpt>
+        <trkpt lat="48.4101211" lon="2.6514731"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

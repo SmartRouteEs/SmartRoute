@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Villiers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.498214</time>
+</metadata>
+<trk>
+    <name>Route de Villiers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3550475" lon="2.6689907"></trkpt>
+        <trkpt lat="48.3555007" lon="2.6689814"></trkpt>
+        <trkpt lat="48.3570875" lon="2.6689965"></trkpt>
+        <trkpt lat="48.3588426" lon="2.6690187"></trkpt>
+        <trkpt lat="48.3613605" lon="2.6690558"></trkpt>
+        <trkpt lat="48.3614032" lon="2.6690564"></trkpt>
+        <trkpt lat="48.3615534" lon="2.6690581"></trkpt>
+        <trkpt lat="48.3664706" lon="2.6691114"></trkpt>
+        <trkpt lat="48.3677317" lon="2.6691232"></trkpt>
+        <trkpt lat="48.3690901" lon="2.669136"></trkpt>
+        <trkpt lat="48.3694426" lon="2.6691653"></trkpt>
+        <trkpt lat="48.3711006" lon="2.6692129"></trkpt>
+        <trkpt lat="48.3712654" lon="2.6691541"></trkpt>
+        <trkpt lat="48.371348" lon="2.6691723"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

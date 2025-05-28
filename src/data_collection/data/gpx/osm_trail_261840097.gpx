@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Grand Chemin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.772305</time>
+</metadata>
+<trk>
+    <name>Grand Chemin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3162243" lon="2.4596457"></trkpt>
+        <trkpt lat="48.3160095" lon="2.4595801"></trkpt>
+        <trkpt lat="48.3157455" lon="2.4594437"></trkpt>
+        <trkpt lat="48.3155212" lon="2.4594139"></trkpt>
+        <trkpt lat="48.3145972" lon="2.4590491"></trkpt>
+        <trkpt lat="48.3142533" lon="2.4588624"></trkpt>
+        <trkpt lat="48.3140728" lon="2.4587433"></trkpt>
+        <trkpt lat="48.313933" lon="2.4586965"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

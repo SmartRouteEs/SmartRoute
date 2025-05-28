@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Cordon à Évry-les-Châteaux</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.152552</time>
+</metadata>
+<trk>
+    <name>Chemin de Cordon à Évry-les-Châteaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6597255" lon="2.6609316"></trkpt>
+        <trkpt lat="48.6598512" lon="2.6607716"></trkpt>
+        <trkpt lat="48.6599915" lon="2.660552"></trkpt>
+        <trkpt lat="48.6602027" lon="2.6601835"></trkpt>
+        <trkpt lat="48.6606433" lon="2.6595679"></trkpt>
+        <trkpt lat="48.6609621" lon="2.6589794"></trkpt>
+        <trkpt lat="48.6611305" lon="2.6585514"></trkpt>
+        <trkpt lat="48.6612784" lon="2.6580972"></trkpt>
+        <trkpt lat="48.6613804" lon="2.6574793"></trkpt>
+        <trkpt lat="48.6617066" lon="2.6554678"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

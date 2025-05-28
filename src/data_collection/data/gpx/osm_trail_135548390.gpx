@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 6320</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.078497</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 6320</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8226489" lon="3.1154305"></trkpt>
+        <trkpt lat="48.8228619" lon="3.1158744"></trkpt>
+        <trkpt lat="48.8232857" lon="3.1164129"></trkpt>
+        <trkpt lat="48.8232878" lon="3.1164733"></trkpt>
+        <trkpt lat="48.8234503" lon="3.1211007"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

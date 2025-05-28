@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Pointe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.570027</time>
+</metadata>
+<trk>
+    <name>Chemin de la Pointe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7901065" lon="3.0274323"></trkpt>
+        <trkpt lat="48.7904081" lon="3.0276696"></trkpt>
+        <trkpt lat="48.791024" lon="3.0280171"></trkpt>
+        <trkpt lat="48.7919097" lon="3.0284497"></trkpt>
+        <trkpt lat="48.7929732" lon="3.0286188"></trkpt>
+        <trkpt lat="48.7931193" lon="3.0286801"></trkpt>
+        <trkpt lat="48.7931526" lon="3.02874"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Rocher d'Avon</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.783678</time>
+</metadata>
+<trk>
+    <name>Route du Rocher d'Avon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3896977" lon="2.7352224"></trkpt>
+        <trkpt lat="48.3900734" lon="2.7316621"></trkpt>
+        <trkpt lat="48.3903145" lon="2.7308598"></trkpt>
+        <trkpt lat="48.3906608" lon="2.7298366"></trkpt>
+        <trkpt lat="48.3914956" lon="2.7286056"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

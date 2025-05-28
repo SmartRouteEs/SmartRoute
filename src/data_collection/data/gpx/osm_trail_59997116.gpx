@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse du Clos Thomas</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.044338</time>
+</metadata>
+<trk>
+    <name>Impasse du Clos Thomas</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8407963" lon="2.5262194"></trkpt>
+        <trkpt lat="48.8406152" lon="2.5259354"></trkpt>
+        <trkpt lat="48.8404305" lon="2.5257622"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

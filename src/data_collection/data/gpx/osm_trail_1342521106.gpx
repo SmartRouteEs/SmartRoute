@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Gorge aux Archers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.666684</time>
+</metadata>
+<trk>
+    <name>Route de la Gorge aux Archers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3633395" lon="2.6068893"></trkpt>
+        <trkpt lat="48.3636826" lon="2.6062567"></trkpt>
+        <trkpt lat="48.3645746" lon="2.6042392"></trkpt>
+        <trkpt lat="48.3655744" lon="2.6020187"></trkpt>
+        <trkpt lat="48.3671966" lon="2.598428"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

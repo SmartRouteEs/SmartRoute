@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Carrefour de Montgeron</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.010038</time>
+</metadata>
+<trk>
+    <name>Carrefour de Montgeron</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6865083" lon="2.4665812"></trkpt>
+        <trkpt lat="48.6865417" lon="2.4666346"></trkpt>
+        <trkpt lat="48.6865852" lon="2.4666672"></trkpt>
+        <trkpt lat="48.6866335" lon="2.4666748"></trkpt>
+        <trkpt lat="48.6866805" lon="2.4666566"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Calvaire</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.280457</time>
+</metadata>
+<trk>
+    <name>Chemin du Calvaire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5103083" lon="3.1966438"></trkpt>
+        <trkpt lat="48.5103471" lon="3.1964843"></trkpt>
+        <trkpt lat="48.5105851" lon="3.1962534"></trkpt>
+        <trkpt lat="48.5110039" lon="3.1957644"></trkpt>
+        <trkpt lat="48.5115381" lon="3.1951702"></trkpt>
+        <trkpt lat="48.5119944" lon="3.1946772"></trkpt>
+        <trkpt lat="48.5123952" lon="3.1943125"></trkpt>
+        <trkpt lat="48.5127433" lon="3.1940302"></trkpt>
+        <trkpt lat="48.5130018" lon="3.1937804"></trkpt>
+        <trkpt lat="48.513272" lon="3.1934994"></trkpt>
+        <trkpt lat="48.5137614" lon="3.1930038"></trkpt>
+        <trkpt lat="48.5144979" lon="3.192386"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 13451</name>
+    <desc>Sentier VTT - Type: path - Surface: paving_stones - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.072142</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 13451</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7517199" lon="2.2723817"></trkpt>
+        <trkpt lat="48.7517345" lon="2.2723165"></trkpt>
+        <trkpt lat="48.7517751" lon="2.2722538"></trkpt>
+        <trkpt lat="48.7518863" lon="2.2722106"></trkpt>
+        <trkpt lat="48.7518925" lon="2.2720848"></trkpt>
+        <trkpt lat="48.7518969" lon="2.2720522"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8880</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.318712</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8880</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2441398" lon="2.4461104"></trkpt>
+        <trkpt lat="48.2437667" lon="2.4456527"></trkpt>
+        <trkpt lat="48.2437286" lon="2.4454705"></trkpt>
+        <trkpt lat="48.2437145" lon="2.4452443"></trkpt>
+        <trkpt lat="48.2437299" lon="2.4448138"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

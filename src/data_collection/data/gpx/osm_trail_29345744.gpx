@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bac</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.753252</time>
+</metadata>
+<trk>
+    <name>Chemin du Bac</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9016623" lon="2.8197363"></trkpt>
+        <trkpt lat="48.9023216" lon="2.8209093"></trkpt>
+        <trkpt lat="48.902422" lon="2.8210678"></trkpt>
+        <trkpt lat="48.9039007" lon="2.8239788"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

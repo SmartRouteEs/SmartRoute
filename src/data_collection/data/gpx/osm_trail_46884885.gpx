@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Vénus</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.489898</time>
+</metadata>
+<trk>
+    <name>Route de Vénus</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3887466" lon="2.6741735"></trkpt>
+        <trkpt lat="48.3871447" lon="2.6738989"></trkpt>
+        <trkpt lat="48.3862642" lon="2.6736481"></trkpt>
+        <trkpt lat="48.3859419" lon="2.6735149"></trkpt>
+        <trkpt lat="48.3857607" lon="2.6733211"></trkpt>
+        <trkpt lat="48.3856588" lon="2.6731888"></trkpt>
+        <trkpt lat="48.3846014" lon="2.6711288"></trkpt>
+        <trkpt lat="48.3844244" lon="2.6709905"></trkpt>
+        <trkpt lat="48.3829321" lon="2.6702594"></trkpt>
+        <trkpt lat="48.3817122" lon="2.6708853"></trkpt>
+        <trkpt lat="48.3806678" lon="2.6712333"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

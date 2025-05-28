@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Vieux Chemin de Paris</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.049878</time>
+</metadata>
+<trk>
+    <name>Vieux Chemin de Paris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5611999" lon="3.2782065"></trkpt>
+        <trkpt lat="48.5612119" lon="3.2780671"></trkpt>
+        <trkpt lat="48.5611772" lon="3.2777431"></trkpt>
+        <trkpt lat="48.5611374" lon="3.277477"></trkpt>
+        <trkpt lat="48.5608705" lon="3.2757003"></trkpt>
+        <trkpt lat="48.5607455" lon="3.2747132"></trkpt>
+        <trkpt lat="48.5607112" lon="3.2744575"></trkpt>
+        <trkpt lat="48.5606574" lon="3.2744057"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

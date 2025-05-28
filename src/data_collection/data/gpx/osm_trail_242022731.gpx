@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Clocher</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.456770</time>
+</metadata>
+<trk>
+    <name>Allée du Clocher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5560281" lon="2.4117404"></trkpt>
+        <trkpt lat="48.5560447" lon="2.4117556"></trkpt>
+        <trkpt lat="48.5561972" lon="2.4116596"></trkpt>
+        <trkpt lat="48.5563812" lon="2.4114782"></trkpt>
+        <trkpt lat="48.5566911" lon="2.4110798"></trkpt>
+        <trkpt lat="48.5568115" lon="2.4108938"></trkpt>
+        <trkpt lat="48.5569115" lon="2.4108437"></trkpt>
+        <trkpt lat="48.557629" lon="2.4126121"></trkpt>
+        <trkpt lat="48.5585717" lon="2.4146284"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Aulnes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.082340</time>
+</metadata>
+<trk>
+    <name>Chemin des Aulnes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2508283" lon="2.6975372"></trkpt>
+        <trkpt lat="48.2502388" lon="2.6978516"></trkpt>
+        <trkpt lat="48.249786" lon="2.6980601"></trkpt>
+        <trkpt lat="48.2490321" lon="2.6983359"></trkpt>
+        <trkpt lat="48.2483358" lon="2.6986951"></trkpt>
+        <trkpt lat="48.2478466" lon="2.6990512"></trkpt>
+        <trkpt lat="48.2475925" lon="2.6993302"></trkpt>
+        <trkpt lat="48.2470414" lon="2.7000647"></trkpt>
+        <trkpt lat="48.2462126" lon="2.7011617"></trkpt>
+        <trkpt lat="48.2455889" lon="2.7020726"></trkpt>
+        <trkpt lat="48.2452749" lon="2.7025345"></trkpt>
+        <trkpt lat="48.2451823" lon="2.702693"></trkpt>
+        <trkpt lat="48.245103" lon="2.7027282"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

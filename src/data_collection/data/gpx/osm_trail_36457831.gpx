@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Puits au Géant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.057713</time>
+</metadata>
+<trk>
+    <name>Route du Puits au Géant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4201055" lon="2.6374602"></trkpt>
+        <trkpt lat="48.4227888" lon="2.6356128"></trkpt>
+        <trkpt lat="48.424043" lon="2.6346818"></trkpt>
+        <trkpt lat="48.4243734" lon="2.6347298"></trkpt>
+        <trkpt lat="48.4245087" lon="2.6345373"></trkpt>
+        <trkpt lat="48.4251749" lon="2.633703"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

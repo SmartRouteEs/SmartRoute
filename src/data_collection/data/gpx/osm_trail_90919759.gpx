@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Merles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.471828</time>
+</metadata>
+<trk>
+    <name>Chemin des Merles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5760892" lon="2.5239571"></trkpt>
+        <trkpt lat="48.5760687" lon="2.5250735"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

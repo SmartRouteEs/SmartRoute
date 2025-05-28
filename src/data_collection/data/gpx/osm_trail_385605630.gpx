@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grange des Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.314156</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grange des Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4770577" lon="2.2604809"></trkpt>
+        <trkpt lat="48.4773509" lon="2.2603651"></trkpt>
+        <trkpt lat="48.4778398" lon="2.2599294"></trkpt>
+        <trkpt lat="48.4783908" lon="2.2595457"></trkpt>
+        <trkpt lat="48.4791935" lon="2.2588066"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

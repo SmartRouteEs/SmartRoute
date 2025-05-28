@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Pelage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route du Pelage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4475351" lon="2.687995"></trkpt>
+        <trkpt lat="48.4466353" lon="2.6870817"></trkpt>
+        <trkpt lat="48.4448073" lon="2.6852163"></trkpt>
+        <trkpt lat="48.4446911" lon="2.6850946"></trkpt>
+        <trkpt lat="48.4429591" lon="2.6851967"></trkpt>
+        <trkpt lat="48.4425942" lon="2.6855342"></trkpt>
+        <trkpt lat="48.442553" lon="2.6855723"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

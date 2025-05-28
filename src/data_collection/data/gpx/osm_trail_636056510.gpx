@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Grand sentier des Lubies</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.761250</time>
+</metadata>
+<trk>
+    <name>Grand sentier des Lubies</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.892492" lon="2.7906938"></trkpt>
+        <trkpt lat="48.8930944" lon="2.7896206"></trkpt>
+        <trkpt lat="48.8935396" lon="2.7858623"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

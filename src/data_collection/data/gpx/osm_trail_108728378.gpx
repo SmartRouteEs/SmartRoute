@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Chêne Gris</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.751815</time>
+</metadata>
+<trk>
+    <name>Rue du Chêne Gris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8103098" lon="2.9858431"></trkpt>
+        <trkpt lat="48.8104502" lon="2.9857099"></trkpt>
+        <trkpt lat="48.8105292" lon="2.9856344"></trkpt>
+        <trkpt lat="48.8106174" lon="2.9855653"></trkpt>
+        <trkpt lat="48.8109665" lon="2.9854414"></trkpt>
+        <trkpt lat="48.811494" lon="2.9852947"></trkpt>
+        <trkpt lat="48.8117622" lon="2.9852986"></trkpt>
+        <trkpt lat="48.8120179" lon="2.9854764"></trkpt>
+        <trkpt lat="48.8121804" lon="2.985546"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

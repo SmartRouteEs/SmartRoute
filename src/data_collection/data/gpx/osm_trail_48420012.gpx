@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Polygone</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.615340</time>
+</metadata>
+<trk>
+    <name>Route du Polygone</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3981103" lon="2.6636739"></trkpt>
+        <trkpt lat="48.3981143" lon="2.6637846"></trkpt>
+        <trkpt lat="48.3980088" lon="2.6640082"></trkpt>
+        <trkpt lat="48.397953" lon="2.664173"></trkpt>
+        <trkpt lat="48.397957" lon="2.6643505"></trkpt>
+        <trkpt lat="48.3978762" lon="2.6646094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

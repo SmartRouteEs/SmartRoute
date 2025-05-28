@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle des Clos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.817873</time>
+</metadata>
+<trk>
+    <name>Ruelle des Clos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5497517" lon="3.064773"></trkpt>
+        <trkpt lat="48.5497929" lon="3.0651695"></trkpt>
+        <trkpt lat="48.5498569" lon="3.0655322"></trkpt>
+        <trkpt lat="48.5499053" lon="3.0656355"></trkpt>
+        <trkpt lat="48.5500153" lon="3.0656677"></trkpt>
+        <trkpt lat="48.5500442" lon="3.0658038"></trkpt>
+        <trkpt lat="48.5500759" lon="3.0658717"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

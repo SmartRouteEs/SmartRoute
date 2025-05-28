@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Boutins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.488364</time>
+</metadata>
+<trk>
+    <name>Chemin Boutins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4995046" lon="2.2885651"></trkpt>
+        <trkpt lat="48.499349" lon="2.287298"></trkpt>
+        <trkpt lat="48.4993921" lon="2.2869831"></trkpt>
+        <trkpt lat="48.4993862" lon="2.286571"></trkpt>
+        <trkpt lat="48.4991805" lon="2.2857343"></trkpt>
+        <trkpt lat="48.4991437" lon="2.2854508"></trkpt>
+        <trkpt lat="48.499127" lon="2.2849281"></trkpt>
+        <trkpt lat="48.4990692" lon="2.2844966"></trkpt>
+        <trkpt lat="48.4988403" lon="2.283693"></trkpt>
+        <trkpt lat="48.4986687" lon="2.2829765"></trkpt>
+        <trkpt lat="48.498622" lon="2.2827207"></trkpt>
+        <trkpt lat="48.4986004" lon="2.2824697"></trkpt>
+        <trkpt lat="48.4985725" lon="2.28191"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

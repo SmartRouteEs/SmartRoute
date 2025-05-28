@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Clos aux Lapins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.780019</time>
+</metadata>
+<trk>
+    <name>Sentier du Clos aux Lapins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5020802" lon="2.5366532"></trkpt>
+        <trkpt lat="48.5021783" lon="2.5367198"></trkpt>
+        <trkpt lat="48.5028503" lon="2.5370189"></trkpt>
+        <trkpt lat="48.5039224" lon="2.5372584"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

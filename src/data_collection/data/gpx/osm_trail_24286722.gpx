@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Casseaux</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.539404</time>
+</metadata>
+<trk>
+    <name>Chemin des Casseaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6890819" lon="2.2374615"></trkpt>
+        <trkpt lat="48.6895125" lon="2.2370324"></trkpt>
+        <trkpt lat="48.6896232" lon="2.2368254"></trkpt>
+        <trkpt lat="48.6897141" lon="2.2366554"></trkpt>
+        <trkpt lat="48.6897683" lon="2.2364969"></trkpt>
+        <trkpt lat="48.6898132" lon="2.2363657"></trkpt>
+        <trkpt lat="48.6898132" lon="2.2360867"></trkpt>
+        <trkpt lat="48.6898699" lon="2.2356468"></trkpt>
+        <trkpt lat="48.6900735" lon="2.2353766"></trkpt>
+        <trkpt lat="48.6900965" lon="2.2353464"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

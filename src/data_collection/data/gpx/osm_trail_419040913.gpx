@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse de la Serre</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.923300</time>
+</metadata>
+<trk>
+    <name>Impasse de la Serre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.755817" lon="2.2741847"></trkpt>
+        <trkpt lat="48.7556954" lon="2.2739053"></trkpt>
+        <trkpt lat="48.7556889" lon="2.2738904"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

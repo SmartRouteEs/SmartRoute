@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Impasse des Grands Prés</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.639308</time>
+</metadata>
+<trk>
+    <name>Impasse des Grands Prés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1729872" lon="3.3409029"></trkpt>
+        <trkpt lat="48.1729012" lon="3.3411657"></trkpt>
+        <trkpt lat="48.1728663" lon="3.3413147"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

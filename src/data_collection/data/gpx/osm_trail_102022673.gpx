@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Nanchons</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.602704</time>
+</metadata>
+<trk>
+    <name>Chemin des Nanchons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3874088" lon="2.8315429"></trkpt>
+        <trkpt lat="48.3870335" lon="2.832265"></trkpt>
+        <trkpt lat="48.386402" lon="2.8333584"></trkpt>
+        <trkpt lat="48.3852442" lon="2.835223"></trkpt>
+        <trkpt lat="48.3840066" lon="2.8370169"></trkpt>
+        <trkpt lat="48.3826869" lon="2.8389653"></trkpt>
+        <trkpt lat="48.3816124" lon="2.8404353"></trkpt>
+        <trkpt lat="48.381579" lon="2.840481"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

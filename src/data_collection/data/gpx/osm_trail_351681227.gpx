@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sources</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.869373</time>
+</metadata>
+<trk>
+    <name>Chemin des Sources</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6728896" lon="2.9742647"></trkpt>
+        <trkpt lat="48.6729103" lon="2.9741746"></trkpt>
+        <trkpt lat="48.6729806" lon="2.9732086"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

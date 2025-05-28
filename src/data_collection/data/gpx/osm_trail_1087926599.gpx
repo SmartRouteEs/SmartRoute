@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Saut du Loup</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.005283</time>
+</metadata>
+<trk>
+    <name>Chemin du Saut du Loup</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2754006" lon="2.7330786"></trkpt>
+        <trkpt lat="48.2754299" lon="2.7331695"></trkpt>
+        <trkpt lat="48.2763705" lon="2.7365142"></trkpt>
+        <trkpt lat="48.2773452" lon="2.73999"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

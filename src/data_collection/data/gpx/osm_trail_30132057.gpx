@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grands Clos</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:44.779856</time>
+</metadata>
+<trk>
+    <name>Chemin des Grands Clos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7685732" lon="2.5946086"></trkpt>
+        <trkpt lat="48.7685176" lon="2.594425"></trkpt>
+        <trkpt lat="48.7681669" lon="2.5930603"></trkpt>
+        <trkpt lat="48.7680085" lon="2.5924852"></trkpt>
+        <trkpt lat="48.7679236" lon="2.5920818"></trkpt>
+        <trkpt lat="48.7676747" lon="2.5911205"></trkpt>
+        <trkpt lat="48.7675698" lon="2.5906204"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

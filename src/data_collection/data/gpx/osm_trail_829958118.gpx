@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare Neuve</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.398189</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare Neuve</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9200898" lon="2.6714785"></trkpt>
+        <trkpt lat="48.9200444" lon="2.6714745"></trkpt>
+        <trkpt lat="48.9200005" lon="2.671479"></trkpt>
+        <trkpt lat="48.9196159" lon="2.6716517"></trkpt>
+        <trkpt lat="48.9190098" lon="2.6719238"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

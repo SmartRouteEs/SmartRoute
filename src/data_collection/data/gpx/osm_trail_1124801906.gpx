@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Montegases</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.433393</time>
+</metadata>
+<trk>
+    <name>Chemin des Montegases</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3914574" lon="2.946877"></trkpt>
+        <trkpt lat="48.3916461" lon="2.946699"></trkpt>
+        <trkpt lat="48.391793" lon="2.9464938"></trkpt>
+        <trkpt lat="48.391883" lon="2.9463302"></trkpt>
+        <trkpt lat="48.3919667" lon="2.9462323"></trkpt>
+        <trkpt lat="48.392208" lon="2.9460338"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

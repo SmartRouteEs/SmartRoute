@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Moulure</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.293261</time>
+</metadata>
+<trk>
+    <name>Chemin de la Moulure</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.301022" lon="3.1325673"></trkpt>
+        <trkpt lat="48.3009255" lon="3.132629"></trkpt>
+        <trkpt lat="48.300657" lon="3.1327184"></trkpt>
+        <trkpt lat="48.3003885" lon="3.1327918"></trkpt>
+        <trkpt lat="48.3002421" lon="3.1328354"></trkpt>
+        <trkpt lat="48.3000315" lon="3.132723"></trkpt>
+        <trkpt lat="48.299763" lon="3.1325808"></trkpt>
+        <trkpt lat="48.2996227" lon="3.1325097"></trkpt>
+        <trkpt lat="48.2994991" lon="3.1324409"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

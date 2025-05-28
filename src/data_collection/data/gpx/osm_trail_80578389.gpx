@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Piège</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.268510</time>
+</metadata>
+<trk>
+    <name>Route du Piège</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3774821" lon="2.5740143"></trkpt>
+        <trkpt lat="48.3778012" lon="2.5760144"></trkpt>
+        <trkpt lat="48.3778304" lon="2.576141"></trkpt>
+        <trkpt lat="48.3779149" lon="2.5762693"></trkpt>
+        <trkpt lat="48.3780651" lon="2.5764394"></trkpt>
+        <trkpt lat="48.3812942" lon="2.5803763"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

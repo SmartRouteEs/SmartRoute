@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Barbeau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.511736</time>
+</metadata>
+<trk>
+    <name>Route de Barbeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4708169" lon="2.750335"></trkpt>
+        <trkpt lat="48.4692297" lon="2.7531522"></trkpt>
+        <trkpt lat="48.4684641" lon="2.754513"></trkpt>
+        <trkpt lat="48.4675225" lon="2.7561648"></trkpt>
+        <trkpt lat="48.4658562" lon="2.759124"></trkpt>
+        <trkpt lat="48.4654453" lon="2.7599246"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

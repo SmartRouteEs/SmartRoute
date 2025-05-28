@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Terres à la Gare</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.261225</time>
+</metadata>
+<trk>
+    <name>Chemin des Terres à la Gare</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3231649" lon="2.9819346"></trkpt>
+        <trkpt lat="48.3240671" lon="2.9816249"></trkpt>
+        <trkpt lat="48.3279326" lon="2.9802751"></trkpt>
+        <trkpt lat="48.3325564" lon="2.9785516"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

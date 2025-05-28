@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Réservoirs</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.343225</time>
+</metadata>
+<trk>
+    <name>Chemin des Réservoirs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.856967" lon="2.2385264"></trkpt>
+        <trkpt lat="48.856305" lon="2.2381752"></trkpt>
+        <trkpt lat="48.8555113" lon="2.237765"></trkpt>
+        <trkpt lat="48.8553924" lon="2.237708"></trkpt>
+        <trkpt lat="48.8553766" lon="2.237539"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

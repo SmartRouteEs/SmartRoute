@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Grande Gerbe</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.635164</time>
+</metadata>
+<trk>
+    <name>Allée de la Grande Gerbe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8372654" lon="2.2078962"></trkpt>
+        <trkpt lat="48.8372994" lon="2.2079402"></trkpt>
+        <trkpt lat="48.8382453" lon="2.2090698"></trkpt>
+        <trkpt lat="48.8386195" lon="2.2095493"></trkpt>
+        <trkpt lat="48.8398532" lon="2.2111651"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Affut</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.538228</time>
+</metadata>
+<trk>
+    <name>Route de l'Affut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3500839" lon="2.702767"></trkpt>
+        <trkpt lat="48.3500459" lon="2.702674"></trkpt>
+        <trkpt lat="48.3492283" lon="2.7020061"></trkpt>
+        <trkpt lat="48.3486832" lon="2.7009542"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

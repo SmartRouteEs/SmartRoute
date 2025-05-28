@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Face du Château de Croissy</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.750963</time>
+</metadata>
+<trk>
+    <name>Allée de Face du Château de Croissy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7948074" lon="2.6809323"></trkpt>
+        <trkpt lat="48.7946239" lon="2.6810733"></trkpt>
+        <trkpt lat="48.7940805" lon="2.6815146"></trkpt>
+        <trkpt lat="48.793436" lon="2.681978"></trkpt>
+        <trkpt lat="48.7931385" lon="2.6821224"></trkpt>
+        <trkpt lat="48.7921207" lon="2.6825344"></trkpt>
+        <trkpt lat="48.7918789" lon="2.6826225"></trkpt>
+        <trkpt lat="48.7908653" lon="2.6829919"></trkpt>
+        <trkpt lat="48.7904299" lon="2.6832151"></trkpt>
+        <trkpt lat="48.7902002" lon="2.6832473"></trkpt>
+        <trkpt lat="48.789989" lon="2.6833508"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

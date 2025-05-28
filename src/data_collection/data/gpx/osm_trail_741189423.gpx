@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bossa</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.830281</time>
+</metadata>
+<trk>
+    <name>Chemin du Bossa</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2543324" lon="2.6660285"></trkpt>
+        <trkpt lat="48.2543024" lon="2.6660939"></trkpt>
+        <trkpt lat="48.2544266" lon="2.6667523"></trkpt>
+        <trkpt lat="48.2545207" lon="2.6670192"></trkpt>
+        <trkpt lat="48.2548653" lon="2.6676451"></trkpt>
+        <trkpt lat="48.2553171" lon="2.6683591"></trkpt>
+        <trkpt lat="48.2556574" lon="2.6688032"></trkpt>
+        <trkpt lat="48.2559998" lon="2.6691482"></trkpt>
+        <trkpt lat="48.2561831" lon="2.6694445"></trkpt>
+        <trkpt lat="48.2563529" lon="2.6696607"></trkpt>
+        <trkpt lat="48.2564141" lon="2.6697272"></trkpt>
+        <trkpt lat="48.2566533" lon="2.6698519"></trkpt>
+        <trkpt lat="48.2572472" lon="2.6700292"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

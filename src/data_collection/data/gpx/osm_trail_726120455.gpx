@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Cèpe</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.706006</time>
+</metadata>
+<trk>
+    <name>Rue du Cèpe</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4500173" lon="2.7454148"></trkpt>
+        <trkpt lat="48.4498465" lon="2.7452033"></trkpt>
+        <trkpt lat="48.449367" lon="2.7446094"></trkpt>
+        <trkpt lat="48.4486903" lon="2.7438637"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

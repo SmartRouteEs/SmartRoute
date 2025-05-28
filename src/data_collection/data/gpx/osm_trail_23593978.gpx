@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Gare</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.533026</time>
+</metadata>
+<trk>
+    <name>Rue de la Gare</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6847076" lon="2.3192361"></trkpt>
+        <trkpt lat="48.6848254" lon="2.3188522"></trkpt>
+        <trkpt lat="48.6849312" lon="2.3185632"></trkpt>
+        <trkpt lat="48.6849688" lon="2.3184807"></trkpt>
+        <trkpt lat="48.68501" lon="2.3184297"></trkpt>
+        <trkpt lat="48.6850605" lon="2.3183861"></trkpt>
+        <trkpt lat="48.6851255" lon="2.3183466"></trkpt>
+        <trkpt lat="48.6852017" lon="2.318303"></trkpt>
+        <trkpt lat="48.6852496" lon="2.3182792"></trkpt>
+        <trkpt lat="48.6852919" lon="2.3182582"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

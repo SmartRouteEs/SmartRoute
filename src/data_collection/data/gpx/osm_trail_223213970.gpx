@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Ridois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.499778</time>
+</metadata>
+<trk>
+    <name>Chemin du Ridois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7065572" lon="2.2686937"></trkpt>
+        <trkpt lat="48.7069451" lon="2.2681219"></trkpt>
+        <trkpt lat="48.7070668" lon="2.2679425"></trkpt>
+        <trkpt lat="48.7071738" lon="2.2677453"></trkpt>
+        <trkpt lat="48.7072639" lon="2.2675831"></trkpt>
+        <trkpt lat="48.7072959" lon="2.2674777"></trkpt>
+        <trkpt lat="48.7073219" lon="2.2673383"></trkpt>
+        <trkpt lat="48.7073364" lon="2.2672138"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

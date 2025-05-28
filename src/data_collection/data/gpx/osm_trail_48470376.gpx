@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Frévoir</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Route du Frévoir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3685581" lon="2.6781671"></trkpt>
+        <trkpt lat="48.3659689" lon="2.6752181"></trkpt>
+        <trkpt lat="48.3615983" lon="2.6693197"></trkpt>
+        <trkpt lat="48.3614032" lon="2.6690564"></trkpt>
+        <trkpt lat="48.3613499" lon="2.668987"></trkpt>
+        <trkpt lat="48.3612747" lon="2.6688889"></trkpt>
+        <trkpt lat="48.3573145" lon="2.6638518"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

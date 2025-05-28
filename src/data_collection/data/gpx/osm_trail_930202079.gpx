@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>La Tête à Guigui</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: 2</desc>
+    <time>2025-05-28T01:15:59.489129</time>
+</metadata>
+<trk>
+    <name>La Tête à Guigui</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7224328" lon="2.4834157"></trkpt>
+        <trkpt lat="48.7227677" lon="2.4836426"></trkpt>
+        <trkpt lat="48.7228426" lon="2.4837049"></trkpt>
+        <trkpt lat="48.7230119" lon="2.4838221"></trkpt>
+        <trkpt lat="48.723128" lon="2.4838515"></trkpt>
+        <trkpt lat="48.723215" lon="2.4837928"></trkpt>
+        <trkpt lat="48.72329" lon="2.4837305"></trkpt>
+        <trkpt lat="48.7233867" lon="2.4837488"></trkpt>
+        <trkpt lat="48.723486" lon="2.4838073"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

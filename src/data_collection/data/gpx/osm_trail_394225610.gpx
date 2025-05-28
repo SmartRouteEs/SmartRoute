@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Froidour</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.503185</time>
+</metadata>
+<trk>
+    <name>Route de Froidour</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3985692" lon="2.6615043"></trkpt>
+        <trkpt lat="48.3982139" lon="2.6614821"></trkpt>
+        <trkpt lat="48.3978207" lon="2.6614354"></trkpt>
+        <trkpt lat="48.3975786" lon="2.661387"></trkpt>
+        <trkpt lat="48.3972761" lon="2.661234"></trkpt>
+        <trkpt lat="48.3969379" lon="2.6609026"></trkpt>
+        <trkpt lat="48.396813" lon="2.6606761"></trkpt>
+        <trkpt lat="48.3963333" lon="2.6592559"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

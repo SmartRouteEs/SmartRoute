@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Belvédères</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:03.160909</time>
+</metadata>
+<trk>
+    <name>Sentier des Belvédères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3915658" lon="2.5478923"></trkpt>
+        <trkpt lat="48.3915922" lon="2.5480721"></trkpt>
+        <trkpt lat="48.3915965" lon="2.5482621"></trkpt>
+        <trkpt lat="48.3915486" lon="2.5485158"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

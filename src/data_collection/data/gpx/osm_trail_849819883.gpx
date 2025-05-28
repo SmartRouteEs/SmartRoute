@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Circuit des 25 Bosses</name>
+    <desc>Sentier VTT - Type: path - Surface: pebblestone - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.594703</time>
+</metadata>
+<trk>
+    <name>Circuit des 25 Bosses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3903753" lon="2.5204174"></trkpt>
+        <trkpt lat="48.3905488" lon="2.5206029"></trkpt>
+        <trkpt lat="48.3907293" lon="2.5206169"></trkpt>
+        <trkpt lat="48.390801" lon="2.5206129"></trkpt>
+        <trkpt lat="48.391102" lon="2.520596"></trkpt>
+        <trkpt lat="48.3912258" lon="2.5206745"></trkpt>
+        <trkpt lat="48.3914123" lon="2.5207928"></trkpt>
+        <trkpt lat="48.3914746" lon="2.5208483"></trkpt>
+        <trkpt lat="48.3917998" lon="2.5211616"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

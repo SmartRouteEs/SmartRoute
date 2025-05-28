@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Duplessis Mornay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.228364</time>
+</metadata>
+<trk>
+    <name>Rue Duplessis Mornay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4071912" lon="2.6822898"></trkpt>
+        <trkpt lat="48.4073448" lon="2.6817838"></trkpt>
+        <trkpt lat="48.4080451" lon="2.6798951"></trkpt>
+        <trkpt lat="48.4082561" lon="2.6792846"></trkpt>
+        <trkpt lat="48.4083411" lon="2.6790394"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

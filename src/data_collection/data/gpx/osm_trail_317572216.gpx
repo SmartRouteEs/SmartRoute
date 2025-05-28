@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Buttes</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.330862</time>
+</metadata>
+<trk>
+    <name>Sentier des Buttes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6668622" lon="2.6244643"></trkpt>
+        <trkpt lat="48.6667956" lon="2.6244792"></trkpt>
+        <trkpt lat="48.666599" lon="2.6247214"></trkpt>
+        <trkpt lat="48.6663917" lon="2.6248601"></trkpt>
+        <trkpt lat="48.6661209" lon="2.6247942"></trkpt>
+        <trkpt lat="48.6657968" lon="2.6247218"></trkpt>
+        <trkpt lat="48.6657312" lon="2.6247218"></trkpt>
+        <trkpt lat="48.6656639" lon="2.6247003"></trkpt>
+        <trkpt lat="48.6656019" lon="2.6246655"></trkpt>
+        <trkpt lat="48.6653316" lon="2.624443"></trkpt>
+        <trkpt lat="48.6649714" lon="2.6241555"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

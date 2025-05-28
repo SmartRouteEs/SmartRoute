@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 30476</name>
+    <desc>Sentier VTT - Type: path - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.373150</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 30476</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8184804" lon="2.8176928"></trkpt>
+        <trkpt lat="48.8185731" lon="2.8176713"></trkpt>
+        <trkpt lat="48.818895" lon="2.8176713"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

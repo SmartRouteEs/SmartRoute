@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois l'Huillier</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.046266</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois l'Huillier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8197518" lon="3.1574201"></trkpt>
+        <trkpt lat="48.8196218" lon="3.1573747"></trkpt>
+        <trkpt lat="48.8189931" lon="3.157714"></trkpt>
+        <trkpt lat="48.818853" lon="3.1577394"></trkpt>
+        <trkpt lat="48.8186805" lon="3.1572387"></trkpt>
+        <trkpt lat="48.8186798" lon="3.1570137"></trkpt>
+        <trkpt lat="48.8188901" lon="3.1568474"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Trois Noyers</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.178899</time>
+</metadata>
+<trk>
+    <name>Chemin des Trois Noyers</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5612128" lon="2.6785277"></trkpt>
+        <trkpt lat="48.5615323" lon="2.6788482"></trkpt>
+        <trkpt lat="48.5615593" lon="2.6791673"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

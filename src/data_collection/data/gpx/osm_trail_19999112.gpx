@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Milly</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.424845</time>
+</metadata>
+<trk>
+    <name>Route de Milly</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3902255" lon="2.6373968"></trkpt>
+        <trkpt lat="48.3902018" lon="2.6375996"></trkpt>
+        <trkpt lat="48.3899208" lon="2.6400055"></trkpt>
+        <trkpt lat="48.3898552" lon="2.6407428"></trkpt>
+        <trkpt lat="48.3896889" lon="2.6421154"></trkpt>
+        <trkpt lat="48.3896443" lon="2.6430306"></trkpt>
+        <trkpt lat="48.3894762" lon="2.6443371"></trkpt>
+        <trkpt lat="48.3892612" lon="2.6457601"></trkpt>
+        <trkpt lat="48.3890607" lon="2.6469137"></trkpt>
+        <trkpt lat="48.3888293" lon="2.6484337"></trkpt>
+        <trkpt lat="48.3887327" lon="2.6490556"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

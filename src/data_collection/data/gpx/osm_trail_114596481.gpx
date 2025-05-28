@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Enfer</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.799278</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Enfer</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5162242" lon="2.3429811"></trkpt>
+        <trkpt lat="48.5161931" lon="2.3429043"></trkpt>
+        <trkpt lat="48.51619" lon="2.3428406"></trkpt>
+        <trkpt lat="48.5161545" lon="2.3428084"></trkpt>
+        <trkpt lat="48.5159954" lon="2.3423428"></trkpt>
+        <trkpt lat="48.5156879" lon="2.3414317"></trkpt>
+        <trkpt lat="48.5153993" lon="2.3405648"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

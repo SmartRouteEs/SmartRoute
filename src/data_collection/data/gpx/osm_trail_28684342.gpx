@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Villeray</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.663664</time>
+</metadata>
+<trk>
+    <name>Allée de Villeray</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6087077" lon="2.5061146"></trkpt>
+        <trkpt lat="48.608534" lon="2.506213"></trkpt>
+        <trkpt lat="48.6078564" lon="2.5065971"></trkpt>
+        <trkpt lat="48.6077135" lon="2.5066855"></trkpt>
+        <trkpt lat="48.607357" lon="2.5069061"></trkpt>
+        <trkpt lat="48.6065239" lon="2.50732"></trkpt>
+        <trkpt lat="48.6059522" lon="2.5075545"></trkpt>
+        <trkpt lat="48.6054547" lon="2.5077584"></trkpt>
+        <trkpt lat="48.6052111" lon="2.5078583"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Roche à Vigné</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.812738</time>
+</metadata>
+<trk>
+    <name>Chemin de la Roche à Vigné</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4854496" lon="2.2110488"></trkpt>
+        <trkpt lat="48.4855434" lon="2.211284"></trkpt>
+        <trkpt lat="48.4856558" lon="2.2116578"></trkpt>
+        <trkpt lat="48.4858419" lon="2.2121404"></trkpt>
+        <trkpt lat="48.486085" lon="2.2124934"></trkpt>
+        <trkpt lat="48.4863268" lon="2.2127497"></trkpt>
+        <trkpt lat="48.4870167" lon="2.2133871"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

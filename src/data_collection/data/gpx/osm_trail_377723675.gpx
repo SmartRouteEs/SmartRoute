@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Côte aux Chiens</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.149480</time>
+</metadata>
+<trk>
+    <name>Rue de la Côte aux Chiens</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.822476" lon="2.9848306"></trkpt>
+        <trkpt lat="48.8224999" lon="2.9849406"></trkpt>
+        <trkpt lat="48.8225255" lon="2.9852571"></trkpt>
+        <trkpt lat="48.8225631" lon="2.9854714"></trkpt>
+        <trkpt lat="48.8226053" lon="2.9856683"></trkpt>
+        <trkpt lat="48.8226866" lon="2.9858824"></trkpt>
+        <trkpt lat="48.8226856" lon="2.9861355"></trkpt>
+        <trkpt lat="48.8227062" lon="2.9866013"></trkpt>
+        <trkpt lat="48.8227267" lon="2.9868998"></trkpt>
+        <trkpt lat="48.8227165" lon="2.9871592"></trkpt>
+        <trkpt lat="48.8226804" lon="2.9874108"></trkpt>
+        <trkpt lat="48.8226156" lon="2.9877952"></trkpt>
+        <trkpt lat="48.8225621" lon="2.9880343"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

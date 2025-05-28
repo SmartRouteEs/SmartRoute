@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Ferrandière</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.497314</time>
+</metadata>
+<trk>
+    <name>Allée de la Ferrandière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8006845" lon="2.6968833"></trkpt>
+        <trkpt lat="48.8038027" lon="2.7004903"></trkpt>
+        <trkpt lat="48.8039155" lon="2.7006206"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

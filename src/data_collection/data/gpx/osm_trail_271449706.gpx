@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Marsange</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.125599</time>
+</metadata>
+<trk>
+    <name>Chemin de la Marsange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7123315" lon="2.7444129"></trkpt>
+        <trkpt lat="48.712381" lon="2.7444719"></trkpt>
+        <trkpt lat="48.7125438" lon="2.7449762"></trkpt>
+        <trkpt lat="48.7129084" lon="2.7459951"></trkpt>
+        <trkpt lat="48.7132411" lon="2.7470683"></trkpt>
+        <trkpt lat="48.7135809" lon="2.7480014"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Guéroy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.250644</time>
+</metadata>
+<trk>
+    <name>Chemin de Guéroy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3517759" lon="2.8214378"></trkpt>
+        <trkpt lat="48.3517184" lon="2.8215323"></trkpt>
+        <trkpt lat="48.3516978" lon="2.8219424"></trkpt>
+        <trkpt lat="48.3517619" lon="2.822794"></trkpt>
+        <trkpt lat="48.3518252" lon="2.8235772"></trkpt>
+        <trkpt lat="48.351843" lon="2.8241123"></trkpt>
+        <trkpt lat="48.3518511" lon="2.8243577"></trkpt>
+        <trkpt lat="48.3519375" lon="2.82487"></trkpt>
+        <trkpt lat="48.3520864" lon="2.8258609"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

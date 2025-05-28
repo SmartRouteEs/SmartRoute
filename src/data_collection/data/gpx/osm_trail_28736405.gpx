@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Folie</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.670946</time>
+</metadata>
+<trk>
+    <name>Chemin de la Folie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6845882" lon="2.6632695"></trkpt>
+        <trkpt lat="48.6845439" lon="2.6630938"></trkpt>
+        <trkpt lat="48.6844986" lon="2.6629908"></trkpt>
+        <trkpt lat="48.6844079" lon="2.6628621"></trkpt>
+        <trkpt lat="48.6842946" lon="2.662699"></trkpt>
+        <trkpt lat="48.6831329" lon="2.6613171"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

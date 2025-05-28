@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Halage du Canal de l'Ourcq</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.434226</time>
+</metadata>
+<trk>
+    <name>Chemin de Halage du Canal de l'Ourcq</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9391437" lon="2.7558317"></trkpt>
+        <trkpt lat="48.9389745" lon="2.7561044"></trkpt>
+        <trkpt lat="48.9386157" lon="2.7566307"></trkpt>
+        <trkpt lat="48.9382882" lon="2.7568728"></trkpt>
+        <trkpt lat="48.9380267" lon="2.7569598"></trkpt>
+        <trkpt lat="48.9376926" lon="2.7568726"></trkpt>
+        <trkpt lat="48.9373702" lon="2.7567445"></trkpt>
+        <trkpt lat="48.9371413" lon="2.7566403"></trkpt>
+        <trkpt lat="48.9363078" lon="2.756216"></trkpt>
+        <trkpt lat="48.9362428" lon="2.7561814"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

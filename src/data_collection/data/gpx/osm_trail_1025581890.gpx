@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Lourps</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.577907</time>
+</metadata>
+<trk>
+    <name>Sentier de Lourps</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5107537" lon="3.2055908"></trkpt>
+        <trkpt lat="48.5108022" lon="3.2074942"></trkpt>
+        <trkpt lat="48.5107997" lon="3.2082018"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

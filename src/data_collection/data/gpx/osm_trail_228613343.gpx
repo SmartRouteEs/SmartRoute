@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Sud</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.607752</time>
+</metadata>
+<trk>
+    <name>Route du Sud</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3487109" lon="2.6905101"></trkpt>
+        <trkpt lat="48.3490531" lon="2.6900929"></trkpt>
+        <trkpt lat="48.3512518" lon="2.6896794"></trkpt>
+        <trkpt lat="48.3535743" lon="2.6892602"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

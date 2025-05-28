@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Voie Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.473512</time>
+</metadata>
+<trk>
+    <name>Route de la Voie Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7872874" lon="2.1852603"></trkpt>
+        <trkpt lat="48.787345" lon="2.1852685"></trkpt>
+        <trkpt lat="48.7874697" lon="2.1852862"></trkpt>
+        <trkpt lat="48.7885533" lon="2.1860125"></trkpt>
+        <trkpt lat="48.7890274" lon="2.186298"></trkpt>
+        <trkpt lat="48.7901299" lon="2.1870571"></trkpt>
+        <trkpt lat="48.791198" lon="2.187892"></trkpt>
+        <trkpt lat="48.7924722" lon="2.1888404"></trkpt>
+        <trkpt lat="48.7928629" lon="2.1891393"></trkpt>
+        <trkpt lat="48.7939643" lon="2.1899033"></trkpt>
+        <trkpt lat="48.7940689" lon="2.1899759"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

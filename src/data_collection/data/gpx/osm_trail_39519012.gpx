@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Vignes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.211227</time>
+</metadata>
+<trk>
+    <name>Rue des Vignes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8231082" lon="3.0802146"></trkpt>
+        <trkpt lat="48.823303" lon="3.0804422"></trkpt>
+        <trkpt lat="48.8235091" lon="3.0807037"></trkpt>
+        <trkpt lat="48.8236851" lon="3.0808918"></trkpt>
+        <trkpt lat="48.8238666" lon="3.081567"></trkpt>
+        <trkpt lat="48.8238243" lon="3.0820202"></trkpt>
+        <trkpt lat="48.8238447" lon="3.0825704"></trkpt>
+        <trkpt lat="48.8239263" lon="3.083148"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Plaine de Macherin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.993899</time>
+</metadata>
+<trk>
+    <name>Route de la Plaine de Macherin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4224119" lon="2.6306579"></trkpt>
+        <trkpt lat="48.4225211" lon="2.6319735"></trkpt>
+        <trkpt lat="48.4226635" lon="2.6336901"></trkpt>
+        <trkpt lat="48.4227888" lon="2.6356128"></trkpt>
+        <trkpt lat="48.4229768" lon="2.6374238"></trkpt>
+        <trkpt lat="48.4231519" lon="2.6385098"></trkpt>
+        <trkpt lat="48.4233299" lon="2.6395352"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

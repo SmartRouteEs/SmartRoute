@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Grand Sentier</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.224074</time>
+</metadata>
+<trk>
+    <name>Grand Sentier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7011911" lon="2.3797792"></trkpt>
+        <trkpt lat="48.7011169" lon="2.379909"></trkpt>
+        <trkpt lat="48.7010215" lon="2.3800324"></trkpt>
+        <trkpt lat="48.7009055" lon="2.3801568"></trkpt>
+        <trkpt lat="48.7008007" lon="2.380294"></trkpt>
+        <trkpt lat="48.7007239" lon="2.3803142"></trkpt>
+        <trkpt lat="48.7005618" lon="2.3804651"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

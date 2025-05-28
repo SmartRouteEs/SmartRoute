@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Metairie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.659118</time>
+</metadata>
+<trk>
+    <name>Chemin de la Metairie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3496658" lon="2.7148637"></trkpt>
+        <trkpt lat="48.3489083" lon="2.7134003"></trkpt>
+        <trkpt lat="48.3487449" lon="2.7131215"></trkpt>
+        <trkpt lat="48.348096" lon="2.7122015"></trkpt>
+        <trkpt lat="48.3478126" lon="2.7119386"></trkpt>
+        <trkpt lat="48.347297" lon="2.7111838"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

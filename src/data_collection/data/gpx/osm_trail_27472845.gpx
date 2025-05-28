@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Franqueville</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.605079</time>
+</metadata>
+<trk>
+    <name>Route de Franqueville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4700582" lon="2.7309269"></trkpt>
+        <trkpt lat="48.4724343" lon="2.7313585"></trkpt>
+        <trkpt lat="48.4742909" lon="2.7316705"></trkpt>
+        <trkpt lat="48.4763064" lon="2.7320418"></trkpt>
+        <trkpt lat="48.480796" lon="2.7328496"></trkpt>
+        <trkpt lat="48.48102" lon="2.732892"></trkpt>
+        <trkpt lat="48.4832897" lon="2.7333682"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

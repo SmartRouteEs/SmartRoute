@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Vieux Pavé de Paris</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.489129</time>
+</metadata>
+<trk>
+    <name>Chemin du Vieux Pavé de Paris</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7476872" lon="2.589272"></trkpt>
+        <trkpt lat="48.7475239" lon="2.5915559"></trkpt>
+        <trkpt lat="48.747472" lon="2.5923371"></trkpt>
+        <trkpt lat="48.7474692" lon="2.5923788"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

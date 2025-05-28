@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Grande Beauce</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.981241</time>
+</metadata>
+<trk>
+    <name>Chemin de la Grande Beauce</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5207368" lon="2.2462254"></trkpt>
+        <trkpt lat="48.5205764" lon="2.245981"></trkpt>
+        <trkpt lat="48.5204519" lon="2.2458599"></trkpt>
+        <trkpt lat="48.5202272" lon="2.2456351"></trkpt>
+        <trkpt lat="48.5200206" lon="2.2443235"></trkpt>
+        <trkpt lat="48.5200147" lon="2.2439552"></trkpt>
+        <trkpt lat="48.5196678" lon="2.2435674"></trkpt>
+        <trkpt lat="48.5198138" lon="2.2428921"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

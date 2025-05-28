@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Femmes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.504613</time>
+</metadata>
+<trk>
+    <name>Sentier des Femmes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2957208" lon="2.968115"></trkpt>
+        <trkpt lat="48.2954141" lon="2.967931"></trkpt>
+        <trkpt lat="48.2949958" lon="2.9676801"></trkpt>
+        <trkpt lat="48.2927391" lon="2.9657211"></trkpt>
+        <trkpt lat="48.291732" lon="2.9646074"></trkpt>
+        <trkpt lat="48.2903867" lon="2.9631422"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Empaumure</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.602893</time>
+</metadata>
+<trk>
+    <name>Route de l'Empaumure</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4694227" lon="2.6859147"></trkpt>
+        <trkpt lat="48.4693416" lon="2.6857595"></trkpt>
+        <trkpt lat="48.4678714" lon="2.6829451"></trkpt>
+        <trkpt lat="48.4678091" lon="2.6828535"></trkpt>
+        <trkpt lat="48.4669665" lon="2.6812961"></trkpt>
+        <trkpt lat="48.4668165" lon="2.6810189"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

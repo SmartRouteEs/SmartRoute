@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Le Nôtre</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.119265</time>
+</metadata>
+<trk>
+    <name>Allée Le Nôtre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7087211" lon="2.3185354"></trkpt>
+        <trkpt lat="48.7070145" lon="2.3166908"></trkpt>
+        <trkpt lat="48.706765" lon="2.3164094"></trkpt>
+        <trkpt lat="48.7059013" lon="2.3154574"></trkpt>
+        <trkpt lat="48.7057782" lon="2.315365"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

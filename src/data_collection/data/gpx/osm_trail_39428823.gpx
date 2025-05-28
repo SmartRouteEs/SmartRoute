@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Napoléon</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.211227</time>
+</metadata>
+<trk>
+    <name>Allée Napoléon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4036272" lon="2.7051907"></trkpt>
+        <trkpt lat="48.4038491" lon="2.7054935"></trkpt>
+        <trkpt lat="48.4039716" lon="2.7056606"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

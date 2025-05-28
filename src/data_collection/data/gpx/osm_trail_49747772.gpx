@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Promenade de l'Orge</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.846295</time>
+</metadata>
+<trk>
+    <name>Promenade de l'Orge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6993685" lon="2.3823645"></trkpt>
+        <trkpt lat="48.6992074" lon="2.3826968"></trkpt>
+        <trkpt lat="48.6991506" lon="2.3828146"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

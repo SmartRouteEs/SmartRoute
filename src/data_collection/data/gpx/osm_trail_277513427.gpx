@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Jars</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.209805</time>
+</metadata>
+<trk>
+    <name>Chemin des Jars</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4925736" lon="2.6899914"></trkpt>
+        <trkpt lat="48.4934117" lon="2.6885209"></trkpt>
+        <trkpt lat="48.4940161" lon="2.6875227"></trkpt>
+        <trkpt lat="48.494305" lon="2.6870721"></trkpt>
+        <trkpt lat="48.4944888" lon="2.6867409"></trkpt>
+        <trkpt lat="48.4945062" lon="2.6867096"></trkpt>
+        <trkpt lat="48.4945559" lon="2.6865881"></trkpt>
+        <trkpt lat="48.4945859" lon="2.6864965"></trkpt>
+        <trkpt lat="48.4945853" lon="2.6863754"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

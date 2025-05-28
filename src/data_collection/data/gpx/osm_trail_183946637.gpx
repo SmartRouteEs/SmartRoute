@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mernasse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.367917</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mernasse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3218999" lon="2.6496366"></trkpt>
+        <trkpt lat="48.3219043" lon="2.6497399"></trkpt>
+        <trkpt lat="48.3218669" lon="2.6501435"></trkpt>
+        <trkpt lat="48.3218446" lon="2.6505215"></trkpt>
+        <trkpt lat="48.3218427" lon="2.6506052"></trkpt>
+        <trkpt lat="48.3218472" lon="2.6506889"></trkpt>
+        <trkpt lat="48.321901" lon="2.6510816"></trkpt>
+        <trkpt lat="48.3220243" lon="2.6518411"></trkpt>
+        <trkpt lat="48.3222377" lon="2.6533247"></trkpt>
+        <trkpt lat="48.3222313" lon="2.6534209"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

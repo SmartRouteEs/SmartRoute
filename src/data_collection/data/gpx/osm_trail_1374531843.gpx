@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Ury à Franchard</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.851827</time>
+</metadata>
+<trk>
+    <name>Chemin d'Ury à Franchard</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3561861" lon="2.6089659"></trkpt>
+        <trkpt lat="48.3565291" lon="2.6090301"></trkpt>
+        <trkpt lat="48.3573411" lon="2.6089755"></trkpt>
+        <trkpt lat="48.3590084" lon="2.6090073"></trkpt>
+        <trkpt lat="48.3611231" lon="2.6090476"></trkpt>
+        <trkpt lat="48.361185" lon="2.6092551"></trkpt>
+        <trkpt lat="48.3612599" lon="2.6094653"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Ascoli Piceno</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.367601</time>
+</metadata>
+<trk>
+    <name>Allée Ascoli Piceno</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7298652" lon="2.2591536"></trkpt>
+        <trkpt lat="48.7296134" lon="2.2588236"></trkpt>
+        <trkpt lat="48.729492" lon="2.2587528"></trkpt>
+        <trkpt lat="48.7293646" lon="2.2586996"></trkpt>
+        <trkpt lat="48.729329" lon="2.2586904"></trkpt>
+        <trkpt lat="48.7292427" lon="2.2586683"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Chêne aux Chapons</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.884537</time>
+</metadata>
+<trk>
+    <name>Route du Chêne aux Chapons</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3632895" lon="2.6299946"></trkpt>
+        <trkpt lat="48.3633687" lon="2.6302417"></trkpt>
+        <trkpt lat="48.3636279" lon="2.6313457"></trkpt>
+        <trkpt lat="48.3648592" lon="2.6360388"></trkpt>
+        <trkpt lat="48.3654489" lon="2.6381332"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Forage</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.515186</time>
+</metadata>
+<trk>
+    <name>Rue du Forage</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2086547" lon="2.3512364"></trkpt>
+        <trkpt lat="48.2090914" lon="2.3512709"></trkpt>
+        <trkpt lat="48.2095745" lon="2.3512368"></trkpt>
+        <trkpt lat="48.2099757" lon="2.3512248"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

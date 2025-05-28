@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Fonceaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.678627</time>
+</metadata>
+<trk>
+    <name>Chemin des Fonceaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3354726" lon="2.3776977"></trkpt>
+        <trkpt lat="48.3363054" lon="2.3790272"></trkpt>
+        <trkpt lat="48.3370182" lon="2.3795818"></trkpt>
+        <trkpt lat="48.33769" lon="2.3805061"></trkpt>
+        <trkpt lat="48.3380349" lon="2.381421"></trkpt>
+        <trkpt lat="48.3380776" lon="2.3815342"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

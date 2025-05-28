@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mare aux Cadets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.806713</time>
+</metadata>
+<trk>
+    <name>Route de la Mare aux Cadets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4316601" lon="2.8111964"></trkpt>
+        <trkpt lat="48.4311827" lon="2.8181575"></trkpt>
+        <trkpt lat="48.4311369" lon="2.8188246"></trkpt>
+        <trkpt lat="48.4308878" lon="2.8226066"></trkpt>
+        <trkpt lat="48.4305745" lon="2.8241193"></trkpt>
+        <trkpt lat="48.4303538" lon="2.8254175"></trkpt>
+        <trkpt lat="48.4301616" lon="2.8276062"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

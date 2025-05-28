@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Noire</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.473512</time>
+</metadata>
+<trk>
+    <name>Allée Noire</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7929624" lon="2.1961093"></trkpt>
+        <trkpt lat="48.792665" lon="2.1975936"></trkpt>
+        <trkpt lat="48.7921354" lon="2.2003506"></trkpt>
+        <trkpt lat="48.7913312" lon="2.2045545"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

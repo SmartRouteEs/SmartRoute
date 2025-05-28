@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue Migneaux</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.411534</time>
+</metadata>
+<trk>
+    <name>Rue Migneaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7028732" lon="2.2807235"></trkpt>
+        <trkpt lat="48.7027963" lon="2.2807615"></trkpt>
+        <trkpt lat="48.7027339" lon="2.2807489"></trkpt>
+        <trkpt lat="48.7017845" lon="2.2800062"></trkpt>
+        <trkpt lat="48.7016978" lon="2.279923"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

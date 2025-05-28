@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Bel-Air</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.001931</time>
+</metadata>
+<trk>
+    <name>Route de Bel-Air</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.411211" lon="2.599024"></trkpt>
+        <trkpt lat="48.411277" lon="2.599298"></trkpt>
+        <trkpt lat="48.411391" lon="2.599955"></trkpt>
+        <trkpt lat="48.411488" lon="2.600681"></trkpt>
+        <trkpt lat="48.411804" lon="2.602411"></trkpt>
+        <trkpt lat="48.411827" lon="2.602843"></trkpt>
+        <trkpt lat="48.411994" lon="2.603664"></trkpt>
+        <trkpt lat="48.41214" lon="2.604521"></trkpt>
+        <trkpt lat="48.412775" lon="2.608588"></trkpt>
+        <trkpt lat="48.4127935" lon="2.608837"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

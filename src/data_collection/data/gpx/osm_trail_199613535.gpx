@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Jean Hamburger</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.781412</time>
+</metadata>
+<trk>
+    <name>Allée Jean Hamburger</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6378402" lon="2.4237889"></trkpt>
+        <trkpt lat="48.6378013" lon="2.423676"></trkpt>
+        <trkpt lat="48.6376293" lon="2.4233428"></trkpt>
+        <trkpt lat="48.6370307" lon="2.4221835"></trkpt>
+        <trkpt lat="48.6371294" lon="2.4209993"></trkpt>
+        <trkpt lat="48.6369376" lon="2.420624"></trkpt>
+        <trkpt lat="48.6367814" lon="2.4203082"></trkpt>
+        <trkpt lat="48.6359149" lon="2.4201551"></trkpt>
+        <trkpt lat="48.6355879" lon="2.4194729"></trkpt>
+        <trkpt lat="48.6355098" lon="2.4193101"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

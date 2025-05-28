@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Belles Filles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.439322</time>
+</metadata>
+<trk>
+    <name>Chemin des Belles Filles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4991614" lon="2.1963488"></trkpt>
+        <trkpt lat="48.5000319" lon="2.1964374"></trkpt>
+        <trkpt lat="48.5007152" lon="2.1964754"></trkpt>
+        <trkpt lat="48.5011225" lon="2.196394"></trkpt>
+        <trkpt lat="48.5017205" lon="2.1960859"></trkpt>
+        <trkpt lat="48.5020295" lon="2.1959011"></trkpt>
+        <trkpt lat="48.5026227" lon="2.19542"></trkpt>
+        <trkpt lat="48.502883" lon="2.1952089"></trkpt>
+        <trkpt lat="48.5034277" lon="2.1947123"></trkpt>
+        <trkpt lat="48.5040869" lon="2.1940323"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

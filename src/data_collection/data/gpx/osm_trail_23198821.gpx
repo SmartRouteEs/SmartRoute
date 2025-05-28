@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Plaine de Chanfroy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.522722</time>
+</metadata>
+<trk>
+    <name>Chemin de la Plaine de Chanfroy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4023375" lon="2.5580237"></trkpt>
+        <trkpt lat="48.4023213" lon="2.5575349"></trkpt>
+        <trkpt lat="48.4022566" lon="2.5567728"></trkpt>
+        <trkpt lat="48.402196" lon="2.5563195"></trkpt>
+        <trkpt lat="48.4021127" lon="2.5558522"></trkpt>
+        <trkpt lat="48.4020903" lon="2.5556552"></trkpt>
+        <trkpt lat="48.4020734" lon="2.5556327"></trkpt>
+        <trkpt lat="48.4020351" lon="2.5556109"></trkpt>
+        <trkpt lat="48.4019905" lon="2.5556026"></trkpt>
+        <trkpt lat="48.401546" lon="2.5556261"></trkpt>
+        <trkpt lat="48.400522" lon="2.5556178"></trkpt>
+        <trkpt lat="48.4005043" lon="2.5563828"></trkpt>
+        <trkpt lat="48.4002762" lon="2.5585491"></trkpt>
+        <trkpt lat="48.4002338" lon="2.5589284"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Bois</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.619512</time>
+</metadata>
+<trk>
+    <name>Allée des Bois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8356579" lon="2.6148071"></trkpt>
+        <trkpt lat="48.8360342" lon="2.614908"></trkpt>
+        <trkpt lat="48.8370003" lon="2.6151483"></trkpt>
+        <trkpt lat="48.8379602" lon="2.6153562"></trkpt>
+        <trkpt lat="48.8385229" lon="2.6154629"></trkpt>
+        <trkpt lat="48.8386986" lon="2.6154962"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

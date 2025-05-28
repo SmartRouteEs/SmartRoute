@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Fontaine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.726393</time>
+</metadata>
+<trk>
+    <name>Route de la Fontaine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4256801" lon="2.68561"></trkpt>
+        <trkpt lat="48.4249417" lon="2.6854107"></trkpt>
+        <trkpt lat="48.4247833" lon="2.6853907"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

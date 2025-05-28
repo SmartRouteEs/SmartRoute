@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cahouettes</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.345736</time>
+</metadata>
+<trk>
+    <name>Chemin des Cahouettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8683034" lon="2.5066017"></trkpt>
+        <trkpt lat="48.868272" lon="2.5071154"></trkpt>
+        <trkpt lat="48.8682465" lon="2.5071431"></trkpt>
+        <trkpt lat="48.8667605" lon="2.5066186"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

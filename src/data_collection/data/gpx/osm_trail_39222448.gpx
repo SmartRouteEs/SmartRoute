@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de l'Aubépine</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.211227</time>
+</metadata>
+<trk>
+    <name>Allée de l'Aubépine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5637709" lon="2.4265244"></trkpt>
+        <trkpt lat="48.5638599" lon="2.4264574"></trkpt>
+        <trkpt lat="48.5655556" lon="2.4255519"></trkpt>
+        <trkpt lat="48.5664995" lon="2.4250321"></trkpt>
+        <trkpt lat="48.5666043" lon="2.4249603"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

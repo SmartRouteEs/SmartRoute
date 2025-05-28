@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Mottes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.901473</time>
+</metadata>
+<trk>
+    <name>Sentier des Mottes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3834744" lon="2.8203932"></trkpt>
+        <trkpt lat="48.3832481" lon="2.8205693"></trkpt>
+        <trkpt lat="48.3830031" lon="2.8206776"></trkpt>
+        <trkpt lat="48.3827198" lon="2.8209236"></trkpt>
+        <trkpt lat="48.3823002" lon="2.8212488"></trkpt>
+        <trkpt lat="48.3821259" lon="2.8213166"></trkpt>
+        <trkpt lat="48.381892" lon="2.821459"></trkpt>
+        <trkpt lat="48.3813894" lon="2.8218014"></trkpt>
+        <trkpt lat="48.3810395" lon="2.822018"></trkpt>
+        <trkpt lat="48.3807959" lon="2.8222008"></trkpt>
+        <trkpt lat="48.3805694" lon="2.8224127"></trkpt>
+        <trkpt lat="48.3803329" lon="2.8226111"></trkpt>
+        <trkpt lat="48.380221" lon="2.8226781"></trkpt>
+        <trkpt lat="48.3800512" lon="2.8226546"></trkpt>
+        <trkpt lat="48.3797398" lon="2.8228538"></trkpt>
+        <trkpt lat="48.3794921" lon="2.8230399"></trkpt>
+        <trkpt lat="48.379304" lon="2.8232326"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

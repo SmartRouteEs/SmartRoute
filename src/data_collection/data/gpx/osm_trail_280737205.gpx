@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin des Meunières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.279962</time>
+</metadata>
+<trk>
+    <name>chemin des Meunières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9095455" lon="3.136967"></trkpt>
+        <trkpt lat="48.9095255" lon="3.1370179"></trkpt>
+        <trkpt lat="48.9084797" lon="3.1447141"></trkpt>
+        <trkpt lat="48.9083321" lon="3.1457733"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

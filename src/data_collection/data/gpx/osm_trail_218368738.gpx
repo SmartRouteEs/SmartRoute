@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mare Adam</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.174116</time>
+</metadata>
+<trk>
+    <name>Route de la Mare Adam</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7998714" lon="2.2198831"></trkpt>
+        <trkpt lat="48.7998566" lon="2.2207468"></trkpt>
+        <trkpt lat="48.7998555" lon="2.2208136"></trkpt>
+        <trkpt lat="48.7998353" lon="2.221989"></trkpt>
+        <trkpt lat="48.7998324" lon="2.2221585"></trkpt>
+        <trkpt lat="48.7998279" lon="2.2224223"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

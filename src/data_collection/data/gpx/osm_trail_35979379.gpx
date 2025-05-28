@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Saulx</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.049878</time>
+</metadata>
+<trk>
+    <name>Route Saulx</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4042782" lon="2.6141775"></trkpt>
+        <trkpt lat="48.4058353" lon="2.6149743"></trkpt>
+        <trkpt lat="48.4064713" lon="2.6149044"></trkpt>
+        <trkpt lat="48.4067253" lon="2.6148265"></trkpt>
+        <trkpt lat="48.4069855" lon="2.6146013"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

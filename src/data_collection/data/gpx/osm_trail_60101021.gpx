@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Circuit de la Branche</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.044338</time>
+</metadata>
+<trk>
+    <name>Circuit de la Branche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8323506" lon="2.1908185"></trkpt>
+        <trkpt lat="48.8321053" lon="2.1908988"></trkpt>
+        <trkpt lat="48.8320436" lon="2.1909022"></trkpt>
+        <trkpt lat="48.8318454" lon="2.1907958"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

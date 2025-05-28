@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Le Chemin des Morts</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.580436</time>
+</metadata>
+<trk>
+    <name>Le Chemin des Morts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3352197" lon="2.3702384"></trkpt>
+        <trkpt lat="48.3351982" lon="2.3701568"></trkpt>
+        <trkpt lat="48.3351495" lon="2.3695669"></trkpt>
+        <trkpt lat="48.335044" lon="2.368878"></trkpt>
+        <trkpt lat="48.3350101" lon="2.3684792"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Capucins</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.669011</time>
+</metadata>
+<trk>
+    <name>Route des Capucins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8147235" lon="2.2218532"></trkpt>
+        <trkpt lat="48.8145197" lon="2.2222507"></trkpt>
+        <trkpt lat="48.8143053" lon="2.2226877"></trkpt>
+        <trkpt lat="48.8138509" lon="2.2232845"></trkpt>
+        <trkpt lat="48.813533" lon="2.2237753"></trkpt>
+        <trkpt lat="48.8129693" lon="2.2248323"></trkpt>
+        <trkpt lat="48.8126905" lon="2.2252977"></trkpt>
+        <trkpt lat="48.8118049" lon="2.2266012"></trkpt>
+        <trkpt lat="48.8115267" lon="2.2270106"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

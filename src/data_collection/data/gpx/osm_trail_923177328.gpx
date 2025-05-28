@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Étoile de Villarceau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.430769</time>
+</metadata>
+<trk>
+    <name>Étoile de Villarceau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7597019" lon="2.6202049"></trkpt>
+        <trkpt lat="48.7597878" lon="2.6199468"></trkpt>
+        <trkpt lat="48.7598882" lon="2.6197944"></trkpt>
+        <trkpt lat="48.7599259" lon="2.6196935"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

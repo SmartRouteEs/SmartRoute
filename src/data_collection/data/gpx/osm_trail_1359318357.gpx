@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Choqueuse</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.730480</time>
+</metadata>
+<trk>
+    <name>Route de Choqueuse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.887167" lon="3.1111324"></trkpt>
+        <trkpt lat="48.887089" lon="3.1117522"></trkpt>
+        <trkpt lat="48.8870858" lon="3.1121114"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

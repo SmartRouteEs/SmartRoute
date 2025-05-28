@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vieille Grange</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.301575</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vieille Grange</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4097872" lon="2.5358179"></trkpt>
+        <trkpt lat="48.4098635" lon="2.5351959"></trkpt>
+        <trkpt lat="48.4100092" lon="2.5343522"></trkpt>
+        <trkpt lat="48.4101711" lon="2.5329459"></trkpt>
+        <trkpt lat="48.4102892" lon="2.5321296"></trkpt>
+        <trkpt lat="48.4103689" lon="2.5315569"></trkpt>
+        <trkpt lat="48.4103962" lon="2.5311714"></trkpt>
+        <trkpt lat="48.4104387" lon="2.5308473"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

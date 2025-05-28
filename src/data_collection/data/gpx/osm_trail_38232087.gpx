@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Hexagone</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.112504</time>
+</metadata>
+<trk>
+    <name>Route de l'Hexagone</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4463788" lon="2.7046881"></trkpt>
+        <trkpt lat="48.4473881" lon="2.7061455"></trkpt>
+        <trkpt lat="48.4480253" lon="2.7070045"></trkpt>
+        <trkpt lat="48.4481025" lon="2.7071496"></trkpt>
+        <trkpt lat="48.4480632" lon="2.7074331"></trkpt>
+        <trkpt lat="48.4475252" lon="2.7105763"></trkpt>
+        <trkpt lat="48.44749" lon="2.7107583"></trkpt>
+        <trkpt lat="48.4461829" lon="2.7119986"></trkpt>
+        <trkpt lat="48.4453548" lon="2.712719"></trkpt>
+        <trkpt lat="48.4440849" lon="2.7115091"></trkpt>
+        <trkpt lat="48.4434415" lon="2.7101708"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

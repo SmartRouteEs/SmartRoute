@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Petite Voie</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.259624</time>
+</metadata>
+<trk>
+    <name>Chemin de la Petite Voie</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5193524" lon="3.2694127"></trkpt>
+        <trkpt lat="48.5197495" lon="3.2688934"></trkpt>
+        <trkpt lat="48.520178" lon="3.2685366"></trkpt>
+        <trkpt lat="48.5208969" lon="3.2677049"></trkpt>
+        <trkpt lat="48.521472" lon="3.267045"></trkpt>
+        <trkpt lat="48.5215774" lon="3.2670386"></trkpt>
+        <trkpt lat="48.5222777" lon="3.2673911"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

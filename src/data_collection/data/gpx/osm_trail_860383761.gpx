@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cerceaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.617800</time>
+</metadata>
+<trk>
+    <name>Chemin des Cerceaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1475529" lon="3.185075"></trkpt>
+        <trkpt lat="48.1468525" lon="3.1852238"></trkpt>
+        <trkpt lat="48.1466383" lon="3.1853046"></trkpt>
+        <trkpt lat="48.1464588" lon="3.1854547"></trkpt>
+        <trkpt lat="48.1462243" lon="3.185806"></trkpt>
+        <trkpt lat="48.1459399" lon="3.1862533"></trkpt>
+        <trkpt lat="48.1453669" lon="3.1874812"></trkpt>
+        <trkpt lat="48.1447769" lon="3.1885747"></trkpt>
+        <trkpt lat="48.1446143" lon="3.1888102"></trkpt>
+        <trkpt lat="48.1441301" lon="3.1898038"></trkpt>
+        <trkpt lat="48.1439931" lon="3.1901851"></trkpt>
+        <trkpt lat="48.1439061" lon="3.1904754"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

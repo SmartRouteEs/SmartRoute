@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route aux Vaches</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.112504</time>
+</metadata>
+<trk>
+    <name>Route aux Vaches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7611479" lon="2.2583535"></trkpt>
+        <trkpt lat="48.7612518" lon="2.2575965"></trkpt>
+        <trkpt lat="48.7613482" lon="2.2568482"></trkpt>
+        <trkpt lat="48.7614625" lon="2.2553182"></trkpt>
+        <trkpt lat="48.7614018" lon="2.2550152"></trkpt>
+        <trkpt lat="48.7612879" lon="2.2547829"></trkpt>
+        <trkpt lat="48.7611423" lon="2.2544735"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

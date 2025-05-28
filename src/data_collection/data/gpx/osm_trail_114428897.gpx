@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 5603</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.799278</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 5603</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7960891" lon="2.2556565"></trkpt>
+        <trkpt lat="48.7961829" lon="2.255567"></trkpt>
+        <trkpt lat="48.7962186" lon="2.2555329"></trkpt>
+        <trkpt lat="48.7964381" lon="2.2556542"></trkpt>
+        <trkpt lat="48.7966506" lon="2.2557486"></trkpt>
+        <trkpt lat="48.7967651" lon="2.2558299"></trkpt>
+        <trkpt lat="48.7968988" lon="2.2559272"></trkpt>
+        <trkpt lat="48.7970927" lon="2.2560402"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Rural de Claye-Souilly à Villevaudé</name>
+    <desc>Sentier VTT - Type: path - Surface: earth - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:59.439394</time>
+</metadata>
+<trk>
+    <name>Chemin Rural de Claye-Souilly à Villevaudé</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9278222" lon="2.667529"></trkpt>
+        <trkpt lat="48.9274538" lon="2.6668052"></trkpt>
+        <trkpt lat="48.9270972" lon="2.6662654"></trkpt>
+        <trkpt lat="48.9266899" lon="2.6660014"></trkpt>
+        <trkpt lat="48.9260915" lon="2.6657433"></trkpt>
+        <trkpt lat="48.9257602" lon="2.6654852"></trkpt>
+        <trkpt lat="48.9257433" lon="2.6654659"></trkpt>
+        <trkpt lat="48.9257041" lon="2.665421"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

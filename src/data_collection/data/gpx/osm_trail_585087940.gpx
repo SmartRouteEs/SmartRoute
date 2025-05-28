@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de La Sapinière</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.435504</time>
+</metadata>
+<trk>
+    <name>Chemin de La Sapinière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3999998" lon="2.5454178"></trkpt>
+        <trkpt lat="48.400053" lon="2.544967"></trkpt>
+        <trkpt lat="48.400128" lon="2.544664"></trkpt>
+        <trkpt lat="48.400175" lon="2.544392"></trkpt>
+        <trkpt lat="48.4002236" lon="2.5440969"></trkpt>
+        <trkpt lat="48.4002214" lon="2.5439502"></trkpt>
+        <trkpt lat="48.4001971" lon="2.5438701"></trkpt>
+        <trkpt lat="48.4001893" lon="2.5437741"></trkpt>
+        <trkpt lat="48.4002017" lon="2.5432697"></trkpt>
+        <trkpt lat="48.4002332" lon="2.5428098"></trkpt>
+        <trkpt lat="48.4003367" lon="2.5423601"></trkpt>
+        <trkpt lat="48.4003653" lon="2.5421265"></trkpt>
+        <trkpt lat="48.4003961" lon="2.5418746"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

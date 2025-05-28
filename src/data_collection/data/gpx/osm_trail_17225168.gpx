@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Fontainebleau à Montigny</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.384216</time>
+</metadata>
+<trk>
+    <name>Route de Fontainebleau à Montigny</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3559993" lon="2.7388567"></trkpt>
+        <trkpt lat="48.3552571" lon="2.7394431"></trkpt>
+        <trkpt lat="48.3548237" lon="2.7394752"></trkpt>
+        <trkpt lat="48.3536077" lon="2.7401066"></trkpt>
+        <trkpt lat="48.3533215" lon="2.7400279"></trkpt>
+        <trkpt lat="48.3531222" lon="2.7399915"></trkpt>
+        <trkpt lat="48.3526629" lon="2.7403354"></trkpt>
+        <trkpt lat="48.351736" lon="2.7403565"></trkpt>
+        <trkpt lat="48.3515153" lon="2.7404219"></trkpt>
+        <trkpt lat="48.351411" lon="2.7403593"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

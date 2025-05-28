@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Porte Rouge</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.187029</time>
+</metadata>
+<trk>
+    <name>Allée de la Porte Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4044194" lon="2.7175867"></trkpt>
+        <trkpt lat="48.4037337" lon="2.7155765"></trkpt>
+        <trkpt lat="48.4030408" lon="2.7135173"></trkpt>
+        <trkpt lat="48.4022849" lon="2.7113036"></trkpt>
+        <trkpt lat="48.401556" lon="2.7091692"></trkpt>
+        <trkpt lat="48.4013284" lon="2.7085069"></trkpt>
+        <trkpt lat="48.4009607" lon="2.707403"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

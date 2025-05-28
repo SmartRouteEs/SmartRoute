@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Petits Feuillards</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.216430</time>
+</metadata>
+<trk>
+    <name>Route des Petits Feuillards</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3881917" lon="2.6374151"></trkpt>
+        <trkpt lat="48.3885921" lon="2.6408335"></trkpt>
+        <trkpt lat="48.387935" lon="2.6422582"></trkpt>
+        <trkpt lat="48.3882882" lon="2.6447336"></trkpt>
+        <trkpt lat="48.3885766" lon="2.646698"></trkpt>
+        <trkpt lat="48.3888293" lon="2.6484337"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

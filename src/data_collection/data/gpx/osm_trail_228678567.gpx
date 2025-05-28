@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Genièvres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.607752</time>
+</metadata>
+<trk>
+    <name>Chemin des Genièvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1525885" lon="2.4427189"></trkpt>
+        <trkpt lat="48.1533657" lon="2.4436249"></trkpt>
+        <trkpt lat="48.153449" lon="2.4436857"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

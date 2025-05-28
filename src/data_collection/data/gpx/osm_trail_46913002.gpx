@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Meillottes</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.522485</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Meillottes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6739045" lon="2.4446331"></trkpt>
+        <trkpt lat="48.6733152" lon="2.4447316"></trkpt>
+        <trkpt lat="48.6727183" lon="2.444753"></trkpt>
+        <trkpt lat="48.6715299" lon="2.4448041"></trkpt>
+        <trkpt lat="48.6687044" lon="2.4449174"></trkpt>
+        <trkpt lat="48.6686954" lon="2.4449197"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

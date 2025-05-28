@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Chouette</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.347464</time>
+</metadata>
+<trk>
+    <name>Chemin de la Chouette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4636296" lon="2.4350426"></trkpt>
+        <trkpt lat="48.4636092" lon="2.4351106"></trkpt>
+        <trkpt lat="48.4635692" lon="2.4351674"></trkpt>
+        <trkpt lat="48.4634673" lon="2.4352443"></trkpt>
+        <trkpt lat="48.4633553" lon="2.4353737"></trkpt>
+        <trkpt lat="48.4632979" lon="2.4354534"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

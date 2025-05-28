@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Meute</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.177583</time>
+</metadata>
+<trk>
+    <name>Route de la Meute</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3760585" lon="2.7641204"></trkpt>
+        <trkpt lat="48.3761762" lon="2.7647423"></trkpt>
+        <trkpt lat="48.3765843" lon="2.7664785"></trkpt>
+        <trkpt lat="48.3768685" lon="2.7667948"></trkpt>
+        <trkpt lat="48.377615" lon="2.7673841"></trkpt>
+        <trkpt lat="48.3779186" lon="2.7679776"></trkpt>
+        <trkpt lat="48.3780124" lon="2.7680991"></trkpt>
+        <trkpt lat="48.3794671" lon="2.7711957"></trkpt>
+        <trkpt lat="48.3810587" lon="2.7745814"></trkpt>
+        <trkpt lat="48.3810786" lon="2.7746261"></trkpt>
+        <trkpt lat="48.381118" lon="2.7747147"></trkpt>
+        <trkpt lat="48.3811595" lon="2.7747987"></trkpt>
+        <trkpt lat="48.3812172" lon="2.774942"></trkpt>
+        <trkpt lat="48.3813771" lon="2.7752498"></trkpt>
+        <trkpt lat="48.3826713" lon="2.7782123"></trkpt>
+        <trkpt lat="48.3827045" lon="2.7782979"></trkpt>
+        <trkpt lat="48.3827563" lon="2.7784312"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 6860</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.268620</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 6860</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5121385" lon="2.2236824"></trkpt>
+        <trkpt lat="48.5121818" lon="2.223367"></trkpt>
+        <trkpt lat="48.5122298" lon="2.2230717"></trkpt>
+        <trkpt lat="48.512276" lon="2.2229308"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

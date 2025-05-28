@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Creuses</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.721747</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Creuses</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6725132" lon="2.4299164"></trkpt>
+        <trkpt lat="48.6725719" lon="2.4299196"></trkpt>
+        <trkpt lat="48.673942" lon="2.4299847"></trkpt>
+        <trkpt lat="48.6756057" lon="2.4300637"></trkpt>
+        <trkpt lat="48.6769963" lon="2.4301299"></trkpt>
+        <trkpt lat="48.6797215" lon="2.4301945"></trkpt>
+        <trkpt lat="48.6804363" lon="2.430235"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

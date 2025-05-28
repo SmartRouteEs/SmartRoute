@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de Chaville</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.058693</time>
+</metadata>
+<trk>
+    <name>Allée de Chaville</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7973214" lon="2.1902416"></trkpt>
+        <trkpt lat="48.796665" lon="2.1911361"></trkpt>
+        <trkpt lat="48.7963189" lon="2.1915857"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

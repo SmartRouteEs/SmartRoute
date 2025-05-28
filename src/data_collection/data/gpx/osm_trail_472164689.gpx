@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de l'Épinette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.481586</time>
+</metadata>
+<trk>
+    <name>Chemin de l'Épinette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7321741" lon="2.9809695"></trkpt>
+        <trkpt lat="48.732106" lon="2.9811706"></trkpt>
+        <trkpt lat="48.7321113" lon="2.9818197"></trkpt>
+        <trkpt lat="48.7321201" lon="2.9837912"></trkpt>
+        <trkpt lat="48.7321836" lon="2.9892609"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

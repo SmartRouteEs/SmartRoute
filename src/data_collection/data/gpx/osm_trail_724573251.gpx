@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Jardins</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.689412</time>
+</metadata>
+<trk>
+    <name>Sentier des Jardins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7825089" lon="2.3365785"></trkpt>
+        <trkpt lat="48.782413" lon="2.3365195"></trkpt>
+        <trkpt lat="48.7821367" lon="2.3364282"></trkpt>
+        <trkpt lat="48.7818979" lon="2.3363537"></trkpt>
+        <trkpt lat="48.781618" lon="2.3362475"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

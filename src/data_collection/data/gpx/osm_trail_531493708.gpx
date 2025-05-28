@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Vauboyen à Versailles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.914587</time>
+</metadata>
+<trk>
+    <name>Chemin de Vauboyen à Versailles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.764644" lon="2.1929924"></trkpt>
+        <trkpt lat="48.7647412" lon="2.1929097"></trkpt>
+        <trkpt lat="48.7650489" lon="2.1928722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

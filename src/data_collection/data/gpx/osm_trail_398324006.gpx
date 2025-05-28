@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Mauperthuis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.700146</time>
+</metadata>
+<trk>
+    <name>Chemin de Mauperthuis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8721235" lon="2.9678987"></trkpt>
+        <trkpt lat="48.8721031" lon="2.9679213"></trkpt>
+        <trkpt lat="48.8716711" lon="2.9684592"></trkpt>
+        <trkpt lat="48.8716092" lon="2.9685611"></trkpt>
+        <trkpt lat="48.8716247" lon="2.9686811"></trkpt>
+        <trkpt lat="48.8718745" lon="2.9691011"></trkpt>
+        <trkpt lat="48.8718824" lon="2.9691759"></trkpt>
+        <trkpt lat="48.8717695" lon="2.9693341"></trkpt>
+        <trkpt lat="48.8712817" lon="2.970517"></trkpt>
+        <trkpt lat="48.8703237" lon="2.9732797"></trkpt>
+        <trkpt lat="48.8641598" lon="2.9696882"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

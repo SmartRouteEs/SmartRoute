@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle des Jardins</name>
+    <desc>Sentier VTT - Type: path - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.964967</time>
+</metadata>
+<trk>
+    <name>Ruelle des Jardins</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6338121" lon="2.4465909"></trkpt>
+        <trkpt lat="48.633493" lon="2.446901"></trkpt>
+        <trkpt lat="48.6330325" lon="2.4474102"></trkpt>
+        <trkpt lat="48.6330874" lon="2.44754"></trkpt>
+        <trkpt lat="48.6326457" lon="2.4481643"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

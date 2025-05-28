@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grands Marais</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.798525</time>
+</metadata>
+<trk>
+    <name>Chemin des Grands Marais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5200958" lon="2.3592397"></trkpt>
+        <trkpt lat="48.5197224" lon="2.3591852"></trkpt>
+        <trkpt lat="48.5190934" lon="2.3591182"></trkpt>
+        <trkpt lat="48.5183952" lon="2.3593529"></trkpt>
+        <trkpt lat="48.5176748" lon="2.3597753"></trkpt>
+        <trkpt lat="48.5175913" lon="2.3602179"></trkpt>
+        <trkpt lat="48.5174136" lon="2.3603104"></trkpt>
+        <trkpt lat="48.5167767" lon="2.3608267"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

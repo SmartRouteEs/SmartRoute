@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Mont Fessas</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.263684</time>
+</metadata>
+<trk>
+    <name>Route du Mont Fessas</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4082395" lon="2.6687021"></trkpt>
+        <trkpt lat="48.4074817" lon="2.6693577"></trkpt>
+        <trkpt lat="48.4074141" lon="2.6694086"></trkpt>
+        <trkpt lat="48.4062312" lon="2.6683922"></trkpt>
+        <trkpt lat="48.4048174" lon="2.6679871"></trkpt>
+        <trkpt lat="48.4004243" lon="2.6673359"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

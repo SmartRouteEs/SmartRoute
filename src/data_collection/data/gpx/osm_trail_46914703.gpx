@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Champrosay</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:45.530684</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Champrosay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6626895" lon="2.4275897"></trkpt>
+        <trkpt lat="48.6626537" lon="2.4276292"></trkpt>
+        <trkpt lat="48.6625946" lon="2.4276994"></trkpt>
+        <trkpt lat="48.6624455" lon="2.4279713"></trkpt>
+        <trkpt lat="48.6624522" lon="2.4296179"></trkpt>
+        <trkpt lat="48.6624182" lon="2.430612"></trkpt>
+        <trkpt lat="48.6622459" lon="2.437103"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 30661</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.458734</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 30661</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7027865" lon="3.2881442"></trkpt>
+        <trkpt lat="48.7056187" lon="3.2883561"></trkpt>
+        <trkpt lat="48.7066718" lon="3.2884231"></trkpt>
+        <trkpt lat="48.7067513" lon="3.2884898"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Grands Genièvres</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.345736</time>
+</metadata>
+<trk>
+    <name>Route des Grands Genièvres</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3755621" lon="2.6674971"></trkpt>
+        <trkpt lat="48.3753614" lon="2.6684634"></trkpt>
+        <trkpt lat="48.3752053" lon="2.6690729"></trkpt>
+        <trkpt lat="48.3749108" lon="2.6706542"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

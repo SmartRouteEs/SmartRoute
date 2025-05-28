@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8086</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:47.928459</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8086</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5467799" lon="2.4630689"></trkpt>
+        <trkpt lat="48.5480595" lon="2.4642822"></trkpt>
+        <trkpt lat="48.549011" lon="2.4651907"></trkpt>
+        <trkpt lat="48.5496327" lon="2.4657098"></trkpt>
+        <trkpt lat="48.549889" lon="2.465965"></trkpt>
+        <trkpt lat="48.55098" lon="2.467066"></trkpt>
+        <trkpt lat="48.5513378" lon="2.4673801"></trkpt>
+        <trkpt lat="48.5519198" lon="2.4676749"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

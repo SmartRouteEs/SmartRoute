@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Buttes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.373150</time>
+</metadata>
+<trk>
+    <name>Rue des Buttes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8472585" lon="2.893323"></trkpt>
+        <trkpt lat="48.8474748" lon="2.8924486"></trkpt>
+        <trkpt lat="48.847916" lon="2.8907078"></trkpt>
+        <trkpt lat="48.8481684" lon="2.8899729"></trkpt>
+        <trkpt lat="48.8483416" lon="2.8894413"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

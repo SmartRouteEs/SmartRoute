@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cabanes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.210410</time>
+</metadata>
+<trk>
+    <name>Chemin des Cabanes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3033924" lon="2.6223292"></trkpt>
+        <trkpt lat="48.3014163" lon="2.6242526"></trkpt>
+        <trkpt lat="48.3001708" lon="2.6254607"></trkpt>
+        <trkpt lat="48.2999194" lon="2.6257096"></trkpt>
+        <trkpt lat="48.2982059" lon="2.6278304"></trkpt>
+        <trkpt lat="48.2973694" lon="2.6288829"></trkpt>
+        <trkpt lat="48.2971291" lon="2.6291853"></trkpt>
+        <trkpt lat="48.2933117" lon="2.6338231"></trkpt>
+        <trkpt lat="48.2911458" lon="2.6365285"></trkpt>
+        <trkpt lat="48.2909085" lon="2.6367812"></trkpt>
+        <trkpt lat="48.2889156" lon="2.6391076"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

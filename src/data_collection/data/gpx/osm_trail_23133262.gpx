@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue des Houdarts</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.506514</time>
+</metadata>
+<trk>
+    <name>Rue des Houdarts</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4977705" lon="2.4694992"></trkpt>
+        <trkpt lat="48.4977726" lon="2.469581"></trkpt>
+        <trkpt lat="48.4978219" lon="2.469885"></trkpt>
+        <trkpt lat="48.4978485" lon="2.4699985"></trkpt>
+        <trkpt lat="48.4978812" lon="2.4701014"></trkpt>
+        <trkpt lat="48.4979196" lon="2.4701961"></trkpt>
+        <trkpt lat="48.4979424" lon="2.4702387"></trkpt>
+        <trkpt lat="48.4979832" lon="2.470315"></trkpt>
+        <trkpt lat="48.4980603" lon="2.4704256"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

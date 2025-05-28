@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tendresse</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.514473</time>
+</metadata>
+<trk>
+    <name>Route de la Tendresse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3783591" lon="2.6663296"></trkpt>
+        <trkpt lat="48.3781485" lon="2.6669659"></trkpt>
+        <trkpt lat="48.3781059" lon="2.6673657"></trkpt>
+        <trkpt lat="48.377593" lon="2.6689242"></trkpt>
+        <trkpt lat="48.3774203" lon="2.6696687"></trkpt>
+        <trkpt lat="48.3770671" lon="2.6702951"></trkpt>
+        <trkpt lat="48.3767351" lon="2.6708754"></trkpt>
+        <trkpt lat="48.3763362" lon="2.6714636"></trkpt>
+        <trkpt lat="48.3745382" lon="2.673241"></trkpt>
+        <trkpt lat="48.3742341" lon="2.6735457"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

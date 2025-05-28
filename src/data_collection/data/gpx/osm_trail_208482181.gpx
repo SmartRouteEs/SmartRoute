@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Petit Rocher</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.800000</time>
+</metadata>
+<trk>
+    <name>Chemin du Petit Rocher</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5040515" lon="2.3534287"></trkpt>
+        <trkpt lat="48.504811" lon="2.3492381"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

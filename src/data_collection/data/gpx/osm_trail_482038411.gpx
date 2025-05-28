@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Martyrs de la Résistance</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.543147</time>
+</metadata>
+<trk>
+    <name>Chemin des Martyrs de la Résistance</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7742324" lon="2.2637599"></trkpt>
+        <trkpt lat="48.7743764" lon="2.2639287"></trkpt>
+        <trkpt lat="48.7744241" lon="2.2640301"></trkpt>
+        <trkpt lat="48.7744684" lon="2.2641245"></trkpt>
+        <trkpt lat="48.7745282" lon="2.2642952"></trkpt>
+        <trkpt lat="48.7745547" lon="2.2644729"></trkpt>
+        <trkpt lat="48.7745614" lon="2.2645182"></trkpt>
+        <trkpt lat="48.7745491" lon="2.2648501"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

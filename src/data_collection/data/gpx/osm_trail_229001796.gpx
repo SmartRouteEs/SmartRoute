@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Ruelle Montpertuis</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.617215</time>
+</metadata>
+<trk>
+    <name>Chemin de la Ruelle Montpertuis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4978056" lon="2.3659756"></trkpt>
+        <trkpt lat="48.4977657" lon="2.366106"></trkpt>
+        <trkpt lat="48.4977327" lon="2.3662168"></trkpt>
+        <trkpt lat="48.4975482" lon="2.3668727"></trkpt>
+        <trkpt lat="48.4974457" lon="2.3672159"></trkpt>
+        <trkpt lat="48.49739" lon="2.3673939"></trkpt>
+        <trkpt lat="48.4973171" lon="2.3676202"></trkpt>
+        <trkpt lat="48.4971919" lon="2.3679427"></trkpt>
+        <trkpt lat="48.4970061" lon="2.3684141"></trkpt>
+        <trkpt lat="48.4968398" lon="2.3689088"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

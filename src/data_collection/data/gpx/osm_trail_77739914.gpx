@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Haut de Vaux</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.163674</time>
+</metadata>
+<trk>
+    <name>Chemin du Haut de Vaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4458478" lon="2.7743611"></trkpt>
+        <trkpt lat="48.4460222" lon="2.774168"></trkpt>
+        <trkpt lat="48.4462926" lon="2.7729717"></trkpt>
+        <trkpt lat="48.4464242" lon="2.7726177"></trkpt>
+        <trkpt lat="48.4464723" lon="2.7722918"></trkpt>
+        <trkpt lat="48.4467988" lon="2.7715904"></trkpt>
+        <trkpt lat="48.4468592" lon="2.7716172"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

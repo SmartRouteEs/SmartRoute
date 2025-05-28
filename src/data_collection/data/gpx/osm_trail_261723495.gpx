@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Sénart</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.768641</time>
+</metadata>
+<trk>
+    <name>Chemin de Sénart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.642155" lon="2.4815108"></trkpt>
+        <trkpt lat="48.6421748" lon="2.4818462"></trkpt>
+        <trkpt lat="48.6422014" lon="2.4823934"></trkpt>
+        <trkpt lat="48.6421943" lon="2.4835173"></trkpt>
+        <trkpt lat="48.6422174" lon="2.4850434"></trkpt>
+        <trkpt lat="48.6422495" lon="2.4856916"></trkpt>
+        <trkpt lat="48.6423058" lon="2.4859721"></trkpt>
+        <trkpt lat="48.6423733" lon="2.4862343"></trkpt>
+        <trkpt lat="48.6434179" lon="2.4898554"></trkpt>
+        <trkpt lat="48.6445205" lon="2.4920918"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

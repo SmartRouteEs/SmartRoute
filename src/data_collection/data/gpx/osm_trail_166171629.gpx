@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Vieux Chemin de Jouarre</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.870574</time>
+</metadata>
+<trk>
+    <name>Vieux Chemin de Jouarre</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9000192" lon="2.9525871"></trkpt>
+        <trkpt lat="48.9000416" lon="2.9524786"></trkpt>
+        <trkpt lat="48.900091" lon="2.9521889"></trkpt>
+        <trkpt lat="48.9000839" lon="2.9518885"></trkpt>
+        <trkpt lat="48.899957" lon="2.9509444"></trkpt>
+        <trkpt lat="48.8995969" lon="2.9482837"></trkpt>
+        <trkpt lat="48.8994911" lon="2.946449"></trkpt>
+        <trkpt lat="48.8995123" lon="2.9460413"></trkpt>
+        <trkpt lat="48.8995194" lon="2.9451079"></trkpt>
+        <trkpt lat="48.8996114" lon="2.9443033"></trkpt>
+        <trkpt lat="48.8998224" lon="2.9428427"></trkpt>
+        <trkpt lat="48.8999898" lon="2.9413226"></trkpt>
+        <trkpt lat="48.9000343" lon="2.9409233"></trkpt>
+        <trkpt lat="48.9000404" lon="2.9405124"></trkpt>
+        <trkpt lat="48.8999621" lon="2.9398562"></trkpt>
+        <trkpt lat="48.8998163" lon="2.9395083"></trkpt>
+        <trkpt lat="48.8996725" lon="2.9393068"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

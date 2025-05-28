@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Muguet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.554481</time>
+</metadata>
+<trk>
+    <name>Chemin du Muguet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.66535" lon="2.1931226"></trkpt>
+        <trkpt lat="48.6657928" lon="2.1935825"></trkpt>
+        <trkpt lat="48.6662079" lon="2.1941283"></trkpt>
+        <trkpt lat="48.666215" lon="2.194257"></trkpt>
+        <trkpt lat="48.6662575" lon="2.1945467"></trkpt>
+        <trkpt lat="48.6660095" lon="2.1952441"></trkpt>
+        <trkpt lat="48.6657827" lon="2.1953085"></trkpt>
+        <trkpt lat="48.6653293" lon="2.1950188"></trkpt>
+        <trkpt lat="48.6649353" lon="2.1947462"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

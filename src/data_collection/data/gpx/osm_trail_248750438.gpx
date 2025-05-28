@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Trou Morvan</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.596246</time>
+</metadata>
+<trk>
+    <name>Route du Trou Morvan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7608329" lon="2.2469948"></trkpt>
+        <trkpt lat="48.7608972" lon="2.2471201"></trkpt>
+        <trkpt lat="48.7609896" lon="2.2473267"></trkpt>
+        <trkpt lat="48.7611648" lon="2.2477389"></trkpt>
+        <trkpt lat="48.7613568" lon="2.2482276"></trkpt>
+        <trkpt lat="48.7615343" lon="2.248739"></trkpt>
+        <trkpt lat="48.7616711" lon="2.2491023"></trkpt>
+        <trkpt lat="48.7617256" lon="2.2492673"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

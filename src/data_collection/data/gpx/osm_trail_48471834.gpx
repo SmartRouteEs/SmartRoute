@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Nid du Corbeau</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.651256</time>
+</metadata>
+<trk>
+    <name>Route du Nid du Corbeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3606738" lon="2.6386293"></trkpt>
+        <trkpt lat="48.3639772" lon="2.6365681"></trkpt>
+        <trkpt lat="48.3648592" lon="2.6360388"></trkpt>
+        <trkpt lat="48.3663507" lon="2.6345348"></trkpt>
+        <trkpt lat="48.3664314" lon="2.6344535"></trkpt>
+        <trkpt lat="48.3678369" lon="2.6287872"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

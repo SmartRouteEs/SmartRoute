@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Intendant</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.030805</time>
+</metadata>
+<trk>
+    <name>Route de l'Intendant</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4058397" lon="2.6230705"></trkpt>
+        <trkpt lat="48.4056551" lon="2.6228595"></trkpt>
+        <trkpt lat="48.4053466" lon="2.6226736"></trkpt>
+        <trkpt lat="48.404946" lon="2.6227455"></trkpt>
+        <trkpt lat="48.4047458" lon="2.6229595"></trkpt>
+        <trkpt lat="48.4038262" lon="2.6240989"></trkpt>
+        <trkpt lat="48.401982" lon="2.6247658"></trkpt>
+        <trkpt lat="48.4004134" lon="2.625365"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

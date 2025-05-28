@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Chariot d'Or</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.906371</time>
+</metadata>
+<trk>
+    <name>Rue du Chariot d'Or</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6814387" lon="2.3099728"></trkpt>
+        <trkpt lat="48.6811326" lon="2.3097627"></trkpt>
+        <trkpt lat="48.6810202" lon="2.3096923"></trkpt>
+        <trkpt lat="48.680848" lon="2.309639"></trkpt>
+        <trkpt lat="48.6806683" lon="2.3096222"></trkpt>
+        <trkpt lat="48.6804461" lon="2.309639"></trkpt>
+        <trkpt lat="48.6802072" lon="2.3096895"></trkpt>
+        <trkpt lat="48.6800107" lon="2.3097664"></trkpt>
+        <trkpt lat="48.6799726" lon="2.3097755"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

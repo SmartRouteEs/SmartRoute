@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Bruyères</name>
+    <desc>Sentier VTT - Type: track - Surface: paved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.623749</time>
+</metadata>
+<trk>
+    <name>Route des Bruyères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.583268" lon="2.5140713"></trkpt>
+        <trkpt lat="48.5843192" lon="2.5143997"></trkpt>
+        <trkpt lat="48.5844707" lon="2.5144458"></trkpt>
+        <trkpt lat="48.5845583" lon="2.5144853"></trkpt>
+        <trkpt lat="48.5846347" lon="2.5145577"></trkpt>
+        <trkpt lat="48.584682" lon="2.5146361"></trkpt>
+        <trkpt lat="48.5847297" lon="2.5147791"></trkpt>
+        <trkpt lat="48.5847607" lon="2.5149407"></trkpt>
+        <trkpt lat="48.584777" lon="2.5151202"></trkpt>
+        <trkpt lat="48.5847891" lon="2.5155879"></trkpt>
+        <trkpt lat="48.5848139" lon="2.5165426"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

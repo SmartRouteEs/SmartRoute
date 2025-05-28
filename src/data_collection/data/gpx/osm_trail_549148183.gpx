@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare aux Aulnettes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.168048</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare aux Aulnettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5156235" lon="2.6855199"></trkpt>
+        <trkpt lat="48.5156236" lon="2.6857656"></trkpt>
+        <trkpt lat="48.5155916" lon="2.6860312"></trkpt>
+        <trkpt lat="48.5156005" lon="2.6865998"></trkpt>
+        <trkpt lat="48.5157657" lon="2.6866722"></trkpt>
+        <trkpt lat="48.5158031" lon="2.6868921"></trkpt>
+        <trkpt lat="48.5157728" lon="2.6873213"></trkpt>
+        <trkpt lat="48.515567" lon="2.6883001"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

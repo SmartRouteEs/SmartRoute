@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 8081</name>
+    <desc>Sentier VTT - Type: path - Surface: concrete - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.926786</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 8081</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9427855" lon="2.3200168"></trkpt>
+        <trkpt lat="48.9425226" lon="2.3198519"></trkpt>
+        <trkpt lat="48.9425051" lon="2.3198418"></trkpt>
+        <trkpt lat="48.9424885" lon="2.3198319"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Bocteau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.687964</time>
+</metadata>
+<trk>
+    <name>Allée du Bocteau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2678177" lon="3.1327765"></trkpt>
+        <trkpt lat="48.2677678" lon="3.1328476"></trkpt>
+        <trkpt lat="48.2674805" lon="3.1330358"></trkpt>
+        <trkpt lat="48.2672861" lon="3.1331267"></trkpt>
+        <trkpt lat="48.2672011" lon="3.1331524"></trkpt>
+        <trkpt lat="48.2669967" lon="3.1332143"></trkpt>
+        <trkpt lat="48.2668714" lon="3.1332792"></trkpt>
+        <trkpt lat="48.2666144" lon="3.133568"></trkpt>
+        <trkpt lat="48.2665884" lon="3.1336524"></trkpt>
+        <trkpt lat="48.2664048" lon="3.1348465"></trkpt>
+        <trkpt lat="48.2664065" lon="3.1348565"></trkpt>
+        <trkpt lat="48.266415" lon="3.1349077"></trkpt>
+        <trkpt lat="48.2664778" lon="3.1349404"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

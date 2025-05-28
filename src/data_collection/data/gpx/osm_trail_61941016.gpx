@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 4079</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.068956</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 4079</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5547181" lon="2.297734"></trkpt>
+        <trkpt lat="48.555036" lon="2.2967752"></trkpt>
+        <trkpt lat="48.5552459" lon="2.2961419"></trkpt>
+        <trkpt lat="48.5554357" lon="2.2955695"></trkpt>
+        <trkpt lat="48.5554651" lon="2.2950504"></trkpt>
+        <trkpt lat="48.5541703" lon="2.2940446"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Vauboyen</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.981241</time>
+</metadata>
+<trk>
+    <name>Chemin de Vauboyen</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7601336" lon="2.1907846"></trkpt>
+        <trkpt lat="48.7600238" lon="2.1908255"></trkpt>
+        <trkpt lat="48.7599116" lon="2.1908539"></trkpt>
+        <trkpt lat="48.7598534" lon="2.1908659"></trkpt>
+        <trkpt lat="48.7598021" lon="2.190893"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

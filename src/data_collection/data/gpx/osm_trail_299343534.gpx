@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Reau</name>
+    <desc>Sentier VTT - Type: footway - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.838218</time>
+</metadata>
+<trk>
+    <name>Reau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5985952" lon="2.6225678"></trkpt>
+        <trkpt lat="48.5979119" lon="2.6226269"></trkpt>
+        <trkpt lat="48.5978226" lon="2.6227903"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

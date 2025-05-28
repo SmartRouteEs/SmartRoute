@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Tranchée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.384216</time>
+</metadata>
+<trk>
+    <name>Route de la Tranchée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3763384" lon="2.7394129"></trkpt>
+        <trkpt lat="48.3750872" lon="2.7375862"></trkpt>
+        <trkpt lat="48.3729161" lon="2.7348136"></trkpt>
+        <trkpt lat="48.3716918" lon="2.7335979"></trkpt>
+        <trkpt lat="48.3710971" lon="2.7332635"></trkpt>
+        <trkpt lat="48.3706022" lon="2.7327734"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

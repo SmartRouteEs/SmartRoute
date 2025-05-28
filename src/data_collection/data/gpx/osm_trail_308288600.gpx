@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Ruelle de la Planche</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.985952</time>
+</metadata>
+<trk>
+    <name>Ruelle de la Planche</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.65308" lon="2.6941039"></trkpt>
+        <trkpt lat="48.6535943" lon="2.6949352"></trkpt>
+        <trkpt lat="48.6540322" lon="2.6957119"></trkpt>
+        <trkpt lat="48.6542307" lon="2.6961768"></trkpt>
+        <trkpt lat="48.6543003" lon="2.6965383"></trkpt>
+        <trkpt lat="48.6543155" lon="2.6966174"></trkpt>
+        <trkpt lat="48.6543927" lon="2.6976878"></trkpt>
+        <trkpt lat="48.654421" lon="2.6979073"></trkpt>
+        <trkpt lat="48.6544658" lon="2.6981816"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Breuil</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.721672</time>
+</metadata>
+<trk>
+    <name>Chemin du Breuil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6726569" lon="2.5643505"></trkpt>
+        <trkpt lat="48.6726935" lon="2.5643034"></trkpt>
+        <trkpt lat="48.672861" lon="2.5640598"></trkpt>
+        <trkpt lat="48.673094" lon="2.5636364"></trkpt>
+        <trkpt lat="48.6732634" lon="2.5632818"></trkpt>
+        <trkpt lat="48.6733802" lon="2.5630339"></trkpt>
+        <trkpt lat="48.6735561" lon="2.5626197"></trkpt>
+        <trkpt lat="48.6737403" lon="2.5621838"></trkpt>
+        <trkpt lat="48.6739214" lon="2.5617741"></trkpt>
+        <trkpt lat="48.6740614" lon="2.561519"></trkpt>
+        <trkpt lat="48.6742793" lon="2.5611789"></trkpt>
+        <trkpt lat="48.6744562" lon="2.5609731"></trkpt>
+        <trkpt lat="48.674868" lon="2.5605706"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

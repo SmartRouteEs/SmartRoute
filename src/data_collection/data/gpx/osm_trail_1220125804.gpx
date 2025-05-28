@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Rocher de la Reine</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.182615</time>
+</metadata>
+<trk>
+    <name>Chemin du Rocher de la Reine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3942222" lon="2.5618777"></trkpt>
+        <trkpt lat="48.3941442" lon="2.5623718"></trkpt>
+        <trkpt lat="48.3940803" lon="2.5633899"></trkpt>
+        <trkpt lat="48.3940313" lon="2.5638425"></trkpt>
+        <trkpt lat="48.3939919" lon="2.5644617"></trkpt>
+        <trkpt lat="48.3939562" lon="2.5648499"></trkpt>
+        <trkpt lat="48.3939208" lon="2.5652279"></trkpt>
+        <trkpt lat="48.3938183" lon="2.56575"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

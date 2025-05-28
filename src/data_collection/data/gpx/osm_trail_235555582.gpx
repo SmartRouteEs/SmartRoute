@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Noyer Rouge</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.026948</time>
+</metadata>
+<trk>
+    <name>Chemin du Noyer Rouge</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.579113" lon="2.2648545"></trkpt>
+        <trkpt lat="48.5789557" lon="2.2650882"></trkpt>
+        <trkpt lat="48.5784868" lon="2.2658878"></trkpt>
+        <trkpt lat="48.5778253" lon="2.2670268"></trkpt>
+        <trkpt lat="48.5774855" lon="2.2678447"></trkpt>
+        <trkpt lat="48.5769996" lon="2.2696359"></trkpt>
+        <trkpt lat="48.5768906" lon="2.270387"></trkpt>
+        <trkpt lat="48.5768007" lon="2.2716986"></trkpt>
+        <trkpt lat="48.5767165" lon="2.2736107"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

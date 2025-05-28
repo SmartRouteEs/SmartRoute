@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bien Aller</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.185556</time>
+</metadata>
+<trk>
+    <name>Route du Bien Aller</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3733143" lon="2.7305301"></trkpt>
+        <trkpt lat="48.3734547" lon="2.7306857"></trkpt>
+        <trkpt lat="48.3744351" lon="2.7320407"></trkpt>
+        <trkpt lat="48.3770464" lon="2.7354498"></trkpt>
+        <trkpt lat="48.3778981" lon="2.7366144"></trkpt>
+        <trkpt lat="48.3779376" lon="2.7366702"></trkpt>
+        <trkpt lat="48.3780225" lon="2.7367979"></trkpt>
+        <trkpt lat="48.3787697" lon="2.7377842"></trkpt>
+        <trkpt lat="48.3796639" lon="2.7392942"></trkpt>
+        <trkpt lat="48.379976" lon="2.739873"></trkpt>
+        <trkpt lat="48.3801837" lon="2.7402532"></trkpt>
+        <trkpt lat="48.3819595" lon="2.743298"></trkpt>
+        <trkpt lat="48.3841216" lon="2.745914"></trkpt>
+        <trkpt lat="48.3850097" lon="2.7470563"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

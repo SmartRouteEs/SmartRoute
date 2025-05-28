@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route des Bois de Ferrières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.580436</time>
+</metadata>
+<trk>
+    <name>Route des Bois de Ferrières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.804654" lon="2.7391241"></trkpt>
+        <trkpt lat="48.8053776" lon="2.7384117"></trkpt>
+        <trkpt lat="48.8065647" lon="2.7370642"></trkpt>
+        <trkpt lat="48.8082048" lon="2.7353165"></trkpt>
+        <trkpt lat="48.8097302" lon="2.733691"></trkpt>
+        <trkpt lat="48.8103623" lon="2.7330385"></trkpt>
+        <trkpt lat="48.813065" lon="2.7301709"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

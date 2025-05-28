@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Tillots</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.525667</time>
+</metadata>
+<trk>
+    <name>Chemin des Tillots</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3424233" lon="3.0611741"></trkpt>
+        <trkpt lat="48.3423613" lon="3.0614166"></trkpt>
+        <trkpt lat="48.342305" lon="3.0616889"></trkpt>
+        <trkpt lat="48.3422513" lon="3.0619289"></trkpt>
+        <trkpt lat="48.3422074" lon="3.0622494"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

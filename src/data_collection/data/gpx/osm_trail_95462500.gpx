@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de l'Administrateur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.496501</time>
+</metadata>
+<trk>
+    <name>Allée de l'Administrateur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9111629" lon="2.5600709"></trkpt>
+        <trkpt lat="48.9123772" lon="2.5623218"></trkpt>
+        <trkpt lat="48.9126792" lon="2.5628765"></trkpt>
+        <trkpt lat="48.9129783" lon="2.5634194"></trkpt>
+        <trkpt lat="48.9130558" lon="2.5635601"></trkpt>
+        <trkpt lat="48.9132693" lon="2.5639497"></trkpt>
+        <trkpt lat="48.9134144" lon="2.5639796"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

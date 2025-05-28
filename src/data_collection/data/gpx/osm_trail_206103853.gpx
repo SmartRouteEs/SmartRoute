@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Coinmelle</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.647649</time>
+</metadata>
+<trk>
+    <name>Route de la Coinmelle</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4451179" lon="2.7325496"></trkpt>
+        <trkpt lat="48.4430608" lon="2.731308"></trkpt>
+        <trkpt lat="48.442695" lon="2.7310121"></trkpt>
+        <trkpt lat="48.4403473" lon="2.7293027"></trkpt>
+        <trkpt lat="48.4391224" lon="2.7285297"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

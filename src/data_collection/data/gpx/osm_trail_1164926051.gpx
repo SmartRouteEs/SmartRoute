@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Connexion spontannée</name>
+    <desc>Sentier VTT - Type: path - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.690688</time>
+</metadata>
+<trk>
+    <name>Connexion spontannée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6253637" lon="2.4215861"></trkpt>
+        <trkpt lat="48.6252744" lon="2.4214398"></trkpt>
+        <trkpt lat="48.6252328" lon="2.4214286"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

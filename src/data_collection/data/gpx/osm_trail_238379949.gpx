@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Saint-Germain</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.100150</time>
+</metadata>
+<trk>
+    <name>Chemin de Saint-Germain</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4046364" lon="2.2590975"></trkpt>
+        <trkpt lat="48.4047748" lon="2.2583611"></trkpt>
+        <trkpt lat="48.404859" lon="2.2578271"></trkpt>
+        <trkpt lat="48.4049293" lon="2.2571989"></trkpt>
+        <trkpt lat="48.4049821" lon="2.2569899"></trkpt>
+        <trkpt lat="48.4050798" lon="2.2566713"></trkpt>
+        <trkpt lat="48.4053009" lon="2.256078"></trkpt>
+        <trkpt lat="48.4054185" lon="2.2557033"></trkpt>
+        <trkpt lat="48.4055242" lon="2.2553065"></trkpt>
+        <trkpt lat="48.4056105" lon="2.2550104"></trkpt>
+        <trkpt lat="48.4060623" lon="2.254112"></trkpt>
+        <trkpt lat="48.406284" lon="2.2537016"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

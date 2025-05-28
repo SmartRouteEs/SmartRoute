@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Traverse de la Forêt de Sénart</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:46.916382</time>
+</metadata>
+<trk>
+    <name>Chemin de Traverse de la Forêt de Sénart</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6600284" lon="2.4930832"></trkpt>
+        <trkpt lat="48.6601442" lon="2.4930158"></trkpt>
+        <trkpt lat="48.6602925" lon="2.4929846"></trkpt>
+        <trkpt lat="48.6604345" lon="2.4929534"></trkpt>
+        <trkpt lat="48.6606425" lon="2.4928474"></trkpt>
+        <trkpt lat="48.6607413" lon="2.4927913"></trkpt>
+        <trkpt lat="48.6608443" lon="2.4927539"></trkpt>
+        <trkpt lat="48.6610502" lon="2.492729"></trkpt>
+        <trkpt lat="48.6612952" lon="2.4926947"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

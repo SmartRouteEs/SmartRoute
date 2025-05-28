@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Roi</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.709563</time>
+</metadata>
+<trk>
+    <name>Sentier du Roi</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4803791" lon="2.7322094"></trkpt>
+        <trkpt lat="48.480268" lon="2.7319667"></trkpt>
+        <trkpt lat="48.4801511" lon="2.7316815"></trkpt>
+        <trkpt lat="48.4800885" lon="2.7314671"></trkpt>
+        <trkpt lat="48.4800405" lon="2.7310773"></trkpt>
+        <trkpt lat="48.4799384" lon="2.7288474"></trkpt>
+        <trkpt lat="48.4798608" lon="2.7263586"></trkpt>
+        <trkpt lat="48.4798233" lon="2.725357"></trkpt>
+        <trkpt lat="48.4798063" lon="2.7250022"></trkpt>
+        <trkpt lat="48.4797951" lon="2.7244253"></trkpt>
+        <trkpt lat="48.4797078" lon="2.7222256"></trkpt>
+        <trkpt lat="48.4796259" lon="2.721513"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

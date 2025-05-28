@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Rivière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.512750</time>
+</metadata>
+<trk>
+    <name>Route de la Rivière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4088976" lon="2.760675"></trkpt>
+        <trkpt lat="48.4083956" lon="2.7589057"></trkpt>
+        <trkpt lat="48.4082724" lon="2.7579498"></trkpt>
+        <trkpt lat="48.408083" lon="2.7576929"></trkpt>
+        <trkpt lat="48.4055607" lon="2.7532163"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

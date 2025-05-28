@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint-Leu</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.578637</time>
+</metadata>
+<trk>
+    <name>Route de Saint-Leu</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7619704" lon="2.2533959"></trkpt>
+        <trkpt lat="48.762206" lon="2.2530914"></trkpt>
+        <trkpt lat="48.7624304" lon="2.2527994"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

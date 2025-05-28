@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois Notre-Dame</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.625634</time>
+</metadata>
+<trk>
+    <name>Route du Bois Notre-Dame</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4896323" lon="2.6541237"></trkpt>
+        <trkpt lat="48.489598" lon="2.654575"></trkpt>
+        <trkpt lat="48.4898326" lon="2.6555041"></trkpt>
+        <trkpt lat="48.4900163" lon="2.6564799"></trkpt>
+        <trkpt lat="48.4902922" lon="2.6592344"></trkpt>
+        <trkpt lat="48.4905564" lon="2.6624673"></trkpt>
+        <trkpt lat="48.490681" lon="2.6636699"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

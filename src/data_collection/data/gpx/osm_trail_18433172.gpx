@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Queue de Vache</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.392270</time>
+</metadata>
+<trk>
+    <name>Route de la Queue de Vache</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3879368" lon="2.6068767"></trkpt>
+        <trkpt lat="48.3884916" lon="2.602163"></trkpt>
+        <trkpt lat="48.389014" lon="2.5978318"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

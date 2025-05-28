@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Sables du Cul de Chien</name>
+    <desc>Sentier VTT - Type: track - Surface: sand - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.038216</time>
+</metadata>
+<trk>
+    <name>Chemin des Sables du Cul de Chien</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3729628" lon="2.5193747"></trkpt>
+        <trkpt lat="48.3730429" lon="2.5194135"></trkpt>
+        <trkpt lat="48.3730975" lon="2.5194726"></trkpt>
+        <trkpt lat="48.3733751" lon="2.5199467"></trkpt>
+        <trkpt lat="48.3734143" lon="2.5200234"></trkpt>
+        <trkpt lat="48.3735004" lon="2.5200463"></trkpt>
+        <trkpt lat="48.373557" lon="2.520106"></trkpt>
+        <trkpt lat="48.3738767" lon="2.5203032"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée des Dames</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.917992</time>
+</metadata>
+<trk>
+    <name>Allée des Dames</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8604453" lon="2.2600208"></trkpt>
+        <trkpt lat="48.8604528" lon="2.2602853"></trkpt>
+        <trkpt lat="48.8605187" lon="2.262888"></trkpt>
+        <trkpt lat="48.8605421" lon="2.2639132"></trkpt>
+        <trkpt lat="48.8605544" lon="2.2642699"></trkpt>
+        <trkpt lat="48.8605769" lon="2.2645864"></trkpt>
+        <trkpt lat="48.8605786" lon="2.2646359"></trkpt>
+        <trkpt lat="48.8605672" lon="2.2646787"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

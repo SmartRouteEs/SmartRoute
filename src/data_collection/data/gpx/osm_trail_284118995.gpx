@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier du Moulinet</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.338295</time>
+</metadata>
+<trk>
+    <name>Sentier du Moulinet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.793347" lon="2.5265376"></trkpt>
+        <trkpt lat="48.7935167" lon="2.5265671"></trkpt>
+        <trkpt lat="48.7938977" lon="2.5266771"></trkpt>
+        <trkpt lat="48.7945641" lon="2.5268398"></trkpt>
+        <trkpt lat="48.7950294" lon="2.5269446"></trkpt>
+        <trkpt lat="48.7951349" lon="2.5270148"></trkpt>
+        <trkpt lat="48.7953646" lon="2.527283"></trkpt>
+        <trkpt lat="48.7955253" lon="2.5273635"></trkpt>
+        <trkpt lat="48.7957077" lon="2.5273632"></trkpt>
+        <trkpt lat="48.7958511" lon="2.5273986"></trkpt>
+        <trkpt lat="48.7959192" lon="2.5274475"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

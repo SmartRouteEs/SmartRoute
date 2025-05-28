@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Brières-les-Scellés</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.891515</time>
+</metadata>
+<trk>
+    <name>Route de Brières-les-Scellés</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4057654" lon="2.2143545"></trkpt>
+        <trkpt lat="48.4053698" lon="2.2145261"></trkpt>
+        <trkpt lat="48.4052588" lon="2.2146169"></trkpt>
+        <trkpt lat="48.4047179" lon="2.2152192"></trkpt>
+        <trkpt lat="48.4044163" lon="2.2155187"></trkpt>
+        <trkpt lat="48.4030351" lon="2.2163227"></trkpt>
+        <trkpt lat="48.4026297" lon="2.2167171"></trkpt>
+        <trkpt lat="48.4022523" lon="2.2172807"></trkpt>
+        <trkpt lat="48.4021562" lon="2.2174858"></trkpt>
+        <trkpt lat="48.4019972" lon="2.2177746"></trkpt>
+        <trkpt lat="48.4016688" lon="2.2182759"></trkpt>
+        <trkpt lat="48.4011948" lon="2.218964"></trkpt>
+        <trkpt lat="48.4008893" lon="2.2193017"></trkpt>
+        <trkpt lat="48.4007278" lon="2.2194438"></trkpt>
+        <trkpt lat="48.4006759" lon="2.2194895"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

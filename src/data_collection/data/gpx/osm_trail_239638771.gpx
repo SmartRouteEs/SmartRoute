@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Main-Ferme</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.313318</time>
+</metadata>
+<trk>
+    <name>Chemin de la Main-Ferme</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.395898" lon="2.2970144"></trkpt>
+        <trkpt lat="48.3959141" lon="2.2972857"></trkpt>
+        <trkpt lat="48.3959742" lon="2.297882"></trkpt>
+        <trkpt lat="48.3960851" lon="2.2981968"></trkpt>
+        <trkpt lat="48.3968604" lon="2.2998452"></trkpt>
+        <trkpt lat="48.3973391" lon="2.3007421"></trkpt>
+        <trkpt lat="48.3975098" lon="2.3015162"></trkpt>
+        <trkpt lat="48.3976968" lon="2.302364"></trkpt>
+        <trkpt lat="48.3977942" lon="2.3026503"></trkpt>
+        <trkpt lat="48.3979254" lon="2.3028457"></trkpt>
+        <trkpt lat="48.3981207" lon="2.303065"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bas de l'Église</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.212825</time>
+</metadata>
+<trk>
+    <name>Chemin du Bas de l'Église</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1705984" lon="3.3804199"></trkpt>
+        <trkpt lat="48.1704664" lon="3.3806061"></trkpt>
+        <trkpt lat="48.1703998" lon="3.3808283"></trkpt>
+        <trkpt lat="48.1704712" lon="3.3809017"></trkpt>
+        <trkpt lat="48.1705643" lon="3.3808959"></trkpt>
+        <trkpt lat="48.1707865" lon="3.3808762"></trkpt>
+        <trkpt lat="48.1709285" lon="3.3808087"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

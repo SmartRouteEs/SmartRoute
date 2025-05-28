@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Piaz</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.345736</time>
+</metadata>
+<trk>
+    <name>Chemin de la Piaz</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3704915" lon="2.7982292"></trkpt>
+        <trkpt lat="48.370393" lon="2.7983123"></trkpt>
+        <trkpt lat="48.3702472" lon="2.7983844"></trkpt>
+        <trkpt lat="48.3696071" lon="2.7988326"></trkpt>
+        <trkpt lat="48.3695363" lon="2.7988779"></trkpt>
+        <trkpt lat="48.3694439" lon="2.7988168"></trkpt>
+        <trkpt lat="48.3692183" lon="2.7986119"></trkpt>
+        <trkpt lat="48.3690646" lon="2.7984652"></trkpt>
+        <trkpt lat="48.3690469" lon="2.7983106"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

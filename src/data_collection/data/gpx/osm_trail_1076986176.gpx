@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Mathilde</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.922370</time>
+</metadata>
+<trk>
+    <name>Allée Mathilde</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8134911" lon="2.6155724"></trkpt>
+        <trkpt lat="48.8133697" lon="2.6153944"></trkpt>
+        <trkpt lat="48.8132561" lon="2.6152811"></trkpt>
+        <trkpt lat="48.8130696" lon="2.6151463"></trkpt>
+        <trkpt lat="48.8127439" lon="2.6150112"></trkpt>
+        <trkpt lat="48.8126354" lon="2.6148932"></trkpt>
+        <trkpt lat="48.8125639" lon="2.614873"></trkpt>
+        <trkpt lat="48.8125185" lon="2.6148136"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

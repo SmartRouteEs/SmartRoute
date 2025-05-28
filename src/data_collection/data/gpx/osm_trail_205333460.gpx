@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Artisan</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.578610</time>
+</metadata>
+<trk>
+    <name>Route de l'Artisan</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4292711" lon="2.6461226"></trkpt>
+        <trkpt lat="48.4288123" lon="2.6463535"></trkpt>
+        <trkpt lat="48.4286679" lon="2.6464682"></trkpt>
+        <trkpt lat="48.4284985" lon="2.646827"></trkpt>
+        <trkpt lat="48.4283349" lon="2.6471705"></trkpt>
+        <trkpt lat="48.4282025" lon="2.6472981"></trkpt>
+        <trkpt lat="48.4280597" lon="2.6472975"></trkpt>
+        <trkpt lat="48.4275344" lon="2.6472101"></trkpt>
+        <trkpt lat="48.4273659" lon="2.6472553"></trkpt>
+        <trkpt lat="48.4272108" lon="2.6474073"></trkpt>
+        <trkpt lat="48.4271284" lon="2.6473629"></trkpt>
+        <trkpt lat="48.4270445" lon="2.6473486"></trkpt>
+        <trkpt lat="48.426366" lon="2.6474015"></trkpt>
+        <trkpt lat="48.4260472" lon="2.6474056"></trkpt>
+        <trkpt lat="48.4258841" lon="2.6474298"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

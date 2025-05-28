@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Voie des Froids Culs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.706206</time>
+</metadata>
+<trk>
+    <name>Voie des Froids Culs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6651666" lon="2.3086835"></trkpt>
+        <trkpt lat="48.6652314" lon="2.3086412"></trkpt>
+        <trkpt lat="48.6654691" lon="2.3084861"></trkpt>
+        <trkpt lat="48.6659731" lon="2.308128"></trkpt>
+        <trkpt lat="48.6661609" lon="2.3079926"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

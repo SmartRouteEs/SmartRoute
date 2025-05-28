@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin Latéral</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.845667</time>
+</metadata>
+<trk>
+    <name>Chemin Latéral</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6793212" lon="2.3264805"></trkpt>
+        <trkpt lat="48.6792369" lon="2.3266246"></trkpt>
+        <trkpt lat="48.6791681" lon="2.326672"></trkpt>
+        <trkpt lat="48.6791226" lon="2.3267675"></trkpt>
+        <trkpt lat="48.6790677" lon="2.3269411"></trkpt>
+        <trkpt lat="48.6787527" lon="2.3275668"></trkpt>
+        <trkpt lat="48.6784351" lon="2.3281427"></trkpt>
+        <trkpt lat="48.6781676" lon="2.3288365"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

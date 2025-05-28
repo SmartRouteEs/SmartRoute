@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Bœufs</name>
+    <desc>Sentier VTT - Type: path - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.035526</time>
+</metadata>
+<trk>
+    <name>Chemin des Bœufs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6723915" lon="2.2248656"></trkpt>
+        <trkpt lat="48.6723836" lon="2.2247744"></trkpt>
+        <trkpt lat="48.6723521" lon="2.2246282"></trkpt>
+        <trkpt lat="48.6723065" lon="2.2245263"></trkpt>
+        <trkpt lat="48.6721644" lon="2.2243211"></trkpt>
+        <trkpt lat="48.6720754" lon="2.2242171"></trkpt>
+        <trkpt lat="48.6719691" lon="2.2241098"></trkpt>
+        <trkpt lat="48.6713186" lon="2.2235792"></trkpt>
+        <trkpt lat="48.6705649" lon="2.2230222"></trkpt>
+        <trkpt lat="48.6699772" lon="2.2225715"></trkpt>
+        <trkpt lat="48.6695385" lon="2.2222424"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

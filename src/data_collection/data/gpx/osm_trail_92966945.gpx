@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Plaquières</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.488364</time>
+</metadata>
+<trk>
+    <name>Chemin des Plaquières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5104826" lon="2.2658601"></trkpt>
+        <trkpt lat="48.5105141" lon="2.2657611"></trkpt>
+        <trkpt lat="48.5105359" lon="2.2654761"></trkpt>
+        <trkpt lat="48.5105923" lon="2.2647369"></trkpt>
+        <trkpt lat="48.5106497" lon="2.2634147"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

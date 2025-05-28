@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 379</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.467243</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 379</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7721912" lon="2.2964018"></trkpt>
+        <trkpt lat="48.7722459" lon="2.2967727"></trkpt>
+        <trkpt lat="48.7722774" lon="2.2969863"></trkpt>
+        <trkpt lat="48.7723618" lon="2.2975229"></trkpt>
+        <trkpt lat="48.772395" lon="2.2977472"></trkpt>
+        <trkpt lat="48.7723989" lon="2.2977728"></trkpt>
+        <trkpt lat="48.7724057" lon="2.2978167"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

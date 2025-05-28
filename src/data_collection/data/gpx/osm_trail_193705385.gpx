@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Sommet de la Montagne</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.671271</time>
+</metadata>
+<trk>
+    <name>Chemin du Sommet de la Montagne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8860334" lon="2.5937635"></trkpt>
+        <trkpt lat="48.8857386" lon="2.5938968"></trkpt>
+        <trkpt lat="48.8856466" lon="2.5939342"></trkpt>
+        <trkpt lat="48.8855097" lon="2.5939897"></trkpt>
+        <trkpt lat="48.8852814" lon="2.5940577"></trkpt>
+        <trkpt lat="48.8852392" lon="2.5940618"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

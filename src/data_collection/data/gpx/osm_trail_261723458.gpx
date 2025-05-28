@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière du Chêne Prieur</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.761132</time>
+</metadata>
+<trk>
+    <name>Route Forestière du Chêne Prieur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6597073" lon="2.4408041"></trkpt>
+        <trkpt lat="48.6600606" lon="2.4414781"></trkpt>
+        <trkpt lat="48.6607883" lon="2.442855"></trkpt>
+        <trkpt lat="48.6616348" lon="2.4444609"></trkpt>
+        <trkpt lat="48.6619519" lon="2.4450579"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

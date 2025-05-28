@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Champ Marquet</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.801580</time>
+</metadata>
+<trk>
+    <name>Rue du Champ Marquet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8054123" lon="3.0625248"></trkpt>
+        <trkpt lat="48.8053734" lon="3.0625744"></trkpt>
+        <trkpt lat="48.8051199" lon="3.062671"></trkpt>
+        <trkpt lat="48.8049362" lon="3.0627005"></trkpt>
+        <trkpt lat="48.8047101" lon="3.062683"></trkpt>
+        <trkpt lat="48.8046261" lon="3.0627125"></trkpt>
+        <trkpt lat="48.8044618" lon="3.0628107"></trkpt>
+        <trkpt lat="48.8044149" lon="3.0628115"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

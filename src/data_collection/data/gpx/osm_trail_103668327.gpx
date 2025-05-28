@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Sirval</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.651111</time>
+</metadata>
+<trk>
+    <name>Route Sirval</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3929296" lon="2.686972"></trkpt>
+        <trkpt lat="48.3917383" lon="2.6878735"></trkpt>
+        <trkpt lat="48.3913526" lon="2.6882563"></trkpt>
+        <trkpt lat="48.3902339" lon="2.6892935"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

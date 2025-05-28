@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Clos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.552303</time>
+</metadata>
+<trk>
+    <name>Chemin des Clos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5464299" lon="3.2592247"></trkpt>
+        <trkpt lat="48.5461041" lon="3.2593292"></trkpt>
+        <trkpt lat="48.545599" lon="3.2596484"></trkpt>
+        <trkpt lat="48.5447404" lon="3.2603042"></trkpt>
+        <trkpt lat="48.5442734" lon="3.2607293"></trkpt>
+        <trkpt lat="48.5440914" lon="3.2608876"></trkpt>
+        <trkpt lat="48.544007" lon="3.2609989"></trkpt>
+        <trkpt lat="48.5439299" lon="3.261121"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Marnière aux Mouches</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.046362</time>
+</metadata>
+<trk>
+    <name>Chemin de la Marnière aux Mouches</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2639048" lon="3.0090285"></trkpt>
+        <trkpt lat="48.2640265" lon="3.0089003"></trkpt>
+        <trkpt lat="48.2642055" lon="3.0087696"></trkpt>
+        <trkpt lat="48.2642978" lon="3.0086759"></trkpt>
+        <trkpt lat="48.2644287" lon="3.0085505"></trkpt>
+        <trkpt lat="48.2645054" lon="3.0084315"></trkpt>
+        <trkpt lat="48.2646293" lon="3.0081042"></trkpt>
+        <trkpt lat="48.2647605" lon="3.0078698"></trkpt>
+        <trkpt lat="48.2649759" lon="3.0074718"></trkpt>
+        <trkpt lat="48.2650236" lon="3.0073882"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

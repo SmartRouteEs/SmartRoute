@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Marcassin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.416848</time>
+</metadata>
+<trk>
+    <name>Route du Marcassin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4642523" lon="2.646605"></trkpt>
+        <trkpt lat="48.463601" lon="2.6462941"></trkpt>
+        <trkpt lat="48.461417" lon="2.6453646"></trkpt>
+        <trkpt lat="48.4597774" lon="2.644642"></trkpt>
+        <trkpt lat="48.4589992" lon="2.6446234"></trkpt>
+        <trkpt lat="48.4581017" lon="2.6447993"></trkpt>
+        <trkpt lat="48.4568775" lon="2.6415542"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

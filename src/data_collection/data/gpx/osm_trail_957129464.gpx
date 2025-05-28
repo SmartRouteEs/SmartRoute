@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Palette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:59.907363</time>
+</metadata>
+<trk>
+    <name>Route de la Palette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3811072" lon="2.7180601"></trkpt>
+        <trkpt lat="48.3816783" lon="2.7182987"></trkpt>
+        <trkpt lat="48.3824121" lon="2.718826"></trkpt>
+        <trkpt lat="48.3825612" lon="2.718845"></trkpt>
+        <trkpt lat="48.3828797" lon="2.7188857"></trkpt>
+        <trkpt lat="48.3830986" lon="2.7192377"></trkpt>
+        <trkpt lat="48.3837993" lon="2.7193913"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

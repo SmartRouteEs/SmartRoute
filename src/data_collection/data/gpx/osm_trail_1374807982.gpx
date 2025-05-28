@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin d'Achères à Fontainebleau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.904022</time>
+</metadata>
+<trk>
+    <name>Chemin d'Achères à Fontainebleau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3585185" lon="2.5899922"></trkpt>
+        <trkpt lat="48.3585867" lon="2.5900963"></trkpt>
+        <trkpt lat="48.3586549" lon="2.5902004"></trkpt>
+        <trkpt lat="48.3596946" lon="2.5918281"></trkpt>
+        <trkpt lat="48.360445" lon="2.5933112"></trkpt>
+        <trkpt lat="48.3618944" lon="2.5956163"></trkpt>
+        <trkpt lat="48.3624293" lon="2.5964898"></trkpt>
+        <trkpt lat="48.3628662" lon="2.597277"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

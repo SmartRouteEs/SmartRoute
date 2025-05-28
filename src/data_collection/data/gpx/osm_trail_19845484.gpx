@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Palestro</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.408539</time>
+</metadata>
+<trk>
+    <name>Route Palestro</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.468155" lon="2.6503983"></trkpt>
+        <trkpt lat="48.4692182" lon="2.6516116"></trkpt>
+        <trkpt lat="48.4703279" lon="2.652942"></trkpt>
+        <trkpt lat="48.4711777" lon="2.6539539"></trkpt>
+        <trkpt lat="48.4714617" lon="2.6542566"></trkpt>
+        <trkpt lat="48.4723196" lon="2.6552766"></trkpt>
+        <trkpt lat="48.4736363" lon="2.6567295"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

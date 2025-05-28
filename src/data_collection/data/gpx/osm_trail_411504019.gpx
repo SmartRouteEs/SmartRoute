@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Bois Jean Roy</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.848638</time>
+</metadata>
+<trk>
+    <name>Chemin du Bois Jean Roy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2884769" lon="3.1255142"></trkpt>
+        <trkpt lat="48.2871764" lon="3.1270197"></trkpt>
+        <trkpt lat="48.2867244" lon="3.1274005"></trkpt>
+        <trkpt lat="48.2863487" lon="3.1276545"></trkpt>
+        <trkpt lat="48.2862569" lon="3.1278966"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

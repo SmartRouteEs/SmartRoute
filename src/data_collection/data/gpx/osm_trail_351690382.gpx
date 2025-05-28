@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pré aux Os</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.869373</time>
+</metadata>
+<trk>
+    <name>Chemin du Pré aux Os</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7587446" lon="3.2132555"></trkpt>
+        <trkpt lat="48.7588658" lon="3.2130751"></trkpt>
+        <trkpt lat="48.7589049" lon="3.213037"></trkpt>
+        <trkpt lat="48.7590112" lon="3.2130624"></trkpt>
+        <trkpt lat="48.7590755" lon="3.2130624"></trkpt>
+        <trkpt lat="48.7592125" lon="3.2129691"></trkpt>
+        <trkpt lat="48.7592726" lon="3.212901"></trkpt>
+        <trkpt lat="48.7594669" lon="3.2126807"></trkpt>
+        <trkpt lat="48.7598098" lon="3.211955"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

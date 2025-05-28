@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Coudraye</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: 0</desc>
+    <time>2025-05-28T01:15:47.004424</time>
+</metadata>
+<trk>
+    <name>Chemin de la Coudraye</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5193037" lon="2.4288599"></trkpt>
+        <trkpt lat="48.5191842" lon="2.4287839"></trkpt>
+        <trkpt lat="48.5189966" lon="2.4287075"></trkpt>
+        <trkpt lat="48.5188601" lon="2.4285801"></trkpt>
+        <trkpt lat="48.518078" lon="2.4258461"></trkpt>
+        <trkpt lat="48.5179564" lon="2.425468"></trkpt>
+        <trkpt lat="48.5179129" lon="2.42524"></trkpt>
+        <trkpt lat="48.5178934" lon="2.425031"></trkpt>
+        <trkpt lat="48.5180182" lon="2.4244497"></trkpt>
+        <trkpt lat="48.5181487" lon="2.4238933"></trkpt>
+        <trkpt lat="48.5181862" lon="2.4237478"></trkpt>
+        <trkpt lat="48.5182127" lon="2.4236593"></trkpt>
+        <trkpt lat="48.5182663" lon="2.4235458"></trkpt>
+        <trkpt lat="48.5183546" lon="2.4234458"></trkpt>
+        <trkpt lat="48.5186617" lon="2.4232053"></trkpt>
+        <trkpt lat="48.518991" lon="2.4229293"></trkpt>
+        <trkpt lat="48.5201416" lon="2.4219192"></trkpt>
+        <trkpt lat="48.5212036" lon="2.420992"></trkpt>
+        <trkpt lat="48.5221236" lon="2.4201909"></trkpt>
+        <trkpt lat="48.5225142" lon="2.4204133"></trkpt>
+        <trkpt lat="48.5226648" lon="2.4205785"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

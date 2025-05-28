@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Semeur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.701934</time>
+</metadata>
+<trk>
+    <name>Route du Semeur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4796413" lon="2.7553645"></trkpt>
+        <trkpt lat="48.4802101" lon="2.755068"></trkpt>
+        <trkpt lat="48.4802614" lon="2.7550413"></trkpt>
+        <trkpt lat="48.4826133" lon="2.7536038"></trkpt>
+        <trkpt lat="48.4843599" lon="2.752504"></trkpt>
+        <trkpt lat="48.4844179" lon="2.7523376"></trkpt>
+        <trkpt lat="48.484405" lon="2.7515722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

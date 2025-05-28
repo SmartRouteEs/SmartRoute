@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Vallée de Bagneaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:52.517456</time>
+</metadata>
+<trk>
+    <name>Chemin de la Vallée de Bagneaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2319109" lon="2.714256"></trkpt>
+        <trkpt lat="48.2319002" lon="2.7139744"></trkpt>
+        <trkpt lat="48.2319038" lon="2.7136472"></trkpt>
+        <trkpt lat="48.231966" lon="2.7132732"></trkpt>
+        <trkpt lat="48.2321463" lon="2.7123819"></trkpt>
+        <trkpt lat="48.2321604" lon="2.712026"></trkpt>
+        <trkpt lat="48.2321621" lon="2.7115316"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Gasparine</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: 1</desc>
+    <time>2025-05-28T01:15:47.144528</time>
+</metadata>
+<trk>
+    <name>Allée Gasparine</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7740499" lon="2.2661924"></trkpt>
+        <trkpt lat="48.7740685" lon="2.2663572"></trkpt>
+        <trkpt lat="48.7741134" lon="2.2665792"></trkpt>
+        <trkpt lat="48.7741432" lon="2.2669139"></trkpt>
+        <trkpt lat="48.7741635" lon="2.2669986"></trkpt>
+        <trkpt lat="48.7741894" lon="2.2670772"></trkpt>
+        <trkpt lat="48.7742173" lon="2.2671334"></trkpt>
+        <trkpt lat="48.7742528" lon="2.267166"></trkpt>
+        <trkpt lat="48.7742852" lon="2.2671911"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

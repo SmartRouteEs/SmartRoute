@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée Royale</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.776923</time>
+</metadata>
+<trk>
+    <name>Allée Royale</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6417356" lon="2.5268759"></trkpt>
+        <trkpt lat="48.6420253" lon="2.5268478"></trkpt>
+        <trkpt lat="48.6423233" lon="2.526819"></trkpt>
+        <trkpt lat="48.6426216" lon="2.5268187"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

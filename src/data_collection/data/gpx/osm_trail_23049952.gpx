@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Vaut</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.506514</time>
+</metadata>
+<trk>
+    <name>Chemin du Vaut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.43831" lon="2.4598889"></trkpt>
+        <trkpt lat="48.4376235" lon="2.459443"></trkpt>
+        <trkpt lat="48.4371392" lon="2.4591724"></trkpt>
+        <trkpt lat="48.4367963" lon="2.4589919"></trkpt>
+        <trkpt lat="48.4366715" lon="2.4589249"></trkpt>
+        <trkpt lat="48.4365778" lon="2.4588641"></trkpt>
+        <trkpt lat="48.4365322" lon="2.4588221"></trkpt>
+        <trkpt lat="48.4364727" lon="2.458773"></trkpt>
+        <trkpt lat="48.4364829" lon="2.4586652"></trkpt>
+        <trkpt lat="48.4365164" lon="2.4583989"></trkpt>
+        <trkpt lat="48.4365824" lon="2.4581243"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

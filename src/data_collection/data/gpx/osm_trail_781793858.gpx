@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Aire de Belle Assise</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:57.978721</time>
+</metadata>
+<trk>
+    <name>Aire de Belle Assise</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8183222" lon="2.7445647"></trkpt>
+        <trkpt lat="48.8188446" lon="2.7469862"></trkpt>
+        <trkpt lat="48.8190309" lon="2.7478957"></trkpt>
+        <trkpt lat="48.8191381" lon="2.7483044"></trkpt>
+        <trkpt lat="48.8192303" lon="2.7485244"></trkpt>
+        <trkpt lat="48.8193306" lon="2.7486716"></trkpt>
+        <trkpt lat="48.8200789" lon="2.7520424"></trkpt>
+        <trkpt lat="48.8207988" lon="2.7552964"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

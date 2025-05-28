@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Rivière</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.738804</time>
+</metadata>
+<trk>
+    <name>Chemin de la Rivière</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5038329" lon="2.5383051"></trkpt>
+        <trkpt lat="48.5034868" lon="2.5387955"></trkpt>
+        <trkpt lat="48.5027229" lon="2.539322"></trkpt>
+        <trkpt lat="48.5023556" lon="2.5394842"></trkpt>
+        <trkpt lat="48.5018136" lon="2.5396125"></trkpt>
+        <trkpt lat="48.5013695" lon="2.5395795"></trkpt>
+        <trkpt lat="48.5009197" lon="2.539666"></trkpt>
+        <trkpt lat="48.5008633" lon="2.5396769"></trkpt>
+        <trkpt lat="48.5003138" lon="2.5401181"></trkpt>
+        <trkpt lat="48.4998412" lon="2.5406323"></trkpt>
+        <trkpt lat="48.4994543" lon="2.5413605"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

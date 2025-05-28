@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Haut</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.380191</time>
+</metadata>
+<trk>
+    <name>Rue du Haut</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4531984" lon="3.3753695"></trkpt>
+        <trkpt lat="48.4532445" lon="3.3752525"></trkpt>
+        <trkpt lat="48.4535371" lon="3.374799"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

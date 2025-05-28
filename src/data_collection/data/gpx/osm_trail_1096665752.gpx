@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 32004</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.058693</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 32004</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6929732" lon="2.4623871"></trkpt>
+        <trkpt lat="48.6931709" lon="2.4622873"></trkpt>
+        <trkpt lat="48.693297" lon="2.4622236"></trkpt>
+        <trkpt lat="48.6934141" lon="2.4621275"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

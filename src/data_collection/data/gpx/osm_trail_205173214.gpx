@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Reposée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.529442</time>
+</metadata>
+<trk>
+    <name>Route de la Reposée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.361489" lon="2.6701277"></trkpt>
+        <trkpt lat="48.3614296" lon="2.6702947"></trkpt>
+        <trkpt lat="48.3595488" lon="2.6763123"></trkpt>
+        <trkpt lat="48.3586446" lon="2.6771965"></trkpt>
+        <trkpt lat="48.3567917" lon="2.6783412"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

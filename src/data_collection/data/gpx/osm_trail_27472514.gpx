@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Samois</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.605079</time>
+</metadata>
+<trk>
+    <name>Chemin de Samois</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.478881" lon="2.7114681"></trkpt>
+        <trkpt lat="48.4788354" lon="2.7115636"></trkpt>
+        <trkpt lat="48.4783464" lon="2.7130683"></trkpt>
+        <trkpt lat="48.4782929" lon="2.7132307"></trkpt>
+        <trkpt lat="48.4781073" lon="2.7137935"></trkpt>
+        <trkpt lat="48.4778396" lon="2.7146052"></trkpt>
+        <trkpt lat="48.4777255" lon="2.7148742"></trkpt>
+        <trkpt lat="48.4775059" lon="2.715392"></trkpt>
+        <trkpt lat="48.4772455" lon="2.716162"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

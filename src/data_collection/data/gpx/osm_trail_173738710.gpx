@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Pont Morlaix</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:48.051092</time>
+</metadata>
+<trk>
+    <name>Chemin du Pont Morlaix</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3366647" lon="3.1419494"></trkpt>
+        <trkpt lat="48.3371203" lon="3.1410616"></trkpt>
+        <trkpt lat="48.3374171" lon="3.1406347"></trkpt>
+        <trkpt lat="48.337524" lon="3.140426"></trkpt>
+        <trkpt lat="48.337825" lon="3.139766"></trkpt>
+        <trkpt lat="48.33811" lon="3.1388327"></trkpt>
+        <trkpt lat="48.3384093" lon="3.1380504"></trkpt>
+        <trkpt lat="48.338465" lon="3.137866"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

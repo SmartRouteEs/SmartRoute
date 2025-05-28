@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Rougets</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:51.968382</time>
+</metadata>
+<trk>
+    <name>Chemin des Rougets</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8625062" lon="2.916043"></trkpt>
+        <trkpt lat="48.8626509" lon="2.9153837"></trkpt>
+        <trkpt lat="48.8627453" lon="2.9150028"></trkpt>
+        <trkpt lat="48.8630635" lon="2.9146311"></trkpt>
+        <trkpt lat="48.8632131" lon="2.9143318"></trkpt>
+        <trkpt lat="48.8638124" lon="2.9122133"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

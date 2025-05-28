@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Saint-Georges</name>
+    <desc>Sentier VTT - Type: track - Surface: gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.915215</time>
+</metadata>
+<trk>
+    <name>Route de Saint-Georges</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7540186" lon="2.233818"></trkpt>
+        <trkpt lat="48.7541026" lon="2.2355008"></trkpt>
+        <trkpt lat="48.7541403" lon="2.2368077"></trkpt>
+        <trkpt lat="48.7541985" lon="2.2388661"></trkpt>
+        <trkpt lat="48.754294" lon="2.2389409"></trkpt>
+        <trkpt lat="48.7542526" lon="2.2418781"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

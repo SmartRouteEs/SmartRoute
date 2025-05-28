@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Jeu de Paume</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.044338</time>
+</metadata>
+<trk>
+    <name>Chemin du Jeu de Paume</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5938259" lon="2.1970408"></trkpt>
+        <trkpt lat="48.5933299" lon="2.1966997"></trkpt>
+        <trkpt lat="48.592799" lon="2.1963699"></trkpt>
+        <trkpt lat="48.5926724" lon="2.1963496"></trkpt>
+        <trkpt lat="48.5925036" lon="2.1963265"></trkpt>
+        <trkpt lat="48.5924429" lon="2.1963254"></trkpt>
+        <trkpt lat="48.5923863" lon="2.1963318"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

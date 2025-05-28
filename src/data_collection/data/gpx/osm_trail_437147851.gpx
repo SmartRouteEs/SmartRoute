@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Promenade de l'Yvette</name>
+    <desc>Sentier VTT - Type: path - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.078690</time>
+</metadata>
+<trk>
+    <name>Promenade de l'Yvette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6999841" lon="2.2699382"></trkpt>
+        <trkpt lat="48.7000008" lon="2.269885"></trkpt>
+        <trkpt lat="48.7000324" lon="2.2697862"></trkpt>
+        <trkpt lat="48.7000435" lon="2.2697515"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

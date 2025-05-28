@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>L'Odyssée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.613085</time>
+</metadata>
+<trk>
+    <name>L'Odyssée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4351276" lon="2.7468581"></trkpt>
+        <trkpt lat="48.4349944" lon="2.7476428"></trkpt>
+        <trkpt lat="48.434847" lon="2.7482974"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de Blandy à Crisenoy</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.927104</time>
+</metadata>
+<trk>
+    <name>Chemin de Blandy à Crisenoy</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5738998" lon="2.7733889"></trkpt>
+        <trkpt lat="48.5718918" lon="2.7744943"></trkpt>
+        <trkpt lat="48.5710617" lon="2.7745344"></trkpt>
+        <trkpt lat="48.5702302" lon="2.7746584"></trkpt>
+        <trkpt lat="48.5696563" lon="2.774638"></trkpt>
+        <trkpt lat="48.5695557" lon="2.7748144"></trkpt>
+        <trkpt lat="48.5693622" lon="2.7753735"></trkpt>
+        <trkpt lat="48.5691968" lon="2.77581"></trkpt>
+        <trkpt lat="48.5691298" lon="2.7760986"></trkpt>
+        <trkpt lat="48.5691065" lon="2.7763175"></trkpt>
+        <trkpt lat="48.5692016" lon="2.7767498"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>chemin du Verdeau</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.853862</time>
+</metadata>
+<trk>
+    <name>chemin du Verdeau</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1395541" lon="2.8028818"></trkpt>
+        <trkpt lat="48.14015" lon="2.8022905"></trkpt>
+        <trkpt lat="48.1404669" lon="2.8020413"></trkpt>
+        <trkpt lat="48.1407838" lon="2.8018084"></trkpt>
+        <trkpt lat="48.1412985" lon="2.8013538"></trkpt>
+        <trkpt lat="48.1418088" lon="2.8009485"></trkpt>
+        <trkpt lat="48.1420911" lon="2.8008707"></trkpt>
+        <trkpt lat="48.1423702" lon="2.8008439"></trkpt>
+        <trkpt lat="48.1426305" lon="2.8008682"></trkpt>
+        <trkpt lat="48.1428491" lon="2.8009682"></trkpt>
+        <trkpt lat="48.1437565" lon="2.8015014"></trkpt>
+        <trkpt lat="48.1445744" lon="2.8015344"></trkpt>
+        <trkpt lat="48.1453816" lon="2.801484"></trkpt>
+        <trkpt lat="48.1458876" lon="2.801004"></trkpt>
+        <trkpt lat="48.1461992" lon="2.7994221"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

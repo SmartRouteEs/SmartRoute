@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 2090</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.211227</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 2090</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4109244" lon="2.7141151"></trkpt>
+        <trkpt lat="48.4104343" lon="2.7147239"></trkpt>
+        <trkpt lat="48.4100676" lon="2.7154677"></trkpt>
+        <trkpt lat="48.4098868" lon="2.7158345"></trkpt>
+        <trkpt lat="48.4096" lon="2.7164109"></trkpt>
+        <trkpt lat="48.4083019" lon="2.7190918"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

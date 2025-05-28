@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Brûlis</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.812757</time>
+</metadata>
+<trk>
+    <name>Chemin des Brûlis</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.74479" lon="2.2209093"></trkpt>
+        <trkpt lat="48.7448607" lon="2.2209804"></trkpt>
+        <trkpt lat="48.7448896" lon="2.2210478"></trkpt>
+        <trkpt lat="48.7450018" lon="2.2213094"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

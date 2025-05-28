@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Planchette du Saussay</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.686323</time>
+</metadata>
+<trk>
+    <name>Chemin de la Planchette du Saussay</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5216203" lon="2.3587588"></trkpt>
+        <trkpt lat="48.5220656" lon="2.3586702"></trkpt>
+        <trkpt lat="48.5222291" lon="2.3585281"></trkpt>
+        <trkpt lat="48.522373" lon="2.3583028"></trkpt>
+        <trkpt lat="48.5225684" lon="2.357938"></trkpt>
+        <trkpt lat="48.5230392" lon="2.357305"></trkpt>
+        <trkpt lat="48.5232328" lon="2.3571038"></trkpt>
+        <trkpt lat="48.5238723" lon="2.35668"></trkpt>
+        <trkpt lat="48.5245172" lon="2.3565486"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

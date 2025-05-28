@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 26975</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:58.262075</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 26975</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4530781" lon="3.1339301"></trkpt>
+        <trkpt lat="48.4525038" lon="3.1340234"></trkpt>
+        <trkpt lat="48.4495889" lon="3.1345419"></trkpt>
+        <trkpt lat="48.4477572" lon="3.1348453"></trkpt>
+        <trkpt lat="48.4450046" lon="3.1364005"></trkpt>
+        <trkpt lat="48.4449006" lon="3.136464"></trkpt>
+        <trkpt lat="48.4448875" lon="3.1365291"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

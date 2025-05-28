@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Montauzin</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.112504</time>
+</metadata>
+<trk>
+    <name>Route Montauzin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.754175" lon="2.2482434"></trkpt>
+        <trkpt lat="48.7540352" lon="2.2483895"></trkpt>
+        <trkpt lat="48.7533516" lon="2.2489534"></trkpt>
+        <trkpt lat="48.7525982" lon="2.2495748"></trkpt>
+        <trkpt lat="48.7517549" lon="2.2502418"></trkpt>
+        <trkpt lat="48.7516381" lon="2.2503529"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

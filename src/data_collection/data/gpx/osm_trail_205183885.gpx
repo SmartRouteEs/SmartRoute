@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier des Evangiles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.545992</time>
+</metadata>
+<trk>
+    <name>Sentier des Evangiles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3284351" lon="2.7295694"></trkpt>
+        <trkpt lat="48.3288822" lon="2.7293841"></trkpt>
+        <trkpt lat="48.3292071" lon="2.7300862"></trkpt>
+        <trkpt lat="48.329562" lon="2.7314166"></trkpt>
+        <trkpt lat="48.3298063" lon="2.7322427"></trkpt>
+        <trkpt lat="48.3300381" lon="2.7327228"></trkpt>
+        <trkpt lat="48.3303626" lon="2.7335114"></trkpt>
+        <trkpt lat="48.3304875" lon="2.7338708"></trkpt>
+        <trkpt lat="48.3305838" lon="2.7340371"></trkpt>
+        <trkpt lat="48.3306943" lon="2.7341765"></trkpt>
+        <trkpt lat="48.3308691" lon="2.734316"></trkpt>
+        <trkpt lat="48.3309547" lon="2.7344877"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

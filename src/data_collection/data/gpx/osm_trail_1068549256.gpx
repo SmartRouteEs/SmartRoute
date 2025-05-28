@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Mare Mignonne</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:00.873246</time>
+</metadata>
+<trk>
+    <name>Chemin de la Mare Mignonne</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.59974" lon="2.2347867"></trkpt>
+        <trkpt lat="48.5997052" lon="2.2348802"></trkpt>
+        <trkpt lat="48.5996112" lon="2.2350479"></trkpt>
+        <trkpt lat="48.5991825" lon="2.2359033"></trkpt>
+        <trkpt lat="48.5991741" lon="2.2360381"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

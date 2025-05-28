@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Chevreuil</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.465510</time>
+</metadata>
+<trk>
+    <name>Allée du Chevreuil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7452894" lon="2.5305499"></trkpt>
+        <trkpt lat="48.7459198" lon="2.5313159"></trkpt>
+        <trkpt lat="48.7465364" lon="2.5320652"></trkpt>
+        <trkpt lat="48.7473702" lon="2.5330728"></trkpt>
+        <trkpt lat="48.7496144" lon="2.5357773"></trkpt>
+        <trkpt lat="48.7496773" lon="2.5357469"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

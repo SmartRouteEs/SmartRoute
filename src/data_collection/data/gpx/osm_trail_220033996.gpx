@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée de la Balustrade</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.250997</time>
+</metadata>
+<trk>
+    <name>Allée de la Balustrade</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8345256" lon="2.2174401"></trkpt>
+        <trkpt lat="48.8344836" lon="2.21741"></trkpt>
+        <trkpt lat="48.8344465" lon="2.2173834"></trkpt>
+        <trkpt lat="48.8343056" lon="2.2173412"></trkpt>
+        <trkpt lat="48.8340283" lon="2.2173966"></trkpt>
+        <trkpt lat="48.8339758" lon="2.2174034"></trkpt>
+        <trkpt lat="48.8338079" lon="2.2174254"></trkpt>
+        <trkpt lat="48.8337677" lon="2.2174313"></trkpt>
+        <trkpt lat="48.833744" lon="2.2174338"></trkpt>
+        <trkpt lat="48.8336621" lon="2.2174439"></trkpt>
+        <trkpt lat="48.8318426" lon="2.2177537"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

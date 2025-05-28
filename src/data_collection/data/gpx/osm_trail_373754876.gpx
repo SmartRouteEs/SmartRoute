@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 18916</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.099809</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 18916</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.9039007" lon="2.8239788"></trkpt>
+        <trkpt lat="48.9047189" lon="2.8255281"></trkpt>
+        <trkpt lat="48.9057929" lon="2.8276366"></trkpt>
+        <trkpt lat="48.9060851" lon="2.8281279"></trkpt>
+        <trkpt lat="48.9063656" lon="2.8286802"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

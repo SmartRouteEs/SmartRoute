@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin dit du Marchais</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.333720</time>
+</metadata>
+<trk>
+    <name>Chemin dit du Marchais</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.1865942" lon="3.1585834"></trkpt>
+        <trkpt lat="48.181682" lon="3.1596467"></trkpt>
+        <trkpt lat="48.1811864" lon="3.159754"></trkpt>
+        <trkpt lat="48.1785042" lon="3.1594625"></trkpt>
+        <trkpt lat="48.1770983" lon="3.1589674"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

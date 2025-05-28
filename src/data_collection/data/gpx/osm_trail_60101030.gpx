@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Allée du Terrier</name>
+    <desc>Sentier VTT - Type: track - Surface: dirt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.044338</time>
+</metadata>
+<trk>
+    <name>Allée du Terrier</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8337186" lon="2.1886825"></trkpt>
+        <trkpt lat="48.8337186" lon="2.1888884"></trkpt>
+        <trkpt lat="48.8337644" lon="2.1895622"></trkpt>
+        <trkpt lat="48.8337955" lon="2.1898725"></trkpt>
+        <trkpt lat="48.8338556" lon="2.19042"></trkpt>
+        <trkpt lat="48.8338841" lon="2.1910062"></trkpt>
+        <trkpt lat="48.8338676" lon="2.1916296"></trkpt>
+        <trkpt lat="48.8338728" lon="2.1921399"></trkpt>
+        <trkpt lat="48.8337973" lon="2.1932591"></trkpt>
+        <trkpt lat="48.8337355" lon="2.1937756"></trkpt>
+        <trkpt lat="48.8335759" lon="2.194865"></trkpt>
+        <trkpt lat="48.8335478" lon="2.1950304"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

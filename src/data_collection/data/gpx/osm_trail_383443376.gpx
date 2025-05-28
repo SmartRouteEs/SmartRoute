@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Puit</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:54.290261</time>
+</metadata>
+<trk>
+    <name>Chemin du Puit</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.2461019" lon="3.1969242"></trkpt>
+        <trkpt lat="48.2461719" lon="3.1973326"></trkpt>
+        <trkpt lat="48.2462103" lon="3.1977579"></trkpt>
+        <trkpt lat="48.2461985" lon="3.1978708"></trkpt>
+        <trkpt lat="48.2461649" lon="3.1981929"></trkpt>
+        <trkpt lat="48.2462115" lon="3.1983688"></trkpt>
+        <trkpt lat="48.2463409" lon="3.198525"></trkpt>
+        <trkpt lat="48.2464098" lon="3.1987679"></trkpt>
+        <trkpt lat="48.2464451" lon="3.1989431"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

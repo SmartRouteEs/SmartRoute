@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière des Étangs</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.977566</time>
+</metadata>
+<trk>
+    <name>Route Forestière des Étangs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7978305" lon="2.2192359"></trkpt>
+        <trkpt lat="48.7977256" lon="2.2196233"></trkpt>
+        <trkpt lat="48.7971514" lon="2.2215225"></trkpt>
+        <trkpt lat="48.7970564" lon="2.2218299"></trkpt>
+        <trkpt lat="48.7970506" lon="2.2218722"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

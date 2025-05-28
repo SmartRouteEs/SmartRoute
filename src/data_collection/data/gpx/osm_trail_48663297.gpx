@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Cailloux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.738804</time>
+</metadata>
+<trk>
+    <name>Chemin des Cailloux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5006028" lon="2.5510826"></trkpt>
+        <trkpt lat="48.501005" lon="2.5512028"></trkpt>
+        <trkpt lat="48.5015322" lon="2.5511981"></trkpt>
+        <trkpt lat="48.5019132" lon="2.5512808"></trkpt>
+        <trkpt lat="48.5032296" lon="2.5519155"></trkpt>
+        <trkpt lat="48.5037024" lon="2.5522786"></trkpt>
+        <trkpt lat="48.504155" lon="2.5524488"></trkpt>
+        <trkpt lat="48.5046462" lon="2.5525845"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

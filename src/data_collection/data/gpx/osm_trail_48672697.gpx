@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Boutoir</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.752320</time>
+</metadata>
+<trk>
+    <name>Route du Boutoir</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4518069" lon="2.6360406"></trkpt>
+        <trkpt lat="48.4531485" lon="2.6402482"></trkpt>
+        <trkpt lat="48.4503856" lon="2.6437628"></trkpt>
+        <trkpt lat="48.4496894" lon="2.6465682"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

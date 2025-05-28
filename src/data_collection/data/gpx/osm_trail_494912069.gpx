@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Malendos</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:55.603917</time>
+</metadata>
+<trk>
+    <name>Chemin des Malendos</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.802059" lon="3.0119086"></trkpt>
+        <trkpt lat="48.801927" lon="3.011927"></trkpt>
+        <trkpt lat="48.800875" lon="3.012354"></trkpt>
+        <trkpt lat="48.80056" lon="3.012429"></trkpt>
+        <trkpt lat="48.799919" lon="3.012493"></trkpt>
+        <trkpt lat="48.799366" lon="3.012476"></trkpt>
+        <trkpt lat="48.799126" lon="3.012444"></trkpt>
+        <trkpt lat="48.798969" lon="3.01239"></trkpt>
+        <trkpt lat="48.79809" lon="3.01192"></trkpt>
+        <trkpt lat="48.7973144" lon="3.0115399"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

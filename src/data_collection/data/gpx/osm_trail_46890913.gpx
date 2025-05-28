@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de l'Espérance</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.514473</time>
+</metadata>
+<trk>
+    <name>Route de l'Espérance</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3901305" lon="2.6859458"></trkpt>
+        <trkpt lat="48.3897278" lon="2.6858065"></trkpt>
+        <trkpt lat="48.3896343" lon="2.685783"></trkpt>
+        <trkpt lat="48.3894679" lon="2.6857255"></trkpt>
+        <trkpt lat="48.389428" lon="2.6857029"></trkpt>
+        <trkpt lat="48.389352" lon="2.6856421"></trkpt>
+        <trkpt lat="48.3893109" lon="2.6856169"></trkpt>
+        <trkpt lat="48.3890039" lon="2.6855114"></trkpt>
+        <trkpt lat="48.3889308" lon="2.685495"></trkpt>
+        <trkpt lat="48.3885523" lon="2.6853688"></trkpt>
+        <trkpt lat="48.388349" lon="2.6852704"></trkpt>
+        <trkpt lat="48.3881473" lon="2.6852263"></trkpt>
+        <trkpt lat="48.3874117" lon="2.6849506"></trkpt>
+        <trkpt lat="48.3872926" lon="2.6849101"></trkpt>
+        <trkpt lat="48.3860152" lon="2.6850326"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

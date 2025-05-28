@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Merlande</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.538088</time>
+</metadata>
+<trk>
+    <name>Chemin de la Merlande</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8055238" lon="3.0219131"></trkpt>
+        <trkpt lat="48.8051501" lon="3.0223992"></trkpt>
+        <trkpt lat="48.8049824" lon="3.0225026"></trkpt>
+        <trkpt lat="48.8045825" lon="3.0226324"></trkpt>
+        <trkpt lat="48.8043416" lon="3.0228561"></trkpt>
+        <trkpt lat="48.8039592" lon="3.0230701"></trkpt>
+        <trkpt lat="48.8031111" lon="3.0229373"></trkpt>
+        <trkpt lat="48.8026501" lon="3.0229456"></trkpt>
+        <trkpt lat="48.802644" lon="3.0215473"></trkpt>
+        <trkpt lat="48.8024119" lon="3.0215279"></trkpt>
+        <trkpt lat="48.8020582" lon="3.0214351"></trkpt>
+        <trkpt lat="48.8016734" lon="3.0213736"></trkpt>
+        <trkpt lat="48.801576" lon="3.021263"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

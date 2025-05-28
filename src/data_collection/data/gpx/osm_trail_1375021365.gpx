@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route d'Achères</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.933534</time>
+</metadata>
+<trk>
+    <name>Route d'Achères</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3854602" lon="2.6309182"></trkpt>
+        <trkpt lat="48.3854714" lon="2.6310859"></trkpt>
+        <trkpt lat="48.385758" lon="2.6370188"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

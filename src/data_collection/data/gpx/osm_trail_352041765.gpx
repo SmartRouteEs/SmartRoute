@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Fosse Effondrée</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.879811</time>
+</metadata>
+<trk>
+    <name>Chemin de la Fosse Effondrée</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7431129" lon="2.7830743"></trkpt>
+        <trkpt lat="48.7429115" lon="2.7833831"></trkpt>
+        <trkpt lat="48.7425245" lon="2.7841246"></trkpt>
+        <trkpt lat="48.7424" lon="2.7843825"></trkpt>
+        <trkpt lat="48.7423066" lon="2.7845278"></trkpt>
+        <trkpt lat="48.7422443" lon="2.7845859"></trkpt>
+        <trkpt lat="48.74217" lon="2.7846041"></trkpt>
+        <trkpt lat="48.7409664" lon="2.7846125"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

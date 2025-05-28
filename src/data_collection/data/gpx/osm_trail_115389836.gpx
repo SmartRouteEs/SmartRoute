@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 5639</name>
+    <desc>Sentier VTT - Type: track - Surface: compacted - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.807728</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 5639</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.8557516" lon="2.6126776"></trkpt>
+        <trkpt lat="48.8557861" lon="2.6125485"></trkpt>
+        <trkpt lat="48.8558566" lon="2.6123601"></trkpt>
+        <trkpt lat="48.8558959" lon="2.6122545"></trkpt>
+        <trkpt lat="48.8559696" lon="2.6120742"></trkpt>
+        <trkpt lat="48.8560807" lon="2.6118177"></trkpt>
+        <trkpt lat="48.8560756" lon="2.611725"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Creusette</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.735657</time>
+</metadata>
+<trk>
+    <name>Chemin de la Creusette</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.258236" lon="2.431721"></trkpt>
+        <trkpt lat="48.2584904" lon="2.4309844"></trkpt>
+        <trkpt lat="48.2587023" lon="2.4304438"></trkpt>
+        <trkpt lat="48.2587615" lon="2.4302957"></trkpt>
+        <trkpt lat="48.2589167" lon="2.4299848"></trkpt>
+        <trkpt lat="48.2589584" lon="2.4298574"></trkpt>
+        <trkpt lat="48.2590983" lon="2.4292994"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

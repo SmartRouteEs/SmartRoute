@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin de la Brosse</name>
+    <desc>Sentier VTT - Type: track - Surface: grass - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.110153</time>
+</metadata>
+<trk>
+    <name>Chemin de la Brosse</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4344797" lon="2.7673419"></trkpt>
+        <trkpt lat="48.4353718" lon="2.7674466"></trkpt>
+        <trkpt lat="48.4359609" lon="2.7675325"></trkpt>
+        <trkpt lat="48.4363701" lon="2.7674815"></trkpt>
+        <trkpt lat="48.4364929" lon="2.7674582"></trkpt>
+        <trkpt lat="48.4367367" lon="2.7674118"></trkpt>
+        <trkpt lat="48.437203" lon="2.767401"></trkpt>
+        <trkpt lat="48.437509" lon="2.7674869"></trkpt>
+        <trkpt lat="48.4377404" lon="2.7677443"></trkpt>
+        <trkpt lat="48.438203" lon="2.7684525"></trkpt>
+        <trkpt lat="48.4386372" lon="2.7690372"></trkpt>
+        <trkpt lat="48.4389539" lon="2.7692357"></trkpt>
+        <trkpt lat="48.4393281" lon="2.7693636"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

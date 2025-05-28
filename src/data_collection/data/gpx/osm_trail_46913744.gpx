@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Forestière de Draveil</name>
+    <desc>Sentier VTT - Type: track - Surface: ground - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.522485</time>
+</metadata>
+<trk>
+    <name>Route Forestière de Draveil</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6673853" lon="2.4371869"></trkpt>
+        <trkpt lat="48.6673486" lon="2.4372452"></trkpt>
+        <trkpt lat="48.6663449" lon="2.4387432"></trkpt>
+        <trkpt lat="48.6654628" lon="2.4400597"></trkpt>
+        <trkpt lat="48.6620831" lon="2.4450895"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

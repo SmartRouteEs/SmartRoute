@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Belles Dames</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.480413</time>
+</metadata>
+<trk>
+    <name>Chemin des Belles Dames</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7956693" lon="3.0290267"></trkpt>
+        <trkpt lat="48.7956629" lon="3.03015"></trkpt>
+        <trkpt lat="48.7957164" lon="3.0305448"></trkpt>
+        <trkpt lat="48.7958227" lon="3.0313383"></trkpt>
+        <trkpt lat="48.7958415" lon="3.0323611"></trkpt>
+        <trkpt lat="48.795838" lon="3.0335811"></trkpt>
+        <trkpt lat="48.7958457" lon="3.034303"></trkpt>
+        <trkpt lat="48.796241" lon="3.0362404"></trkpt>
+        <trkpt lat="48.7966553" lon="3.0380791"></trkpt>
+        <trkpt lat="48.7968744" lon="3.0390009"></trkpt>
+        <trkpt lat="48.7969273" lon="3.0395938"></trkpt>
+        <trkpt lat="48.796915" lon="3.0400972"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

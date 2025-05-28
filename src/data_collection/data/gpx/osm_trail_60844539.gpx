@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier de Châteaufort</name>
+    <desc>Sentier VTT - Type: track - Surface: asphalt - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.060836</time>
+</metadata>
+<trk>
+    <name>Sentier de Châteaufort</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7076482" lon="2.2017672"></trkpt>
+        <trkpt lat="48.7076646" lon="2.2017071"></trkpt>
+        <trkpt lat="48.7077599" lon="2.2015838"></trkpt>
+        <trkpt lat="48.7079254" lon="2.2014324"></trkpt>
+        <trkpt lat="48.7080053" lon="2.2013013"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

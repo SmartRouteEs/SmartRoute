@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Gambettes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.140517</time>
+</metadata>
+<trk>
+    <name>Chemin des Gambettes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3310836" lon="2.7285365"></trkpt>
+        <trkpt lat="48.3318784" lon="2.731151"></trkpt>
+        <trkpt lat="48.3325677" lon="2.7332995"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

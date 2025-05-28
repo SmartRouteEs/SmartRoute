@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route Tournante des Longues Vallées</name>
+    <desc>Sentier VTT - Type: track - Surface: unpaved - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.750095</time>
+</metadata>
+<trk>
+    <name>Route Tournante des Longues Vallées</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4594343" lon="2.6417512"></trkpt>
+        <trkpt lat="48.4593835" lon="2.6420605"></trkpt>
+        <trkpt lat="48.459367" lon="2.6427399"></trkpt>
+        <trkpt lat="48.4590592" lon="2.6438151"></trkpt>
+        <trkpt lat="48.4589992" lon="2.6446234"></trkpt>
+        <trkpt lat="48.4590878" lon="2.6451438"></trkpt>
+        <trkpt lat="48.4592561" lon="2.6456146"></trkpt>
+        <trkpt lat="48.4594742" lon="2.6462532"></trkpt>
+        <trkpt lat="48.4595048" lon="2.6467059"></trkpt>
+        <trkpt lat="48.4595196" lon="2.6471623"></trkpt>
+        <trkpt lat="48.4594811" lon="2.647625"></trkpt>
+        <trkpt lat="48.4593454" lon="2.6479339"></trkpt>
+        <trkpt lat="48.4590876" lon="2.6480801"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Drop Zone</name>
+    <desc>Sentier VTT - Type: path - Surface: dirt - Difficulté: 2</desc>
+    <time>2025-05-28T01:15:55.241450</time>
+</metadata>
+<trk>
+    <name>Drop Zone</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7212038" lon="2.4850253"></trkpt>
+        <trkpt lat="48.7209811" lon="2.485352"></trkpt>
+        <trkpt lat="48.7207475" lon="2.4858026"></trkpt>
+        <trkpt lat="48.7205989" lon="2.4860815"></trkpt>
+        <trkpt lat="48.7203582" lon="2.4863498"></trkpt>
+        <trkpt lat="48.72016" lon="2.4867038"></trkpt>
+        <trkpt lat="48.7199447" lon="2.4868738"></trkpt>
+        <trkpt lat="48.7197313" lon="2.4868913"></trkpt>
+        <trkpt lat="48.7194986" lon="2.4869822"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

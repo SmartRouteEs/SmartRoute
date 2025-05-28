@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sentier VTT 3040</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.638626</time>
+</metadata>
+<trk>
+    <name>Sentier VTT 3040</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3784316" lon="2.6919009"></trkpt>
+        <trkpt lat="48.381238" lon="2.6900693"></trkpt>
+        <trkpt lat="48.381948" lon="2.6895604"></trkpt>
+        <trkpt lat="48.3822738" lon="2.6893684"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

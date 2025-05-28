@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin du Parc aux Boeufs</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:44.326755</time>
+</metadata>
+<trk>
+    <name>Chemin du Parc aux Boeufs</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.635582" lon="2.2130487"></trkpt>
+        <trkpt lat="48.6357024" lon="2.2119356"></trkpt>
+        <trkpt lat="48.6357922" lon="2.2114916"></trkpt>
+        <trkpt lat="48.6359187" lon="2.2112338"></trkpt>
+        <trkpt lat="48.6362789" lon="2.2108376"></trkpt>
+        <trkpt lat="48.6372544" lon="2.2125272"></trkpt>
+        <trkpt lat="48.6376825" lon="2.2134581"></trkpt>
+        <trkpt lat="48.6382945" lon="2.2144151"></trkpt>
+        <trkpt lat="48.6385277" lon="2.2146763"></trkpt>
+        <trkpt lat="48.6391165" lon="2.2154741"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route du Bois Prieur</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:46.203575</time>
+</metadata>
+<trk>
+    <name>Route du Bois Prieur</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3653173" lon="2.7513881"></trkpt>
+        <trkpt lat="48.3654715" lon="2.7532054"></trkpt>
+        <trkpt lat="48.3656272" lon="2.7554886"></trkpt>
+        <trkpt lat="48.3660253" lon="2.7595073"></trkpt>
+        <trkpt lat="48.3662022" lon="2.7606521"></trkpt>
+        <trkpt lat="48.3664398" lon="2.7613816"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Grands Long Vaux</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.172034</time>
+</metadata>
+<trk>
+    <name>Chemin des Grands Long Vaux</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4151173" lon="2.4983583"></trkpt>
+        <trkpt lat="48.4152286" lon="2.4983934"></trkpt>
+        <trkpt lat="48.4155234" lon="2.4985152"></trkpt>
+        <trkpt lat="48.4158594" lon="2.4985416"></trkpt>
+        <trkpt lat="48.4161147" lon="2.4986188"></trkpt>
+        <trkpt lat="48.4166092" lon="2.4989659"></trkpt>
+        <trkpt lat="48.4168944" lon="2.4993985"></trkpt>
+        <trkpt lat="48.4170624" lon="2.4997818"></trkpt>
+        <trkpt lat="48.4172013" lon="2.5001334"></trkpt>
+        <trkpt lat="48.4175197" lon="2.5006844"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Demoiselles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:53.869373</time>
+</metadata>
+<trk>
+    <name>Chemin des Demoiselles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.6471783" lon="3.0584558"></trkpt>
+        <trkpt lat="48.647706" lon="3.0588555"></trkpt>
+        <trkpt lat="48.6486009" lon="3.0598077"></trkpt>
+        <trkpt lat="48.6487781" lon="3.0599901"></trkpt>
+        <trkpt lat="48.6489553" lon="3.0600169"></trkpt>
+        <trkpt lat="48.6491079" lon="3.0599676"></trkpt>
+        <trkpt lat="48.6494894" lon="3.0597448"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

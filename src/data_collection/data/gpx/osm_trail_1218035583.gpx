@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Béorlots</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:01.880525</time>
+</metadata>
+<trk>
+    <name>Chemin des Béorlots</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3631172" lon="2.5554528"></trkpt>
+        <trkpt lat="48.3630725" lon="2.555884"></trkpt>
+        <trkpt lat="48.36307" lon="2.556219"></trkpt>
+        <trkpt lat="48.362943" lon="2.557224"></trkpt>
+        <trkpt lat="48.362838" lon="2.55774"></trkpt>
+        <trkpt lat="48.3627284" lon="2.5582082"></trkpt>
+        <trkpt lat="48.3626648" lon="2.5584383"></trkpt>
+        <trkpt lat="48.3626392" lon="2.5584904"></trkpt>
+        <trkpt lat="48.362613" lon="2.5585112"></trkpt>
+        <trkpt lat="48.3625522" lon="2.5585382"></trkpt>
+        <trkpt lat="48.3624421" lon="2.5585586"></trkpt>
+        <trkpt lat="48.362263" lon="2.5586606"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

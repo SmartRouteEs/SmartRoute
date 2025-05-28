@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Sente de Cochet</name>
+    <desc>Sentier VTT - Type: path - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.879219</time>
+</metadata>
+<trk>
+    <name>Sente de Cochet</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5237934" lon="2.289326"></trkpt>
+        <trkpt lat="48.5233075" lon="2.2894604"></trkpt>
+        <trkpt lat="48.5227575" lon="2.2896125"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue de la Forêt</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.552111</time>
+</metadata>
+<trk>
+    <name>Rue de la Forêt</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7754868" lon="3.0187565"></trkpt>
+        <trkpt lat="48.7753052" lon="3.0185637"></trkpt>
+        <trkpt lat="48.7751526" lon="3.0183772"></trkpt>
+        <trkpt lat="48.7750175" lon="3.018139"></trkpt>
+        <trkpt lat="48.7747569" lon="3.0175063"></trkpt>
+        <trkpt lat="48.774706" lon="3.0174498"></trkpt>
+        <trkpt lat="48.7746543" lon="3.0174341"></trkpt>
+        <trkpt lat="48.7745733" lon="3.0174582"></trkpt>
+        <trkpt lat="48.7744143" lon="3.0176132"></trkpt>
+        <trkpt lat="48.7743513" lon="3.01764"></trkpt>
+        <trkpt lat="48.7742966" lon="3.0176264"></trkpt>
+        <trkpt lat="48.7742251" lon="3.0175554"></trkpt>
+        <trkpt lat="48.7738552" lon="3.0168169"></trkpt>
+        <trkpt lat="48.7737991" lon="3.016705"></trkpt>
+        <trkpt lat="48.7736736" lon="3.0160279"></trkpt>
+        <trkpt lat="48.7736093" lon="3.0158391"></trkpt>
+        <trkpt lat="48.773409" lon="3.0155335"></trkpt>
+        <trkpt lat="48.7730935" lon="3.0150343"></trkpt>
+        <trkpt lat="48.772956" lon="3.0148876"></trkpt>
+        <trkpt lat="48.7727843" lon="3.0147901"></trkpt>
+        <trkpt lat="48.7723813" lon="3.014624"></trkpt>
+        <trkpt lat="48.772003" lon="3.0144171"></trkpt>
+        <trkpt lat="48.7719467" lon="3.0143103"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

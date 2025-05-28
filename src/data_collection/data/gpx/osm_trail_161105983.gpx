@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Chemin des Chênes</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:47.764453</time>
+</metadata>
+<trk>
+    <name>Chemin des Chênes</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3803047" lon="2.8648066"></trkpt>
+        <trkpt lat="48.3813988" lon="2.8648417"></trkpt>
+        <trkpt lat="48.3815805" lon="2.8667232"></trkpt>
+        <trkpt lat="48.3815948" lon="2.8677317"></trkpt>
+        <trkpt lat="48.3816945" lon="2.8700277"></trkpt>
+        <trkpt lat="48.3815805" lon="2.8715083"></trkpt>
+        <trkpt lat="48.3814594" lon="2.8727421"></trkpt>
+        <trkpt lat="48.3815235" lon="2.8749415"></trkpt>
+        <trkpt lat="48.3816447" lon="2.8773769"></trkpt>
+        <trkpt lat="48.381865" lon="2.8798631"></trkpt>
+        <trkpt lat="48.3819494" lon="2.8808271"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

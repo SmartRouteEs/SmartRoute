@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Porte de Verrières</name>
+    <desc>Sentier VTT - Type: track - Surface: fine_gravel - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:50.478824</time>
+</metadata>
+<trk>
+    <name>Route de la Porte de Verrières</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.7902556" lon="2.2145664"></trkpt>
+        <trkpt lat="48.7909466" lon="2.2126243"></trkpt>
+        <trkpt lat="48.7909782" lon="2.2125356"></trkpt>
+        <trkpt lat="48.7911621" lon="2.2118676"></trkpt>
+        <trkpt lat="48.7912052" lon="2.2115926"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

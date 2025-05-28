@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Côte</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:16:02.138682</time>
+</metadata>
+<trk>
+    <name>Route de la Côte</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4026016" lon="2.5839966"></trkpt>
+        <trkpt lat="48.402656" lon="2.584106"></trkpt>
+        <trkpt lat="48.402766" lon="2.584233"></trkpt>
+        <trkpt lat="48.402951" lon="2.584369"></trkpt>
+        <trkpt lat="48.40334" lon="2.584582"></trkpt>
+        <trkpt lat="48.403773" lon="2.584895"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

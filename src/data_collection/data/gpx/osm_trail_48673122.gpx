@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de Barillon</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:45.756377</time>
+</metadata>
+<trk>
+    <name>Route de Barillon</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.4583714" lon="2.7160343"></trkpt>
+        <trkpt lat="48.4582615" lon="2.7160714"></trkpt>
+        <trkpt lat="48.4559306" lon="2.7168583"></trkpt>
+        <trkpt lat="48.4549441" lon="2.7171969"></trkpt>
+        <trkpt lat="48.4526071" lon="2.7180823"></trkpt>
+        <trkpt lat="48.4480623" lon="2.7197165"></trkpt>
+        <trkpt lat="48.4473349" lon="2.7199152"></trkpt>
+        <trkpt lat="48.4471374" lon="2.7199691"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

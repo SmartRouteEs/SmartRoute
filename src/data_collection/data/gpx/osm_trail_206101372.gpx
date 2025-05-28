@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Route de la Mare aux Corneilles</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:49.636061</time>
+</metadata>
+<trk>
+    <name>Route de la Mare aux Corneilles</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.3798015" lon="2.6492522"></trkpt>
+        <trkpt lat="48.3794927" lon="2.6476423"></trkpt>
+        <trkpt lat="48.3794241" lon="2.6453356"></trkpt>
+        <trkpt lat="48.3796299" lon="2.6437692"></trkpt>
+        <trkpt lat="48.3791382" lon="2.6426847"></trkpt>
+        <trkpt lat="48.3784865" lon="2.6413421"></trkpt>
+        <trkpt lat="48.3780749" lon="2.641256"></trkpt>
+        <trkpt lat="48.3776633" lon="2.6406019"></trkpt>
+        <trkpt lat="48.3775491" lon="2.6395376"></trkpt>
+    </trkseg>
+</trk>
+</gpx>

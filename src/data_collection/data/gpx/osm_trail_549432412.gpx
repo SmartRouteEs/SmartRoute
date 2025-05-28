@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="OSM-VTT-Extractor">
+<metadata>
+    <name>Rue du Saule Martin</name>
+    <desc>Sentier VTT - Type: track - Surface: unknown - Difficulté: unknown</desc>
+    <time>2025-05-28T01:15:56.178899</time>
+</metadata>
+<trk>
+    <name>Rue du Saule Martin</name>
+    <type>mtb</type>
+    <trkseg>
+        <trkpt lat="48.5605199" lon="2.7424288"></trkpt>
+        <trkpt lat="48.5603856" lon="2.7425118"></trkpt>
+        <trkpt lat="48.5603013" lon="2.7425989"></trkpt>
+        <trkpt lat="48.5602374" lon="2.7427196"></trkpt>
+        <trkpt lat="48.5601974" lon="2.7428699"></trkpt>
+    </trkseg>
+</trk>
+</gpx>
