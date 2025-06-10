@@ -8,12 +8,12 @@ from shapely.geometry import LineString
 GPICKLE_INPUT = Path("data/raw_osm/osm_graph_zone_interet.gpickle")
 GPICKLE_OUTPUT = Path("data/processed/osm_graph_filtered_clean.gpickle")
 
-# === Types de routes à garder
-VALID_HIGHWAY_TYPES = {
-    "residential", "primary", "secondary", "tertiary",
-    "cycleway", "footway", "path", "track", "unclassified", "service"
+# === Types de routes à EXCLURE (grands axes voitures uniquement)
+EXCLUDED_HIGHWAY_TYPES = {
+    "motorway", "motorway_link", "trunk", "trunk_link"
 }
 
+# === Surfaces par défaut si manquantes
 SURFACE_DEFAULTS = {
     "residential": "asphalt",
     "primary": "asphalt",
@@ -24,13 +24,18 @@ SURFACE_DEFAULTS = {
     "path": "dirt",
     "track": "gravel",
     "unclassified": "asphalt",
-    "service": "asphalt"
+    "service": "asphalt",
+    "pedestrian": "paved",
+    "bridleway": "dirt"
 }
 
 def is_valid_highway(hw):
+    """Garde tout sauf les routes rapides interdites aux vélos"""
+    if hw is None:
+        return False
     if isinstance(hw, list):
-        return any(h in VALID_HIGHWAY_TYPES for h in hw)
-    return hw in VALID_HIGHWAY_TYPES
+        return not any(h in EXCLUDED_HIGHWAY_TYPES for h in hw)
+    return hw not in EXCLUDED_HIGHWAY_TYPES
 
 def get_surface(d):
     s = d.get("surface", "unknown")
@@ -58,13 +63,13 @@ def filter_graph(G):
 
     print(f"✅ Arêtes conservées : {len(edges_valides)} / {total}")
 
-    if len(edges_valides) == 0:
+    if not edges_valides:
         print("⚠️ Aucun segment n'a passé le filtre — on garde tout le graphe brut.")
         return G
     else:
         G_filtered = G.edge_subgraph(edges_valides).copy()
 
-        # Ajout des géométries manquantes
+        # Ajout de géométries manquantes
         added = 0
         for u, v, k, data in G_filtered.edges(keys=True, data=True):
             if "geometry" not in data or not isinstance(data["geometry"], LineString):
