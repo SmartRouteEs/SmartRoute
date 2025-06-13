@@ -36,3 +36,6 @@ src/data_collection/generate_postal_data.py
 data/dem
 data/gpx
 data/gpx_filtered
+data
+valhalla_mapmatching/
+valhalla_mapmatching
