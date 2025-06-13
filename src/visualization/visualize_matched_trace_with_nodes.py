@@ -1,67 +1,48 @@
-import os
 import pickle
-import matplotlib.pyplot as plt
-import networkx as nx
-import osmnx as ox
+from pathlib import Path
 
-# === Config ===
-GRAPH_FILE = "data/processed/graph_wgs84.gpickle"
-MATCHED_TRACE_FILE = "data/processed/matched_traces/fontainebleau.pkl"  # change ce nom
-ZOOM_PADDING = 0.01  # pour ajuster le zoom autour de la trace
+GRAPH_FILE = "data/processed/osm_graph_filtered_clean.gpickle"
+CLEAN_DIR = Path("data/gpx_clean")
 
-# === Chargement ===
-print("> Chargement du graphe...")
-with open(GRAPH_FILE, "rb") as f:
-    G = pickle.load(f)
+# Affiche les 5 premiers points de la première trace trouvée
+def print_first_points():
+    traces = list(CLEAN_DIR.glob("*.pkl"))
+    if not traces:
+        print("Aucune trace trouvée.")
+        return
+    with open(traces[0], "rb") as f:
+        trace = pickle.load(f)
+    print(f"Fichier testé : {traces[0].name}")
+    print("Premiers points de la trace (lat, lon) :")
+    for pt in trace[:5]:
+        print(pt)
+    lats = [pt[0] for pt in trace]
+    lons = [pt[1] for pt in trace]
+    print(f"Latitude : min={min(lats):.4f}, max={max(lats):.4f}")
+    print(f"Longitude : min={min(lons):.4f}, max={max(lons):.4f}")
+    return lats, lons
 
-print("> Chargement des arêtes matched...")
-with open(MATCHED_TRACE_FILE, "rb") as f:
-    matched_edges = pickle.load(f)
+# Affiche la bounding box du graphe
+def print_graph_bbox():
+    import pickle
+    with open(GRAPH_FILE, "rb") as f:
+        G = pickle.load(f)
+    xs = [d["x"] for _, d in G.nodes(data=True)]
+    ys = [d["y"] for _, d in G.nodes(data=True)]
+    print("\nGraphe OSM :")
+    print(f"BBox x (longitude): min={min(xs):.4f}, max={max(xs):.4f}")
+    print(f"BBox y (latitude) : min={min(ys):.4f}, max={max(ys):.4f}")
+    return xs, ys
 
-if not matched_edges:
-    print("⚠️ Aucune arête matched.")
-    exit()
+if __name__ == "__main__":
+    lats, lons = print_first_points()
+    xs, ys = print_graph_bbox()
 
-# === Création d’un sous-graphe localisé sur les arêtes matched ===
-nodes_in_trace = set()
-for u, v, k in matched_edges:
-    nodes_in_trace.add(u)
-    nodes_in_trace.add(v)
-
-subgraph_nodes = G.subgraph(nodes_in_trace).copy()
-matched_subgraph = G.edge_subgraph(matched_edges).copy()
-
-# === Définir la bounding box de zoom
-lons = [G.nodes[n]['x'] for n in nodes_in_trace]
-lats = [G.nodes[n]['y'] for n in nodes_in_trace]
-minx, maxx = min(lons) - ZOOM_PADDING, max(lons) + ZOOM_PADDING
-miny, maxy = min(lats) - ZOOM_PADDING, max(lats) + ZOOM_PADDING
-
-# === Tracer
-fig, ax = plt.subplots(figsize=(10, 10))
-
-# Graphe complet en fond (optionnel)
-ox.plot_graph(G, ax=ax, show=False, close=False, node_size=0, edge_color="lightgray", edge_linewidth=0.5)
-
-# Arêtes matched
-for u, v, k in matched_edges:
-    data = G.get_edge_data(u, v, k)
-    if "geometry" in data:
-        xs, ys = data["geometry"].xy
-    else:
-        xs = [G.nodes[u]["x"], G.nodes[v]["x"]]
-        ys = [G.nodes[u]["y"], G.nodes[v]["y"]]
-    ax.plot(xs, ys, color="red", linewidth=2)
-
-# Nœuds matched
-node_x = [G.nodes[n]['x'] for n in nodes_in_trace]
-node_y = [G.nodes[n]['y'] for n in nodes_in_trace]
-ax.scatter(node_x, node_y, color='blue', s=10, label="nœuds matched")
-
-# Zoom + titre
-ax.set_xlim(minx, maxx)
-ax.set_ylim(miny, maxy)
-ax.set_title(f"Arêtes + nœuds matched : {os.path.basename(MATCHED_TRACE_FILE)}")
-ax.legend()
-plt.tight_layout()
-plt.show()
+    # Vérifie si la trace est dans la bbox
+    if lats and lons and xs and ys:
+        out_lat = any(lat < min(ys) or lat > max(ys) for lat in lats)
+        out_lon = any(lon < min(xs) or lon > max(xs) for lon in lons)
+        if out_lat or out_lon:
+            print("\n⚠️  Certains points de la trace sont en dehors de la bbox du graphe OSM !")
+        else:
+            print("\n✅ Tous les points de la trace sont bien dans la bbox OSM.")

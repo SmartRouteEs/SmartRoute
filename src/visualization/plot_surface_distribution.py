@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from collections import Counter
 import os
 
-GRAPH_PATH = "data/processed/graph_with_strava.gpickle"
+GRAPH_PATH = "data/processed/graph_with_strava_and_dplus.gpickle"
 
 with open(GRAPH_PATH, "rb") as f:
     G = pickle.load(f)

@@ -1,6 +1,12 @@
 import pickle
+import random
+from shapely.geometry import LineString
+from pathlib import Path
 
-GRAPH_PATH = "data/processed/graph_with_strava.gpickle"
+GRAPH_PATH = Path("data/processed/graph_with_strava_and_dplus.gpickle")
+
+if not GRAPH_PATH.exists():
+    raise FileNotFoundError(f"❌ Fichier introuvable : {GRAPH_PATH}")
 
 with open(GRAPH_PATH, "rb") as f:
     G = pickle.load(f)
@@ -18,20 +24,19 @@ for _, _, _, data in G.edges(keys=True, data=True):
 print(f"✅ Arêtes avec un champ 'strava' : {has_strava}/{total}")
 print(f"✅ Arêtes avec intensité > 0     : {nonzero}")
 
-
-import random
-from shapely.geometry import LineString
-
-with open("data/processed/graph_with_strava.gpickle", "rb") as f:
-    G = pickle.load(f)
-
+# Affichage d'exemples
 edges = list(G.edges(keys=True, data=True))
 random.shuffle(edges)
 
-print("🔎 Exemple d'arêtes avec intensité :\n")
-for u, v, k, d in edges[:5]:
-    print(f"{u} → {v} [{k}]")
-    print(f"  ↪️  strava : {d.get('strava')}")
-    if isinstance(d.get("geometry"), LineString):
-        print(f"  📐 geom   : {d['geometry'].wkt[:80]}...")
-    print("-" * 40)
+print("\n🔎 Exemple d'arêtes avec intensité :\n")
+count = 0
+for u, v, k, d in edges:
+    if d.get("strava", 0) > 0:
+        print(f"{u} → {v} [{k}]")
+        print(f"  ↪️  strava : {d['strava']}")
+        if isinstance(d.get("geometry"), LineString):
+            print(f"  📐 geom   : {d['geometry'].wkt[:80]}...")
+        print("-" * 40)
+        count += 1
+        if count >= 5:
+            break

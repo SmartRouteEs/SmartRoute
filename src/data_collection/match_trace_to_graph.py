@@ -2,6 +2,7 @@ import os
 import pickle
 import requests
 import json
+import time
 from pathlib import Path
 from math import radians, sin, cos, sqrt, atan2
 
@@ -14,6 +15,7 @@ CHUNK_SIZE = 400
 OVERLAP = 50
 INTERPOLATION_DISTANCE = 10
 QUALITY_THRESHOLD = 0.7
+BATCH_SIZE = 100  # <== Modifie ici pour adapter la taille du lot
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -105,27 +107,42 @@ def merge_chunks(chunks):
     return merged
 
 def main():
-    for file in CLEAN_DIR.glob("*.pkl"):
-        print(f"\n=== Traitement de {file.name} ===")
-        with open(file, "rb") as f:
-            trace = pickle.load(f)
+    all_files = sorted(CLEAN_DIR.glob("*.pkl"))
+    N = len(all_files)
+    for batch_start in range(0, N, BATCH_SIZE):
+        batch = all_files[batch_start:batch_start + BATCH_SIZE]
+        print(f"\n=== Traitement du batch {batch_start//BATCH_SIZE+1} ({len(batch)} traces) ===")
+        for file in batch:
+            out_file = OUT_DIR / (file.stem + "_matched.json")
+            if out_file.exists():
+                print(f"{out_file.name} existe déjà, on saute cette trace.")
+                continue
 
-        matched_chunks, original_points = map_match_trace_full(trace)
-        if not matched_chunks:
-            print("✘ Matching échoué")
-            continue
+            print(f"\n=== Traitement de {file.name} ===")
+            with open(file, "rb") as f:
+                trace = pickle.load(f)
 
-        coverage = estimate_coverage_by_distance(matched_chunks, original_points)
-        if coverage < QUALITY_THRESHOLD:
-            print(f"⚠️  Couverture faible (distance) : {coverage*100:.1f}%")
-        else:
-            print(f"✔ Bonne couverture (distance) : {coverage*100:.1f}%")
+            matched_chunks, original_points = map_match_trace_full(trace)
+            if not matched_chunks:
+                print("✘ Matching échoué")
+                time.sleep(1.0)
+                continue
 
-        result = merge_chunks(matched_chunks)
-        out_file = OUT_DIR / (file.stem + "_matched.json")
-        with open(out_file, "w") as f:
-            json.dump(result, f)
-        print(f"Trace sauvegardée : {out_file}")
+            coverage = estimate_coverage_by_distance(matched_chunks, original_points)
+            if coverage < QUALITY_THRESHOLD:
+                print(f"⚠️  Couverture faible (distance) : {coverage*100:.1f}%")
+            else:
+                print(f"✔ Bonne couverture (distance) : {coverage*100:.1f}%")
+
+            result = merge_chunks(matched_chunks)
+            with open(out_file, "w") as f:
+                json.dump(result, f)
+            print(f"Trace sauvegardée : {out_file}")
+            time.sleep(1.0)  # Pause 1s après chaque trace
+
+        print("\n=== Fin du batch ===")
+        print("👉 Redémarre maintenant le serveur Docker Valhalla puis appuie sur Entrée pour continuer.")
+        input("Appuie sur Entrée quand Valhalla est prêt...")
 
 if __name__ == "__main__":
     main()

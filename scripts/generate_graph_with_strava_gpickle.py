@@ -6,25 +6,25 @@ from tqdm import tqdm
 import rasterio
 from rasterio.transform import rowcol
 
-# === Fichiers ===
-GRAPH_PATH = "data/processed/graph_with_strava.gpickle"
+# === Chemins corrigés ===
+GRAPH_INPUT = "data/processed/graph_with_dplus.gpickle"
+GRAPH_OUTPUT = "data/processed/graph_with_strava_and_dplus.gpickle"
 HEATMAP_TIF = "data/strava_tiles/heatmap.tif"
 
-# === Charger la heatmap une fois
-print(f"\U0001f525 Chargement de la heatmap depuis : {HEATMAP_TIF}")
+# === Chargement heatmap
+print(f"🔥 Chargement de la heatmap depuis : {HEATMAP_TIF}")
 with rasterio.open(HEATMAP_TIF) as src:
-    heatmap_array = src.read(1)  # on suppose intensité dans bande 1
+    heatmap_array = src.read(1)
     transform = src.transform
     nodata = src.nodata if src.nodata is not None else 0
     bounds = src.bounds
 
-# === Charger le graphe
-print(f"\U0001f4c5 Chargement du graphe : {GRAPH_PATH}")
-with open(GRAPH_PATH, "rb") as f:
+# === Chargement graphe
+print(f"📥 Chargement du graphe : {GRAPH_INPUT}")
+with open(GRAPH_INPUT, "rb") as f:
     G = pickle.load(f)
 
-# === Fonction pour calculer l'intensité d'une arête
-
+# === Calcul de l'intensité popularity (ex-strava) d'une arête
 def get_intensity(line: LineString) -> float:
     if line.is_empty:
         return 0.0
@@ -46,24 +46,24 @@ def get_intensity(line: LineString) -> float:
     return float(np.mean(values)) if values else 0.0
 
 # === Application à toutes les arêtes
-print("\u2699\ufe0f Calcul des intensités...")
+print("⚙️  Calcul des intensités popularity...")
 processed = 0
 no_geom = 0
 
 for u, v, k, data in tqdm(G.edges(keys=True, data=True)):
     geom = data.get("geometry")
     if isinstance(geom, LineString):
-        data["strava"] = get_intensity(geom)
+        data["popularity"] = get_intensity(geom)   # CHANGEMENT ICI
         processed += 1
     else:
-        data["strava"] = 0.0
+        data["popularity"] = 0.0                   # CHANGEMENT ICI
         no_geom += 1
 
-print(f"\u2705 Arêtes traitées : {processed}")
-print(f"\u26d4 Arêtes sans géométrie : {no_geom}")
+print(f"✅ Arêtes traitées : {processed}")
+print(f"⛔ Arêtes sans géométrie : {no_geom}")
 
 # === Sauvegarde
-with open(GRAPH_PATH, "wb") as f:
+with open(GRAPH_OUTPUT, "wb") as f:
     pickle.dump(G, f)
 
-print(f"\U0001f4be Graphe enrichi sauvegardé : {GRAPH_PATH}")
+print(f"💾 Graphe enrichi sauvegardé : {GRAPH_OUTPUT}")
