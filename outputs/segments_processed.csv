@@ -1,0 +1,4 @@
+trace_file,distance,dplus,surface,popularity,from_node,to_node
+test_matched.json,500.0,5,asphalt,49.0,,
+test_matched.json,300.0,5,dirt,49.0,,
+test_matched.json,200.0,0,asphalt,49.0,,
